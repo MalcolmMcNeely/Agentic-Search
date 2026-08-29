@@ -4,7 +4,7 @@
 > **Updated:** 2026-08-29
 
 - **Faction:** Graveborn
-- **Class:** Warrior
+- **Class:** Tank
 - **Damage:** Magic
 - **Range:** 3
 - **Level:** A
@@ -15,8 +15,14 @@ Ultimate sends his guardian spirit Stitchy to slash enemies for true damage scal
 
 ## Best for
 
-Campaign and PvP. Plays as a damage soak and shield engine despite the Warrior label.
+Campaign and PvP. A damage soak and shield engine, and the class label agrees: he is a Tank.
+
+## Notes
+
+**`disputed`: afk.global lists Daimon as a Warrior. The game lists him as a Tank.** The account wins, per the rule in [../../CLAUDE.md](../../CLAUDE.md). This is not cosmetic. Class Equipment is shared per class, so Daimon draws on **Tank** gear, which sits at 167 on this account, not **Warrior** gear at 148. That is a 19-level swing on every comp he appears in. See [../../account/equipment.md](../../account/equipment.md).
+
+His kit always read as a tank. The guide label was the outlier.
 
 ## Source
 
-- https://www.afk.global/afk-journey/characters/daimon
+- https://www.afk.global/afk-journey/characters/daimon (lists Warrior, contradicted by the game)

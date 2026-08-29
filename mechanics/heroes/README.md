@@ -23,7 +23,7 @@ grep -l "Class:\*\* Tank" mechanics/heroes/*.md
 | Bonnie | Graveborn | Marksman | Magic | 7 | A | [bonnie.md](bonnie.md) |
 | Cecia | Graveborn | Marksman | Physical | 5 | S | [cecia.md](cecia.md) |
 | Shadewing | Graveborn | Rogue | Magic | 1 | A | [shadewing.md](shadewing.md) |
-| Daimon | Graveborn | Warrior | Magic | 3 | A | [daimon.md](daimon.md) |
+| Daimon | Graveborn | Tank | Magic | 3 | A | [daimon.md](daimon.md) |
 | Valka | Graveborn | Warrior | Physical | 1 | A | [valka.md](valka.md) |
 | Cyran | Lightbearer | Mage | Magic | 6 | S | [cyran.md](cyran.md) |
 | Mirael | Lightbearer | Mage | Magic | 3 | A | [mirael.md](mirael.md) |

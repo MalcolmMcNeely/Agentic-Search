@@ -32,6 +32,8 @@ Take it when enemies spread out, and in PvP. It is a burst pattern: it wins in t
 
 The named build is **Eironn, Ulmus, Bonnie, Daimon, Shemira**. Shemira snowballs, Ulmus holds the front, Daimon hands out shields, Bonnie strips enemy Haste and ATK.
 
+**This account runs it without Ulmus.** Daimon is a Tank, so he holds the front himself, and Aurora and Rolan take the two free slots. See the AFK Stages second comp in [../account/teams.md](../account/teams.md).
+
 Take it in long fights: AFK Stages and campaign. It needs almost no Exclusive Equipment, so it suits a young account.
 
 ### Boss amplify

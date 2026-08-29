@@ -47,7 +47,19 @@ Every 4 Ultimates cast by allies, a flame wave hits all enemies. It deals true d
 
 ### Enlightening Spell — A
 
-Does not stack with itself. Useful in PvP where Confining Spell is everywhere.
+At battle start it raises the ATK SPD of **one hero, the rearmost ally in the back row**, by **80 for 15s**, and gives that hero **control immunity** for as long as the buff runs. It does not stack with itself. A patch removed the original start-of-battle delay, so it now fires immediately.
+
+| Upgrade | Effect |
+| --- | --- |
+| +4 | ATK SPD bonus rises to 100 |
+| +8 | duration rises to 20s |
+| +10 | `unverified`, one source, and it does not fit the numbers above: a 7.2 ATK SPD and 11.4% HP buff |
+
+**It buffs one hero and you cannot choose which.** The game picks the rearmost. On a comp with three heroes in the back row, the buff may not land on the carry.
+
+The community reading is that it is the weakest A-tier pick: worth it only for a fragile back-row damage dealer that needs the control immunity to survive the opening, and wasted on a hero that already buffs itself.
+
+**On this account:** Enlightening sits at **+7**, so +4 is live and the buff is 100 ATK SPD, but the duration is still 15s. It is the highest-level artifact on the account and still loses to Confining Spell +6, because tier beats level here. See [../account/progression.md](../account/progression.md).
 
 ### Awakening Spell — B
 

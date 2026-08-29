@@ -1,7 +1,7 @@
 # Teams
 
 > **Covers:** the current team comp for each purpose, its formation, artifact and status.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 One comp per purpose. This file holds what to field **now**, not how the advice got here.
 
@@ -39,7 +39,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Confining Spell +6.
 
-**Why:** two engines at once. Rolan clones an ally Ultimate, and opens with a Morale spike that **doubles to 10% per hero** because Lightbearer is the most-deployed faction. Aurora raises the damage of every allied summon, and Zanie, Temesia and Aurora all field summons. Three Lightbearers plus two wildcarding Celestials pay the **+22%** cap, plus +1% per Celestial. No other comp on this account reaches +22%.
+**Why:** **Rolan's Morale opener is the whole reason this core is Lightbearer.** He grants 6% Morale per hero of the most-deployed faction, rising to **10% per hero when that faction is Lightbearer or Celestial**, and hands those heroes 20 Penetration and 50% damage reduction for 8s. Three Lightbearers turn that into 30% Morale at battle start instead of 18%. No other faction core on this account triggers it. On top of that Rolan clones an ally Ultimate, Aurora raises the damage of every allied summon, and Zanie, Temesia and Aurora all field summons.
+
+The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rolan are both Celestial and wildcard into any core, so a Lightbearer, Wilder, Graveborn, Mauler or Dimensional 3-core plus the two of them all reach +22%. The bonus is free to every build here. Only the Morale trigger is exclusive.
 
 **Two weak points:**
 
@@ -48,33 +50,44 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Risk:** Aurora is an engine at range 2, so she has to come forward. Confining Spell is picked to keep enemies off her.
 
-**First swap to try if it stalls:** Temesia out, **Solise** in, for healing and a team damage buff. It drops the core to 2 Lightbearer, so the bonus falls to +14%, and it leaves no tank. Test it, do not assume it.
+**First swap to try if it stalls:** Temesia out, **Solise** in, for healing and a team damage buff. Hugin and Zanie plus the two wildcarding Celestials still make a 4-core, so the bonus falls to **+18%**, not to +14%. Rolan's Morale opener still fires at 10% per hero, on 2 heroes instead of 3. The real cost is the tank, not the stats. Test it, do not assume it.
 
 **Open test:** Starshard fires every 4 ally Ultimates, and Rolan's clones cast Ultimates. If clones feed the counter, Starshard may beat Confining here. Unknown.
 
+**The Shemira comp below is the rival for this slot, and it now leads on paper.** It matches the +22%, and beats this one on gear (170 to 166), hero tier, Hands of Resonance and damage sources. Daimon being a Tank rather than a Warrior removed its one structural weakness, so **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
+
 ---
 
-## AFK Stages, backup — Shemira scaling carry — `running`
+## AFK Stages, second — Shemira scaling carry — `running`
 
-**Purpose:** the saved second formation, for fights where the main comp's frontline collapses.
+**Purpose:** the second AFK Stages formation. The user fields this alongside the Lightbearer comp above and reports it running very well.
 
-| Row | Hero | Faction | Range |
-| --- | --- | --- | --- |
-| Front | Thador | Wilder | 1 |
-| Middle | Daimon | Graveborn | 3 |
-| Middle | Shemira | Graveborn | 4 |
-| Back | Bonnie | Graveborn | 7 |
-| Back | Hugin | Lightbearer | 20 |
+| Row | Hero | Faction | Class | Range | Tier |
+| --- | --- | --- | --- | --- | --- |
+| Front | Daimon | Graveborn | Tank | 3 | Mythic |
+| Middle | Aurora | Celestial | Mage | 2 | Legendary |
+| Middle | Shemira | Graveborn | Mage | 4 | Legendary |
+| Back | Bonnie | Graveborn | Marksman | 7 | Legendary+ |
+| Back | Rolan | Celestial | Support | 10 | Epic |
 
-**Artifact:** Confining Spell +6. Faction bonus **+10%**, from 3 Graveborn.
+**Artifact:** Confining Spell +6. Daimon holds the front at range 3, so two enemies blocked out of the backline is what keeps Shemira and Aurora firing.
 
-**Why:** long AFK fights suit a scaling carry. Shemira snowballs and heals off her own ghosts, Daimon shields, Bonnie strips enemy Haste and ATK, Thador tanks and heals. Hugin buffs the carry's ATK and Haste directly. This comp has a real tank *and* real shielding, which the main comp does not.
+**Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, and Aurora and Rolan wildcard in.
 
-**Grid note:** keep Thador on the tile between Shemira and the enemy backline. She carries at range 4 and gets reached without him.
+**Why:** **scaling carry and summon stack at once**, from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Shemira is the carry: her Ultimate summons 10 ghosts that bombard for 10s and heal her off their own damage, and the strike count resets on every cast, so she snowballs. Rolan clones that Ultimate outright, which is 10 more ghosts. Aurora's Dream Veil raises the damage of **every allied summon**, so it pays both the ghosts and her own bunnies. Daimon soaks and hands out shields. Bonnie's Aging cuts enemy Haste and ATK, then spreads it.
+
+**It beats the Lightbearer comp on every stat this file can measure.** Class Equipment averages **170** against 166, because four of the five draw on the account's three best gear classes: Mage 178 twice, Marksman 173 and Tank 167. It fields the account's only Mythic hero, where the other comp's weakest link is an Epic. It holds three Hands of Resonance against one, so it gains every level the account buys. It has three damage sources against one.
+
+**Grid note:** Daimon leads at range 3. He is a Tank whose kit is a damage soak and shield engine, so he holds the front without needing to close. Aurora sits at range 2 and advances furthest, so she is the hero that gets reached. Watch her.
+
+**Two weak points:**
+
+1. **No healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the rest of the defence.
+2. **Rolan pays less here.** His Morale opener gives 6% per hero on a Graveborn core, not the 10% per hero a Lightbearer or Celestial core triggers. He is in for the Ultimate clone, which is worth more on Shemira than on anyone else this account owns.
+
+**Daimon, Shemira and Bonnie are Hands of Resonance**, so this comp gains every level the account buys. The Lightbearer comp does not. See [progression.md](progression.md).
 
 **Eironn is deliberately out.** His pull only fires at battle start from **Mythic+**. He is Epic.
-
-**Upgrade when owned:** Ulmus replaces Thador. He is the named tank for this pattern and is A-Level, so he comes off the **All-Hero** wishlist, never an Epic letter. See [../mechanics/recruitment.md](../mechanics/recruitment.md).
 
 ---
 
@@ -129,16 +142,16 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Row | Hero | Faction | Class | Range | Tier |
 | --- | --- | --- | --- | --- | --- |
 | Front | Thador | Wilder | Tank | 1 | Legendary |
-| Middle | Faramor | Wilder | Rogue | 1 | Legendary |
+| Middle | Faramor | Wilder | Rogue | 1 | Legendary+ |
 | Middle | Aurora | Celestial | Mage | 2 | Legendary |
-| Back | Hewynn | Wilder | Support | 4 | Epic |
+| Back | Velara | Wilder | Support | 5 | Legendary |
 | Back | Solise | Wilder | Support | 6 | Legendary |
 
 **The bench, slots 6 to 10.** This mode picks 10 heroes, not 5. Spend these on early floors and keep the five above fresh.
 
 | Hero | Faction | Class | Tier | Why |
 | --- | --- | --- | --- | --- |
-| Velara | Wilder | Support | Epic | third healer, keeps the Wilder core if she subs in |
+| Hewynn | Wilder | Support | Epic | the bigger burst heal, and the only debuff strip owned |
 | Smokey & Meerky | Mauler | Support | Legendary | sustained healing plus an ally ATK buff |
 | Antandra | Mauler | Tank | Epic | replacement frontline: taunt, 60% damage cut, self-heal |
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
@@ -148,14 +161,18 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Faction bonus: +22%.** Four Wilder plus Aurora wildcarding, plus +1% ATK and HP for the Celestial.
 
-**Why:** the mode is attrition, so the comp is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), not nuke. Hewynn is the account's best dedicated healer and also strips debuffs and cuts team damage taken. Solise heals in waves and her Bulbsprites raise team damage, so the second healing slot still adds damage. Thador tanks and his Ultimate heals the team on top. Faramor is the payload: true damage, blocked enemy healing, and a 12 to 15% ATK buff on the ally beside him. Aurora raises the damage of every allied summon, which pays Solise's Bulbsprites and her own, and turns nearby enemies into immobilised plushies.
+**Why:** the mode is attrition, so the comp is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), not nuke. Solise heals in waves and her Bulbsprites raise team damage, so the first healing slot still adds damage. Thador tanks and his Ultimate heals the team on top. Faramor is the payload: true damage, blocked enemy healing, and a 12 to 15% ATK buff on the ally beside him. Aurora raises the damage of every allied summon, which pays Solise's Bulbsprites, Velara's circles and her own, and turns nearby enemies into immobilised plushies.
+
+**Velara takes the second healer slot from Hewynn, and this mode is the reason.** She is Legendary against Hewynn's Epic, two tiers up, and both are Wilder Supports, so the swap costs nothing in faction bonus or gear class. Her Ultimate wakes four magic circles **as Energy builds**, and **Energy carries between floors here**, so the ramp that makes her worse in a one-off fight is largely paid off by floor two. Once all four circles wake she spreads the effect field-wide and transfers enemy stats to allies, which compounds over a run. Her circles are summons, so Aurora's Dream Veil buffs them, which Hewynn's healing does not benefit from.
+
+**Hewynn is on the bench, not discarded.** She has the bigger burst heal, up to 115% HP per second across the team for 9s, and she is the only debuff strip this account owns. Bring her in on a floor that opens with debuffs or a burst-damage boss. **Untested:** this swap is reasoned from the mode's carryover rule, not from a cleared run.
 
 **Relic plan:** stack one type for the crest at 2, 4, 6 and 8. Warmth, Fortitude or Guard. Do not spread across all four slots.
 
 **Four weak points:**
 
-1. **Only Thador is a Hand of Resonance.** That costs nothing while every hero sits at the Resonance Level, and starts costing as soon as a Hand is levelled past it. Move the other Hands onto Hewynn, Solise and Faramor. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
-2. **Faramor is the only real damage dealer.** Aurora and Solise add summon damage, but a floor with a hard timer or a high-HP boss can stall.
+1. **Only Thador is a Hand of Resonance.** Thador now runs at 121 against a Resonance Level of 120, so the other four heroes here are a level down on him and the gap will widen. Move the other Hands onto Faramor, Velara and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
+2. **Faramor is the only real damage dealer.** Aurora, Solise and Velara all add summon damage, but a floor with a hard timer or a high-HP boss can stall. He is **Legendary+** now, the account's second-highest tier, so the slot hits harder than it did, but it is still one slot.
 3. **Thador and Faramor are both range 1**, so both walk into the enemy and leave Aurora at range 2 exposed once the front moves up. Watch her HP, because it carries.
 4. **Healer role split is `unverified`.** gamerant says bring two healers, afk.guide says one is enough. This comp follows gamerant, which costs a damage slot. See [../mechanics/arcane-labyrinth.md](../mechanics/arcane-labyrinth.md).
 
@@ -172,7 +189,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
 | Front | Thador | Tank | 1 | Legendary |
-| Middle | Faramor | Rogue | 1 | Legendary |
+| Middle | Faramor | Rogue | 1 | Legendary+ |
 | Middle | Eironn | Rogue | 1 | Epic |
 | Back | Hewynn | Support | 4 | Epic |
 | Back | Solise | Support | 6 | Legendary |
@@ -187,13 +204,15 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Three weak points:**
 
-1. **Only Thador is a Hand of Resonance.** That costs nothing while every hero sits at the Resonance Level, and starts costing as soon as a Hand is levelled past it. Move the other Hands onto Faramor, Hewynn and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+1. **Only Thador is a Hand of Resonance.** Thador now runs at 121 against a Resonance Level of 120, so the other four heroes here are a level down on him and the gap will widen. Move the other Hands onto Faramor, Hewynn and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 2. **Eironn is Epic, so his battle-start pull does not fire.** That needs Mythic+. He is in for the Magic DEF cut and the mid-fight bunching, not the opening nuke.
-3. **Faramor is the only real damage dealer.** A floor with a high-HP wall can stall.
+3. **Faramor is the only real damage dealer.** A floor with a high-HP wall can stall. He is **Legendary+** now, which unlocked Hero Focus and a new skill and makes him the highest-tier hero in this comp, so the ceiling is higher than it was. It is still one slot carrying the tower.
 
 **First swap to try if floors stall on damage:** Eironn out, **Arden** in, for AoE and crowd control. Arden is Elite, two tiers under Eironn, so he dies fast on high floors. Test it, do not assume it.
 
-**Left home on purpose:** Lily May, an S+ **PvP** counter-pick with no job in PvE. Velara, outclassed by Hewynn as the healer. Lenya, an isolate-and-duel kit at Elite+.
+**Left home on purpose:** Lily May, an S+ **PvP** counter-pick with no job in PvE. Lenya, an isolate-and-duel kit at Elite+.
+
+**Velara is no longer clearly behind Hewynn.** She is Legendary against Hewynn's Epic, two tiers up, and both are Wilder Supports, so the swap costs nothing in faction bonus or gear class. Epic to Legendary crosses **no skill breakpoint**, though, so this is a pure stat gap: Velara has the better numbers, Hewynn the better kit. Hewynn heals every ally for up to 115% HP per second for 9s and strips debuffs. Velara ramps, waking four magic circles as Energy builds, then spreads the effect and transfers enemy stats to allies. Hewynn holds the slot because a tower floor is one fight, and a ramp that needs Energy is worth less there than a heal that lands now. Swap to Velara if floors are lost late rather than early.
 
 ---
 
@@ -204,12 +223,12 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
 | Front | Valka | Warrior | 1 | Legendary |
-| Middle | Daimon | Warrior | 3 | Mythic |
+| Front | Daimon | Tank | 3 | Mythic |
 | Middle | Shemira | Mage | 4 | Legendary |
 | Back | Cecia | Marksman | 5 | Epic |
 | Back | Bonnie | Marksman | 7 | Legendary+ |
 
-**Artifact:** Confining Spell +6. The frontline here is one Warrior, so keeping 2 enemies out of the backline matters more than the healing Awakening would add.
+**Artifact:** Confining Spell +6. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
 
 **Faction bonus: +22%.** Five Graveborn is forced by the lock.
 
@@ -217,11 +236,12 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Only 6 Graveborn are owned, so this comp is 5 of 6.** Shadewing is the one cut: Elite tier, range 1, and pure single-target damage the comp already has.
 
-**Three weak points:**
+**Two weak points:**
 
-1. **There is no Tank.** Valka is a Warrior standing in for one, and her file marks her weak in ordinary campaign content. This is the comp's real ceiling.
-2. **There is no healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the whole defence.
-3. **No depth behind it.** A wall on this tower cannot be answered by swapping a hero in, only by ascending the six that exist.
+1. **There is no healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the whole defence.
+2. **No depth behind it.** A wall on this tower cannot be answered by swapping a hero in, only by ascending the six that exist.
+
+**The frontline is stronger than this file used to claim.** Daimon is a Tank, not a Warrior, so this comp fields a real Tank at Mythic beside Valka, and Daimon draws Tank gear at 167 rather than Warrior gear at 148.
 
 **Daimon, Shemira and Bonnie are Hands of Resonance**, three of the five, so levelling this comp is most of raising the Resonance Level. See [progression.md](progression.md).
 

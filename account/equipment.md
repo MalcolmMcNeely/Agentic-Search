@@ -47,7 +47,11 @@ So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mecha
 
 ### Reading the spread
 
-**Mage leads at 178 and Warrior is lowest at 148.** Warrior is the class to watch. Marksman sits second at 173.
+**Mage leads at 178 and Warrior is lowest at 148.** Marksman sits second at 173, then Tank at 167.
+
+**Warrior at 148 costs this account almost nothing.** No `running` AFK Stages comp fields a Warrior. Only Valka in Tower of Eternity and Taichi & Agumon in Dream Realm draw on it. Daimon is a **Tank**, not a Warrior, so the account's Mythic hero pulls Tank gear at 167. See [../mechanics/heroes/daimon.md](../mechanics/heroes/daimon.md).
+
+**The classes that actually carry this account are Mage, Marksman and Tank**, and they are already the top three. Both `running` AFK comps are built on them.
 
 The spread is 30 levels, from Mage 178 down to Warrior 148.
 

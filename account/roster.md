@@ -1,7 +1,7 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 ## How to read this
 
@@ -58,10 +58,10 @@
 | --- | --- | --- | --- | --- | --- |
 | Solise | Support | Magic | Legendary | - | [solise](../mechanics/heroes/solise.md) |
 | Thador | Tank | Physical | Legendary | - | [thador](../mechanics/heroes/thador.md) |
-| Faramor | Rogue | Physical | Legendary | - | [faramor](../mechanics/heroes/faramor.md) |
+| Faramor | Rogue | Physical | Legendary+ | - | [faramor](../mechanics/heroes/faramor.md) |
 | Lenya | Rogue | Physical | Elite+ | - | [lenya](../mechanics/heroes/lenya.md) |
 | Hewynn | Support | Magic | Epic | - | [hewynn](../mechanics/heroes/hewynn.md) |
-| Velara | Support | Magic | Epic | - | [velara](../mechanics/heroes/velara.md) |
+| Velara | Support | Magic | Legendary | - | [velara](../mechanics/heroes/velara.md) |
 | Eironn | Rogue | Magic | Epic | - | [eironn](../mechanics/heroes/eironn.md) |
 | Lily May | Rogue | Magic | Epic | - | [lily-may](../mechanics/heroes/lily-may.md) |
 | Arden | Mage | Magic | Elite | - | [arden](../mechanics/heroes/arden.md) |
@@ -70,7 +70,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Daimon | Warrior | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
+| Daimon | Tank | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
 | Shemira | Mage | Magic | Legendary | - | [shemira](../mechanics/heroes/shemira.md) |
 | Bonnie | Marksman | Magic | Legendary+ | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
