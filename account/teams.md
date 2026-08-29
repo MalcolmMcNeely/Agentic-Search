@@ -227,6 +227,26 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ---
 
+## Solo battles — Shemira — `proposed`
+
+**Purpose:** the single-hero World Map and story encounters. Read [../mechanics/solo-battles.md](../mechanics/solo-battles.md) first: one hero deploys, so the faction bonus pays nothing and every ally-facing skill is wasted.
+
+| Slot | Hero | Faction | Class | Range | Tier |
+| --- | --- | --- | --- | --- | --- |
+| The one | Shemira | Graveborn | Mage | 4 | Legendary |
+
+**Artifact:** Confining Spell +6, to hold enemies off her at range 4.
+
+**Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Legendary, and range 4 keeps her off the front.
+
+**Runner-up: Cecia.** Range 5, and Mr. Carlyle inherits her stats, so a summoner is the one other kit that keeps most of itself alone. He can be resummoned to heal. Her Trial of Thorns steals 1.5% of both enemy DEF stats every second and keeps it, which compounds in a long duel. Her file rates her B for campaign against Shemira's S.
+
+**Left out on purpose:** Faramor, Daimon and Thador all read strong and all spend half their kit on allies who are not there. Faramor's ATK buff needs an adjacent ally, Daimon hands his shields to bonded allies, Thador's Ultimate heals the team.
+
+**Untested.** No source names a best hero for this encounter type, and the buffs change per encounter. If a solo battle hands out a buff that suits a different hero, take the buff.
+
+---
+
 ## Purposes with no comp yet
 
 Battle Drills, Supreme Arena, and the two Legend Trial towers this account cannot fill yet: **Tower of Light** (Lightbearer, 12 owned) and **Tower of Will** (Mauler, 8 owned). Both have the roster depth, neither has a comp written. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).

@@ -23,6 +23,7 @@
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
 - **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team.
+- **Solo battles** on the World Map and in the story deploy one hero, so the faction bonus pays nothing and ally-facing skills are wasted. See [solo-battles.md](solo-battles.md).
 
 ## Getting heroes in the first place
 
