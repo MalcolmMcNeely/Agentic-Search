@@ -21,7 +21,7 @@ Season AFK Stages are a separate ladder from regular AFK Stages, so an account h
 
 ## Season 7: Crown of Ashes
 
-Started 2026-05-29. Current as of 2026-08-29.
+Started 2026-05-29.
 
 Three phases. Each phase raises the Season Resonance Level cap and the AFK stage challenge cap.
 

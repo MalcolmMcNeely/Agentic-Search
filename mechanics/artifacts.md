@@ -20,7 +20,7 @@ Ranked best to worst:
 
 Upgrade priority follows the same order. Confining Spell and Starshard Spell stay the best all-rounders across every season.
 
-**Ironwall tier is `unverified`.** This file previously ranked it C. pcgamesn and playafkjourney both rank it B. Both readings shown, not averaged.
+**Ironwall tier is `unverified`.** pcgamesn and playafkjourney rank it B. Other guides rank it C. Both readings shown, not averaged.
 
 ## What each one does
 
@@ -51,7 +51,7 @@ Does not stack with itself. Useful in PvP where Confining Spell is everywhere.
 
 ### Awakening Spell — B
 
-Heals the weakest ally early, then buffs team ATK and defence as it upgrades. Good for healer teams and hyper-carry. Strong in Legend Trial and Arcane Labyrinth.
+Heals the weakest ally early, then buffs team ATK and defence as it upgrades. Good for healer teams and hyper-carry. Strong in Legend Trial and Arcane Labyrinth. In Arcane Labyrinth the healing compounds, because HP carries between floors. See [arcane-labyrinth.md](arcane-labyrinth.md).
 
 ### Blazing Spell — B
 

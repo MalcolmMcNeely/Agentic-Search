@@ -19,7 +19,7 @@ Boss and PvP. Protects one key ally while debuffing the enemy.
 
 ## Notes
 
-**disputed.** afk.global lists her faction as Unknown. The account wins: the user confirmed Dimensional on 2026-08-29. Other sources agree with the user.
+**disputed.** afk.global lists her faction as Unknown. The account wins: the user confirms Dimensional. Other sources agree with the user.
 
 ## Source
 

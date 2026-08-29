@@ -21,11 +21,11 @@ Same-faction heroes on a team give the whole team flat ATK and HP:
 
 Celestial and Hypogean heroes count as **any** faction when the game totals the bonus, so they slot into a 3-core without breaking it. Each Celestial or Hypogean deployed also adds +1% ATK and HP to everyone.
 
-**One exception: Legend Trial.** The faction towers refuse Celestial and Hypogean heroes outright. The wildcard is a stat rule, not a deploy rule. Confirmed from the account, 2026-08-29. See [legend-trial.md](legend-trial.md).
+**One exception: Legend Trial.** The faction towers refuse Celestial and Hypogean heroes outright. The wildcard is a stat rule, not a deploy rule. Confirmed from the account. See [legend-trial.md](legend-trial.md).
 
 Dimensional (collab) heroes are their own faction and pay the normal bonus. Three Dimensional heroes give +10%.
 
-They do **not** wildcard like Celestial/Hypogean. **Confirmed from the account, 2026-08-29.** A team of 3 Dimensional, 1 Wilder and 1 Lightbearer showed +10% ATK and HP in the team screen. If Dimensional wildcarded, the three would have counted as Wilder alongside Thador, making 4 and paying +18%. It paid +10%, so they do not.
+They do **not** wildcard like Celestial/Hypogean. **Confirmed from the account.** A team of 3 Dimensional, 1 Wilder and 1 Lightbearer showed +10% ATK and HP in the team screen. If Dimensional wildcarded, the three would have counted as Wilder alongside Thador, making 4 and paying +18%. It paid +10%, so they do not.
 
 ## Counter wheel
 

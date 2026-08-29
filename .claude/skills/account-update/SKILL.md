@@ -19,7 +19,7 @@ The user speaks in fragments, or dumps raw lines into the `notes` inbox at the r
 
 2. **Fill in what the user left out.** A hero named for the first time needs a faction and a class before it can go in a table. Look it up with the `game-research` skill rather than guessing, and write `?` in any cell still unknown after research.
 
-3. **Write the change.** Keep the row in its faction section, keep the column order, and update the `> **Updated:**` date at the top of the file. Update the faction depth counts in `roster.md` when a hero is added or removed.
+3. **Write the change.** Keep the row in its faction section, keep the column order, and update the `> **Updated:**` date at the top of the file. **Overwrite the fact that changed and delete what it replaced.** No dated addendum, no "was X, now Y", no struck-through line. Git holds the history. See the rules in [CLAUDE.md](../../../CLAUDE.md). Update the faction depth counts in `roster.md` when a hero is added or removed.
 
 4. **Run the consistency checks.** Each is a real game rule, so a failure means the record is wrong or the user misspoke. Report a failure to the user, do not silently correct it.
    - The Resonance Level equals the **lowest** Hand of Resonance level.

@@ -86,8 +86,8 @@ Read with [../account/roster.md](../account/roster.md).
 
 **Live now, all five heroes owned:**
 
-- **Ultimate engine.** **Rolan**, owned at Epic since 2026-08-29, clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
-- **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned since 2026-08-29.
+- **Ultimate engine.** **Rolan**, clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
+- **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
 - **Summon stack.** Aurora is Legendary, and eight owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** Galahad is Legendary. She is the Dream Realm answer.
 - **Sustain with offence.** Solise and Hugin are both Legendary.

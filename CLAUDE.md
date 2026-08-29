@@ -19,6 +19,11 @@ Management of my AFK Journey account. Also a worked example of agentic search, t
 - A number two sources disagree on is written down as `unverified`, showing both. Never split the difference.
 - A file that INDEX.md does not name, directly or through a second-hop index, is invisible. Write the index line in the same turn as the file.
 - Every hero file carries the same five fields in the same order, so grep finds sets across the folder.
+- **Every file states the present tense only. Overwrite, never append.** When something changes, edit the sentence that is now wrong and delete what it replaced. Git holds the history.
+  - No dated addendums, no "confirmed on <date>", no "updated <date>", no "this replaced an earlier note", no struck-through lines, no "previously" or "as of" clauses, no round-by-round logs.
+  - The only date in a file is one that is still live data, such as a season start. A date recording *when Claude learned something* is never live data.
+  - A `?`, `unverified` or `disputed` marker stays only while it is still open. The moment it is settled, rewrite the passage as plain fact and delete the marker and the losing reading.
+  - The `> **Updated:**` header line is the one exception, because the audit checks for it.
 
 ## Skills
 

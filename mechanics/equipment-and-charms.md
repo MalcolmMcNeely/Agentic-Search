@@ -29,7 +29,9 @@ This matters for upgrade planning. Raising one slot by 6 raises the class Level 
 
 Several guides state that gear cannot exceed the Resonance Level, and that Resonance Level 79 crafts level 75 gear.
 
-**The account contradicts this.** At Resonance Level 110 it holds gear from 110 to 160, across all six classes. See [../account/equipment.md](../account/equipment.md).
+**The account contradicts this.** At Resonance Level 120 it holds gear from 115 to 170, across all six classes. The lowest class Level is 138, the highest is 154, so every class sits **18 to 34 levels above** the Resonance Level and the top slots sit 50 above it. See [../account/equipment.md](../account/equipment.md).
+
+The account has held gear above its Resonance Level across repeated readings, so this is not a one-off.
 
 Treat the guides as **wrong or outdated** and the account as the truth. The rule may apply only to crafting, with drops and rewards ignoring it. Re-check on the next patch.
 
@@ -45,6 +47,10 @@ Pick two or three slots per class rather than levelling all six, so Forging Ston
 | Marksman, Support | Boots |
 
 Do the classes the main teams actually use before touching the rest.
+
+**This table is advice for manual upgrading only.** The account uses **Quick Equip**, which picks the slot itself, so most fed slots do not match this table. Do not hand this table to the user as an action while that is true. See [../account/equipment.md](../account/equipment.md).
+
+**Quick Equip is not written up.** What it optimises, and whether it wastes Forging Stones against a hand-picked order, is unknown. Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress found no page covering the button. This is the open gap in this file.
 
 ## Exclusive Equipment (permanent, per hero)
 

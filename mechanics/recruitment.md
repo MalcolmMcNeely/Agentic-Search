@@ -81,7 +81,7 @@ Switching often is still bad. Celestial and Hypogean heroes need copies to ascen
 
 ## Against this account
 
-**Rolan is owned, at Epic, pulled 2026-08-29.** The Stargaze pity reset to 0 and **no target is set**. Set one before spending another crystal.
+**Rolan is owned, at Epic.** Stargaze pity is 0 and **no target is set**. Set one before spending another crystal.
 
 Next target by priority: **Elijah & Lailah**. They want 14 copies for full ascension, so this is a long bank, not a quick pull.
 
@@ -90,7 +90,7 @@ Rolan fits this roster twice over:
 - [../account/roster.md](../account/roster.md) holds **12 Lightbearers**, the deepest faction on the account. On a Lightbearer core Rolan pays the doubled 10%-per-hero Morale bonus.
 - He is the **second Celestial** alongside Aurora. Celestial wildcards, so the two of them fill any faction core without breaking it, and each adds +1% ATK and HP.
 
-**The Epic wishlist should be picked by archetype, not by tier list.** **Eironn and Lily May were pulled on 2026-08-29**, both at Epic, and all 44 letters went with them.
+**The Epic wishlist should be picked by archetype, not by tier list.** **Eironn and Lily May came off it**, both at Epic, and all 44 letters went with them.
 
 **Keep Eironn on the wishlist.** Owning him once is not the same as having him work. His Ultimate only fires at battle start from **Mythic+**, and that is the whole nuke pattern. Copies are the unlock, so he stays a target.
 

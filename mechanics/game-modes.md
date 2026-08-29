@@ -9,7 +9,7 @@
 | AFK Stages | start | one own team | main progression ladder, 1125 stages |
 | Dream Realm | AFK Stage 16 | one own team | boss rush, damage race against the server. Four bosses rotate daily, six difficulties each |
 | Arena | AFK Stage 20 | one own team | ranked PvP |
-| Arcane Labyrinth | AFK Stage 100 | one own team | roguelike dungeon, heroes picked up as you go |
+| Arcane Labyrinth | AFK Stage 100 | 10-hero bench, 5 fielded | roguelike dungeon. HP and Energy carry between floors. Written up in [arcane-labyrinth.md](arcane-labyrinth.md) |
 | Battle Drills | AFK Stage 121 | guild, several teams | guild map conquest, stronghold buffs |
 | Legend Trial | AFK Stage 166 | one own team, faction-locked | the old Factional Tower. Four towers, 90 floors each, on a weekday rotation. Drops Acorns, Essence and artifact ascension mats. Written up in [legend-trial.md](legend-trial.md) |
 | Honor Duel | not recorded | game-provided heroes | fair-play PvP, own roster does not matter. Written up in [honor-duel.md](honor-duel.md) |
@@ -20,6 +20,7 @@
 
 - **Legend Trial** is faction-locked, so a deep bench in one faction matters more than a good mixed comp. Celestial and Hypogean heroes do not wildcard in here. See [legend-trial.md](legend-trial.md).
 - **Dream Realm** is a pure damage race with a fixed boss, so faction counter and single-target burst dominate. One boss is written up so far: [snow-stomper.md](snow-stomper.md).
+- **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
 - **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team.
 

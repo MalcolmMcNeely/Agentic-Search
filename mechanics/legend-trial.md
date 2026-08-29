@@ -22,7 +22,7 @@ Only the four standard factions get a tower. Celestial, Hypogean and Dimensional
 
 Inside a tower you may deploy **only heroes of that tower's faction**. Every source states this the same way.
 
-**Celestial and Hypogean heroes are locked out too.** They wildcard into any faction everywhere else in the game, but not here. **Confirmed from the account, 2026-08-29:** Aurora, the account's only Celestial, cannot be selected in Tower of Nature. No guide states this outright; they only imply it by calling the towers "the non-Celestial and non-Hypogean Factions". The account settles it.
+**Celestial and Hypogean heroes are locked out too.** They wildcard into any faction everywhere else in the game, but not here. **Confirmed from the account:** Aurora, the account's only Celestial, cannot be selected in Tower of Nature. No guide states this outright; they only imply it by calling the towers "the non-Celestial and non-Hypogean Factions". The account settles it.
 
 Dimensional heroes do not wildcard, so they are out of every tower. Confirmed from the account, see [factions.md](factions.md).
 
@@ -36,7 +36,9 @@ Dimensional heroes do not wildcard, so they are out of every tower. Confirmed fr
 
 ## On this account
 
-Wilder depth is 7 heroes, so Tower of Nature can field a full team. Lightbearer 12, Mauler 8, Graveborn 6. See [../account/roster.md](../account/roster.md).
+Wilder depth is 9 heroes, so Tower of Nature can field a full team with bench to spare. Lightbearer 12, Mauler 8, Graveborn 6. Graveborn is exactly 5 of 6 usable, with no depth behind it. See [../account/roster.md](../account/roster.md).
+
+Comps for Tower of Nature and Tower of Eternity are written in [../account/teams.md](../account/teams.md).
 
 ## Sources
 

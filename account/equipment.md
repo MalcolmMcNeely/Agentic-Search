@@ -13,52 +13,49 @@ Slot order is as the game lists it, left to right. The slot names are **unconfir
 
 | Class | Level | Mean | Weapon | Gloves | Ring | Helmet | Armor | Boots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mage | **135** | 135.83 | 140 | 150 | 140 | 125 | 130 | 130 |
-| Marksman | 135 | 135.00 | 160 | 135 | 140 | 130 | 120 | 125 |
-| Support | **132** | 132.50 | 140 | 150 | 120 | 110 | 125 | 150 |
-| Warrior | 132 | 132.50 | 130 | 130 | 120 | 150 | 140 | 125 |
-| Rogue | 130 | 130.00 | 130 | 115 | 150 | 135 | 110 | 140 |
-| Tank | **125** | 125.00 | 150 | 130 | 110 | 130 | 115 | 115 |
+| Mage | 154 | 154.17 | 150 | 160 | 145 | 170 | 130 | 170 |
+| Support | 150 | 150.00 | 140 | 170 | 145 | 145 | 150 | 150 |
+| Marksman | 146 | 146.67 | 160 | 135 | 140 | 170 | 150 | 125 |
+| Rogue | 143 | 143.33 | 140 | 115 | 150 | 135 | 160 | 160 |
+| Warrior | 139 | 139.17 | 170 | 130 | 120 | 150 | 140 | 125 |
+| Tank | 138 | 138.33 | 160 | 150 | 160 | 130 | 115 | 115 |
 
-Levels in **bold** were read off the game screen by the user. The other three are computed by the rule below.
+Every Level above is computed from the rule below. The `notes` inbox holds a much older set of class levels; they are dead text, not a second reading.
+
+**Reading a partial update from the user.** The user states slot values in **slot order, left to right, and stops at the last slot that changed**. A slot they do not name did not change and carries over. Apply this to every gear dump.
 
 ### How the class Level is derived
 
 The class Level is the **mean of the six slots, rounded down**.
 
-Confirmed on three classes, all read off the game screen:
+No guide states this. It is settled from the account, on two screen readings that each rule out rounding to nearest:
 
-| Class | Mean | Screen | Floor | Nearest |
-| --- | --- | --- | --- | --- |
-| Mage | 135.83 | 135 | 135 | 136 |
-| Support | 132.50 | 132 | 132 | 133 |
-| Tank | 125.00 | 125 | 125 | 125 |
-
-Mage settles it. A mean of 135.83 reading as 135 can only be floor. Support agrees. Tank is consistent but proves nothing on its own, since its mean is already whole.
-
-Marksman, Warrior and Rogue are computed from the rule and have not been read off the screen. Marksman and Rogue have whole means, so only **Warrior** (132.50) could still surprise.
-
-This replaced an earlier `unverified` note. The class levels sitting in the `notes` inbox (Support 125, Mage 130, Warrior 122, Tank 123, Marksman 129, Rogue 124) are **stale**, not a second reading. All three screen readings overrule their own labels. Treat those inbox labels as dead text.
-
-### Latest upgrade round
-
-Five slots moved to 150. Tank and Marksman were not touched.
-
-| Class | Slot | Was | Now |
+| Mean | Screen | Floor gives | Nearest would give |
 | --- | --- | --- | --- |
-| Support | Gloves | 115 | 150 |
-| Support | Boots | 140 | 150 |
-| Mage | Gloves | 135 | 150 |
-| Warrior | Helmet | 110 | 150 |
-| Rogue | Ring | 120 | 150 |
+| 135.83 | 135 | 135 | 136 |
+| 151.67 | 151 | 151 | 152 |
 
-Support Boots and Mage Gloves follow the upgrade priority in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md). Warrior Helmet and Rogue Ring do not; that table names Weapon first for both classes.
+Two readings, at different values, an upgrade round apart. Floor wins both.
+
+### How this account upgrades gear
+
+**The user does not pick the slots.** They press **Quick Equip whenever the button is highlighted** and take what it gives.
+
+So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md) is not an action for this account. Most fed slots do not match it, and that is the game's choice, not the user ignoring advice. Do not hand that table over unless the user says they have started upgrading by hand.
+
+**Gap: what Quick Equip optimises is unknown.** Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress return pages on the equipment and forging systems but nothing on the button itself. Whether Quick Equip costs this account anything against hand-picking is open. Do not guess either way. Observed behaviour is mixed: it has fed the lowest slot in some classes and skipped it in others.
 
 ### Reading the spread
 
-Every class sits above the Resonance Level of 110, and the Marksman weapon reaches 160. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+Mage leads by 4. **Tank is lowest, and Warrior is next above it**, so those two are the classes to watch.
 
-Mage and Marksman lead at 135, but Support and Warrior closed most of the gap this round. The spread is 10 levels, from 135 down to Tank at 125. Tank is alone at the bottom and is the next class to feed.
+The spread is 16 levels, from Mage 154 down to Tank 138.
+
+Every class sits **18 to 34 levels above** the Resonance Level of 120, and the top slots reach 170, **50 above** it. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+
+Two slots sit **below** the Resonance Level: Tank Armor and Tank Boots, both 115.
+
+**Weak signal on what Quick Equip targets.** This round it fed the three lowest Support slots and the lowest Marksman slot, which points at lowest-slot-first. But it skipped the lowest slot in Mage, Rogue and Tank. Not enough to call. Recorded against the Quick Equip gap above; do not act on it yet.
 
 ## Exclusive Equipment
 
