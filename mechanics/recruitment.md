@@ -3,7 +3,7 @@
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
 > **Updated:** 2026-08-29
 
-Four banners. Each takes its own currency, so diamonds do not reach all of them.
+Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
 ## The four banners
 
@@ -12,7 +12,7 @@ Four banners. Each takes its own currency, so diamonds do not reach all of them.
 | All-Hero Recruitment | Invite Letters or Diamonds | 300 single, 2,700 for ten | 2.05% | 22.5% | A-Level every 10, S-Level by 60 |
 | Rate Up Recruitment | Rate Up Invite Letters or Diamonds | 300 single, 2,700 for ten | 3% with pity, 0.97% base | 10% with pity, 3% base | fixed 40, never grows |
 | Epic Recruitment | Epic Invite Letters only | cannot be bought with diamonds | `unverified` | `unverified` | A-Level every 10, S-Level every 30 |
-| Stargaze Station | Stellar Crystals only | cannot be bought with diamonds | 3.25% | n/a | fixed 40 |
+| Stargaze Station | Stellar Crystals only | 400 diamonds a crystal in the Guild Store, 6 a month | 3.25% | n/a | fixed 40 |
 
 `unverified` on the Epic Recruitment rates. Two readings that do not reconcile:
 
@@ -38,7 +38,11 @@ The wishlist is live from the first pull and holds **5 slots**. Every S-Level th
 
 **Only ever put S-Level heroes in the 5 slots.** An A-Level in a slot spends the 30-pull guarantee on a hero worth far less.
 
-**Celestial and Hypogean heroes cannot go in the 5 slots.** They exist only in Stargaze Station. One guide (lootbar, May 2026) lists Elijah & Lailah and Phraesto as Epic wishlist picks; that is wrong, and three other sources say so.
+**The 5 slots take the four main factions only: Graveborn, Lightbearer, Mauler and Wilder.** Celestial and Hypogean heroes exist only in Stargaze Station, and Dimensional heroes are not selectable either. One guide (lootbar) lists Elijah & Lailah, Phraesto and Pandora as Epic wishlist picks; all three break this rule.
+
+**A hero on the current Rate Up banner cannot be picked here.** Vala is the rate-up hero, so she is locked out of the 5 slots until that banner ends. She is then the strongest Lightbearer pick.
+
+**S-Level Graveborn are scarce.** Only **Thoran**, **Shemira** and **Viperian** are named as S-Level Graveborn, and Viperian is `unverified`: one source reads him S-Level, prydwen and three others read him A-Rank. **Cecia is `unverified` too**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn, so they belong on the All-Hero wishlist.
 
 ## All-Hero Recruitment
 
@@ -49,7 +53,7 @@ The wishlist here unlocks after **30 pulls** and holds **2 S-Level and 2 A-Level
 The only source of Celestial and Hypogean heroes.
 
 - **Unlocks at 400 total pulls** across All-Hero, Rate Up and Epic Recruitment combined.
-- Pull with **Stellar Crystals** only, bought from the Guild Store and the Recruitment Store, with a monthly cap on each.
+- Pull with **Stellar Crystals** only. The Guild Store sells them for **400 diamonds**, 6 a month. The Recruitment Store sells them for Dolly Tickets, 310 for the first each month at half price and 620 each for 3 in total. See [diamonds.md](diamonds.md).
 - Pick **one** target Celestial or Hypogean. 3.25% per pull, guaranteed at **40**.
 - The target can be changed, but the pity counter is what you are spending. Pick one and commit.
 
@@ -90,13 +94,26 @@ Rolan fits this roster twice over:
 - [../account/roster.md](../account/roster.md) holds **12 Lightbearers**, the deepest faction on the account. On a Lightbearer core Rolan pays the doubled 10%-per-hero Morale bonus.
 - He is the **second Celestial** alongside Aurora. Celestial wildcards, so the two of them fill any faction core without breaking it, and each adds +1% ATK and HP.
 
-**The Epic wishlist should be picked by archetype, not by tier list.** **Eironn and Lily May came off it**, both at Epic, and all 44 letters went with them.
+### The Epic wishlist, 5 slots
 
-**Keep Eironn on the wishlist.** Owning him once is not the same as having him work. His Ultimate only fires at battle start from **Mythic+**, and that is the whole nuke pattern. Copies are the unlock, so he stays a target.
+Picked by archetype and by what the account cannot field, not by tier list. **Eironn and Lily May came off this banner**, both at Epic, and all 44 letters went with them.
 
-The scaling-carry build now needs only **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. See [team-archetypes.md](team-archetypes.md).
+| Slot | Hero | Faction | Class | Why |
+| --- | --- | --- | --- | --- |
+| 1 | **Thoran** | Graveborn | Tank | the account's largest hole. Tower of Eternity is faction-locked and fields **no Tank**, which its own entry in [../account/teams.md](../account/teams.md) calls the comp's ceiling. He resurrects once per battle, marks the highest-HP enemy for +13% damage taken, and eats 50% of the damage aimed at the ally behind him. He is in no shop, so the wishlist is the only route |
+| 2 | **Shemira** | Graveborn | Mage | the scaling carry in two `running` comps and a Hand of Resonance. Copies raise a hero already carrying the account |
+| 3 | **Eironn** | Wilder | Rogue | owning him once is not the same as having him work. His battle-start pull needs **Mythic+**, and that unlocks the whole PvP nuke comp, currently `blocked`. Copies are the unlock |
+| 4 | **Smokey & Meerky** | Mauler | Support | the only S-Level healer the account owns, at Epic. Named healer in the Dream Realm comp and on the Arcane Labyrinth bench |
+| 5 | **Shakir** | Mauler | Rogue | a hero the account does not own. Lupine Aura cuts 20% damage taken and adds 10 Haste for nearby allies, which pays in every mode. Mauler is 8 deep with no Tower of Will comp written |
+
+**Slot 5 runner-up: Cecia.** Owned, Graveborn, and in the Tower of Eternity comp. She stays off until her rarity is settled, because an A-Level in a slot spends the 30-pull guarantee.
+
+**Graveborn depth mostly does not come from this banner.** Only Thoran and Shemira are clean S-Level Graveborn picks. The rest of the faction is A-Level, so the depth for Tower of Eternity comes off the **All-Hero** wishlist, which holds 2 S-Level and 2 A-Level per faction. Put Viperian, Silvina, Niru and Salazer there.
+
+The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. See [team-archetypes.md](team-archetypes.md).
 
 The rate-up pair **Cyran and Thador are both B+ tier** as of 2026-08-26. Neither is a priority pull. Both are already owned.
+
 ## Sources
 
 - https://www.gameleap.com/articles/afk-journey-banners-full-guide
@@ -104,7 +121,16 @@ The rate-up pair **Cyran and Thador are both B+ tier** as of 2026-08-26. Neither
 - https://estnn.com/afk-journey-banners-explained-pity-rates-diamonds/
 - https://www.prydwen.gg/afk-journey/guides/banners-and-rates
 - https://afk-journey.fandom.com/wiki/Epic_Recruitment
+- https://www.afk.global/wishlist-priority-afk-journey
+- https://playafkjourney.com/wish-list/
+- https://afk.guide/afk-journey-wishlist-guide/
+- https://playafkjourney.com/thoran/
+- https://afk.guide/shakir-journey/
+- https://playafkjourney.com/faction/graveborn/
+- https://www.prydwen.gg/afk-journey/characters/viperian (Viperian read as A-Rank; prydwen returns 403 on direct fetch, read through search summaries)
 - https://afk-journey.fandom.com/wiki/Stargaze_Station
+- https://www.talkandroid.com/84046-how-to-get-stellar-crystals-afk-journey-afk2/
+- https://sportskeeda.com/esports/best-ways-getting-stellar-crystals-afk-journey
 - https://www.allclash.com/celestial-hypogeon-full-build-priority-in-afk-journey-for-every-player/
 - https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/
 - https://www.lootbar.com/blog/en/afk-journey-best-wish-list-priorities.html

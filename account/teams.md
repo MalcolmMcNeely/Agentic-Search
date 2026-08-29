@@ -139,10 +139,10 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Hero | Faction | Class | Tier | Why |
 | --- | --- | --- | --- | --- |
 | Velara | Wilder | Support | Epic | third healer, keeps the Wilder core if she subs in |
-| Smokey & Meerky | Mauler | Support | Epic | sustained healing plus an ally ATK buff |
+| Smokey & Meerky | Mauler | Support | Legendary | sustained healing plus an ally ATK buff |
 | Antandra | Mauler | Tank | Epic | replacement frontline: taunt, 60% damage cut, self-heal |
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
-| Hugin | Lightbearer | Support | Legendary | cogshields and an ATK buff |
+| Hugin | Lightbearer | Support | Legendary+ | cogshields and an ATK buff |
 
 **Artifact:** Awakening Spell +6. [../mechanics/artifacts.md](../mechanics/artifacts.md) names it for this mode, and the reason is the carryover: heal that is wasted in a normal fight is banked here.
 
@@ -154,7 +154,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Four weak points:**
 
-1. **No Hand of Resonance is in the fielded five.** That costs nothing while every hero sits at the Resonance Level, and starts costing as soon as a Hand is levelled past it. Move Hands onto Hewynn, Solise, Faramor and Thador. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
+1. **Only Thador is a Hand of Resonance.** That costs nothing while every hero sits at the Resonance Level, and starts costing as soon as a Hand is levelled past it. Move the other Hands onto Hewynn, Solise and Faramor. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
 2. **Faramor is the only real damage dealer.** Aurora and Solise add summon damage, but a floor with a hard timer or a high-HP boss can stall.
 3. **Thador and Faramor are both range 1**, so both walk into the enemy and leave Aurora at range 2 exposed once the front moves up. Watch her HP, because it carries.
 4. **Healer role split is `unverified`.** gamerant says bring two healers, afk.guide says one is enough. This comp follows gamerant, which costs a damage slot. See [../mechanics/arcane-labyrinth.md](../mechanics/arcane-labyrinth.md).
@@ -187,7 +187,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Three weak points:**
 
-1. **No Hand of Resonance is in these five.** That costs nothing while every hero sits at the Resonance Level, and starts costing as soon as a Hand is levelled past it. Move Hands onto Faramor, Thador, Hewynn and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+1. **Only Thador is a Hand of Resonance.** That costs nothing while every hero sits at the Resonance Level, and starts costing as soon as a Hand is levelled past it. Move the other Hands onto Faramor, Hewynn and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 2. **Eironn is Epic, so his battle-start pull does not fire.** That needs Mythic+. He is in for the Magic DEF cut and the mid-fight bunching, not the opening nuke.
 3. **Faramor is the only real damage dealer.** A floor with a high-HP wall can stall.
 
@@ -203,11 +203,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
-| Front | Valka | Warrior | 1 | Epic+ |
-| Middle | Daimon | Warrior | 3 | Legendary |
+| Front | Valka | Warrior | 1 | Legendary |
+| Middle | Daimon | Warrior | 3 | Mythic |
 | Middle | Shemira | Mage | 4 | Legendary |
 | Back | Cecia | Marksman | 5 | Epic |
-| Back | Bonnie | Marksman | 7 | Legendary |
+| Back | Bonnie | Marksman | 7 | Legendary+ |
 
 **Artifact:** Confining Spell +6. The frontline here is one Warrior, so keeping 2 enemies out of the backline matters more than the healing Awakening would add.
 
@@ -223,7 +223,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 2. **There is no healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the whole defence.
 3. **No depth behind it.** A wall on this tower cannot be answered by swapping a hero in, only by ascending the six that exist.
 
-**Daimon is a Hand of Resonance**, so levelling him is one fifth of raising the Resonance Level. See [progression.md](progression.md).
+**Daimon, Shemira and Bonnie are Hands of Resonance**, three of the five, so levelling this comp is most of raising the Resonance Level. See [progression.md](progression.md).
 
 ---
 

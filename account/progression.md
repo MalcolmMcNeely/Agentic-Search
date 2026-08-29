@@ -16,7 +16,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 571 |
 | Resonance Level | 120 |
-| Total power | 1,542k |
+| Total power | 1,941k |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 Roughly on pace. A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
@@ -27,11 +27,11 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 | Hero | Faction | Class | Level | Tier |
 | --- | --- | --- | --- | --- |
-| Taichi & Agumon | Dimensional | Warrior | 120 | Legendary |
-| Yamato & Gabumon | Dimensional | Mage | 120 | Legendary |
-| Hugin | Lightbearer | Support | 120 | Legendary |
-| Pandora | Dimensional | Support | 120 | Epic |
-| Daimon | Graveborn | Warrior | 120 | Legendary |
+| Hugin | Lightbearer | Support | 120 | Legendary+ |
+| Daimon | Graveborn | Warrior | 120 | Mythic |
+| Thador | Wilder | Tank | 120 | Legendary |
+| Shemira | Graveborn | Mage | 120 | Legendary |
+| Bonnie | Graveborn | Marksman | 120 | Legendary+ |
 
 All five Hands sit at 120, level with the Resonance Level. No hero on the account runs above it, so every comp is judged on faction bonus and kit alone, with no level gap between them.
 
@@ -39,7 +39,7 @@ All five Hands sit at 120, level with the Resonance Level. No hero on the accoun
 
 **Swapping a Hand is free in levels as well as in cost while this holds.** The two readings of the swap rule disagree over whether the incoming hero inherits the outgoing Hand's level or drops to the Resonance Level. With every hero at exactly the Resonance Level, both readings give the same answer. Once any Hand is levelled past it, that stops being true and the disagreement starts to matter. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**The Hands are on the wrong heroes.** Taichi & Agumon, Yamato & Gabumon and Pandora appear in no `running` comp in [teams.md](teams.md). Only Hugin does. Re-pick before levelling any Hand past 120.
+**The five Hands are the five most-fielded heroes.** Each of them holds a slot in two `running` comps in [teams.md](teams.md), and between them they cover the AFK Stages backup, both Legend Trial towers and the solo battles. That set is the AFK Stages backup comp, hero for hero. Swapping a Hand is free, so re-pick whenever a `running` comp changes.
 
 ### Artifacts owned
 
@@ -82,7 +82,7 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Diamonds | 17,000 |
 | Epic Invite Letters | 0 |
 | Epic Recruitment pity | `?` |
-| Epic wishlist, 5 slots | `?` needs re-picking before the next letters arrive |
+| Epic wishlist, 5 slots | Thoran, Shemira, Eironn, Smokey & Meerky, Shakir. See [../mechanics/recruitment.md](../mechanics/recruitment.md) |
 | Stargaze pity | 0 |
 | Stargaze target | `?` needs picking. Next by priority is Elijah & Lailah |
 | Stellar Crystals | `?` |

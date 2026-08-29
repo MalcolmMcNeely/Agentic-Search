@@ -90,7 +90,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
 - **Summon stack.** Aurora is Legendary, and eight owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** Galahad is Legendary. She is the Dream Realm answer.
-- **Sustain with offence.** Solise and Hugin are both Legendary.
+- **Sustain with offence.** Solise is Legendary and Hugin is Legendary+, the highest tier on the account after Daimon.
 - **Control.** Bonnie is Legendary, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).

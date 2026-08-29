@@ -13,12 +13,12 @@ Slot order is as the game lists it, left to right. The slot names are **unconfir
 
 | Class | Level | Mean | Weapon | Gloves | Ring | Helmet | Armor | Boots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mage | 154 | 154.17 | 150 | 160 | 145 | 170 | 130 | 170 |
-| Support | 150 | 150.00 | 140 | 170 | 145 | 145 | 150 | 150 |
-| Marksman | 146 | 146.67 | 160 | 135 | 140 | 170 | 150 | 125 |
-| Rogue | 143 | 143.33 | 140 | 115 | 150 | 135 | 160 | 160 |
-| Warrior | 139 | 139.17 | 170 | 130 | 120 | 150 | 140 | 125 |
-| Tank | 138 | 138.33 | 160 | 150 | 160 | 130 | 115 | 115 |
+| Mage | 178 | 178.33 | 190 | 160 | 180 | 170 | 180 | 190 |
+| Marksman | 173 | 173.33 | 190 | 190 | 140 | 180 | 150 | 190 |
+| Tank | 167 | 167.50 | 160 | 155 | 180 | 190 | 155 | 165 |
+| Rogue | 155 | 155.83 | 140 | 165 | 150 | 160 | 160 | 160 |
+| Support | 155 | 155.00 | 140 | 170 | 145 | 165 | 160 | 150 |
+| Warrior | 148 | 148.33 | 170 | 160 | 145 | 150 | 140 | 125 |
 
 Every Level above is computed from the rule below. The `notes` inbox holds a much older set of class levels; they are dead text, not a second reading.
 
@@ -43,23 +43,23 @@ Two readings, at different values, an upgrade round apart. Floor wins both.
 
 So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md) is not an action for this account. Most fed slots do not match it, and that is the game's choice, not the user ignoring advice. Do not hand that table over unless the user says they have started upgrading by hand.
 
-**Gap: what Quick Equip optimises is unknown.** Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress return pages on the equipment and forging systems but nothing on the button itself. Whether Quick Equip costs this account anything against hand-picking is open. Do not guess either way. Observed behaviour is mixed: it has fed the lowest slot in some classes and skipped it in others.
+**Gap: what Quick Equip optimises is unknown.** Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress return pages on the equipment and forging systems but nothing on the button itself. Whether Quick Equip costs this account anything against hand-picking is open. Do not guess either way. Observed behaviour points at lowest-slot-first but is not consistent across classes.
 
 ### Reading the spread
 
-Mage leads by 4. **Tank is lowest, and Warrior is next above it**, so those two are the classes to watch.
+**Mage leads at 178 and Warrior is lowest at 148.** Warrior is the class to watch. Marksman sits second at 173.
 
-The spread is 16 levels, from Mage 154 down to Tank 138.
+The spread is 30 levels, from Mage 178 down to Warrior 148.
 
-Every class sits **18 to 34 levels above** the Resonance Level of 120, and the top slots reach 170, **50 above** it. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+Every class sits **28 to 58 levels above** the Resonance Level of 120, and four slots reach 190, **70 above** it. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
-Two slots sit **below** the Resonance Level: Tank Armor and Tank Boots, both 115.
+No slot sits below the Resonance Level. The lowest single slot is Warrior Boots at 125.
 
-**Weak signal on what Quick Equip targets.** This round it fed the three lowest Support slots and the lowest Marksman slot, which points at lowest-slot-first. But it skipped the lowest slot in Mage, Rogue and Tank. Not enough to call. Recorded against the Quick Equip gap above; do not act on it yet.
+**Quick Equip fed the lowest slot in five of the six classes**, missing only Support, where it fed Helmet and Armor and left Weapon at 140. That is the strongest reading so far that the button targets the lowest slot first. It is still one round of evidence against the mixed reading before it, so the Quick Equip gap above stays open.
 
 ## Exclusive Equipment
 
-Per hero, unlocked at Mythic+. No hero on this account is Mythic+ yet, so this table is empty by design. See [roster.md](roster.md).
+Per hero, unlocked at Mythic+. No hero on this account is Mythic+ yet, so this table is empty by design. **Daimon is Mythic**, one tier short, and is the closest hero to the first EX weapon on this account. See [roster.md](roster.md).
 
 | Hero | EX level |
 | --- | --- |

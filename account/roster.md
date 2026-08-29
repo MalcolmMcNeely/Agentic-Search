@@ -26,9 +26,9 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Hugin | Support | Physical | Legendary | - | [hugin](../mechanics/heroes/hugin.md) |
+| Hugin | Support | Physical | Legendary+ | - | [hugin](../mechanics/heroes/hugin.md) |
 | Rowan | Mage | Magic | Legendary | - | [rowan](../mechanics/heroes/rowan.md) |
-| Zanie | Marksman | Physical | Legendary | - | [zanie](../mechanics/heroes/zanie.md) |
+| Zanie | Marksman | Physical | Legendary+ | - | [zanie](../mechanics/heroes/zanie.md) |
 | Silven | Marksman | Physical | Elite+ | - | [silven](../mechanics/heroes/silven.md) |
 | Valen | Warrior | Physical | Elite+ | - | [valen](../mechanics/heroes/valen.md) |
 | Cyran | Mage | Magic | Epic | - | [cyran](../mechanics/heroes/cyran.md) |
@@ -45,10 +45,10 @@
 | --- | --- | --- | --- | --- | --- |
 | Galahad | Mage | Magic | Legendary | - | [galahad](../mechanics/heroes/galahad.md) |
 | Kordan | Warrior | Physical | Epic+ | - | [kordan](../mechanics/heroes/kordan.md) |
-| Kruger | Warrior | Physical | Epic+ | - | [kruger](../mechanics/heroes/kruger.md) |
+| Kruger | Warrior | Physical | Legendary | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Elite+ | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
-| Smokey & Meerky | Support | Magic | Epic | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
+| Smokey & Meerky | Support | Magic | Legendary | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
 | Gerda | Tank | Physical | Elite | - | [gerda](../mechanics/heroes/gerda.md) |
 | Seth | Rogue | Physical | Elite | - | [seth](../mechanics/heroes/seth.md) |
 
@@ -70,11 +70,11 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Daimon | Warrior | Magic | Legendary | - | [daimon](../mechanics/heroes/daimon.md) |
+| Daimon | Warrior | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
 | Shemira | Mage | Magic | Legendary | - | [shemira](../mechanics/heroes/shemira.md) |
-| Bonnie | Marksman | Magic | Legendary | - | [bonnie](../mechanics/heroes/bonnie.md) |
+| Bonnie | Marksman | Magic | Legendary+ | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
-| Valka | Warrior | Physical | Epic+ | - | [valka](../mechanics/heroes/valka.md) |
+| Valka | Warrior | Physical | Legendary | - | [valka](../mechanics/heroes/valka.md) |
 | Shadewing | Rogue | Magic | Elite | - | [shadewing](../mechanics/heroes/shadewing.md) |
 
 ## Dimensional
