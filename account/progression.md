@@ -17,7 +17,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | AFK Stage | 571 |
 | Resonance Level | 120 |
 | Total power | 1,542k |
-| Story progress | early, little done |
+| Story progress | Merlin's Ward, a few sidequests done |
 
 Roughly on pace. A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
 
@@ -65,7 +65,7 @@ Everything except Trial of Abyss is unlocked at AFK Stage 571. See [../mechanics
 | --- | --- | --- |
 | Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty |
 | Arena | yes, needs 20 | ? |
-| Arcane Labyrinth | yes, needs 100 | ? |
+| Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | ? |
 | Legend Trial | yes, needs 166 | Tower of Nature 37/90, Tower of Eternity 36/90. Tower of Light and Tower of Will not started |
 | Supreme Arena | yes | ? |

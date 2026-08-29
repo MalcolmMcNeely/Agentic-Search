@@ -27,7 +27,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ## AFK Stages, main — Lightbearer Resonance — `running`
 
-**Purpose:** AFK Stages and campaign.
+**Purpose:** AFK Stages, the story campaign and the World Map.
 
 | Row | Hero | Faction | Range |
 | --- | --- | --- | --- |
@@ -161,7 +161,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **First swap to try if runs stall on damage:** Aurora out, **Cecia** in. She steals 1.5% of the target's two DEF stats every second and keeps it for the fight, and Mr. Carlyle can be resummoned to heal. It drops the bonus from +22% to +18%.
 
-**Open question for the user:** [progression.md](progression.md) records Arcane Labyrinth progress as `?`. Which difficulty and floor is the account on now?
+**Run state:** difficulty 2 is cleared and the Deep Labyrinth is open. See [progression.md](progression.md).
 
 ---
 
