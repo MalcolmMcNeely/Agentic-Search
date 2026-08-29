@@ -58,7 +58,7 @@ Four systems, each with its own scope. See [equipment-and-charms.md](equipment-a
 Answer these before handing over a comp:
 
 - Does the account actually own all five heroes, at the tiers assumed? Check [../account/roster.md](../account/roster.md).
-- Does [../account/teams.md](../account/teams.md) already hold a comp for this purpose? Supersede it with a stated reason, or field the one already there.
+- Does [../account/teams.md](../account/teams.md) already hold a comp for this purpose? Replace it with a stated reason, or field the one already there. Ask first if it is `running`.
 - Does the faction core hold at 3 or more, so the Phantimal unlocks?
 - Is there an answer to the enemy's main damage type?
 - Does the carry survive to its first Ultimate?

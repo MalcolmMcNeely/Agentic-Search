@@ -11,7 +11,7 @@ The user speaks in fragments, or dumps raw lines into the `notes` inbox at the r
 
 1. **Read the inbox and the target file.** Check `notes` for anything not yet filed. Then pick the target:
    - [account/roster.md](../../../account/roster.md) for heroes.
-   - [account/teams.md](../../../account/teams.md) for a comp the user adopts, drops, or reports a result for. Read its rules before writing: supersede a comp, never overwrite it.
+   - [account/teams.md](../../../account/teams.md) for a comp the user adopts, drops, or reports a result for. Read its rules before writing: one comp per purpose, replace in place, and never replace a `running` comp without asking the user.
    - [account/progression.md](../../../account/progression.md) for Resonance Level, Hands, power, artifacts owned, mode progress.
    - [account/equipment.md](../../../account/equipment.md) for class gear, EX weapons, charms.
 

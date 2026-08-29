@@ -7,7 +7,7 @@ Each line is `path — what it holds — read it when`.
 ## Account
 
 - [account/roster.md](account/roster.md) — every hero owned, with faction, class, damage type, ascension tier and EX level, grouped by faction, each linking to its kit file — read when the question names a hero, asks what is owned, or needs a team built.
-- [account/teams.md](account/teams.md) — every comp built for this account, its purpose, formation, artifact and status, plus the rules for adding one without overwriting another session's work — read when the question asks for a team, names a mode that needs one, or proposes changing a comp; write to it whenever a comp is recommended.
+- [account/teams.md](account/teams.md) — the current comp for each purpose, with formation, artifact, status and known weak points, plus the rules for replacing one — read when the question asks for a team, names a mode that needs one, or proposes changing a comp; write to it whenever a comp is recommended.
 - [account/progression.md](account/progression.md) — Resonance Level, Hands of Resonance, total power, AFK stage, artifacts owned, mode unlocks, recruitment state (diamonds, tickets, pity counters, Stargaze target), and which progression track the account is on — read when the question needs hero levels, account power, what is unlocked, which artifact is available, or what summon currency and pity the account is sitting on.
 - [account/equipment.md](account/equipment.md) — Class Equipment levels for all six classes, Exclusive Equipment owned, Magic Charm loadouts — read when the question is about gear, charms, or how strong a class actually is.
 - `notes` — the user's raw inbox, unfiled — read only when filing a new account update. Never quote it as truth; the `account/` files supersede it.
