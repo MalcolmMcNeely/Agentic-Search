@@ -7,7 +7,7 @@ Three systems with different scopes. See [../mechanics/equipment-and-charms.md](
 
 ## Class Equipment
 
-Gear is per **class**, shared by every hero of that class. Six slots each, cap 240.
+Gear is per **class**, shared by every hero of that class. Six slots each, cap 240. A slot at the cap reads **Max** on screen, confirmed from the account: Support Armor and Rogue Helmet both read Max, and the class Levels of 213 and 206 are exactly what 240 in those slots gives.
 
 Slot order is as the game lists it, left to right. The slot names are **unconfirmed** against the in-game UI; the numbers and their order came from the user.
 
@@ -19,8 +19,6 @@ Slot order is as the game lists it, left to right. The slot names are **unconfir
 | Warrior | 205 | 205.83 | 200 | 210 | 145 | 230 | 220 | 230 |
 | Mage | 204 | 204.17 | 190 | 200 | 220 | 210 | 205 | 200 |
 | Tank | 197 | 197.50 | 190 | 185 | 195 | 190 | 195 | 230 |
-
-`unverified`: Support Armor and Rogue Helmet read **Max** on screen, taken here as the 240 cap. The two class Levels settle it. If the game shows Support 213 and Rogue 206, Max is 240 and this marker comes off.
 
 Every Level above is computed from the rule below. The `notes` inbox holds a much older set of class levels; they are dead text, not a second reading.
 

@@ -57,7 +57,7 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Solise | Support | Magic | Legendary | - | [solise](../mechanics/heroes/solise.md) |
-| Thador | Tank | Physical | Legendary | - | [thador](../mechanics/heroes/thador.md) |
+| Thador | Tank | Physical | Legendary+ | - | [thador](../mechanics/heroes/thador.md) |
 | Faramor | Rogue | Physical | Legendary+ | - | [faramor](../mechanics/heroes/faramor.md) |
 | Lenya | Rogue | Physical | Elite+ | - | [lenya](../mechanics/heroes/lenya.md) |
 | Hewynn | Support | Magic | Epic | - | [hewynn](../mechanics/heroes/hewynn.md) |

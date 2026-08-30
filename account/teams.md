@@ -157,7 +157,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 | Row | Hero | Faction | Class | Range | Tier |
 | --- | --- | --- | --- | --- | --- |
-| Front | Thador | Wilder | Tank | 1 | Legendary |
+| Front | Thador | Wilder | Tank | 1 | Legendary+ |
 | Middle | Faramor | Wilder | Rogue | 1 | Legendary+ |
 | Middle | Aurora | Celestial | Mage | 2 | Legendary |
 | Back | Velara | Wilder | Support | 5 | Legendary |
@@ -204,7 +204,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
-| Front | Thador | Tank | 1 | Legendary |
+| Front | Thador | Tank | 1 | Legendary+ |
 | Middle | Faramor | Rogue | 1 | Legendary+ |
 | Middle | Eironn | Rogue | 1 | Mythic |
 | Back | Hewynn | Support | 4 | Epic |
