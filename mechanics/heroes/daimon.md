@@ -19,7 +19,7 @@ Campaign and PvP. A damage soak and shield engine, and the class label agrees: h
 
 ## Notes
 
-**`disputed`: afk.global lists Daimon as a Warrior. The game lists him as a Tank.** The account wins, per the rule in [../../CLAUDE.md](../../CLAUDE.md). This is not cosmetic. Class Equipment is shared per class, so Daimon draws on **Tank** gear, which sits at 197 on this account, not **Warrior** gear at 205. That costs him 8 levels of gear and buys the correct role and stat block. See [../../account/equipment.md](../../account/equipment.md).
+**`disputed`: afk.global lists Daimon as a Warrior. The game lists him as a Tank.** The account wins, per the rule in [../../CLAUDE.md](../../CLAUDE.md). This is not cosmetic. Class Equipment is shared per class, so Daimon draws on **Tank** gear, which sits at 202 on this account, not **Warrior** gear at 205. That costs him 3 levels of gear and buys the correct role and stat block. See [../../account/equipment.md](../../account/equipment.md).
 
 His kit always read as a tank. The guide label was the outlier.
 

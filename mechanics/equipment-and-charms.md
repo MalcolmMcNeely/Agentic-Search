@@ -21,7 +21,7 @@ Upgrading costs Gold and Primal Casting Shards, from campaign, quests, or disass
 
 The single Level the game shows next to a class is the **mean of its six slot levels, rounded down**.
 
-No guide states this. It comes from the account, read off the game screen. The decisive one is Tank: its six slots mean exactly 197.50 and the screen reads **197**. Rounding to nearest would give 198, so the rule is floor. Warrior (205.83 reading 205) agrees. See [../account/equipment.md](../account/equipment.md).
+No guide states this. It comes from the account, read off the game screen. Rogue means 206.67 and the screen reads **206**. Warrior means 205.83 and the screen reads **205**. Rounding to nearest would lift both a level, so the rule is floor. See [../account/equipment.md](../account/equipment.md).
 
 This matters for upgrade planning. Raising one slot by 6 raises the class Level by 1, so spreading Forging Stones evenly moves the headline number faster than spiking a single slot.
 
@@ -29,7 +29,7 @@ This matters for upgrade planning. Raising one slot by 6 raises the class Level 
 
 Several guides state that gear cannot exceed the Resonance Level, and that Resonance Level 79 crafts level 75 gear.
 
-**The account contradicts this.** At Resonance Level 150 it holds gear from 145 to the 240 cap, across all six classes. The lowest class Level is 197, the highest is 213, so every class sits **47 to 63 levels above** the Resonance Level and the top slots sit 90 above it. See [../account/equipment.md](../account/equipment.md).
+**The account contradicts this.** At Resonance Level 150 it holds gear from 145 to the 240 cap, across all six classes. The lowest class Level is 202, the highest is 213, so every class sits **52 to 63 levels above** the Resonance Level and the top slots sit 90 above it. See [../account/equipment.md](../account/equipment.md).
 
 The account has held gear above its Resonance Level across repeated readings, so this is not a one-off.
 
