@@ -14,12 +14,19 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Field | Value |
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
-| AFK Stage | 901 |
+| AFK Stage | 954 |
 | Resonance Level | 150 |
 | Total power | 4,813k |
 | Story progress | Merlin's Ward, a few sidequests done |
 
-Roughly on pace. A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
+A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
+
+**The stage ladder runs well ahead of the level ladder, and that is what the fights feel like.** Stage 954 is 85% of the 1125 ceiling. Resonance Level 150 is 62% of the 240 a finished account reaches. Enemy stats scale with the stage number, so every stage climbed without a level widens the deficit. The user reports enemies are comparatively very strong, and that gap is the reason.
+
+Two levers, and only one of them is a real fix.
+
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Bonnie and Rolan rise together**, and then it lifts all 40 heroes at once. Everything else is a workaround.
+- **Stop paying the enemy's defence.** A level deficit hurts most through defence, which climbs with the stage. **True damage** and **percentage-of-current-HP** damage ignore it entirely, so they hold their value as the gap grows while raw ATK does not. This is what turns the Starshard Spell test below from optional into the next thing to run.
 
 ### Hands of Resonance
 
@@ -66,11 +73,11 @@ Blazing and Ironwall Spell are not owned. See [../mechanics/artifacts.md](../mec
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 901 on the permanent ladder. If that 901 turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
+**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 954 on the permanent ladder. If that 954 turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
 
 ## Mode progress
 
-Everything except Trial of Abyss is unlocked at AFK Stage 901. The Homestead unlock threshold is not recorded, but the account has it. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+Everything except Trial of Abyss is unlocked at AFK Stage 954. The Homestead unlock threshold is not recorded, but the account has it. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |

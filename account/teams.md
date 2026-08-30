@@ -43,10 +43,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rolan are both Celestial and wildcard into any core, so a Lightbearer, Wilder, Graveborn, Mauler or Dimensional 3-core plus the two of them all reach +22%. The bonus is free to every build here. Only the Morale trigger is exclusive.
 
-**Two weak points:**
+**Three weak points:**
 
 1. **One payload, four engines.** [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) calls Rolan and Aurora engines, not carries. Hugin is support, Temesia is a tank. **Zanie** is the only real damage dealer.
-2. **No healer.** Hugin gives cogshields and damage reduction. Rolan heals only as Morale climbs. Nothing heals on demand.
+2. **Nothing here ignores enemy defence.** Zanie's turrets, Hugin's forge buff and Aurora's summons all deal ordinary damage, so every stage of level deficit takes a cut of the whole comp. At AFK Stage 954 against Resonance Level 150 that is the weakness that grows on its own. See [progression.md](progression.md).
+3. **No healer.** Hugin gives cogshields and damage reduction. Rolan heals only as Morale climbs. Nothing heals on demand.
 
 **Risk:** Aurora is an engine at range 2, so she has to come forward. Confining Spell is picked to keep enemies off her.
 
@@ -71,6 +72,8 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 **Artifact:** Confining Spell +6. Daimon holds the front at range 3, so two enemies blocked out of the backline is what keeps Shemira and Aurora firing.
 
 **Artifact test: Starshard Spell +8 against Confining Spell +6.** Starshard fires a true damage wave every **3** ally Ultimates for **24% of each target's current HP**, because +4 and +8 are both live on this account. This comp casts Ultimates faster than any other owned: Shemira's Ultimate resets its own strike count, and Rolan clones ally Ultimates outright. Percentage-of-current-HP true damage also ignores the enemy defence that a level deficit makes worse. Run one stage on each and keep the winner. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+**At AFK Stage 954 this comp is the deficit-proof one, and that is now its main advantage.** Enemy defence scales with the stage and the Resonance Level sits at 150, so raw ATK buys less every stage. Two of the five heroes here do not care: Daimon's Stitchy and Shemira's sacrificed ghosts both deal **true damage scaled to the target's max HP**, and Starshard would add a third tap on **current HP**. The Lightbearer comp above has no true damage at all. See [progression.md](progression.md).
 
 **Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, and Aurora and Rolan wildcard in.
 
