@@ -16,7 +16,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 954 |
 | Resonance Level | 150 |
-| Total power | 4,813k |
+| Total power | 5,153k |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
