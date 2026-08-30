@@ -25,41 +25,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ---
 
-## AFK Stages, main — Lightbearer Resonance — `running`
+## AFK Stages, story and World Map — push comp — `running`
 
-**Purpose:** AFK Stages, the story campaign and the World Map.
+**Purpose:** the AFK ladder, the story campaign and the World Map. The Starter Story stages are cleared, so this comp is climbing **Infinite Stages**, which have no cap. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
-| Row | Hero | Faction | Range |
-| --- | --- | --- | --- |
-| Front | Temesia | Lightbearer | 1 |
-| Middle | Aurora | Celestial | 2 |
-| Back | Hugin | Lightbearer | 20 |
-| Back | Zanie | Lightbearer | 20 |
-| Back | Rolan | Celestial | 10 |
-
-**Artifact:** Confining Spell +6.
-
-**Why:** **Rolan's Morale opener is the whole reason this core is Lightbearer.** He grants 6% Morale per hero of the most-deployed faction, rising to **10% per hero when that faction is Lightbearer or Celestial**, and hands those heroes 20 Penetration and 50% damage reduction for 8s. Three Lightbearers turn that into 30% Morale at battle start instead of 18%. No other faction core on this account triggers it. On top of that Rolan clones an ally Ultimate, Aurora raises the damage of every allied summon, and Zanie, Temesia and Aurora all field summons.
-
-The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rolan are both Celestial and wildcard into any core, so a Lightbearer, Wilder, Graveborn, Mauler or Dimensional 3-core plus the two of them all reach +22%. The bonus is free to every build here. Only the Morale trigger is exclusive.
-
-**Three weak points:**
-
-1. **One payload, four engines.** [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) calls Rolan and Aurora engines, not carries. Hugin is support, Temesia is a tank. **Zanie** is the only real damage dealer.
-2. **Nothing here ignores enemy defence.** Zanie's turrets, Hugin's forge buff and Aurora's summons all deal ordinary damage, so every stage of level deficit takes a cut of the whole comp. At AFK Stage 1142 in Infinite Stages, where nothing caps the enemy scaling, that is the weakness that grows on its own. See [progression.md](progression.md).
-3. **No healer.** Hugin gives cogshields and damage reduction. Rolan heals only as Morale climbs. Nothing heals on demand.
-
-**Risk:** Aurora is an engine at range 2, so she has to come forward. Confining Spell is picked to keep enemies off her.
-
-**First swap to try if it stalls:** Temesia out, **Solise** in, for healing and a team damage buff. Hugin and Zanie plus the two wildcarding Celestials still make a 4-core, so the bonus falls to **+18%**, not to +14%. Rolan's Morale opener still fires at 10% per hero, on 2 heroes instead of 3. The real cost is the tank, not the stats. Test it, do not assume it.
-
-**The push comp below holds the ladder, and it now holds all five Hands of Resonance too.** Every hero in this comp runs at the Resonance Level of 170, and two heroes in that one run at 180. It fields the account's only EX weapon, three Mythics and four damage sources against this comp's one, and Daimon gives it a real frontline. **Rolan's 30% Morale opener is the only advantage this comp still holds**, and it costs the +22% faction cap nothing. Aurora and Rolan are shared between the two, so a change to either hero moves both comps.
-
----
-
-## AFK Stages and Infinite Stages, push comp — `running`
-
-**Purpose:** the AFK ladder. The Starter Story stages are cleared, so this comp is climbing **Infinite Stages**, which have no cap. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+**One comp covers all three.** The ladder is by far the hardest of them: the account sits at AFK Stage 1142 while the story sits at Merlin's Ward. A comp that holds Infinite Stages overkills every story and sidequest fight, so a second, weaker team on the easier content buys nothing. **Solo story and World Map encounters are the exception**, because they deploy one hero and have their own entry below. See [../mechanics/solo-battles.md](../mechanics/solo-battles.md).
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
