@@ -8,7 +8,7 @@
 - **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
 - **Level** is not stored per hero. Every hero sits at the Resonance Level in [progression.md](progression.md), except the Hands of Resonance, listed there with their own levels.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 41: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 42: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
@@ -20,7 +20,7 @@
 | Graveborn | 6 |
 | Dimensional | 3 |
 | Celestial | 3 |
-| Hypogean | 0 |
+| Hypogean | 1 |
 
 ## Lightbearer
 
@@ -97,4 +97,8 @@ All three are Celestial, so they count as any faction for the faction bonus, and
 
 ## Hypogean
 
-None owned.
+| Hero | Class | Damage | Tier | EX | Kit |
+| --- | --- | --- | --- | --- | --- |
+| Phraesto | Tank | Magic | Epic | - | [phraesto](../mechanics/heroes/phraesto.md) |
+
+Hypogean wildcards the same way Celestial does, so he counts as any faction for the bonus and adds +1% ATK and HP when deployed. He deploys as **two bodies**: his Illusion inherits 100% of his stats and casts all his skills.

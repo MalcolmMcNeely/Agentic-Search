@@ -90,6 +90,8 @@ Take it when the carry's Ultimate is the whole point, and when the fight lasts l
 
 **Elijah & Lailah are the strongest engine on the roster**, and allclash rates them S+ in every category at once. Starlight Waltz gives **every ally +60 Haste for 7s**, Skill 1 adds healing and Energy Regen, and Stellar Bond adds +10 Vitality and +10% Energy gained when every linked ally shares one faction. Haste and Energy together mean the whole team fires sooner and more often, so they scale with whoever stands beside them rather than replacing a carry. The mono-faction clause is the build constraint: the account is 12 deep in Lightbearers, so that is the cheapest core to satisfy it. See [heroes/elijah-lailah.md](heroes/elijah-lailah.md).
 
+**Phraesto** feeds Energy Recovery Speed to every ally standing behind his true body, and from Legendary+ his Hero Focus generates Energy every time either of his two bodies is hit, so a tank being attacked becomes an Energy source. He is placed under **Mitigation** below, because that is his first job. See [heroes/phraesto.md](heroes/phraesto.md).
+
 **Smokey & Meerky** feeds the pair Energy back off its own healing Ultimate, from range 8. **Pandora** feeds a single ally: Boxed Blessing seals that ally invincible for 4s, then releases them with bonus Energy and ATK, which is protection and Energy in one skill. **Taichi** is the most extreme feeder on the roster, but he only ever feeds Agumon, so he belongs to the ramp carry above.
 
 ### Summon stack
@@ -113,6 +115,8 @@ Take it when the fight is survivable but slow, and a pure healer would waste a s
 **Payload:** any fragile carry that then survives to fire.
 
 Healing races the enemy's damage. Mitigation lowers it, which is stronger against burst, because a heal arrives after the hit and a shield arrives before it.
+
+**Phraesto brings two bodies to this slot.** His Illusion inherits 100% of his stats and casts all his skills, and standing both in one row gives each **30% damage reduction**. Crimson Contract splits its buff by body: allies behind the Illusion take less damage, allies behind the true body gain Energy Recovery Speed, so he is a mitigation engine and an Ultimate engine at once. Foggy Whisper taunts and stuns the enemy's highest damage dealer, which is the single hit a fragile carry most needs removed. He is Hypogean, so he wildcards into any faction core. See [heroes/phraesto.md](heroes/phraesto.md).
 
 **Koko** is the best of these and the clearest case of a hero paying into both sums. Full Energy gives the team **45 to 55% damage reduction for 12s**, then converts everything it blocked into **true damage** against the enemy. **Lucius** shields a tile and its neighbours against 520% damage for 10s. **Antandra** taunts, cuts her own damage taken by 60%, and adds more reduction when the ally she guards drops below half HP. **Pandora** makes one ally outright invincible for 4s.
 
@@ -156,7 +160,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Summon stack.** Aurora is Mythic, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is Legendary+.
-- **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. Lucius, Antandra and Pandora fill the same job at smaller scale.
+- **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. **Phraesto** is the second body in this slot, literally: he deploys as two, taunts the enemy's biggest hitter off the carry, and buffs damage reduction and Energy on the allies behind each of his bodies. He is **Epic**, so his Hero Focus is three Soul Sigils away. Lucius, Antandra and Pandora fill the same job at smaller scale.
 - **Control.** Bonnie is Mythic, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).
@@ -164,6 +168,8 @@ Read with [../account/roster.md](../account/roster.md).
 **The Wilder bench is now 9 deep**, second only to Lightbearer. Wilder counters Graveborn, and Legend Trial's Tower of Nature is faction-locked to Wilder. See [legend-trial.md](legend-trial.md) and [factions.md](factions.md).
 
 **Dimensional is locked out of Legend Trial only.** That is four towers. Everywhere else the three of them are eligible. See [legend-trial.md](legend-trial.md).
+
+**The account now holds one Hypogean.** Phraesto wildcards into any faction core alongside Aurora, Rolan and Elijah & Lailah, so a 3-hero core plus two of those four still reaches **+22%**. All four are barred from Legend Trial. See [factions.md](factions.md).
 
 ## Sources
 

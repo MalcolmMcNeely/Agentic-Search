@@ -14,20 +14,20 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Field | Value |
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
-| AFK Stage | 1129 |
+| AFK Stage | 1142 |
 | Resonance Level | 170 |
-| Total power | 5,645k |
+| Total power | 8,082k |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 **The Starter Story ladder is finished.** Its last stage is 1125, so the account has cleared all of it and is now in **Infinite Stages**, the uncapped ladder that follows. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
-`unverified`: whether 1129 is an Infinite Stage counter carrying on from 1125, or a separate number. No source states it. Either way the account is 4 stages past the Starter Story ceiling.
+`unverified`: whether 1142 is an Infinite Stage counter carrying on from 1125, or a separate number. No source states it. Either way the account is 17 stages past the Starter Story ceiling.
 
 **The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 170 is 71% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Shemira, Aurora and Rolan rise together**, and then it lifts all 41 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Shemira, Aurora and Rolan rise together**, and then it lifts all 42 heroes at once. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
@@ -48,7 +48,7 @@ Shemira, Aurora and Rolan sit at 170, so the **Resonance Level is 170** and ever
 
 **Taichi & Agumon and Daimon are at the +10 cap and cannot take another level.** 180 is exactly 170 plus 10. They are frozen until the Resonance Level rises.
 
-**The Resonance Level is the ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 41 heroes for free. So every level now goes into **Shemira, Aurora and Rolan**, and the account gains nothing until all three rise together. Levelling one alone moves only that hero.
+**The Resonance Level is the ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 42 heroes for free. So every level now goes into **Shemira, Aurora and Rolan**, and the account gains nothing until all three rise together. Levelling one alone moves only that hero.
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
@@ -78,22 +78,22 @@ Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifa
 
 **Awakening at +7 buys nothing over +6.** Only the +4 step is live and the next real gain is one level away at +8.
 
-**The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining blocks two enemies, which is worth the same at stage 1129 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining blocks two enemies, which is worth the same at stage 1142 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 ## Seasonal track: Season 7, Crown of Ashes
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 1129 on the permanent ladder. If that number turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
+**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 1142 on the permanent ladder. If that number turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
 
 ## Mode progress
 
-**Every mode's AFK Stage requirement is met.** The highest gate in the game is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1129. Only Trial of Abyss is still locked, and its remaining conditions are not stage-based. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+**Every mode's AFK Stage requirement is met.** The highest gate in the game is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1142. Only Trial of Abyss is still locked, and its remaining conditions are not stage-based. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
-| Infinite Stages | yes, needs 1125 | at **1129**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
+| Infinite Stages | yes, needs 1125 | at **1142**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
 | Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on Koko copies at 1,200 each |
 | Arena | yes, needs 20 | **Adept 3** |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |

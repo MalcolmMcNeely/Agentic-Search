@@ -36,7 +36,7 @@ Each line is `path — what it holds — read it when`.
 - [mechanics/guild-store.md](mechanics/guild-store.md) — the Guild Store’s Guild Medal shelf: what it stocks, the 30,000-medal price of a Celestial or Hypogean Soul Sigil, the rule that one sigil unlocks an unowned hero, the monthly limit, and who on this account to buy — read when the question names the Guild Store, Guild Medals or Guild Coins, buying a Celestial or Hypogean hero, or Soul Sigils.
 - [mechanics/dream-store.md](mechanics/dream-store.md) — the Dream Realm shop in the Emporium: Dream Fragments, the A-Level-only shelf, the 15-copies-a-month limit, the per-tier Soul Sigil costs, and who on this account to buy — read when the question names the Dream Store, Dream Fragments, buying hero copies or Soul Sigils, or asks how to ascend an A-Level hero without pulling.
 - [mechanics/recruitment.md](mechanics/recruitment.md) — the four summon banners, their currencies, rates and pity counts, the two wishlists including the five heroes picked for the Epic slots, and Stargaze Station with its target priority — read when the question is about summoning, pulling, diamonds, Invite Letters, a rate-up banner, a wishlist slot, or which Celestial or Hypogean to chase.
-- [mechanics/heroes/README.md](mechanics/heroes/README.md) — a table of all 41 heroes owned, pointing at one file each holding that hero's kit, range and best use — read whenever a comp turns on what a hero actually does, then open only the heroes named.
+- [mechanics/heroes/README.md](mechanics/heroes/README.md) — a table of all 42 heroes owned, pointing at one file each holding that hero's kit, range and best use — read whenever a comp turns on what a hero actually does, then open only the heroes named.
 
 ## Root
 

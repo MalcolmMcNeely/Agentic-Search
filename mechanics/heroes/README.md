@@ -3,7 +3,7 @@
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
 > **Updated:** 2026-08-30
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 41 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 42 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, so grep works across the folder:
 
@@ -26,6 +26,7 @@ grep -l "Class:\*\* Tank" mechanics/heroes/*.md
 | Shadewing | Graveborn | Rogue | Magic | 1 | A | [shadewing.md](shadewing.md) |
 | Daimon | Graveborn | Tank | Magic | 3 | A `unverified` | [daimon.md](daimon.md) |
 | Valka | Graveborn | Warrior | Physical | 1 | A | [valka.md](valka.md) |
+| Phraesto | Hypogean | Tank | Magic | 1 | S | [phraesto.md](phraesto.md) |
 | Cyran | Lightbearer | Mage | Magic | 6 | S | [cyran.md](cyran.md) |
 | Mirael | Lightbearer | Mage | Magic | 3 | A | [mirael.md](mirael.md) |
 | Rowan | Lightbearer | Mage | Magic | 3 | A | [rowan.md](rowan.md) |

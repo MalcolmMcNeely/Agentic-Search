@@ -68,13 +68,15 @@ The only banner that pulls Celestial and Hypogean heroes. It is not the only way
 | --- | --- | --- |
 | 1 | Rolan | Celestial Support, Magic, range 10. Clones an ally Ultimate and drives the Morale system. Two 2026 guides call him the first PvE investment, ahead of Elijah & Lailah. Needs few copies to work |
 | 2 | Elijah & Lailah | **owned.** In the top team for every Dream Realm boss and for AFK Stages. 14 copies for full ascension, but the early steps are 1 sigil each, so Legendary+ and its Hero Focus is only three away |
-| 3 | Phraesto | prevents Dream Realm boss damage, useful in many modes |
+| 3 | Phraesto | **owned.** Claimed from a Glorious Hero Chest, at Epic. Hypogean Tank who deploys as two bodies. Copies now, not the unlock |
 | 4 | Baelran | in most modes and most top teams |
 | 5 | Reinier | allclash puts him fifth and says build Countess instead if he is not started. Older sources still list him joint-first |
 
 The disagreement: allclash (2026-08-01) orders it Elijah & Lailah, Rolan, Phraesto, Baelran. ldshop and topuplive order it Rolan, Elijah & Lailah, Countess. Both agree those two are the only real starting picks.
 
 Avoid Talene, Harak, Mehira and Berial. Berial is rated the worst hero in the meta for anyone not playing top-end Arena.
+
+**A Glorious Hero Chest picks off this table, not off a tier list.** The chest offers a fixed slate of Celestial and Hypogean heroes and gives one outright at Epic. Take the highest hero on this table that the account does not own. Phraesto came from one, chosen over Talene, Reinier, Dionel, Scarlita and Berial: he ranks third here, the other five rank fifth or lower or sit on the avoid line, and he is the only one of the six who patches a weak point the push comp names itself. See [../account/teams.md](../account/teams.md) and [heroes/phraesto.md](heroes/phraesto.md).
 
 **Rolan's Morale passive reads the roster.** At battle start the team gains 6% Morale per hero of the most-deployed faction, and **10% per hero if that faction is Lightbearer or Celestial**. Those heroes also gain 20 Penetration and take 50% less damage for 8s. An account deep in Lightbearers gets the doubled version for free.
 
@@ -87,6 +89,8 @@ Switching the chosen hero **does not reset the pity counter**. The counter only 
 Switching often is still bad. Celestial and Hypogean heroes need copies to ascend, so hopping targets leaves several half-built heroes and no finished one.
 
 ## Against this account
+
+**Three of the top five are owned: Rolan, Elijah & Lailah and Phraesto, all at Epic.** Phraesto is the account's first Hypogean and came free from a Glorious Hero Chest, so the 30,000 Guild Medals that would have unlocked him stay in the bank. See [heroes/phraesto.md](heroes/phraesto.md).
 
 **Rolan and Elijah & Lailah are both owned, both at Epic.** Elijah & Lailah came from the Guild Store: one 30,000-Guild-Medal Soul Sigil recruited them outright, where this banner would have taken up to 40 Stellar Crystal pulls. See [guild-store.md](guild-store.md) and [heroes/elijah-lailah.md](heroes/elijah-lailah.md). Stargaze pity is untouched at **0** and the target stays **Elijah & Lailah**, now for copies rather than the unlock. Switching does not reset the pity counter, but hopping targets leaves several half-built heroes, so stay on them.
 

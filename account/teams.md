@@ -46,7 +46,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 **Three weak points:**
 
 1. **One payload, four engines.** [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) calls Rolan and Aurora engines, not carries. Hugin is support, Temesia is a tank. **Zanie** is the only real damage dealer.
-2. **Nothing here ignores enemy defence.** Zanie's turrets, Hugin's forge buff and Aurora's summons all deal ordinary damage, so every stage of level deficit takes a cut of the whole comp. At AFK Stage 1129 in Infinite Stages, where nothing caps the enemy scaling, that is the weakness that grows on its own. See [progression.md](progression.md).
+2. **Nothing here ignores enemy defence.** Zanie's turrets, Hugin's forge buff and Aurora's summons all deal ordinary damage, so every stage of level deficit takes a cut of the whole comp. At AFK Stage 1142 in Infinite Stages, where nothing caps the enemy scaling, that is the weakness that grows on its own. See [progression.md](progression.md).
 3. **No healer.** Hugin gives cogshields and damage reduction. Rolan heals only as Morale climbs. Nothing heals on demand.
 
 **Risk:** Aurora is an engine at range 2, so she has to come forward. Confining Spell is picked to keep enemies off her.
@@ -83,7 +83,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 4. **Aurora multiplies the summons.** Dream Veil raises the damage of every allied summon, which pays Shemira's ghosts and her own bunnies, and her Hero Focus pays her back in ATK for the same summons.
 5. **Two damage types.** Taichi & Agumon is Physical and the other four are Magic, so an enemy stacked against one defence cannot resist the whole comp.
 
-**At AFK Stage 1129 this comp is the deficit-proof one, and that is its main advantage.** The Starter Story ladder is cleared and Infinite Stages have no ceiling, so enemy defence keeps climbing while the Resonance Level sits at 170. Raw ATK buys less every stage. Three taps here do not care: Daimon's Stitchy and Shemira's sacrificed ghosts both deal **true damage scaled to the target's max HP**, and Starshard adds a third on **current HP**. See [progression.md](progression.md).
+**At AFK Stage 1142 this comp is the deficit-proof one, and that is its main advantage.** The Starter Story ladder is cleared and Infinite Stages have no ceiling, so enemy defence keeps climbing while the Resonance Level sits at 170. Raw ATK buys less every stage. Three taps here do not care: Daimon's Stitchy and Shemira's sacrificed ghosts both deal **true damage scaled to the target's max HP**, and Starshard adds a third on **current HP**. See [progression.md](progression.md).
 
 **Faction bonus: +18%**, plus +2% for two Celestials. Two Graveborn with Aurora and Rolan wildcarding in makes 4. **Dimensional heroes do not wildcard**, confirmed from the account, so Taichi & Agumon costs the +22% cap. That trade is deliberate: [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md) states a hero holding an EX weapon usually beats a hero without one even one faction slot out of place. See [../mechanics/factions.md](../mechanics/factions.md).
 
@@ -105,6 +105,10 @@ Two answers, and neither is free.
 **Rolan out, Elijah & Lailah in.** They give **+60 Haste to every ally for 7s**, heal and add Energy Regen to the linked allies, and shield the weakest one. Their shared HP pool carries **+50% max HP**. Haste is damage across five heroes at once, and it makes the Starshard wave land more often. **The cost is Rolan's clone**, the biggest single damage add in the comp, so this lowers the ceiling to raise the floor. They are **Epic**, and their Hero Focus needs Legendary+, three Soul Sigils away. `unverified`: the source text says allies linked by Stellar Bond are "unaffected during the dance", and no source says whether that excludes them from the Haste or makes them control-immune. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
 **Aurora out, Koko in.** Her Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage**, which is the damage type this ladder cannot resist. She is Mauler, so the faction bonus falls to +14%. The cost is the summon multiplier behind Shemira's ghosts. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+
+**Aurora out, Phraesto in, and this is the one to test first.** He is a second Tank who deploys as **two bodies**, so the front holds twice as long. He taunts and stuns the enemy's highest damage dealer, which is what reaches Aurora at range 2 today. He heals himself 160% HP per enemy his Ultimate hits, so the comp gains its first healing. Allies behind his true body gain Energy Recovery Speed and allies behind his Illusion take less damage. He is **Hypogean**, so he wildcards exactly as Aurora does and the faction bonus stays at **+18%** plus +2%. The cost is the same as Koko's: Aurora's summon multiplier behind Shemira's ghosts. He is Epic and not a Hand, so he sits at the Resonance Level of 170, level for level with the slot he takes. See [../mechanics/heroes/phraesto.md](../mechanics/heroes/phraesto.md).
+
+`unverified`: **whether Phraesto's Illusion adds to the Starshard Spell counter.** The artifact fires every 3 **ally** Ultimates, and the Illusion casts all his skills as its own unit. If it counts, the wave lands far more often and this swap raises the ceiling as well as the floor. One battle settles it: field him and watch the wave. See [progression.md](progression.md).
 
 ---
 
