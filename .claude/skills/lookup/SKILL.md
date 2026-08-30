@@ -27,17 +27,17 @@ Retrieval has two moves. **Follow** a pointer when you know which file holds the
 
    Grep to find the files, then read them. Never answer from the grep line alone.
 
-5. **Follow the onward pointers.** Files link to each other. A team comp question starts at `account/teams.md`, which may already hold the answer, then runs through `mechanics/team-building.md` and `mechanics/team-archetypes.md` into `account/roster.md`, `mechanics/factions.md`, `mechanics/formation.md` and `mechanics/game-modes.md`. Keep following until the links stop telling you anything new.
+5. **Follow the onward pointers.** Files link to each other. Keep following until the links stop telling you anything new.
 
 6. **Name the gaps.** A **gap** is a fact the question needs that no file holds. Sort each gap:
    - A game rule, hero kit, artifact or event detail is a research gap. Invoke the `game-research` skill.
    - Anything only the user can know, such as what they own, what they cleared, or what the event screen says, is an account gap. Ask them, in one short question.
 
-7. **Write a comp down before handing it over.** A team comp recommended in chat and not written to [../../../account/teams.md](../../../account/teams.md) is lost to the next session, which will then invent a different one. Follow the rules at the top of that file: one comp per purpose, replace in place, and never replace a `running` comp without asking the user.
+7. **Hand a team comp to the `team-comp` skill.** It owns the order: draft the five from `account/roster.md` and `mechanics/`, then reconcile against `account/teams.md` and write the result there.
 
 8. **Answer from the files.** Say which files the answer came from. When a fact carries a `?`, `unverified` or `disputed` marker in its source file, say so in the answer rather than smoothing it over.
 
-Done when every matching pointer has been read, every cross-file set was found by grep rather than by guessing, every gap is either researched or put to the user, and any comp handed over is written to `account/teams.md`.
+Done when every matching pointer has been read, every cross-file set was found by grep rather than by guessing, every gap is either researched or put to the user, and any team comp request has been passed to the `team-comp` skill.
 
 ## The pointer contract
 
