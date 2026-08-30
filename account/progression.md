@@ -52,9 +52,11 @@ Bonnie and Rolan sit at 150, so the **Resonance Level is 150** and every other h
 | Confining Spell | +6 | S | the default pick for almost every comp |
 | Enlightening Spell | +9 | A | highest level owned, and still not the best pick |
 | Starshard Spell | +8 | A | true damage every 3 Ultimates, and the one real rival to Confining |
-| Awakening Spell | +6 | B | healer teams and hyper-carry |
+| Awakening Spell | +7 | B | healer teams and hyper-carry, one level short of its +8 step |
 
 Blazing and Ironwall Spell are not owned. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+**Awakening at +7 buys nothing over +6.** Artifact upgrades land at **+4, +8 and +10**, so only the +4 step is live and the next real gain is one level away at +8. It stays a B-tier artifact behind Confining and Starshard either way.
 
 **Enlightening at +9 does not displace Confining at +6 on any comp here.** +4 and +8 are both live, so its buff is 100 ATK SPD for 20s. It still buffs one hero, the rearmost ally, and the game chooses which. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry.
 
@@ -68,7 +70,7 @@ Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts
 
 ## Mode progress
 
-Everything except Trial of Abyss is unlocked at AFK Stage 901. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+Everything except Trial of Abyss is unlocked at AFK Stage 901. The Homestead unlock threshold is not recorded, but the account has it. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
@@ -79,6 +81,7 @@ Everything except Trial of Abyss is unlocked at AFK Stage 901. See [../mechanics
 | Legend Trial | yes, needs 166 | Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90, Tower of Light 52/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
+| Homestead, Darkswarm Invasion | yes | Homestead level `?`, Aggression `?`, weekly contribution `?`. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md) |
 | Stargaze Station | yes, needs 400 total pulls | pity at 0, target Elijah & Lailah |
 | Trial of Abyss | no, needs full story, all 1125 AFK Stages, and a 28-day-old server | locked |
 
