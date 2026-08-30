@@ -29,7 +29,7 @@ The same holds for a hero the guides praise. Score it from its kit, because the 
 
 The mirror of guide silence, and the one that stings more. **A guide describes a hero at its ceiling.** The copy on the roster may be several ascensions below that, and a skill that is not unlocked pays nothing.
 
-**Legendary+ and Mythic+ each unlock a skill**, and Mythic+ also unlocks Exclusive Equipment. So a hero below its breakpoint is a different hero. See [progression-systems.md](progression-systems.md).
+**Legendary+ unlocks Hero Focus, a permanent stat buff or passive effect. Mythic+ unlocks Exclusive Equipment and the new skill it carries.** So a hero below its breakpoint is a different hero. See [progression-systems.md](progression-systems.md).
 
 Before crediting a hero with a skill, check two numbers: the tier the skill unlocks at, and the tier in [../account/roster.md](../account/roster.md).
 

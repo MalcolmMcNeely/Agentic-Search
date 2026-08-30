@@ -54,11 +54,17 @@ A-Level heroes start at Elite. S-Level heroes start at Epic. Rare heroes (Hammie
 
 | Tier | Unlocks |
 | --- | --- |
-| Legendary+ | Hero Focus, plus a new skill |
-| Mythic+ | Exclusive Equipment (the EX weapon), plus a new skill |
-| Supreme+ | a new skill |
+| Legendary+ | **Hero Focus**: a permanent in-battle stat buff or passive effect, different for every hero |
+| Mythic+ | **Exclusive Equipment** (the EX weapon), which brings a new skill that grows as the weapon is upgraded |
+| Supreme+ | **Enhance Force**: strengthens one skill the hero already has |
 
 Every hero starts with three skills: Ultimate, Skill 1, Skill 2.
+
+**Only Mythic+ adds a skill.** Legendary+ and Supreme+ both change what the existing kit already does rather than adding to it. So read a hero's Hero Focus as part of its stat line, and its Enhance Force as a footnote on the skill it upgrades.
+
+**Hero Focus has three levels, and ascending does not raise them.** They are bought with **Tidal Essence**, so a Legendary+ hero and a Mythic hero can sit on the same Hero Focus level. Check the level in game before crediting a hero with the higher numbers.
+
+Two worked examples on this account, both in the hero files: [heroes/aurora.md](heroes/aurora.md) gains ATK that scales off allied summons, and [heroes/kruger.md](heroes/kruger.md) gains Ranged DEF and no damage at all.
 
 ### Paragon
 

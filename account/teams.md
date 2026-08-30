@@ -135,9 +135,9 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Front | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Legendary | 150 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 150 |
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | 150 |
+| Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Legendary | 150 |
 | Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Legendary | 150 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 150 |
 
@@ -160,6 +160,8 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 **6. Cecia is the debuffer, not Kruger.** The guides weight the defence-strip role highest, and Trial of Thorns steals **1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight**. Over 70s that compounds, and it multiplies both damage types this comp fields. Kruger strips defence too, but at range 1, standing in the frontal Frost cone that hits three heroes at once. Cecia does it from range 5 and adds a summon.
 
 **Damage is split 2 physical to 3 magic**, so Cecia's dual strip pays on every hero here.
+
+**Grid note: Taichi & Agumon starts in the back row, and nobody holds the front.** Agumon is range 7 until he digivolves, and the +100% HP that makes him a frontliner arrives with the transformation, not before it. Fielded in the front row he dies during the ramp. Confirmed from the account. He walks to the front himself once he transforms, which is where reason 3 above picks up. See [../mechanics/formation.md](../mechanics/formation.md).
 
 **Four weak points:**
 

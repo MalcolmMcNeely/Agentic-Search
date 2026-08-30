@@ -60,6 +60,8 @@ Different from the scaling carry, which grows smoothly from the first second. A 
 
 **Taichi & Agumon** is the pure case. Taichi stands off the field, invincible, and pushes 150 Energy into Agumon every 3s, plus 250 more per cheer while Agumon has not yet digivolved. That extra 250 exists only to shorten the ramp. The first Ultimate turns Agumon into WarGreymon for good: **+100% HP, +50% ATK**, new skills, and range 7 drops to range 1.
 
+**The ramp is a survival problem before it is a damage one.** Until the digivolve lands, Agumon is a range-7 attacker carrying none of the HP that makes WarGreymon a frontliner. **Confirmed from the account:** placed in the front row he was killed before he ever transformed, and the whole comp fell over with him. Start him in the back row and let him walk forward after the change. See [formation.md](formation.md).
+
 **Yamato & Gabumon** ramps the same way into MetalGarurumon, and WarGreymon shortens it for him. At battle start WarGreymon gives himself and every ally behind him **+25% of his own ATK** for 20s, and Gabumon taking that buff gains **300 Energy** on top.
 
 So the two ramp each other. Taichi feeds Agumon, Agumon digivolves early, WarGreymon then feeds Gabumon, and Gabumon digivolves early too.
@@ -93,7 +95,7 @@ Take it when the carry's Ultimate is the whole point, and when the fight lasts l
 **Engine:** Aurora. Her Dream Veil raises the damage of **every allied summon**, protects melee allies and strengthens ranged summon attacks.
 **Payload:** heroes whose damage comes from things they put on the field, not from themselves.
 
-Aurora is rated A+ alone and much better than that on a team built for her. Owned heroes that pay her: Shemira (ghosts), Cecia (Mr. Carlyle), Zanie (turrets), Silven (flying blades), Velara (magic circles), Chippy (hamsters), Kordan (hunting ring), Temesia (mount), Faramor (magic circle).
+Aurora is rated A+ alone and much better than that on a team built for her. **Her Hero Focus, live from Legendary+ and she is Mythic, pays her back for the same summons she buffs**: +10% ATK, plus +1% per allied summon belonging to a different ally, up to 5. So Dream Veil sends the buff out and Hero Focus brings it home, and both halves want the summon sources spread across different heroes. See [heroes/aurora.md](heroes/aurora.md). Owned heroes that pay her: Shemira (ghosts), Cecia (Mr. Carlyle), Zanie (turrets), Silven (flying blades), Velara (magic circles), Chippy (hamsters), Kordan (hunting ring), Temesia (mount), Faramor (magic circle).
 
 ### Sustain with offence
 

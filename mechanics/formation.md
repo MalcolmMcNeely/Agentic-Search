@@ -23,7 +23,7 @@ Every hero has a base range in tiles, recorded in its file under `mechanics/hero
 
 Two heroes on this account break their class label:
 
-- **Taichi & Agumon** starts at range 7, then digivolves to WarGreymon at range 1. It opens as a backline attacker and ends as the frontline. Place it expecting the melee form.
+- **Taichi & Agumon** starts at range 7, then digivolves to WarGreymon at range 1. It opens as a backline attacker and ends as the frontline. **Start it in the back row, not the front.** Confirmed from the account: fielded in the front row it was killed before the digivolve landed. The +100% HP that makes it a frontliner arrives with the transformation, so the pre-digivolve form is a fragile range-7 attacker with a tank's job and none of a tank's HP. Once it transforms it walks to the front on its own.
 - **Shadewing** is a Graveborn Rogue at range 1 doing magic damage. It has to reach the enemy to work.
 
 ## When to break the default
