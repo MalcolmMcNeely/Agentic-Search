@@ -93,5 +93,5 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Epic Recruitment pity | `?` |
 | Epic wishlist, 5 slots | Thoran, Shemira, Eironn, Smokey & Meerky, Shakir. See [../mechanics/recruitment.md](../mechanics/recruitment.md) |
 | Stargaze pity | 0 |
-| Stargaze target | `?` needs picking. Next by priority is Elijah & Lailah |
+| Stargaze target | Elijah & Lailah |
 | Stellar Crystals | `?` |

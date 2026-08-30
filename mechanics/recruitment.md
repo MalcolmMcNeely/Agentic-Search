@@ -85,9 +85,7 @@ Switching often is still bad. Celestial and Hypogean heroes need copies to ascen
 
 ## Against this account
 
-**Rolan is owned, at Epic.** Stargaze pity is 0 and **no target is set**. Set one before spending another crystal.
-
-Next target by priority: **Elijah & Lailah**. They want 14 copies for full ascension, so this is a long bank, not a quick pull.
+**Rolan is owned, at Epic.** Stargaze pity is 0 and the target is **Elijah & Lailah**, the next hero by priority now that Rolan is in hand. They want 14 copies for full ascension, so this is a long bank, not a quick pull. Switching does not reset the pity counter, but hopping targets leaves several half-built heroes, so stay on them.
 
 Rolan fits this roster twice over:
 
