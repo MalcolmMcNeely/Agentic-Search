@@ -79,7 +79,7 @@ That is 13 sigils on top of the original copy, 14 in all. S-Level heroes start a
 
 **The next three sigils all go to Elijah & Lailah.** Three more takes them to **Legendary+** and switches on Hero Focus, which allclash calls the single best investment on the hero. At about 28,000 Guild Medals a month that is roughly three months. Nothing else on this shelf returns as much.
 
-**Aurora is the buy after that, and she is closer than she looks.** She is the only other hero on this shelf the account owns, and she is **Mythic**, so **Mythic+ is 2 sigils**, or 60,000 Guild Medals. That is the account's first Exclusive Equipment and the only tier that adds a skill. [dream-store.md](dream-store.md) reaches the same step on Daimon for 12 Dream Fragment sigils, so the two shops can run in parallel: Daimon there, Aurora here.
+**Aurora is the buy after that, and she is closer than she looks.** She is the only other hero on this shelf the account owns, and she is **Mythic**, so **Mythic+ is 2 sigils**, or 60,000 Guild Medals. That is a second Exclusive Equipment for the account, and Mythic+ is the only tier that adds a skill. [dream-store.md](dream-store.md) reaches the same step on Daimon for 12 Dream Fragment sigils, so the two shops can run in parallel: Daimon there, Aurora here.
 
 **Rolan is ranked first among Celestials by two 2026 guides and is not on the shelf list**, so copies of him are not a Guild Store option. He is owned at Epic regardless. See [heroes/rolan.md](heroes/rolan.md).
 

@@ -29,7 +29,7 @@ This matters for upgrade planning. Raising one slot by 6 raises the class Level 
 
 Several guides state that gear cannot exceed the Resonance Level, and that Resonance Level 79 crafts level 75 gear.
 
-**The account contradicts this.** At Resonance Level 150 it holds gear from 145 to the 240 cap, across all six classes. The lowest class Level is 202, the highest is 213, so every class sits **52 to 63 levels above** the Resonance Level and the top slots sit 90 above it. See [../account/equipment.md](../account/equipment.md).
+**The account contradicts this.** At Resonance Level 170 it holds gear from 185 to the 240 cap, across all six classes. The lowest class Level is 224, the highest is 230, so every class sits **54 to 60 levels above** the Resonance Level and sixteen slots sit 70 above it. See [../account/equipment.md](../account/equipment.md).
 
 The account has held gear above its Resonance Level across repeated readings, so this is not a one-off.
 

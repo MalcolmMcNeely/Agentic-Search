@@ -23,21 +23,23 @@ Unlocks at **Legendary+**, which this account holds. See [../progression-systems
 
 ## Exclusive Equipment
 
-Unlocks at **Mythic+**, which is **one step above this account**.
+Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate, and this is the only Exclusive Equipment on the account. See [../../account/equipment.md](../../account/equipment.md).
 
-**This is the account's nearest Exclusive Equipment, and it is not close between candidates.** An S-Level hero pays **2 Soul Sigils and 100 Faction Acorns** to cross Mythic to Mythic+. The account owns no Exclusive Equipment on any hero, and Mythic+ is the only tier that adds a skill. Every other candidate costs ten times as many copies. See [../dream-store.md](../dream-store.md).
+**He is the strongest hero the account owns.** Two ascension tiers above every other hero plus an EX weapon is a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
 
-`?` What the weapon's skill does. No source publishes it.
+`?` What the weapon's skill does. No source publishes it. Read it off the hero screen in game.
+
+**Enhance Force needs Supreme+, one tier above him.** It strengthens a skill he already has. See [../progression-systems.md](../progression-systems.md).
 
 ## Copies are on a clock
 
-Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. Take the copies before it closes, because nothing says they return.
+Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. Copies now buy Supreme+ and Enhance Force, so take them before the event closes.
 
 The event also carries the redemption code **CourageAndFriendship** for 300 Diamonds and 20,000 Gold, expiring 14 September 2026 at 16:00 UTC.
 
 ## Best for
 
-Dream Realm and Supreme Arena. A frontline tank-carry once digivolved.
+Everything except Legend Trial, which bars Dimensional heroes. Dream Realm and Supreme Arena remain his best modes, and he is now strong enough to carry AFK Stages too. A frontline tank-carry once digivolved.
 
 ## Notes
 

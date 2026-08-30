@@ -67,7 +67,7 @@ Only three tiers change anything, per [progression-systems.md](progression-syste
 
 She is the hero this account has already decided it wants. The Tower of Will entry in [../account/teams.md](../account/teams.md) names her as the first swap to try and says to raise her first. The only thing still stopping the swap is that she is Epic against Kruger's Legendary+, three ascension steps down. Those three steps cost 4 + 5 + 8 = **17 sigils**, and they end on Hero Focus.
 
-**Her Ultimate is the account's stated need, not just a tower fix.** Full Energy gives allies 45 to 55% damage reduction for 12s, then converts everything blocked into **true damage**. [../account/progression.md](../account/progression.md) identifies true damage as the one thing that holds its value as the AFK Stage 954 against Resonance Level 150 deficit inflates enemy defence. Koko turns a defensive cooldown into defence-ignoring offence. See [heroes/koko.md](heroes/koko.md).
+**Her Ultimate is the account's stated need, not just a tower fix.** Full Energy gives allies 45 to 55% damage reduction for 12s, then converts everything blocked into **true damage**. [../account/progression.md](../account/progression.md) identifies true damage as the one thing that holds its value while Infinite Stages inflate enemy defence with no cap. Koko turns a defensive cooldown into defence-ignoring offence. See [heroes/koko.md](heroes/koko.md).
 
 ### The road from Epic
 
@@ -81,9 +81,9 @@ A copy is 1,200 fragments. Koko climbs like this:
 
 Legendary+ is where she matches Kruger and Hero Focus unlocks. At the account's current Dream Realm output that is a multi-month target, not a purchase.
 
-**Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and the account owns no Exclusive Equipment to spend it on. Banking is therefore worse than committing.
+**Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and the one EX weapon the account owns sits on Taichi & Agumon, who is S-Level and never stocked here. Banking is therefore worse than committing.
 
-**The account's first Exclusive Equipment will not come from this shelf.** No stocked hero is anywhere near Mythic+, and **Taichi & Agumon sits one step away at Mythic for 2 sigils and 100 Faction Acorns**. Chase that first. The shelf is the slower, separate project. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md).
+**The account's first Exclusive Equipment did not come from this shelf, and neither will the second.** Taichi & Agumon reached **Supreme** with an **EX +8** through the Digimon crossover event, which handed his copies out free. The shelf's stocked heroes are still nowhere near Mythic+. It remains the slower, separate project. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md) and [../account/equipment.md](../account/equipment.md).
 
 **Second pick: Antandra, 17 copies from Epic to Legendary+.** She is the tank holding the front of the same Tower of Will comp and its lowest tier. Cheaper than Koko and it fixes the same comp, but it buys survival where Koko buys survival and damage at once.
 
@@ -96,7 +96,7 @@ That makes his 22 sigils to Mythic+ the worst value on the shelf, not the best.
 
 **Graveborn depth is here, and it is slower than it looks.** [recruitment.md](recruitment.md) names Viperian, Silvina, Niru and Salazer as the depth Tower of Eternity needs, and all four are stocked. Each starts at Elite, so Legendary+ costs 1 + 3 + 4 + 5 + 8 = **21 sigils** from scratch, per hero. Worth doing after Koko, not before.
 
-**The two AFK Stages push comps cannot be helped here at all.** No hero in either one is on the shelf. The push still moves on Resonance Level, which means Bonnie and Rolan, and neither is buyable. See [../account/progression.md](../account/progression.md).
+**The two AFK Stages push comps cannot be helped here at all.** No hero in either one is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hands, now Shemira, Aurora and Rolan. None of the three is buyable here. See [../account/progression.md](../account/progression.md).
 
 **The budget is the real constraint.** The account sits at Snow Stomper, Epic difficulty in Dream Realm. Fragment income scales with boss damage, so raising Dream Realm output is what makes this shop affordable. See [snow-stomper.md](snow-stomper.md).
 

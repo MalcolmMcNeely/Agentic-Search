@@ -50,7 +50,7 @@ Every 4 Ultimates cast by allies, a flame wave hits all enemies. It deals true d
 - The damage is capped at **60% of Team ATK**, rising to 90% at +4 (playafkjourney only).
 - The ATK SPD cut is **-60 for 4s** (zilliongamer only).
 
-**On this account:** Starshard sits at **+8**, so the +4 and +8 upgrades are both live. The wave hits for 24% of current HP and fires every **3** Ultimates. Only the +10 team Haste and HP boost is left. See [../account/progression.md](../account/progression.md).
+**On this account:** Starshard sits at **+8**, so the +4 and +8 upgrades are both live. The wave hits for 24% of current HP and fires every **3** Ultimates. Only the +10 team Haste and HP boost is left, and it is the upgrade worth chasing, because this artifact holds the comp the account actually plays. See [../account/progression.md](../account/progression.md).
 
 ### Enlightening Spell — A
 
@@ -66,7 +66,7 @@ At battle start it raises the ATK SPD of **one hero, the rearmost ally in the ba
 
 The community reading is that it is the weakest A-tier pick: worth it only for a fragile back-row damage dealer that needs the control immunity to survive the opening, and wasted on a hero that already buffs itself.
 
-**On this account:** Enlightening sits at **+9**, so +4 and +8 are both live and the buff is 100 ATK SPD for 20s. It is the highest artifact level on the account, and still loses to Confining Spell +6, because tier beats level here. See [../account/progression.md](../account/progression.md).
+**On this account:** Enlightening sits at **+10**, fully upgraded, and still loses to Confining Spell +6. Tier beats level here. All three steps are live, and the artifact still buffs **one hero, the rearmost ally**, chosen by the game. Every comp in [../account/teams.md](../account/teams.md) with a back row holds two or three heroes, so the buff cannot be aimed at the carry. The +10 step itself is `unverified`: one source, and its numbers do not fit the ones above. See [../account/progression.md](../account/progression.md).
 
 ### Awakening Spell — B
 
@@ -83,6 +83,8 @@ Shoots a fireball at the weakest enemy every **5s**, dealing magic damage equal 
 | +10 | DEF Penetration and both DEF stats up |
 
 `unverified`: the +8 extra damage is capped at 20% of Team ATK (playafkjourney only).
+
+**On this account:** Blazing sits at **+9**, so +4 and +8 are live and the fireball hits for 30% of Team ATK plus 4% of the target's lost HP. **+10 is one level away and adds DEF Penetration**, which is the same argument that makes true damage this account's best scaling. It stays a B-tier artifact behind Starshard and Confining, so buy the level for the penetration, not to change the pick. See [../account/progression.md](../account/progression.md).
 
 ### Ironwall Spell — `unverified` C or B
 

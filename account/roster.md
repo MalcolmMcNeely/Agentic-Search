@@ -72,7 +72,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Daimon | Tank | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
 | Shemira | Mage | Magic | Mythic | - | [shemira](../mechanics/heroes/shemira.md) |
-| Bonnie | Marksman | Magic | Legendary+ | - | [bonnie](../mechanics/heroes/bonnie.md) |
+| Bonnie | Marksman | Magic | Mythic | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
 | Valka | Warrior | Physical | Legendary | - | [valka](../mechanics/heroes/valka.md) |
 | Shadewing | Rogue | Magic | Elite | - | [shadewing](../mechanics/heroes/shadewing.md) |
@@ -81,7 +81,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Taichi & Agumon | Warrior | Physical | Mythic | - | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
+| Taichi & Agumon | Warrior | Physical | Supreme | +8 | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
 | Yamato & Gabumon | Mage | Magic | Legendary | - | [yamato-gabumon](../mechanics/heroes/yamato-gabumon.md) |
 | Pandora | Support | Magic | Legendary | - | [pandora](../mechanics/heroes/pandora.md) |
 

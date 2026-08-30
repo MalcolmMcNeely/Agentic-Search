@@ -6,7 +6,8 @@
 | Mode | Unlocks at | Team | Notes |
 | --- | --- | --- | --- |
 | World Map | start | one own team | PvE exploration |
-| AFK Stages | start | one own team | main progression ladder, 1125 stages |
+| AFK Stages | start | one own team | main progression ladder, **1125 stages and that is the end of it** |
+| Infinite Stages | AFK Stage 1125 | one own team | the uncapped ladder that follows. See the section below |
 | Dream Realm | AFK Stage 16 | one own team | boss rush, damage race against the server. Four bosses rotate daily, six difficulties each |
 | Arena | AFK Stage 20 | one own team | ranked PvP. Written up in [arena.md](arena.md) |
 | Arcane Labyrinth | AFK Stage 100 | 10-hero bench, 5 fielded | roguelike dungeon. HP and Energy carry between floors. Written up in [arcane-labyrinth.md](arcane-labyrinth.md) |
@@ -35,6 +36,18 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 - **Darkswarm Invasion** scores on total damage dealt across the week, so a battle that ends in a wipe still pays. Attempts per Hypofiend battle are limited and the enemy faction is unpublished, so build for raw output and wave clear. See [darkswarm-invasion.md](darkswarm-invasion.md).
 - **Solo battles** on the World Map and in the story deploy one hero, so the faction bonus pays nothing and ally-facing skills are wasted. See [solo-battles.md](solo-battles.md).
 
+## Infinite Stages
+
+**The Starter Story ladder ends at 1125.** Clearing it does not end the AFK ladder, it changes which ladder is being climbed.
+
+- Reaching AFK Stage 1125 makes **Infinite Quest** available to **every player on that server**, not only the one who got there.
+- Players then clear **Infinite Stages** for **clearance rewards** and **ranking rewards**. Ranking means the mode is scored against other players on the server, not only against the content.
+- **It runs until the next season begins**, so it is a window rather than a permanent ladder.
+
+`unverified`, one search summary only: Infinite Quest is available only on servers launched after the version that introduced it. If that holds, an older server may never see the mode. It does not apply to this account, which is already in it. See [../account/progression.md](../account/progression.md).
+
+**What it changes about team building.** Nothing caps the enemy scaling, so the level deficit argument never stops growing. **True damage and percentage-of-current-HP damage hold their value where raw ATK does not.** That is the whole reason Starshard Spell holds this account's push comp. See [artifacts.md](artifacts.md) and [hero-scoring.md](hero-scoring.md).
+
 ## Getting heroes in the first place
 
 Which banner to pull on, what each currency buys, the wishlists and Stargaze Station are in [recruitment.md](recruitment.md).
@@ -48,3 +61,6 @@ Which banner to pull on, what each currency buys, the wishlists and Stargaze Sta
 - https://afk-journey.fandom.com/wiki/Menu (menu icon top-left, Tab on PC; 402 on fetch, read through a search summary)
 - https://www.prydwen.gg/afk-journey/guides/homestead-guide (Darkswarm Invasion lives in the Homestead; 403 on fetch, read through a search summary)
 - https://afk-journey.fandom.com/wiki/Dream_Realm (Dream Realm is reached from the Everlight screen; 402 on fetch, read through a search summary)
+- https://afk-journey.fandom.com/wiki/AFK_Stage (1125 is the last Starter Story stage; Infinite Quest unlocks server-wide at 1125 and runs until the next season; 402 on fetch, read through search summaries) [2026]
+- https://www.gameleap.com/articles/afk-journey-how-to-unlock-trial-of-abyss (Trial of Abyss follows the AFK Stages)
+- https://afk-journey.fandom.com/wiki/Version/1.1.16 (Infinite Quest patch notes; read through a search summary)

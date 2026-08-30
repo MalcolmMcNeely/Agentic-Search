@@ -152,12 +152,12 @@ Read with [../account/roster.md](../account/roster.md).
 
 - **Ultimate engine.** **Rolan** clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
-- **Ramp carry.** All three Dimensional heroes are owned. **Taichi & Agumon is Mythic**, one step from the Exclusive Equipment, and the other two are Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md).
+- **Ramp carry.** All three Dimensional heroes are owned. **Taichi & Agumon is Supreme with an EX weapon at +8**, which makes him the strongest hero on the roster by two ascension tiers, and the other two are Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md) and [../account/equipment.md](../account/equipment.md).
 - **Summon stack.** Aurora is Mythic, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is Legendary+.
 - **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. Lucius, Antandra and Pandora fill the same job at smaller scale.
-- **Control.** Bonnie is Legendary, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
+- **Control.** Bonnie is Mythic, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).
 
