@@ -1,7 +1,7 @@
 # Team archetypes
 
 > **Covers:** the comp patterns a team can be built on, the engine that drives each one, when to pick it, and which owned heroes fill it.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 A tier list ranks a hero alone. A hero is never alone. This file holds the second half: what each hero's **job** is, and which fights that job wins.
 

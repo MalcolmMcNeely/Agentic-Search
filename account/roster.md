@@ -1,7 +1,7 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 ## How to read this
 

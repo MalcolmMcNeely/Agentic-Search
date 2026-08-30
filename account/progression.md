@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, artifacts owned and mode progress.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -27,7 +27,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Shemira, Elijah & Lailah and Rolan rise together**, and then it lifts all 42 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **Rolan is now the only Hand below the cap**, so every level put into him lifts all 42 heroes at once. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
@@ -38,21 +38,21 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | --- | --- | --- | --- | --- |
 | Taichi & Agumon | Dimensional | Warrior | 180 | Supreme, EX +8 |
 | Daimon | Graveborn | Tank | 180 | Mythic |
-| Shemira | Graveborn | Mage | 170 | Mythic |
-| Elijah & Lailah | Celestial | Support | 170 | Epic |
+| Shemira | Graveborn | Mage | 180 | Mythic |
+| Elijah & Lailah | Celestial | Support | 180 | Epic |
 | Rolan | Celestial | Support | 170 | Epic |
 
-**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Aurora is no longer a Hand.** Elijah & Lailah took the slot when they replaced her in that comp, and because the slot sat at 170 and the Resonance Level is 170, the swap changed no number.
+**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Aurora is no longer a Hand.** Elijah & Lailah took the slot when they replaced her in that comp.
 
-Shemira, Elijah & Lailah and Rolan sit at 170, so the **Resonance Level is 170** and every other hero on the account sits there too, Aurora and Bonnie included.
+Rolan alone sits at 170, so the **Resonance Level is 170** and every other hero on the account sits there too, Aurora, Hugin and Bonnie included.
 
-**Taichi & Agumon and Daimon are at the +10 cap and cannot take another level.** 180 is exactly 170 plus 10. They are frozen until the Resonance Level rises.
+**Four of the five Hands are at the +10 cap and cannot take another level.** Taichi & Agumon, Daimon, Shemira and Elijah & Lailah all sit at 180, which is exactly 170 plus 10. They are frozen until the Resonance Level rises.
 
-**The Resonance Level is the ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 42 heroes for free. So every level now goes into **Shemira, Elijah & Lailah and Rolan**, and the account gains nothing until all three rise together. Levelling one alone moves only that hero.
+**Rolan is the single bottleneck for the whole account, and that is the clearest the progression picture has been.** The Resonance Level is set by the **lowest** Hand, and he is the only Hand still below the cap. So **every level bought for Rolan raises the Resonance Level, which lifts all 42 heroes and unfreezes the other four Hands at the same time.** There is no longer a group of heroes that must rise together: it is one hero. Put every level into him until the other four are no longer capped.
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**Thador can be borrowed for Tower of Nature.** Swap him into any Hand slot before the run and he takes its level; swap him out after. Keep the swap off a 170 slot and the Resonance Level never moves. The swap is free in both directions.
+**Thador can be borrowed for Tower of Nature.** Swap him into one of the four **180** slots before the run and he takes its level; swap him out after. Putting him in the 170 slot buys nothing, because that is the Resonance Level he already sits at. The swap is free in both directions and changes no slot's level.
 
 ### Artifacts owned
 

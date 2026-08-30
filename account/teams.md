@@ -1,7 +1,7 @@
 # Teams
 
 > **Covers:** the current team comp for each purpose, its formation, artifact and status.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 One comp per purpose. This file holds what to field **now**, not how the advice got here.
 
@@ -34,14 +34,16 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 180 |
-| Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 170 |
+| Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 180 |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | 180 |
-| Back | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | 170 |
+| Back | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | 180 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 170 |
 
 **Artifact:** Starshard Spell +8. Its wave is true damage worth **24% of each target's current HP**, and it fires every **3** ally Ultimates because +4 and +8 are both live. **Confirmed from the account: it beat Confining Spell +6 here.**
 
-**These five are the Hands of Resonance**, so the whole comp runs above the Resonance Level. Taichi & Agumon and Daimon hold the two **180** slots, and Shemira, Elijah & Lailah and Rolan sit at **170**. Elijah & Lailah hold the slot Aurora used to, and the level travelled with the slot, so the swap changed no number: 170 is the Resonance Level, so those three slots pay nothing over it today. See [progression.md](progression.md).
+**These five are the Hands of Resonance**, so the whole comp runs above the Resonance Level. **Four of them are at the +10 cap of 180** — Taichi & Agumon, Daimon, Shemira and Elijah & Lailah — and only **Rolan** sits at the Resonance Level of 170. Elijah & Lailah hold the slot Aurora used to.
+
+**Rolan's slot is the account's bottleneck, and it is standing in this comp.** It is the lowest Hand slot, so it sets the Resonance Level for all 42 heroes, and the other four Hands are frozen at the +10 cap until it rises. Every level bought for that slot lifts the whole roster and unfreezes his four team-mates at the same time. It is the highest-value level on the account. See [progression.md](progression.md).
 
 **Two carries, and the stronger of them is the strongest hero on the account.** Taichi & Agumon is **Supreme with an Exclusive Equipment at +8**, two ascension tiers above every other hero owned and the only EX weapon on the roster. Shemira is the second carry and the comp's original one.
 
@@ -121,7 +123,7 @@ Rolan pays **10% Morale per hero** when the most-deployed faction is **Lightbear
 
 **Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, with Aurora and Rolan wildcarding.
 
-**Hands of Resonance: the two 180 slots go to Shemira and Daimon**, the carry and the frontline. Aurora, Bonnie and Rolan run at 170. Any comp can hold all five slots, because the swap is free and the level travels with the slot, so the levels follow whichever comp is fielded. Keep the swap off the three 170 slots, or the Resonance Level moves. See [progression.md](progression.md).
+**Hands of Resonance: four slots sit at 180 and one at 170**, so this comp can field four heroes above the Resonance Level. Give the 180 slots to Shemira, Daimon, Bonnie and Aurora, and leave Rolan on the 170, because he is the engine rather than a damage source. Any comp can hold all five slots: the swap is free and the **level travels with the slot**, so who stands in a slot never changes the slot's level or the Resonance Level. See [progression.md](progression.md).
 
 On top of the levels it fields **control plus a carry**, the two patterns [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) names for PvP. Bonnie is the control: her Aging cuts enemy Haste and ATK, spreads to nearby foes, and her Ultimate stuns anything carrying it. Daimon is a real Tank at Mythic who soaks and shields. Shemira is the carry, and Rolan clones her ghost Ultimate outright. Aurora's Dream Veil raises the damage of every allied summon, which pays Shemira's ghosts and her own bunnies.
 
@@ -184,7 +186,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 3. **Freeze may not land.** `unverified`. MetalGarurumon's Cocytus Breath freezes an area, and no source says whether Snow Stomper resists hard control. His continuous HP drain and his self-stacking ATK and Haste pay either way.
 4. **Yamato's range is not published**, so he sits in the back row on the advice in his own kit file, which is that he is more fragile than Agumon.
 
-**Hands of Resonance: swap the two 180 slots onto Taichi & Agumon and Yamato & Gabumon** before the run. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so levelling Taichi & Agumon raises the original Ultimate and the copy together. Cecia, Pandora and Rolan run at 170. The swap is free and the level travels with the slot, and Taichi & Agumon already holds a 180 slot. See [progression.md](progression.md).
+**Hands of Resonance: put two of the four 180 slots onto Taichi & Agumon and Yamato & Gabumon** before the run. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. Four slots sit at 180 and one at 170; give the 170 to whichever hero here needs the level least. See [progression.md](progression.md).
 
 **Rolan's Morale opener pays 6% per hero here, not 10%.** The 10% rate needs a Lightbearer or Celestial core, and this is a Dimensional one. Three Dimensional heroes give 18% Morale at battle start. He is in for the Ultimate clone, which on an uninterruptible 7-hit Ultimate is the largest single damage add available to this account.
 
@@ -346,7 +348,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **The frontline is real.** Daimon is a Tank, not a Warrior, so this comp fields a Tank at Mythic beside Valka. Tank gear sits at 202 against Warrior at 205, so his class costs 3 levels of gear and buys the right role.
 
-**Daimon and Shemira hold Hands of Resonance**, so Daimon runs at 180 and Shemira at 170, against 170 for Bonnie, Valka and Cecia. Swapping a Hand is free and the level travels with the slot, so borrow the second 180 slot from Taichi & Agumon for Valka or Cecia before the tower opens. He is Dimensional and locked out of every tower, so the slot is idle anyway. Keep the swap off the three 170 slots, or the Resonance Level moves. See [progression.md](progression.md).
+**Daimon and Shemira both hold 180 Hand slots**, and two more 180 slots are free to move onto any two of Bonnie, Valka and Cecia before the run. The swap is free and the level travels with the slot, so four of these five can run at 180 and the fifth at 170. See [progression.md](progression.md).
 
 ---
 
@@ -440,7 +442,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **4. The AoE is the ghosts.** The enemy is a swarm and no source says whether a battle fields one Hypofiend or a wave, so wave clear is the safe build. Twenty ghosts plus Aurora's bunnies covers it, and Bonnie's Aging cuts enemy Haste and ATK and then spreads.
 
-**5. Hands of Resonance: the two 180 slots go to Shemira and Daimon.** Aurora, Bonnie and Rolan run at 170. The slots are free to reassign, so the levels follow whichever comp is fielded. See [progression.md](progression.md).
+**5. Hands of Resonance: four slots sit at 180 and one at 170.** Give the 180 slots to Shemira, Daimon, Bonnie and Aurora and leave Rolan at 170. The slots are free to reassign and the level travels with the slot, so the levels follow whichever comp is fielded. See [progression.md](progression.md).
 
 **6. No faction counter is available to plan around.** The Hypofiend faction is unpublished, so the +22% stat bonus is the whole faction reward here. See [../mechanics/factions.md](../mechanics/factions.md).
 

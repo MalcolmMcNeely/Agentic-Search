@@ -1,7 +1,7 @@
 # Equipment and charms
 
 > **Covers:** Class Equipment levels, Exclusive Equipment owned, and Magic Charm loadouts.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 Three systems with different scopes. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 

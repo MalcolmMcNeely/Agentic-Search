@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, the permanent artifact ranking, and the Season 7 set.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 One artifact is equipped per team, not per hero. It fires its effect during the battle.
 
