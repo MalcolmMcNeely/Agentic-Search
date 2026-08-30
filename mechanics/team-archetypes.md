@@ -16,6 +16,17 @@ Every working team is an **engine** plus a **payload**.
 
 A hero rated low can be the best pick when it is the only engine for the payload you own. A hero rated high is dead weight with no engine behind it.
 
+## Every owned hero is placed
+
+The hero lists in this file cover the **whole** roster. A hero named in none of them is invisible to comp drafting, and gets left out of every team for a reason that has nothing to do with its kit.
+
+Two rules hold this file together.
+
+- A hero added to [../account/roster.md](../account/roster.md) is placed in an archetype here in the same turn, scored by [hero-scoring.md](hero-scoring.md).
+- A hero that genuinely fits no pattern goes in **Placed nowhere** at the bottom, with the reason. An empty line there is a bug, not a tidy result.
+
+New heroes are what this breaks on. A collab hero or a new banner hero has no guide coverage yet, so pattern-matching against guides skips it in silence. Score the kit instead. See the guide silence rule in [hero-scoring.md](hero-scoring.md).
+
 ## The archetypes
 
 ### Nuke, or combo-wombo
@@ -24,6 +35,8 @@ A hero rated low can be the best pick when it is the only engine for the payload
 **Payload:** Arden, who charges his Ultimate fast off Eironn's hit, then drops AoE damage and control on the stack.
 
 Take it when enemies spread out, and in PvP. It is a burst pattern: it wins in the first ten seconds or not at all. Eironn casts at battle start from Mythic+, which is when the pattern really turns on.
+
+**Faramor** is the third body here. His Ultimate circle deals true damage and blocks enemy healing, and its damage rises with HP the enemy has already lost, so it pays most on a stack Eironn has already gathered.
 
 ### Scaling carry
 
@@ -36,12 +49,35 @@ The named build is **Eironn, Ulmus, Bonnie, Daimon, Shemira**. Shemira snowballs
 
 Take it in long fights: AFK Stages and campaign. It needs almost no Exclusive Equipment, so it suits a young account.
 
+Other owned payloads that grow the same way: **Valen** stacks permanent ATK across casts, **Mirael** stacks rolling burn, **Shadewing** stacks curses and scales with HP the enemy has already lost, and **Seth** stacks Haste and Life Drain while every kill refunds his cooldown and Energy. Seth needs a fight with many killable bodies, so he is a campaign and Labyrinth pick, not a boss pick.
+
+### Ramp carry
+
+**Engine:** a feeder that exists to push one hero over a threshold fast.
+**Payload:** a hero that permanently upgrades once the threshold is crossed.
+
+Different from the scaling carry, which grows smoothly from the first second. A ramp carry pays little, then jumps in one step and stays up there.
+
+**Taichi & Agumon** is the pure case. Taichi stands off the field, invincible, and pushes 150 Energy into Agumon every 3s, plus 250 more per cheer while Agumon has not yet digivolved. That extra 250 exists only to shorten the ramp. The first Ultimate turns Agumon into WarGreymon for good: **+100% HP, +50% ATK**, new skills, and range 7 drops to range 1.
+
+**Yamato & Gabumon** ramps the same way into MetalGarurumon, and WarGreymon shortens it for him. At battle start WarGreymon gives himself and every ally behind him **+25% of his own ATK** for 20s, and Gabumon taking that buff gains **300 Energy** on top.
+
+So the two ramp each other. Taichi feeds Agumon, Agumon digivolves early, WarGreymon then feeds Gabumon, and Gabumon digivolves early too.
+
+Take it in long fights: Dream Realm, AFK Stages, Arcane Labyrinth, Supreme Arena. Leave it home in a burst race, where the fight ends before either digivolve lands.
+
 ### Boss amplify
 
-**Engine:** Galahad. Her Time Recast makes another damage dealer or buffer fire again into the boss.
+**Engine:** a hero that makes another hero's Ultimate fire twice into one health bar.
 **Payload:** the single hardest-hitting hero on the team.
 
-This is a **Dream Realm** pattern, not a campaign one. One target, one long health bar, no adds. Galahad is the Dream Realm carry and mediocre outside it. See [snow-stomper.md](snow-stomper.md).
+This is a **Dream Realm** pattern, not a campaign one. One target, one long health bar, no adds. See [snow-stomper.md](snow-stomper.md).
+
+**Rolan is the confirmed engine.** His clone inherits 80% of the caster's base stats and casts the same Ultimate again, so he doubles whichever hero hits hardest.
+
+**Galahad, `unverified`.** Two readings, both kept. The team guides credit her with a **Time Recast** that makes another hero fire again, which is what put her in this archetype. Her own kit file describes a different skill set: Temporal Field damages all enemies and draws a Magic Circle, and once the circle completes, Magister Merlin's skills become 20% stronger and last 100% longer. No source reconciles the two. Until one does, build boss amplify on Rolan, whose skill text is unambiguous. See [heroes/galahad.md](heroes/galahad.md).
+
+Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armor to strip boss defence and knocks down for 450%, **Valka** builds panic stacks into true damage scaled to the boss's **max** HP, which is the stat a boss has most of, and **Lenya** locks the enemy top damage dealer into a 12s duel.
 
 ### Ultimate engine
 
@@ -50,18 +86,33 @@ This is a **Dream Realm** pattern, not a campaign one. One target, one long heal
 
 Take it when the carry's Ultimate is the whole point, and when the fight lasts long enough for Morale to climb. Weak in short fights.
 
+**Smokey & Meerky** feeds the pair Energy back off its own healing Ultimate, from range 8. **Pandora** feeds a single ally: Boxed Blessing seals that ally invincible for 4s, then releases them with bonus Energy and ATK, which is protection and Energy in one skill. **Taichi** is the most extreme feeder on the roster, but he only ever feeds Agumon, so he belongs to the ramp carry above.
+
 ### Summon stack
 
 **Engine:** Aurora. Her Dream Veil raises the damage of **every allied summon**, protects melee allies and strengthens ranged summon attacks.
 **Payload:** heroes whose damage comes from things they put on the field, not from themselves.
 
-Aurora is rated A+ alone and much better than that on a team built for her. Owned heroes that pay her: Shemira (ghosts), Cecia (Mr. Carlyle), Zanie (turrets), Silven (flying blades), Velara (magic circles), Chippy (hamsters), Kordan (hunting ring), Temesia (mount).
+Aurora is rated A+ alone and much better than that on a team built for her. Owned heroes that pay her: Shemira (ghosts), Cecia (Mr. Carlyle), Zanie (turrets), Silven (flying blades), Velara (magic circles), Chippy (hamsters), Kordan (hunting ring), Temesia (mount), Faramor (magic circle).
 
 ### Sustain with offence
 
 **Engine and payload in one.** Solise heals in waves, and her Lifebloom Buds turn into Bulbsprites that raise team damage. Hugin does the same shape: cogshields plus an ATK and Haste buff on the top damage dealer.
 
 Take it when the fight is survivable but slow, and a pure healer would waste a slot. Not for burst races.
+
+**Hewynn is the account's strongest healer** and takes this slot ahead of the two above when the team is simply dying. Rain Prayer heals every ally for up to 115% HP per second across 9s, Revitalize strips debuffs, and Tranquil adds team-wide damage reduction while the Ultimate runs, so she pays into both sums at once. **Fay** and **Smokey & Meerky** heal and buff ATK together. **Hammie** does the same job at Rare, and she cannot ascend, so she falls off and is a filler pick only.
+
+### Mitigation
+
+**Engine:** cut the damage before it lands, rather than heal it back after.
+**Payload:** any fragile carry that then survives to fire.
+
+Healing races the enemy's damage. Mitigation lowers it, which is stronger against burst, because a heal arrives after the hit and a shield arrives before it.
+
+**Koko** is the best of these and the clearest case of a hero paying into both sums. Full Energy gives the team **45 to 55% damage reduction for 12s**, then converts everything it blocked into **true damage** against the enemy. **Lucius** shields a tile and its neighbours against 520% damage for 10s. **Antandra** taunts, cuts her own damage taken by 60%, and adds more reduction when the ally she guards drops below half HP. **Pandora** makes one ally outright invincible for 4s.
+
+Take it in Dream Realm and Arena, where one enemy Ultimate is what kills you.
 
 ### Control
 
@@ -70,16 +121,23 @@ Take it when the fight is survivable but slow, and a pure healer would waste a s
 
 Take it in PvP and against enemy comps that need their own Ultimates.
 
+**Yamato & Gabumon** is the heaviest control on the roster once digivolved: Cocytus Breath freezes an area and drains HP, and Garuru Tomahawk is a splash freeze missile. **Gerda** sleeps a whole area for up to 3s while healing through it. **Pandora** makes every unit flee for 5s and then cuts enemy ATK. **Lenya** removes one enemy from the fight by duelling it.
+
+### Placed nowhere
+
+Every hero on the roster is named in an archetype above. When that stops being true, the hero goes here with the reason.
+
 ## Picking by matchup
 
 | The fight | Bring | Leave home |
 | --- | --- | --- |
 | enemies spread across the grid | nuke, or AoE control | single-target amplify |
 | one boss, one health bar | boss amplify, single-target | AoE nuke |
-| long fight, no time limit | scaling carry, Ultimate engine, Morale | pure burst |
-| short fight or damage race | nuke, burst | scaling carry |
-| enemy deletes your backline | control, shields, cheat-death | second damage dealer |
+| long fight, no time limit | scaling carry, ramp carry, Ultimate engine, Morale | pure burst |
+| short fight or damage race | nuke, burst | scaling carry, ramp carry |
+| enemy deletes your backline | control, mitigation, cheat-death | second damage dealer |
 | enemy grinds you down slowly | healing, sustain with offence | glass carry |
+| one enemy Ultimate is what kills you | mitigation | healing alone |
 | you own many summon heroes | summon stack | a second healer |
 
 ## Against this account
@@ -88,17 +146,24 @@ Read with [../account/roster.md](../account/roster.md).
 
 **Live now, all five heroes owned:**
 
-- **Ultimate engine.** **Rolan**, clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
+- **Ultimate engine.** **Rolan** clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
-- **Summon stack.** Aurora is Legendary, and eight owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
-- **Boss amplify.** Galahad is Legendary. She is the Dream Realm answer.
-- **Sustain with offence.** Solise is Legendary and Hugin is Legendary+, the highest tier on the account after Daimon and Shemira.
+- **Ramp carry.** All three Dimensional heroes are owned and Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md).
+- **Summon stack.** Aurora is Legendary, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
+- **Boss amplify.** **Rolan** is the engine, because his Ultimate clone is the one duplication skill on the account whose text is unambiguous. Galahad is Legendary and belongs here too, once the `unverified` clash over her kit is settled.
+- **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is Legendary+.
+- **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. Lucius, Antandra and Pandora fill the same job at smaller scale.
 - **Control.** Bonnie is Legendary, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).
 
 **The Wilder bench is now 9 deep**, second only to Lightbearer. Wilder counters Graveborn, and Legend Trial's Tower of Nature is faction-locked to Wilder. See [legend-trial.md](legend-trial.md) and [factions.md](factions.md).
+
+**Dimensional is locked out of Legend Trial only.** That is four towers. Everywhere else the three of them are eligible. See [legend-trial.md](legend-trial.md).
+
 ## Sources
+
+The archetype patterns and the hero placements are derived from the kits in [heroes/README.md](heroes/README.md) using [hero-scoring.md](hero-scoring.md). The guides below cover the older patterns, and none of them names the Dimensional collab heroes.
 
 - https://www.prydwen.gg/afk-journey/guides/team-building-advanced
 - https://www.allclash.com/best-teams-in-afk-journey-campaign-dream-realm-arena/

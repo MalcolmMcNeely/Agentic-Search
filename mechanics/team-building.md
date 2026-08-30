@@ -5,6 +5,8 @@
 
 A team is five heroes. Build it in this order.
 
+A comp wins by dealing enough damage before it dies. So every slot is judged on two sums: the seconds it adds to the team's life, and the damage it adds per second. [hero-scoring.md](hero-scoring.md) holds the method for reading those two sums off a hero's kit, with no guide involved. Use it at steps 2 and 4, and use it on **every** owned hero, including the ones no guide has heard of.
+
 ## 1. Read the fight
 
 What the enemy is decides everything downstream. Note the enemy faction, whether the damage is single-target or spread, and the mode's rules. See [game-modes.md](game-modes.md).
@@ -12,6 +14,8 @@ What the enemy is decides everything downstream. Note the enemy faction, whether
 ## 2. Pick the carry
 
 One hero does most of the damage. Everything else exists to keep that hero alive, in range, and firing its Ultimate. Pick the carry before the faction core, never after.
+
+Pick it by scoring kits, not by copying a guide's tier letter. A guide ranks the heroes that existed when it was written, so the newest heroes on the roster score zero there by default. See the guide silence rule in [hero-scoring.md](hero-scoring.md).
 
 ## 3. Build a 3-hero faction core
 
@@ -58,11 +62,14 @@ Four systems, each with its own scope. See [equipment-and-charms.md](equipment-a
 Answer these before handing over a comp:
 
 - Does the account actually own all five heroes, at the tiers assumed? Check [../account/roster.md](../account/roster.md).
-- Does [../account/teams.md](../account/teams.md) already hold a comp for this purpose? Replace it with a stated reason, or field the one already there. Ask first if it is `running`.
 - Does the faction core hold at 3 or more, so the Phantimal unlocks?
 - Is there an answer to the enemy's main damage type?
 - Does the carry survive to its first Ultimate?
 - Is the artifact named, and does it suit the mode?
+- Was every owned hero eligible for this fight actually considered, or only the ones a guide names? Check the comp against the full archetype lists in [team-archetypes.md](team-archetypes.md).
+- Does any hero here have a **ramp**, and does this fight last long enough to pay it? See [hero-scoring.md](hero-scoring.md).
+
+A draft that passes these goes to the reconcile step of the `team-comp` skill, which compares it with [../account/teams.md](../account/teams.md) and writes the result there.
 
 ## Which pattern, not just which heroes
 

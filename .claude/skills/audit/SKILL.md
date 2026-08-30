@@ -37,8 +37,18 @@ Re-run the checks in the `account-update` skill: the Resonance Level equals the 
 
 List every rule in `mechanics/` marked `disputed` or `unverified` and check it against the account again. A rule the account now settles gets rewritten. A rule the account now breaks gets marked.
 
-## 6. Open unknowns
+## 6. Archetype coverage
+
+Every hero in `mechanics/heroes/` must be named in [team-archetypes.md](../../../mechanics/team-archetypes.md), either in an archetype or in its **Placed nowhere** list. A hero named in neither is never drafted into a comp, and the reason is invisible.
+
+```bash
+for f in mechanics/heroes/*.md; do n=$(basename "$f" .md); [ "$n" = "README" ] && continue; k=$(head -1 "$f" | sed 's/^# //' | awk '{print $1}'); grep -qi "$k" mechanics/team-archetypes.md || echo "NO ARCHETYPE: $k"; done
+```
+
+This check exists because it has already failed once: 19 of 40 heroes were missing, and the newest heroes on the roster were the ones hit. Fix a failure by scoring the kit with [hero-scoring.md](../../../mechanics/hero-scoring.md), never by copying a tier list.
+
+## 7. Open unknowns
 
 List every `?` left in `account/`, and every "not recorded" left in `mechanics/`. Report them as a short list of questions for the user rather than guessing.
 
-Done when all six checks have run, every failure is either fixed or reported, and the open unknowns are put to the user as a list.
+Done when all seven checks have run, every failure is either fixed or reported, and the open unknowns are put to the user as a list.

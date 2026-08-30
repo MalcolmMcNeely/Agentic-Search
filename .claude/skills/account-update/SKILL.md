@@ -31,9 +31,13 @@ The user speaks in fragments, or dumps raw lines into the `notes` inbox at the r
 
 5. **Catch the guides being wrong.** New account numbers that break a rule written in `mechanics/` mean the guide is stale. Mark that rule `disputed` in its mechanics file and name what the account shows. See the rule in [CLAUDE.md](../../../CLAUDE.md).
 
-6. **Refresh [INDEX.md](../../../INDEX.md)** if a file now covers something its index line does not describe. A new file always needs a new index line.
+6. **Give a new hero a job.** A hero added to `roster.md` and named in no archetype is invisible: every future comp skips it without ever weighing its kit. Score it with [hero-scoring.md](../../../mechanics/hero-scoring.md) and place it in [team-archetypes.md](../../../mechanics/team-archetypes.md), or in that file's **Placed nowhere** list with the reason. Do it in this turn, not later.
 
-Done when every fact the user stated appears in a file, all consistency checks pass or are reported, any stale mechanics rule is marked, and the index describes what the files now hold.
+   This matters most for the newest heroes, which is exactly where it is easiest to skip. No guide covers a hero released last week, so there is nothing to copy and the hero quietly stays out of every team. Score the kit.
+
+7. **Refresh [INDEX.md](../../../INDEX.md)** if a file now covers something its index line does not describe. A new file always needs a new index line.
+
+Done when every fact the user stated appears in a file, all consistency checks pass or are reported, any stale mechanics rule is marked, every hero on the roster stands in an archetype, and the index describes what the files now hold.
 
 ## When research is worth it
 
