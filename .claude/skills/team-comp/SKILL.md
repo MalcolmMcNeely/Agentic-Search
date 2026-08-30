@@ -21,7 +21,16 @@ Drafting first is what gives the reconcile its worth. A comp built from the rost
 
 4. **Place and kit it.** Rows from [formation.md](../../../mechanics/formation.md). One artifact from [artifacts.md](../../../mechanics/artifacts.md), at a level `progression.md` says is owned.
 
-Done when five heroes are named, each confirmed in `roster.md` at the tier claimed, each placed in a row, one artifact named at an owned level, and one line saying what each hero is there to do.
+5. **Assign the Hands of Resonance.** The account owns five levelled **slots**, not five levelled heroes. `progression.md` holds the slot levels, currently **160, 160, 160, 150, 150**. Swapping a hero into a slot is free, unlimited, and the level travels with the slot, so any comp can hold all five. See [progression-systems.md](../../../mechanics/progression-systems.md).
+
+   Two consequences, and the first is the one that goes wrong:
+
+   - **Pick the comp on its kits, then hand it the slots.** Every comp can hold all five, so the assignment follows the comp rather than choosing it.
+   - **Every comp names which three heroes take the 160 slots.** Put them where 10 levels pay most, which is the carry first, then the two heroes that must survive or hit hardest for the pattern to work. Say it in the comp, because the swap happens before the fight.
+
+   The Resonance Level is the **lowest** slot, so it never moves when heroes change slots. It moves only when a slot's level changes.
+
+Done when five heroes are named, each confirmed in `roster.md` at the tier claimed, each placed in a row, one artifact named at an owned level, the three 160 Hand slots assigned, and one line saying what each hero is there to do.
 
 ## Reconcile
 

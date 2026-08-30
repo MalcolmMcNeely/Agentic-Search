@@ -43,7 +43,7 @@ Drop the Tank only when the fight has no melee threat. Drop the healer only when
 ## 5. Check the hard limits
 
 - **Which track is this?** Permanent modes read the permanent Resonance Level and Class Equipment. Seasonal modes read the Season Resonance Level, Season Equipment, Season Artifacts and Magic Charms. See [seasons.md](seasons.md).
-- Every hero sits at the Resonance Level, except the five Hands of Resonance, which may run up to +10. See [progression-systems.md](progression-systems.md).
+- Every hero sits at the Resonance Level, except the five Hands of Resonance, which may run up to +10. **The Hands are five slots, not five heroes.** The swap is free and the level travels with the slot, so assign the highest slots to this comp before the fight rather than treating them as a reason to field a different comp. See [progression-systems.md](progression-systems.md).
 - **Ascension tier** gates skills. Legendary+ and Mythic+ each unlock a skill, and Mythic+ unlocks Exclusive Equipment. A hero below its skill breakpoint is a different hero.
 
 ## 6. Attach the kit
