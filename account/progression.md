@@ -27,7 +27,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Shemira, Aurora and Rolan rise together**, and then it lifts all 42 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Shemira, Elijah & Lailah and Rolan rise together**, and then it lifts all 42 heroes at once. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
@@ -39,16 +39,16 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Taichi & Agumon | Dimensional | Warrior | 180 | Supreme, EX +8 |
 | Daimon | Graveborn | Tank | 180 | Mythic |
 | Shemira | Graveborn | Mage | 170 | Mythic |
-| Aurora | Celestial | Mage | 170 | Mythic |
+| Elijah & Lailah | Celestial | Support | 170 | Epic |
 | Rolan | Celestial | Support | 170 | Epic |
 
-**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Bonnie is no longer a Hand.** Taichi & Agumon took the slot when he reached Supreme with an Exclusive Equipment at +8.
+**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Aurora is no longer a Hand.** Elijah & Lailah took the slot when they replaced her in that comp, and because the slot sat at 170 and the Resonance Level is 170, the swap changed no number.
 
-Shemira, Aurora and Rolan sit at 170, so the **Resonance Level is 170** and every other hero on the account sits there too, Bonnie and Hugin included.
+Shemira, Elijah & Lailah and Rolan sit at 170, so the **Resonance Level is 170** and every other hero on the account sits there too, Aurora and Bonnie included.
 
 **Taichi & Agumon and Daimon are at the +10 cap and cannot take another level.** 180 is exactly 170 plus 10. They are frozen until the Resonance Level rises.
 
-**The Resonance Level is the ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 42 heroes for free. So every level now goes into **Shemira, Aurora and Rolan**, and the account gains nothing until all three rise together. Levelling one alone moves only that hero.
+**The Resonance Level is the ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 42 heroes for free. So every level now goes into **Shemira, Elijah & Lailah and Rolan**, and the account gains nothing until all three rise together. Levelling one alone moves only that hero.
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
