@@ -57,6 +57,8 @@ Ascending an A-Level hero costs Soul Sigils per step, not cumulatively:
 
 The sigil column sums to 63, which matches both sources' "1 original plus 63 duplicates, 64 in total". Two independent sources agree on the per-step numbers.
 
+**An S-Level hero is far cheaper per step, and the store never stocks one.** Legendary to Legendary+ costs 2 sigils, Legendary+ to Mythic costs 100 Faction Acorns, and **Mythic to Mythic+ costs 2 sigils and 100 Acorns**. The whole climb to Supreme+ is 7 duplicates and 350 Acorns. So an S-Level hero already at Mythic is a far shorter road to an Exclusive Equipment than anything on this shelf, and the copies have to come from a banner or an event.
+
 Only three tiers change anything, per [progression-systems.md](progression-systems.md): **Legendary+** gives Hero Focus, **Mythic+** gives the Exclusive Equipment and the only new skill any tier adds, **Supreme+** gives Enhance Force.
 
 ## Against this account
@@ -80,6 +82,8 @@ A copy is 1,200 fragments. Koko climbs like this:
 Legendary+ is where she matches Kruger and Hero Focus unlocks. At the account's current Dream Realm output that is a multi-month target, not a purchase.
 
 **Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and the account owns no Exclusive Equipment to spend it on. Banking is therefore worse than committing.
+
+**The account's first Exclusive Equipment will not come from this shelf.** No stocked hero is anywhere near Mythic+, and **Taichi & Agumon sits one step away at Mythic for 2 sigils and 100 Faction Acorns**. Chase that first. The shelf is the slower, separate project. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md).
 
 **Second pick: Antandra, 17 copies from Epic to Legendary+.** She is the tank holding the front of the same Tower of Will comp and its lowest tier. Cheaper than Koko and it fixes the same comp, but it buys survival where Koko buys survival and damage at once.
 

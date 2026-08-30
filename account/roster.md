@@ -81,7 +81,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Taichi & Agumon | Warrior | Physical | Legendary | - | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
+| Taichi & Agumon | Warrior | Physical | Mythic | - | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
 | Yamato & Gabumon | Mage | Magic | Legendary | - | [yamato-gabumon](../mechanics/heroes/yamato-gabumon.md) |
 | Pandora | Support | Magic | Legendary | - | [pandora](../mechanics/heroes/pandora.md) |
 

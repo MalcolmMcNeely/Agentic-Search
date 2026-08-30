@@ -140,7 +140,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 150 |
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | 150 |
-| Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Legendary | 150 |
+| Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Mythic | 150 |
 | Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Legendary | 150 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 150 |
 
