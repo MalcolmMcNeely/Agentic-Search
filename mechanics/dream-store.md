@@ -96,7 +96,7 @@ That makes his 22 sigils to Mythic+ the worst value on the shelf, not the best.
 
 **Graveborn depth is here, and it is slower than it looks.** [recruitment.md](recruitment.md) names Viperian, Silvina, Niru and Salazer as the depth Tower of Eternity needs, and all four are stocked. Each starts at Elite, so Legendary+ costs 1 + 3 + 4 + 5 + 8 = **21 sigils** from scratch, per hero. Worth doing after Koko, not before.
 
-**The AFK Stages push comp cannot be helped here at all.** No hero in it is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hands, now Shemira, Aurora and Rolan. None of the three is buyable here. See [../account/progression.md](../account/progression.md).
+**The AFK Stages push comp cannot be helped here at all.** No hero in it is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hands, now Shemira, Elijah & Lailah and Rolan. None of the three is buyable here, and Elijah & Lailah and Rolan never will be: this shelf stocks A-Level heroes only and both are Celestial. Their sigils come from the Guild Store or Stargaze Station instead. See [../account/progression.md](../account/progression.md) and [guild-store.md](guild-store.md).
 
 **The budget is the real constraint.** The account sits at Snow Stomper, Epic difficulty in Dream Realm. Fragment income scales with boss damage, so raising Dream Realm output is what makes this shop affordable. See [snow-stomper.md](snow-stomper.md).
 

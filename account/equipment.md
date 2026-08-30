@@ -59,6 +59,8 @@ So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mecha
 
 **Gloves is the weak slot, across three classes at once.** Tank Gloves at 185 is the lowest slot on the account, then Rogue Gloves at 200 and Mage Gloves at 210. Lifting Tank Gloves to 240 alone would take Tank from 226 to **235**. It is the single highest-value slot.
 
+**Support is the lowest class and it now carries two of the five heroes in the push comp.** Elijah & Lailah and Rolan are both Support, so a level bought here pays twice on the comp being played, and Support Ring at 195 is its weakest slot. That does not overturn the rule above: the 6-level spread is still too small to pick or drop a comp, and this only reorders which class to raise next. See [teams.md](teams.md).
+
 **Every slot on the account now sits above the Resonance Level of 170.** The lowest, Tank Gloves at 185, is 15 above it, and sixteen slots reach 240, which is **70 above**. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 ## Exclusive Equipment
