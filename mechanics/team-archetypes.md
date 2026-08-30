@@ -88,6 +88,8 @@ Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armo
 
 Take it when the carry's Ultimate is the whole point, and when the fight lasts long enough for Morale to climb. Weak in short fights.
 
+**Elijah & Lailah are the strongest engine on the roster**, and allclash rates them S+ in every category at once. Starlight Waltz gives **every ally +60 Haste for 7s**, Skill 1 adds healing and Energy Regen, and Stellar Bond adds +10 Vitality and +10% Energy gained when every linked ally shares one faction. Haste and Energy together mean the whole team fires sooner and more often, so they scale with whoever stands beside them rather than replacing a carry. The mono-faction clause is the build constraint: the account is 12 deep in Lightbearers, so that is the cheapest core to satisfy it. See [heroes/elijah-lailah.md](heroes/elijah-lailah.md).
+
 **Smokey & Meerky** feeds the pair Energy back off its own healing Ultimate, from range 8. **Pandora** feeds a single ally: Boxed Blessing seals that ally invincible for 4s, then releases them with bonus Energy and ATK, which is protection and Energy in one skill. **Taichi** is the most extreme feeder on the roster, but he only ever feeds Agumon, so he belongs to the ramp carry above.
 
 ### Summon stack

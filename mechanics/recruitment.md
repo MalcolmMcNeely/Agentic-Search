@@ -42,13 +42,13 @@ The wishlist is live from the first pull and holds **5 slots**. Every S-Level th
 
 **A hero on the current Rate Up banner cannot be picked here.** Vala is the rate-up hero, so she is locked out of the 5 slots until that banner ends. She is then the strongest Lightbearer pick.
 
-**S-Level Graveborn are scarce.** Only **Thoran**, **Shemira** and **Viperian** are named as S-Level Graveborn, and Viperian is `unverified`: one source reads him S-Level, prydwen and three others read him A-Rank. **Cecia is `unverified` too**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn, so they belong on the All-Hero wishlist.
+**S-Level Graveborn are scarce.** Only **Thoran** and **Shemira** are S-Level Graveborn. **Viperian is A-Level**: the Dream Store stocks him and it stocks no S-Level hero, which agrees with prydwen and three other sources against the one that read him S-Level. See [dream-store.md](dream-store.md). **Cecia is `unverified`**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn. **Silvina, Niru, Salazer and Viperian are all on the Dream Store shelf**, which is a surer route than an All-Hero wishlist slot. Igor is not stocked, so he stays on the wishlist. See [dream-store.md](dream-store.md).
 
 ## All-Hero Recruitment
 
 The wishlist here unlocks after **30 pulls** and holds **2 S-Level and 2 A-Level per faction**, 16 slots in total. Wider and weaker than the Epic wishlist. Fill it, then mostly ignore it.
 
-**A-Level copies do not have to come off a banner at all.** The Dream Store sells every A-Level hero for Dream Fragments, 15 copies per hero per month. See [dream-store.md](dream-store.md).
+**Some A-Level copies do not have to come off a banner at all.** The Dream Store sells a fixed shelf of 22 heroes for Dream Fragments. Check that shelf before spending a wishlist slot on an A-Level hero. See [dream-store.md](dream-store.md).
 
 ## Stargaze Station
 
@@ -67,7 +67,7 @@ The only banner that pulls Celestial and Hypogean heroes. It is not the only way
 | Rank | Hero | Why |
 | --- | --- | --- |
 | 1 | Rolan | Celestial Support, Magic, range 10. Clones an ally Ultimate and drives the Morale system. Two 2026 guides call him the first PvE investment, ahead of Elijah & Lailah. Needs few copies to work |
-| 2 | Elijah & Lailah | in the top team for every Dream Realm boss and for AFK Stages. Wants **14 copies** for full ascension, so they are the expensive target |
+| 2 | Elijah & Lailah | **owned.** In the top team for every Dream Realm boss and for AFK Stages. 14 copies for full ascension, but the early steps are 1 sigil each, so Legendary+ and its Hero Focus is only three away |
 | 3 | Phraesto | prevents Dream Realm boss damage, useful in many modes |
 | 4 | Baelran | in most modes and most top teams |
 | 5 | Reinier | allclash puts him fifth and says build Countess instead if he is not started. Older sources still list him joint-first |
@@ -88,9 +88,7 @@ Switching often is still bad. Celestial and Hypogean heroes need copies to ascen
 
 ## Against this account
 
-**Rolan is owned, at Epic.** Stargaze pity is 0 and the target is **Elijah & Lailah**, the next hero by priority now that Rolan is in hand. They want 14 copies for full ascension, so this is a long bank, not a quick pull. Switching does not reset the pity counter, but hopping targets leaves several half-built heroes, so stay on them.
-
-**The Guild Store beats the banner to the unlock.** One 30,000-Guild-Medal Soul Sigil recruits Elijah & Lailah outright, where the banner needs up to 40 Stellar Crystal pulls for the same hero. Buy the sigil, then let Stargaze pity build toward copies. See [guild-store.md](guild-store.md).
+**Rolan and Elijah & Lailah are both owned, both at Epic.** Elijah & Lailah came from the Guild Store: one 30,000-Guild-Medal Soul Sigil recruited them outright, where this banner would have taken up to 40 Stellar Crystal pulls. See [guild-store.md](guild-store.md) and [heroes/elijah-lailah.md](heroes/elijah-lailah.md). Stargaze pity is untouched at **0** and the target stays **Elijah & Lailah**, now for copies rather than the unlock. Switching does not reset the pity counter, but hopping targets leaves several half-built heroes, so stay on them.
 
 Rolan fits this roster twice over:
 
@@ -111,9 +109,9 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 
 **Slot 5 runner-up: Cecia.** Owned, Graveborn, and in the Tower of Eternity comp. She stays off until her rarity is settled, because an A-Level in a slot spends the 30-pull guarantee.
 
-**Graveborn depth mostly does not come from this banner.** Only Thoran and Shemira are clean S-Level Graveborn picks. The rest of the faction is A-Level, so the depth for Tower of Eternity comes off the **All-Hero** wishlist, which holds 2 S-Level and 2 A-Level per faction. Put Viperian, Silvina, Niru and Salazer there.
+**Graveborn depth does not come from this banner, and it does not need the wishlist either.** Only Thoran and Shemira are clean S-Level Graveborn picks. The rest of the faction is A-Level, and **Viperian, Silvina, Niru and Salazer are all stocked in the Dream Store**, bought outright for Dream Fragments instead of gambled on a wishlist slot. That is where Tower of Eternity depth comes from. See [dream-store.md](dream-store.md).
 
-The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. He is also on the Dream Store shelf, which is the cheaper route. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
+The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. The Dream Store does not stock him. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
 
 The rate-up pair **Cyran and Thador are both B+ tier** as of 2026-08-26. Neither is a priority pull. Both are already owned.
 

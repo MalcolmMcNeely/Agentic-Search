@@ -25,7 +25,7 @@ A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 8
 
 Two levers, and only one of them is a real fix.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Bonnie and Rolan rise together**, and then it lifts all 40 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, so it moves only when **Bonnie and Rolan rise together**, and then it lifts all 41 heroes at once. Everything else is a workaround.
 - **Stop paying the enemy's defence.** A level deficit hurts most through defence, which climbs with the stage. **True damage** and **percentage-of-current-HP** damage ignore it entirely, so they hold their value as the gap grows while raw ATK does not. This is what turns the Starshard Spell test below from optional into the next thing to run.
 
 ### Hands of Resonance
@@ -46,7 +46,7 @@ Bonnie and Rolan sit at 150, so the **Resonance Level is 150** and every other h
 
 **Daimon, Shemira and Aurora are at the +10 cap and cannot take another level.** 160 is exactly 150 plus 10. They are frozen until the Resonance Level rises.
 
-**The Resonance Level is the AFK ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 40 heroes for free. So every level now goes into **Bonnie and Rolan**, and the account gains nothing until both of them rise together. Levelling one alone moves only that hero.
+**The Resonance Level is the AFK ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 41 heroes for free. So every level now goes into **Bonnie and Rolan**, and the account gains nothing until both of them rise together. Levelling one alone moves only that hero.
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
@@ -83,15 +83,15 @@ Everything except Trial of Abyss is unlocked at AFK Stage 954. The Homestead unl
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
-| Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty. Dream Store shelf: **Daimon and Bonnie are both absent**, so it does not stock every A-Level hero. The rest of the live shelf is `?`. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
+| Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on Koko copies at 1,200 each |
 | Arena | yes, needs 20 | **Adept 3** |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
-| Battle Drills / guild | yes, needs 121 | Guild Medals: **at least 30,000**, enough for one Celestial or Hypogean Soul Sigil, per the user. Exact balance and guild level `?`. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
+| Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance and guild level `?`. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 | Legend Trial | yes, needs 166 | Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90, Tower of Light 52/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
 | Homestead, Darkswarm Invasion | yes | Homestead level `?`, Aggression `?`, weekly contribution `?`. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md) |
-| Stargaze Station | yes, needs 400 total pulls | pity at 0, target Elijah & Lailah |
+| Stargaze Station | yes, needs 400 total pulls | pity at 0. Elijah & Lailah unlocked from the Guild Store instead, so the target is now for copies, not the unlock |
 | Trial of Abyss | no, needs full story, all 1125 AFK Stages, and a 28-day-old server | locked |
 
 ## Recruitment state
@@ -107,4 +107,4 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Stargaze pity | 0 |
 | Stargaze target | Elijah & Lailah |
 | Stellar Crystals | `?` |
-| Guild Medals | at least 30,000. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
+| Guild Medals | `?`. 30,000 spent on Elijah & Lailah. Income is about 28,000 a month, so the next sigil is roughly a month away. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |

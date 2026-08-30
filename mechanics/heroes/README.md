@@ -1,9 +1,9 @@
 # Hero files
 
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 40 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 41 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, so grep works across the folder:
 
@@ -16,6 +16,7 @@ grep -l "Class:\*\* Tank" mechanics/heroes/*.md
 | --- | --- | --- | --- | --- | --- | --- |
 | Aurora | Celestial | Mage | Magic | 2, or 3 with Enhance Force | S | [aurora.md](aurora.md) |
 | Rolan | Celestial | Support | Magic | 10 | S | [rolan.md](rolan.md) |
+| Elijah & Lailah | Celestial | Support | Magic | 6 | S | [elijah-lailah.md](elijah-lailah.md) |
 | Yamato & Gabumon | Dimensional | Mage | Magic | not published | S | [yamato-gabumon.md](yamato-gabumon.md) |
 | Pandora | Dimensional | Support | Magic | 5 | S | [pandora.md](pandora.md) |
 | Taichi & Agumon | Dimensional | Warrior | Physical | 7 before digivolve, 1 after | S | [taichi-agumon.md](taichi-agumon.md) |

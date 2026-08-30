@@ -395,9 +395,9 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 1. **Kruger is in for his tier, not his fit.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He holds the slot because he is Legendary+ and the alternative is four tiers down.
 2. **Three heroes stand at range 1.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. Watch the back row.
-3. **The bench is thin.** Only 8 Maulers are owned and the three cut are Koko at Elite+, Gerda at Elite and Seth at Elite. A wall on this tower is answered by ascending, not by swapping.
+3. **The bench is thin.** Only 8 Maulers are owned and the three cut are Koko at Epic, Gerda at Elite and Seth at Elite. A wall on this tower is answered by ascending, not by swapping.
 
-**First swap to try if floors are lost to damage taken:** Kruger out, **Koko** in. Her Ultimate gives the team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, which is both halves of this comp's problem at once. She is Elite+ against Kruger's Legendary+, four ascension steps down, so it is a real stat loss. Raise her first, then test it.
+**First swap to try if floors are lost to damage taken:** Kruger out, **Koko** in. Her Ultimate gives the team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, which is both halves of this comp's problem at once. She is Epic against Kruger's Legendary+, three ascension steps down, so it is still a real stat loss. **The Dream Store stocks her, and those three steps cost 17 Soul Sigils.** Raise her the rest of the way, then test it. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
 
 ---
 

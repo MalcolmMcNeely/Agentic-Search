@@ -57,21 +57,31 @@ Sylphira, Countess, Gunnar, Aurora, Alna, Mehira, Aliceth, Saida, Baelran, Kulu,
 
 The two live sources agree on Elijah & Lailah. Take that.
 
-**Buy an unlock before an ascension.** A hero not owned costs 30,000 for the entire hero. A hero already owned costs 30,000 for one tick of ascension progress, and the steps run to 10 and 12 sigils each. See [progression-systems.md](progression-systems.md) for the tier table.
+**Celestial and Hypogean ascension is cheap, and takes no Faction Acorns.** The per-step cost looks nothing like the A-Level table in [dream-store.md](dream-store.md):
+
+| Step | Soul Sigils |
+| --- | --- |
+| Epic -> Epic+ | 1 |
+| Epic+ -> Legendary | 1 |
+| Legendary -> **Legendary+** | **1** |
+| Legendary+ -> Mythic | 2 |
+| Mythic -> **Mythic+** | **2** |
+| Mythic+ -> Supreme | 2 |
+| Supreme -> Supreme+ | 4 |
+
+That is 13 sigils on top of the original copy, 14 in all. S-Level heroes start at **Epic**, so from a fresh unlock **Legendary+ and its Hero Focus is three sigils away, and Mythic+ and its EX weapon is seven**. See [progression-systems.md](progression-systems.md) for what each tier gives.
+
+**Buy an unlock before an ascension even so.** A hero not owned costs 30,000 for the whole hero. The same 30,000 spent on a hero already owned buys one sigil of a step that may want two or four.
 
 ## Against this account
 
-**Buy the Elijah & Lailah Soul Sigil.**
+**Elijah & Lailah are bought and owned, at Epic.** They cost 30,000 Guild Medals and one sigil unlocked them outright, where Stargaze would have taken up to 40 pulls. The Stargaze pity is untouched at 0, so it now builds toward copies rather than the unlock. See [heroes/elijah-lailah.md](heroes/elijah-lailah.md).
 
-They are the account's **Stargaze target** already, and [../account/progression.md](../account/progression.md) has Stargaze pity at **0** with the Stellar Crystal balance unrecorded. So the banner route to them has not started. One 30,000-medal sigil hands over the hero and leaves the Stargaze pity intact for copies later.
+**The next three sigils all go to Elijah & Lailah.** Three more takes them to **Legendary+** and switches on Hero Focus, which allclash calls the single best investment on the hero. At about 28,000 Guild Medals a month that is roughly three months. Nothing else on this shelf returns as much.
 
-[recruitment.md](recruitment.md) puts them in the top team for every Dream Realm boss and for AFK Stages. The account sits at **Snow Stomper, Epic difficulty**, and [dream-store.md](dream-store.md) shows Dream Realm output is what funds the Dream Store, so a Dream Realm hero pays twice.
-
-**Aurora is the only hero on this shelf the account already owns**, and she is the wrong buy. She is **Mythic**, so the next step is Mythic+ at **12 sigils**, or 360,000 Guild Medals. At about 28,000 a month that is over a year. [dream-store.md](dream-store.md) reaches the same Mythic+ step on Daimon inside one month for Dream Fragments. Ascend there, unlock here.
+**Aurora is the buy after that, and she is closer than she looks.** She is the only other hero on this shelf the account owns, and she is **Mythic**, so **Mythic+ is 2 sigils**, or 60,000 Guild Medals. That is the account's first Exclusive Equipment and the only tier that adds a skill. [dream-store.md](dream-store.md) reaches the same step on Daimon for 12 Dream Fragment sigils, so the two shops can run in parallel: Daimon there, Aurora here.
 
 **Rolan is ranked first among Celestials by two 2026 guides and is not on the shelf list**, so copies of him are not a Guild Store option. He is owned at Epic regardless. See [heroes/rolan.md](heroes/rolan.md).
-
-**Gap: no kit file for Elijah & Lailah.** They are unowned, so [heroes/README.md](heroes/README.md) does not carry them. Research the kit and place them in an archetype once they are bought. See [team-archetypes.md](team-archetypes.md).
 
 ## Sources
 
@@ -85,3 +95,5 @@ They are the account's **Stargaze target** already, and [../account/progression.
 - https://www.gameleap.com/articles/afk-journey-guild-store-buying-guide (**dated 4 April 2024**, launch-era; recommends Reinier)
 - https://gamerant.com/afk-journey-soulstone-a-level-s-level-guide/ (Guild Store and Arena Store sell S-Level sigils, Recruitment and Dream Stores sell A-Level. Published 8 April 2024)
 - https://playafkjourney.com/guild/ (Guild Medals from Guild Quests and Activeness)
+- https://www.destructoid.com/afk-journey-ascension-guide-and-costs/ (Celestial and Hypogean per-tier Soul Sigil costs, no Acorns)
+- https://dotesports.com/afk-journey/news/afk-journey-ascension-guide-character-upgrade (S-Level heroes start at Epic; 14 copies total for Celestial and Hypogean)
