@@ -50,13 +50,15 @@ Bonnie and Rolan sit at 150, so the **Resonance Level is 150** and every other h
 | Artifact | Level | Tier | Notes |
 | --- | --- | --- | --- |
 | Confining Spell | +6 | S | the default pick for almost every comp |
-| Enlightening Spell | +7 | A | joint-highest level owned, and still not the best pick |
-| Starshard Spell | +7 | A | joint-highest level owned, true damage every 4 Ultimates |
+| Enlightening Spell | +9 | A | highest level owned, and still not the best pick |
+| Starshard Spell | +8 | A | true damage every 3 Ultimates, and the one real rival to Confining |
 | Awakening Spell | +6 | B | healer teams and hyper-carry |
 
 Blazing and Ironwall Spell are not owned. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Enlightening at +7 does not displace Confining at +6 on any comp here.** +4 is live, so its buff is 100 ATK SPD, but +8 is not, so the duration is still 15s. It buffs one hero, the rearmost ally, and the game chooses which. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry.
+**Enlightening at +9 does not displace Confining at +6 on any comp here.** +4 and +8 are both live, so its buff is 100 ATK SPD for 20s. It still buffs one hero, the rearmost ally, and the game chooses which. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry.
+
+**Starshard at +8 is the one artifact that can displace Confining.** Both the +4 and +8 upgrades are live, so the wave fires every 3 ally Ultimates for 24% of each target current HP as true damage. True damage ignores the enemy defence that a level deficit makes worse, and the Shemira comp casts Ultimates faster than anything else the account owns. The test is written up in [teams.md](teams.md) and has not been run yet.
 
 ## Seasonal track: Season 7, Crown of Ashes
 
