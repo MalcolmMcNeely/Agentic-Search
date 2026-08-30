@@ -20,6 +20,13 @@ Ranked best to worst:
 
 Upgrade priority follows the same order. Confining Spell and Starshard Spell stay the best all-rounders across every season.
 
+**`disputed`: the guides rank Confining above Starshard. This account shows the reverse on an Ultimate-heavy comp with a level deficit.** Starshard Spell +8 beat Confining Spell +6 on the AFK Stages push comp, confirmed from the account, and the account wins per [../CLAUDE.md](../CLAUDE.md). The reason is scaling: Confining blocks 2 enemies, which is worth the same whatever the stage, while Starshard takes a cut of the target's **current HP** as true damage, which is worth more as enemy defence and HP climb. Two conditions decide it, so check them before copying the swap:
+
+- **How many Ultimates the comp casts.** Starshard fires every 3 ally Ultimates at +8. A comp with an Ultimate cloner or a resetting carry comes round far faster than one without.
+- **How far the roster sits below the stage.** True damage ignores defence, so the wider the level gap, the more Starshard pays and the less raw damage does. See [../account/progression.md](../account/progression.md).
+
+Confining stays the pick where a comp genuinely needs its backline held, such as a squishy carry in short range of an enemy dive.
+
 **Ironwall tier is `unverified`.** pcgamesn and playafkjourney rank it B. Other guides rank it C. Both readings shown, not averaged.
 
 ## What each one does

@@ -69,11 +69,11 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 | Back | Bonnie | Graveborn | Marksman | 7 | Legendary+ |
 | Back | Rolan | Celestial | Support | 10 | Epic |
 
-**Artifact:** Confining Spell +6. Daimon holds the front at range 3, so two enemies blocked out of the backline is what keeps Shemira and Aurora firing.
+**Artifact:** Starshard Spell +8. Its wave is true damage worth **24% of each target's current HP**, and it fires every **3** ally Ultimates because +4 and +8 are both live on this account. **Confirmed from the account: it beat Confining Spell +6 here, and the user reports the comp running well on it.**
 
-**Artifact test: Starshard Spell +8 against Confining Spell +6.** Starshard fires a true damage wave every **3** ally Ultimates for **24% of each target's current HP**, because +4 and +8 are both live on this account. This comp casts Ultimates faster than any other owned: Shemira's Ultimate resets its own strike count, and Rolan clones ally Ultimates outright. Percentage-of-current-HP true damage also ignores the enemy defence that a level deficit makes worse. Run one stage on each and keep the winner. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**Starshard wins because this comp casts more Ultimates than any other the account owns, and because true damage does not pay enemy defence.** Shemira's Ultimate resets its own strike count and Rolan clones ally Ultimates outright, so the 3-Ultimate trigger comes round fast. Percentage-of-current-HP true damage then ignores the defence that AFK Stage 954 against Resonance Level 150 keeps inflating. Confining's two blocked enemies are a fixed benefit; Starshard's scales with the fight. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**At AFK Stage 954 this comp is the deficit-proof one, and that is now its main advantage.** Enemy defence scales with the stage and the Resonance Level sits at 150, so raw ATK buys less every stage. Two of the five heroes here do not care: Daimon's Stitchy and Shemira's sacrificed ghosts both deal **true damage scaled to the target's max HP**, and Starshard would add a third tap on **current HP**. The Lightbearer comp above has no true damage at all. See [progression.md](progression.md).
+**At AFK Stage 954 this comp is the deficit-proof one, and that is now its main advantage.** Enemy defence scales with the stage and the Resonance Level sits at 150, so raw ATK buys less every stage. Three taps here do not care: Daimon's Stitchy and Shemira's sacrificed ghosts both deal **true damage scaled to the target's max HP**, and Starshard adds a third on **current HP**. The Lightbearer comp above has no true damage at all. See [progression.md](progression.md).
 
 **Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, and Aurora and Rolan wildcard in.
 
@@ -249,7 +249,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
 | Hugin | Lightbearer | Support | Legendary+ | cogshields and an ATK buff |
 
-**Artifact:** Awakening Spell +6. [../mechanics/artifacts.md](../mechanics/artifacts.md) names it for this mode, and the reason is the carryover: heal that is wasted in a normal fight is banked here.
+**Artifact:** Awakening Spell +7. [../mechanics/artifacts.md](../mechanics/artifacts.md) names it for this mode, and the reason is the carryover: heal that is wasted in a normal fight is banked here.
 
 **Faction bonus: +22%.** Four Wilder plus Aurora wildcarding, plus +1% ATK and HP for the Celestial.
 
@@ -286,7 +286,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Back | Hewynn | Support | 4 | Epic |
 | Back | Solise | Support | 6 | Legendary |
 
-**Artifact:** Awakening Spell +6. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and this is one.
+**Artifact:** Awakening Spell +7. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and this is one.
 
 **Faction bonus: +22%.** Five Wilder is forced by the lock, so the cap is free.
 
@@ -383,7 +383,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Back | Galahad | Mage | 10 | Legendary |
 | Back | Smokey & Meerky | Support | 8 | Legendary |
 
-**Artifact:** Awakening Spell +6. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
+**Artifact:** Awakening Spell +7. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
 
 **Faction bonus: +22%.** Five Mauler is forced by the lock.
 
