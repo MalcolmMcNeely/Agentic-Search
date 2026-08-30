@@ -12,16 +12,30 @@ Every hero pays into one of two sums. The good ones pay into both.
 
 Score a hero on what its kit adds to those two sums. That is the method. It needs no guide and no tier letter, so it works the day a hero is released.
 
-## Guide silence
+## Score the whole roster
 
-A fan guide is an opinion with a date on it. The game patches, collab heroes arrive, and the guide stays where it was. So a hero the guides never name is **new, not weak**. Silence in a tier list is a fact about the tier list.
+Every hero the account owns is a candidate, and each one earns its place from its own kit.
+
+A fan guide is an opinion with a date on it. The game patches, collab heroes arrive, and the guide stays where it was, so its hero list describes an earlier roster. Call that gap **guide silence**: the guide has nothing to say about a hero released after it was written.
 
 Two rules follow.
 
-- Score a hero missing from every guide from its kit, at full weight, like any other hero.
-- Check a source's date before trusting its ranking. A guide written before a hero existed cannot rank that hero. See the recency check in the `game-research` skill.
+- Score a hero the guides never name from its kit, at full weight, exactly like any other hero.
+- Check a source's date, then read its rankings as evidence about the heroes it covers. See the recency check in the `game-research` skill.
 
-The reverse holds too. A hero the guides praise still gets scored from its kit, because the guide may be ranking it for a mode you are not playing.
+The same holds for a hero the guides praise. Score it from its kit, because the guide may be ranking it for a mode this account is not playing.
+
+## Tier gates
+
+The mirror of guide silence, and the one that stings more. **A guide describes a hero at its ceiling.** The copy on the roster may be several ascensions below that, and a skill that is not unlocked pays nothing.
+
+**Legendary+ and Mythic+ each unlock a skill**, and Mythic+ also unlocks Exclusive Equipment. So a hero below its breakpoint is a different hero. See [progression-systems.md](progression-systems.md).
+
+Before crediting a hero with a skill, check two numbers: the tier the skill unlocks at, and the tier in [../account/roster.md](../account/roster.md).
+
+**Galahad is the worked example.** Every team guide builds her boss amplify role on **Time Recast**, which fires another hero's Ultimate again. The guides are right that she has it. It unlocks at **Mythic+**, and she is **Legendary** on this account, with Legendary+, Mythic and Mythic+ all in between. So the comps naming her as an Ultimate-duplicator describe an account three ascensions from this one.
+
+Guide silence undersells a hero on the roster. A tier gate oversells one. One move cures both: read the kit, then read the tier.
 
 ## What counts as time alive
 

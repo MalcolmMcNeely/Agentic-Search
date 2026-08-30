@@ -45,7 +45,7 @@ Every hero in `mechanics/heroes/` must be named in [team-archetypes.md](../../..
 for f in mechanics/heroes/*.md; do n=$(basename "$f" .md); [ "$n" = "README" ] && continue; k=$(head -1 "$f" | sed 's/^# //' | awk '{print $1}'); grep -qi "$k" mechanics/team-archetypes.md || echo "NO ARCHETYPE: $k"; done
 ```
 
-This check exists because it has already failed once: 19 of 40 heroes were missing, and the newest heroes on the roster were the ones hit. Fix a failure by scoring the kit with [hero-scoring.md](../../../mechanics/hero-scoring.md), never by copying a tier list.
+This check exists because it has already failed once: 19 of 40 heroes were missing, and the newest heroes on the roster were the ones hit. Fix a failure by scoring the kit with [hero-scoring.md](../../../mechanics/hero-scoring.md).
 
 ## 7. Open unknowns
 

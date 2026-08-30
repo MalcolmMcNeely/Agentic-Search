@@ -23,9 +23,9 @@ The hero lists in this file cover the **whole** roster. A hero named in none of 
 Two rules hold this file together.
 
 - A hero added to [../account/roster.md](../account/roster.md) is placed in an archetype here in the same turn, scored by [hero-scoring.md](hero-scoring.md).
-- A hero that genuinely fits no pattern goes in **Placed nowhere** at the bottom, with the reason. An empty line there is a bug, not a tidy result.
+- A hero that genuinely fits no pattern goes in **Placed nowhere** at the bottom, with the reason. Keeping that list honest is what makes the coverage claim checkable.
 
-New heroes are what this breaks on. A collab hero or a new banner hero has no guide coverage yet, so pattern-matching against guides skips it in silence. Score the kit instead. See the guide silence rule in [hero-scoring.md](hero-scoring.md).
+New heroes are what this turns on. A collab hero or a new banner hero has no guide coverage yet, so its place here comes from its kit. See the guide silence rule in [hero-scoring.md](hero-scoring.md).
 
 ## The archetypes
 
@@ -73,9 +73,9 @@ Take it in long fights: Dream Realm, AFK Stages, Arcane Labyrinth, Supreme Arena
 
 This is a **Dream Realm** pattern, not a campaign one. One target, one long health bar, no adds. See [snow-stomper.md](snow-stomper.md).
 
-**Rolan is the confirmed engine.** His clone inherits 80% of the caster's base stats and casts the same Ultimate again, so he doubles whichever hero hits hardest.
+**Rolan is the engine this account can field.** His clone inherits 80% of the caster's base stats and casts the same Ultimate again, so he doubles whichever hero hits hardest, at his current tier.
 
-**Galahad, `unverified`.** Two readings, both kept. The team guides credit her with a **Time Recast** that makes another hero fire again, which is what put her in this archetype. Her own kit file describes a different skill set: Temporal Field damages all enemies and draws a Magic Circle, and once the circle completes, Magister Merlin's skills become 20% stronger and last 100% longer. No source reconciles the two. Until one does, build boss amplify on Rolan, whose skill text is unambiguous. See [heroes/galahad.md](heroes/galahad.md).
+**Galahad is the engine the guides mean, and she is three tiers away.** Her **Time Recast** makes another hero cast again, and it unlocks at **Mythic+**. She is Legendary, so Legendary+, Mythic and Mythic+ all sit between her and the skill. Every guide comp that names her for this job is describing a hero this account does not own yet. She is still the best magic damage on the roster, so she plays as a payload now and becomes an engine later. See [heroes/galahad.md](heroes/galahad.md).
 
 Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armor to strip boss defence and knocks down for 450%, **Valka** builds panic stacks into true damage scaled to the boss's **max** HP, which is the stat a boss has most of, and **Lenya** locks the enemy top damage dealer into a 12s duel.
 
@@ -150,7 +150,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
 - **Ramp carry.** All three Dimensional heroes are owned and Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md).
 - **Summon stack.** Aurora is Legendary, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
-- **Boss amplify.** **Rolan** is the engine, because his Ultimate clone is the one duplication skill on the account whose text is unambiguous. Galahad is Legendary and belongs here too, once the `unverified` clash over her kit is settled.
+- **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is Legendary+.
 - **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. Lucius, Antandra and Pandora fill the same job at smaller scale.
 - **Control.** Bonnie is Legendary, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.

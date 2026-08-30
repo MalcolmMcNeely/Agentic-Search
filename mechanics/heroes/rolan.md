@@ -21,7 +21,9 @@ The rest of his kit is healing, cleanse, team buffs and battlefield control, all
 
 PvE, AFK Stages and Dream Realm. Long fights, where Morale has time to climb. He is an **engine, not a carry**: he doubles someone else's Ultimate. See [../team-archetypes.md](../team-archetypes.md).
 
-Named partners: Elijah & Lailah, Baelran, Galahad, Tasi. Galahad works as the frontline that protects Morale.
+Named partners: Elijah & Lailah, Baelran, Galahad, Tasi.
+
+**The guides call Galahad his frontline. She is not one here.** She is a Mage at range 10, so she stands in the back row beside him. The pairing still works, because he clones her Ultimate, but nothing in it protects Morale. This account needs a separate body up front. See [galahad.md](galahad.md).
 
 ## Notes
 

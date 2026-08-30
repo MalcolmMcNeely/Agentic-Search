@@ -18,9 +18,9 @@ AFK Journey patches often, and the fan sites disagree with each other and go sta
    Two failures follow from a stale source, and the second is the quiet one:
 
    - A **number** may have been patched since. Prefer the newer of two sources that disagree only if the older one is clearly pre-patch. Otherwise mark it `unverified` and show both.
-   - A **hero it never mentions** is not weak. It did not exist yet. A tier list written before a collab or a banner ranks nothing about those heroes, so never carry its silence into an answer as a low rating. Score the kit instead, using [hero-scoring.md](../../../mechanics/hero-scoring.md).
+   - A **hero it never mentions** sits outside the source's scope, because the hero arrived later. Score that hero from its kit with [hero-scoring.md](../../../mechanics/hero-scoring.md), and read the source as evidence about the heroes it does cover.
 
-   Write the limit down. When a source cannot cover the thing asked about, say so in the file rather than leaving a gap that reads as a verdict.
+   Write the scope down. When a source predates the thing asked about, say so in the file, so the next reader sees a gap rather than a verdict.
 
 4. **Cross-check every number.** Percentages, unlock thresholds and level caps need two independent sources that agree. One source only, or two that disagree, gets written down as `unverified` with both readings shown. Never average two conflicting numbers into one.
 

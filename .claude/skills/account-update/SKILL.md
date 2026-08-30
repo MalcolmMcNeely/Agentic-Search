@@ -31,9 +31,11 @@ The user speaks in fragments, or dumps raw lines into the `notes` inbox at the r
 
 5. **Catch the guides being wrong.** New account numbers that break a rule written in `mechanics/` mean the guide is stale. Mark that rule `disputed` in its mechanics file and name what the account shows. See the rule in [CLAUDE.md](../../../CLAUDE.md).
 
-6. **Give a new hero a job.** A hero added to `roster.md` and named in no archetype is invisible: every future comp skips it without ever weighing its kit. Score it with [hero-scoring.md](../../../mechanics/hero-scoring.md) and place it in [team-archetypes.md](../../../mechanics/team-archetypes.md), or in that file's **Placed nowhere** list with the reason. Do it in this turn, not later.
+6. **Give a new hero a job, in this turn.** Score it with [hero-scoring.md](../../../mechanics/hero-scoring.md) and place it in [team-archetypes.md](../../../mechanics/team-archetypes.md), or in that file's **Placed nowhere** list with the reason. An archetype is what makes a hero reachable by the next comp drafted.
 
-   This matters most for the newest heroes, which is exactly where it is easiest to skip. No guide covers a hero released last week, so there is nothing to copy and the hero quietly stays out of every team. Score the kit.
+   This matters most for the newest heroes. No guide covers a hero released last week, so its place comes from its kit alone.
+
+   **An ascension can also change the answer.** Legendary+ and Mythic+ each unlock a skill, and Mythic+ unlocks Exclusive Equipment. When the user ascends a hero across one of those two tiers, reread its file: a skill that just switched on may move it into a new archetype. Galahad crosses into boss amplify at Mythic+, and holds the payload slot until then. See [hero-scoring.md](../../../mechanics/hero-scoring.md).
 
 7. **Refresh [INDEX.md](../../../INDEX.md)** if a file now covers something its index line does not describe. A new file always needs a new index line.
 
