@@ -61,7 +61,7 @@ Every class sits **52 to 63 levels above** the Resonance Level of 150, and two s
 
 ## Exclusive Equipment
 
-Per hero, unlocked at Mythic+. No hero on this account is Mythic+ yet, so this table is empty by design. **Daimon, Shemira and Eironn are all Mythic**, one tier short, so any of the three could carry the account's first EX weapon. See [roster.md](roster.md).
+Per hero, unlocked at Mythic+. No hero on this account is Mythic+ yet, so this table is empty by design. **Daimon, Shemira, Eironn and Aurora are all Mythic**, one tier short, so any of the four could carry the account's first EX weapon. See [roster.md](roster.md).
 
 | Hero | EX level |
 | --- | --- |

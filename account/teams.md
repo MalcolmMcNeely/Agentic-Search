@@ -63,7 +63,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 | Row | Hero | Faction | Class | Range | Tier |
 | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | 3 | Mythic |
-| Middle | Aurora | Celestial | Mage | 2 | Legendary |
+| Middle | Aurora | Celestial | Mage | 2 | Mythic |
 | Middle | Shemira | Graveborn | Mage | 4 | Mythic |
 | Back | Bonnie | Graveborn | Marksman | 7 | Legendary+ |
 | Back | Rolan | Celestial | Support | 10 | Epic |
@@ -76,7 +76,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **Why:** **scaling carry and summon stack at once**, from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Shemira is the carry: her Ultimate summons 10 ghosts that bombard for 10s and heal her off their own damage, and the strike count resets on every cast, so she snowballs. Rolan clones that Ultimate outright, which is 10 more ghosts. Aurora's Dream Veil raises the damage of **every allied summon**, so it pays both the ghosts and her own bunnies. Daimon soaks and hands out shields. Bonnie's Aging cuts enemy Haste and ATK, then spreads it.
 
-**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **206.4** against 208.2, so the Lightbearer comp is the better geared of the two by under 2 levels. The six classes sit within 11 levels of each other, so gear still does not separate two comps. See [equipment.md](equipment.md). It fields two of the three Mythic heroes the account owns, where the other comp's weakest link is an Epic. It has three damage sources against one. **Either comp can hold all five Hands of Resonance**, because the slots are free to reassign, so the levels sit wherever they are pointed.
+**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **206.4** against 208.2, so the Lightbearer comp is the better geared of the two by under 2 levels. The six classes sit within 11 levels of each other, so gear still does not separate two comps. See [equipment.md](equipment.md). It fields three of the four Mythic heroes the account owns, where the other comp's weakest link is an Epic. It has three damage sources against one. **Either comp can hold all five Hands of Resonance**, because the slots are free to reassign, so the levels sit wherever they are pointed.
 
 **Grid note:** Daimon leads at range 3. He is a Tank whose kit is a damage soak and shield engine, so he holds the front without needing to close. Aurora sits at range 2 and advances furthest, so she is the hero that gets reached. Watch her.
 
@@ -98,7 +98,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 | Row | Hero | Faction | Class | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | 3 | Mythic | 160 |
-| Middle | Aurora | Celestial | Mage | 2 | Legendary | 160 |
+| Middle | Aurora | Celestial | Mage | 2 | Mythic | 160 |
 | Middle | Shemira | Graveborn | Mage | 4 | Mythic | 160 |
 | Back | Bonnie | Graveborn | Marksman | 7 | Legendary+ | 150 |
 | Back | Rolan | Celestial | Support | 10 | Epic | 150 |
@@ -186,7 +186,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 160 |
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary | 150 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Legendary | 160 |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 160 |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 160 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 150 |
 
@@ -202,7 +202,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **AoE clears the Wings.** Skyclops is resisted or outright immune while a Wing lives, so wave clear is a requirement, not a bonus. Shemira's ten ghosts, Cecia's arc and Aurora's bunnies cover it.
 
-**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are Legendary and Elite+ where this one fields two Mythics and three heroes at 160, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
+**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are Legendary+ and Elite+ where this one fields three Mythics and three heroes at 160, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
 
 **Three weak points:**
 
@@ -230,7 +230,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | --- | --- | --- | --- | --- | --- |
 | Front | Thador | Wilder | Tank | 1 | Legendary+ |
 | Middle | Faramor | Wilder | Rogue | 1 | Legendary+ |
-| Middle | Aurora | Celestial | Mage | 2 | Legendary |
+| Middle | Aurora | Celestial | Mage | 2 | Mythic |
 | Back | Velara | Wilder | Support | 5 | Legendary |
 | Back | Solise | Wilder | Support | 6 | Legendary |
 
@@ -374,7 +374,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | --- | --- | --- | --- | --- |
 | Front | Antandra | Tank | 1 | Epic |
 | Middle | Kordan | Warrior | 1 | Legendary |
-| Middle | Kruger | Warrior | 1 | Legendary |
+| Middle | Kruger | Warrior | 1 | Legendary+ |
 | Back | Galahad | Mage | 10 | Legendary |
 | Back | Smokey & Meerky | Support | 8 | Legendary |
 
@@ -388,11 +388,11 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **Three weak points:**
 
-1. **Kruger is in for his tier, not his fit.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He holds the slot because he is Legendary and the alternative is three tiers down.
+1. **Kruger is in for his tier, not his fit.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He holds the slot because he is Legendary+ and the alternative is four tiers down.
 2. **Three heroes stand at range 1.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. Watch the back row.
 3. **The bench is thin.** Only 8 Maulers are owned and the three cut are Koko at Elite+, Gerda at Elite and Seth at Elite. A wall on this tower is answered by ascending, not by swapping.
 
-**First swap to try if floors are lost to damage taken:** Kruger out, **Koko** in. Her Ultimate gives the team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, which is both halves of this comp's problem at once. She is Elite+ against Kruger's Legendary, three ascension steps down, so it is a real stat loss. Raise her first, then test it.
+**First swap to try if floors are lost to damage taken:** Kruger out, **Koko** in. Her Ultimate gives the team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, which is both halves of this comp's problem at once. She is Elite+ against Kruger's Legendary+, four ascension steps down, so it is a real stat loss. Raise her first, then test it.
 
 ---
 
@@ -403,7 +403,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 160 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Legendary | 160 |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 160 |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 160 |
 | Back | Bonnie | Graveborn | Marksman | Magic | 7 | Legendary+ | 150 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 150 |

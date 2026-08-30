@@ -45,7 +45,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Galahad | Mage | Magic | Legendary | - | [galahad](../mechanics/heroes/galahad.md) |
 | Kordan | Warrior | Physical | Legendary | - | [kordan](../mechanics/heroes/kordan.md) |
-| Kruger | Warrior | Physical | Legendary | - | [kruger](../mechanics/heroes/kruger.md) |
+| Kruger | Warrior | Physical | Legendary+ | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Elite+ | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
 | Smokey & Meerky | Support | Magic | Legendary | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
@@ -89,7 +89,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Aurora | Mage | Magic | Legendary | - | [aurora](../mechanics/heroes/aurora.md) |
+| Aurora | Mage | Magic | Mythic | - | [aurora](../mechanics/heroes/aurora.md) |
 | Rolan | Support | Magic | Epic | - | [rolan](../mechanics/heroes/rolan.md) |
 
 Both are Celestial, so they count as any faction for the faction bonus, and each adds +1% ATK and HP just by being deployed.

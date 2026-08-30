@@ -29,7 +29,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | --- | --- | --- | --- | --- |
 | Daimon | Graveborn | Tank | 160 | Mythic |
 | Shemira | Graveborn | Mage | 160 | Mythic |
-| Aurora | Celestial | Mage | 160 | Legendary |
+| Aurora | Celestial | Mage | 160 | Mythic |
 | Bonnie | Graveborn | Marksman | 150 | Legendary+ |
 | Rolan | Celestial | Support | 150 | Epic |
 
