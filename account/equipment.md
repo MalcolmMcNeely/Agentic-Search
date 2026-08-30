@@ -75,7 +75,7 @@ Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipm
 
 **Supreme+ is the next gate, and it unlocks Enhance Force**, which strengthens one skill he already has. He does not hold it yet.
 
-**The next EX weapon is one tier away on five heroes.** Daimon, Shemira, Eironn, Aurora and Bonnie are all **Mythic**. Shemira, Eironn and Aurora are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price Taichi & Agumon paid. Bonnie is A-Level and costs far more copies, and Daimon's Level is `unverified`. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**The next EX weapon is one tier away on six heroes.** Daimon, Shemira, Eironn, Aurora, Bonnie and Hugin are all **Mythic**. Shemira, Eironn and Aurora are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price Taichi & Agumon paid. Bonnie and Hugin are A-Level and cost far more copies, and Daimon's Level is `unverified`. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 ## Magic Charms
 

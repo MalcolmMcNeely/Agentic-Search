@@ -26,7 +26,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Hugin | Support | Physical | Legendary+ | - | [hugin](../mechanics/heroes/hugin.md) |
+| Hugin | Support | Physical | Mythic | - | [hugin](../mechanics/heroes/hugin.md) |
 | Rowan | Mage | Magic | Legendary | - | [rowan](../mechanics/heroes/rowan.md) |
 | Zanie | Marksman | Physical | Legendary+ | - | [zanie](../mechanics/heroes/zanie.md) |
 | Silven | Marksman | Physical | Elite+ | - | [silven](../mechanics/heroes/silven.md) |

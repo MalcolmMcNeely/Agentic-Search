@@ -84,7 +84,7 @@ Shoots a fireball at the weakest enemy every **5s**, dealing magic damage equal 
 
 `unverified`: the +8 extra damage is capped at 20% of Team ATK (playafkjourney only).
 
-**On this account:** Blazing sits at **+9**, so +4 and +8 are live and the fireball hits for 30% of Team ATK plus 4% of the target's lost HP. **+10 is one level away and adds DEF Penetration**, which is the same argument that makes true damage this account's best scaling. It stays a B-tier artifact behind Starshard and Confining, so buy the level for the penetration, not to change the pick. See [../account/progression.md](../account/progression.md).
+**On this account:** Blazing sits at **+10**, fully upgraded. The fireball hits for 30% of Team ATK plus 4% of the target's lost HP, and the last step adds **DEF Penetration** and raises both DEF stats. It is still B-tier and Starshard keeps the push comp, but penetration discounts every attack the comp makes rather than one wave, so it is the second artifact worth a run on an uncapped ladder. `unverified`: how much Penetration the +10 step grants. No source states the figure. See [../account/progression.md](../account/progression.md).
 
 ### Ironwall Spell — `unverified` C or B
 

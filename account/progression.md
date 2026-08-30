@@ -61,7 +61,7 @@ Shemira, Elijah & Lailah and Rolan sit at 170, so the **Resonance Level is 170**
 | Starshard Spell | +8 | A | the account's best artifact in practice, and the pick on the AFK Stages push comp |
 | Confining Spell | +6 | S | the default where a comp needs its backline held |
 | Enlightening Spell | +10 | A | fully upgraded and still not the pick |
-| Blazing Spell | +9 | B | one level short of its +10 step |
+| Blazing Spell | +10 | B | **fully upgraded**, and the only artifact owned that grants DEF Penetration |
 | Awakening Spell | +7 | B | healer teams and hyper-carry, one level short of its +8 step |
 
 Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -74,7 +74,9 @@ Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifa
 
 **Enlightening at +10 is fully upgraded and still does not displace Confining at +6.** All three steps are live, and it still buffs **one hero, the rearmost ally**, chosen by the game rather than by the user. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry. Tier beats level here.
 
-**Blazing at +9 is one level from its last step.** +4 and +8 are live, so its fireball hits the weakest enemy every 5s for 30% of Team ATK plus 4% of that target's lost HP. **+10 adds DEF Penetration and raises both DEF stats**, which is the step worth buying, because penetration is the same argument that makes true damage the account's best scaling.
+**Blazing at +10 is fully upgraded, and it is the second artifact worth testing on the push comp.** All three steps are live: the fireball hits the weakest enemy every 5s for 30% of Team ATK plus 4% of that target's lost HP, and the +10 step adds **DEF Penetration** and raises both DEF stats.
+
+**Penetration is the same argument as true damage, applied to the rest of the comp.** Starshard's wave already ignores defence, but it is one wave every 3 Ultimates and everything else the comp does still pays full price against an enemy defence that climbs with no cap. Blazing's penetration discounts **every** attack instead. Starshard keeps the pick until a run says otherwise, because its cut of current HP scales with the ladder and a flat penetration figure does not, but this is now a real test rather than a foregone one. `unverified`: how much Penetration the +10 step grants. No source states the figure. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 **Awakening at +7 buys nothing over +6.** Only the +4 step is live and the next real gain is one level away at +8.
 

@@ -258,7 +258,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Smokey & Meerky | Mauler | Support | Legendary | sustained healing plus an ally ATK buff |
 | Antandra | Mauler | Tank | Epic | replacement frontline: taunt, 60% damage cut, self-heal |
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
-| Hugin | Lightbearer | Support | Legendary+ | cogshields and an ATK buff |
+| Hugin | Lightbearer | Support | Mythic | cogshields and an ATK buff |
 
 **Artifact:** Awakening Spell +7. [../mechanics/artifacts.md](../mechanics/artifacts.md) names it for this mode, and the reason is the carryover: heal that is wasted in a normal fight is banked here.
 
@@ -360,7 +360,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Middle | Rowan | Mage | 3 | Legendary |
 | Back | Cyran | Mage | 6 | Epic |
 | Back | Zanie | Marksman | 20 | Legendary+ |
-| Back | Hugin | Support | 20 | Legendary+ |
+| Back | Hugin | Support | 20 | Mythic |
 
 **Artifact:** Confining Spell +6. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
 
