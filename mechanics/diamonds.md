@@ -1,11 +1,12 @@
 # Diamonds
 
 > **Covers:** every diamond sink in the game, its price and cap, the spend order, and what never to buy.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 Diamonds are the one currency that is both scarce and spendable everywhere, so most of them get wasted. Two facts set the whole plan:
 
 - **The cheapest pull is not on a banner.** The Guild Store sells one discounted Invite Letter a day for **210 diamonds**, down from 300. A ten-pull costs 2,700, or 270 a pull. Buying the daily letter is 30% off a single pull and 22% off a ten-pull, every day, forever.
+- **The Emporium holds two shops diamonds cannot reach.** The Dream Store takes Dream Fragments only, earned in Dream Realm, and it is the cheapest source of A-Level hero copies. See [dream-store.md](dream-store.md). The Guild Store's other shelf takes Guild Medals and sells Celestial and Hypogean heroes outright, one sigil per hero unlocked. See [guild-store.md](guild-store.md).
 - **Diamonds reach Stargaze after all.** The Stargaze banner itself takes Stellar Crystals only, but the Guild Store sells crystals for **400 diamonds**, capped at **6 a month**. See [recruitment.md](recruitment.md).
 
 ## Every diamond sink
@@ -42,7 +43,7 @@ A month of steps 1 and 2 costs about **8,700 diamonds**. An account that cannot 
 
 **Do not pull the current rate-up.** Cyran and Thador are both B+ tier and both already owned. See [recruitment.md](recruitment.md).
 
-**Stargaze is marked unlocked but has no target and 0 pity.** Crystals do not appear in either shop until Stargazing unlocks at 400 total pulls, so the 400-diamond shelf is only real if that unlock is genuine. Pick the target first, then buy the cap.
+**Stargaze is marked unlocked, the target is Elijah & Lailah and pity is 0.** Crystals do not appear in either shop until Stargazing unlocks at 400 total pulls, so the 400-diamond shelf is only real if that unlock is genuine. Check the shelf, then buy the cap. The Guild Medal shelf unlocks the same hero outright for 30,000 Guild Medals, so spend there first. See [guild-store.md](guild-store.md).
 
 **Arena tickets and Quick AFK are both wrong for this account.** Arena progress is unrecorded, and Quick AFK pays off on accounts deep enough for rare drops.
 

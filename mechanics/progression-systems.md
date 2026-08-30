@@ -50,6 +50,8 @@ Elite -> Elite+ -> Epic -> Epic+ -> Legendary -> Legendary+ -> Mythic -> Mythic+
 
 A-Level heroes start at Elite. S-Level heroes start at Epic. Rare heroes (Hammie, Chippy) cannot ascend at all.
 
+Ascending costs Soul Sigils, and for an A-Level hero the cheapest source is the Dream Store rather than a banner. The per-tier sigil counts are in [dream-store.md](dream-store.md).
+
 ### What tiers unlock
 
 | Tier | Unlocks |

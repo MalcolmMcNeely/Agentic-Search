@@ -38,7 +38,7 @@ The wishlist is live from the first pull and holds **5 slots**. Every S-Level th
 
 **Only ever put S-Level heroes in the 5 slots.** An A-Level in a slot spends the 30-pull guarantee on a hero worth far less.
 
-**The 5 slots take the four main factions only: Graveborn, Lightbearer, Mauler and Wilder.** Celestial and Hypogean heroes exist only in Stargaze Station, and Dimensional heroes are not selectable either. One guide (lootbar) lists Elijah & Lailah, Phraesto and Pandora as Epic wishlist picks; all three break this rule.
+**The 5 slots take the four main factions only: Graveborn, Lightbearer, Mauler and Wilder.** Celestial and Hypogean heroes come from Stargaze Station or the Guild Store, and Dimensional heroes are not selectable either. See [guild-store.md](guild-store.md). One guide (lootbar) lists Elijah & Lailah, Phraesto and Pandora as Epic wishlist picks; all three break this rule.
 
 **A hero on the current Rate Up banner cannot be picked here.** Vala is the rate-up hero, so she is locked out of the 5 slots until that banner ends. She is then the strongest Lightbearer pick.
 
@@ -48,12 +48,15 @@ The wishlist is live from the first pull and holds **5 slots**. Every S-Level th
 
 The wishlist here unlocks after **30 pulls** and holds **2 S-Level and 2 A-Level per faction**, 16 slots in total. Wider and weaker than the Epic wishlist. Fill it, then mostly ignore it.
 
+**A-Level copies do not have to come off a banner at all.** The Dream Store sells every A-Level hero for Dream Fragments, 15 copies per hero per month. See [dream-store.md](dream-store.md).
+
 ## Stargaze Station
 
-The only source of Celestial and Hypogean heroes.
+The only banner that pulls Celestial and Hypogean heroes. It is not the only way to get one: the Guild Store sells them outright. See [guild-store.md](guild-store.md).
 
 - **Unlocks at 400 total pulls** across All-Hero, Rate Up and Epic Recruitment combined.
 - Pull with **Stellar Crystals** only. The Guild Store sells them for **400 diamonds**, 6 a month. The Recruitment Store sells them for Dolly Tickets, 310 for the first each month at half price and 620 each for 3 in total. See [diamonds.md](diamonds.md).
+- **The banner is not the only route.** The Guild Store sells Celestial and Hypogean Soul Sigils for Guild Medals, and one sigil unlocks a hero that has never been recruited. That skips the 40-pull pity entirely. See [guild-store.md](guild-store.md).
 - Pick **one** target Celestial or Hypogean. 3.25% per pull, guaranteed at **40**.
 - The target can be changed, but the pity counter is what you are spending. Pick one and commit.
 
@@ -87,6 +90,8 @@ Switching often is still bad. Celestial and Hypogean heroes need copies to ascen
 
 **Rolan is owned, at Epic.** Stargaze pity is 0 and the target is **Elijah & Lailah**, the next hero by priority now that Rolan is in hand. They want 14 copies for full ascension, so this is a long bank, not a quick pull. Switching does not reset the pity counter, but hopping targets leaves several half-built heroes, so stay on them.
 
+**The Guild Store beats the banner to the unlock.** One 30,000-Guild-Medal Soul Sigil recruits Elijah & Lailah outright, where the banner needs up to 40 Stellar Crystal pulls for the same hero. Buy the sigil, then let Stargaze pity build toward copies. See [guild-store.md](guild-store.md).
+
 Rolan fits this roster twice over:
 
 - [../account/roster.md](../account/roster.md) holds **12 Lightbearers**, the deepest faction on the account. On a Lightbearer core Rolan pays the doubled 10%-per-hero Morale bonus.
@@ -108,7 +113,7 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 
 **Graveborn depth mostly does not come from this banner.** Only Thoran and Shemira are clean S-Level Graveborn picks. The rest of the faction is A-Level, so the depth for Tower of Eternity comes off the **All-Hero** wishlist, which holds 2 S-Level and 2 A-Level per faction. Put Viperian, Silvina, Niru and Salazer there.
 
-The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. See [team-archetypes.md](team-archetypes.md).
+The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. He is also on the Dream Store shelf, which is the cheaper route. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
 
 The rate-up pair **Cyran and Thador are both B+ tier** as of 2026-08-26. Neither is a priority pull. Both are already owned.
 

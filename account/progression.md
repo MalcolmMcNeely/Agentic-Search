@@ -83,10 +83,10 @@ Everything except Trial of Abyss is unlocked at AFK Stage 954. The Homestead unl
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
-| Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty |
+| Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty. Dream Store shelf: **Daimon and Bonnie are both absent**, so it does not stock every A-Level hero. The rest of the live shelf is `?`. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
 | Arena | yes, needs 20 | **Adept 3** |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
-| Battle Drills / guild | yes, needs 121 | ? |
+| Battle Drills / guild | yes, needs 121 | Guild Medals: **at least 30,000**, enough for one Celestial or Hypogean Soul Sigil, per the user. Exact balance and guild level `?`. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 | Legend Trial | yes, needs 166 | Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90, Tower of Light 52/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
@@ -107,3 +107,4 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Stargaze pity | 0 |
 | Stargaze target | Elijah & Lailah |
 | Stellar Crystals | `?` |
+| Guild Medals | at least 30,000. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
