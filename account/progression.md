@@ -14,7 +14,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Field | Value |
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
-| AFK Stage | 893 |
+| AFK Stage | 901 |
 | Resonance Level | 150 |
 | Total power | `?` |
 | Story progress | Merlin's Ward, a few sidequests done |
@@ -62,11 +62,11 @@ Blazing and Ironwall Spell are not owned. See [../mechanics/artifacts.md](../mec
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 893 on the permanent ladder. If that 893 turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
+**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 901 on the permanent ladder. If that 901 turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
 
 ## Mode progress
 
-Everything except Trial of Abyss is unlocked at AFK Stage 893. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+Everything except Trial of Abyss is unlocked at AFK Stage 901. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
