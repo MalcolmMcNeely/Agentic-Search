@@ -52,7 +52,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **First swap to try if it stalls:** Temesia out, **Solise** in, for healing and a team damage buff. Hugin and Zanie plus the two wildcarding Celestials still make a 4-core, so the bonus falls to **+18%**, not to +14%. Rolan's Morale opener still fires at 10% per hero, on 2 heroes instead of 3. The real cost is the tank, not the stats. Test it, do not assume it.
 
-**The Shemira comp below holds the push slot.** It matches the +22%, trails it slightly on gear (205.4 to 207.2), and beats it on hero tier, Hands of Resonance and damage sources. Daimon is a Tank, so it fields a real frontline too, and **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
+**The Shemira comp below holds the push slot.** It matches the +22%, trails it slightly on gear (206.4 to 208.2), and beats it on hero tier, Hands of Resonance and damage sources. Daimon is a Tank, so it fields a real frontline too, and **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
 
 ---
 
@@ -76,7 +76,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **Why:** **scaling carry and summon stack at once**, from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Shemira is the carry: her Ultimate summons 10 ghosts that bombard for 10s and heal her off their own damage, and the strike count resets on every cast, so she snowballs. Rolan clones that Ultimate outright, which is 10 more ghosts. Aurora's Dream Veil raises the damage of **every allied summon**, so it pays both the ghosts and her own bunnies. Daimon soaks and hands out shields. Bonnie's Aging cuts enemy Haste and ATK, then spreads it.
 
-**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **205.4** against 207.2, so the Lightbearer comp is the better geared of the two by under 2 levels. The six classes sit within 16 levels of each other, so gear still does not separate two comps. See [equipment.md](equipment.md). It fields two of the three Mythic heroes the account owns, where the other comp's weakest link is an Epic. It holds all five Hands of Resonance against two, so it gains every level the account buys. It has three damage sources against one.
+**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **206.4** against 208.2, so the Lightbearer comp is the better geared of the two by under 2 levels. The six classes sit within 11 levels of each other, so gear still does not separate two comps. See [equipment.md](equipment.md). It fields two of the three Mythic heroes the account owns, where the other comp's weakest link is an Epic. It holds all five Hands of Resonance against two, so it gains every level the account buys. It has three damage sources against one.
 
 **Grid note:** Daimon leads at range 3. He is a Tank whose kit is a damage soak and shield engine, so he holds the front without needing to close. Aurora sits at range 2 and advances furthest, so she is the hero that gets reached. Watch her.
 
@@ -129,23 +129,92 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 ---
 
-## Dream Realm, Snow Stomper — `proposed`
+## Dream Realm, Snow Stomper — Dimensional ramp carry — `proposed`
 
-**Purpose:** the Snow Stomper boss only. See [../mechanics/snow-stomper.md](../mechanics/snow-stomper.md).
+**Purpose:** the Snow Stomper boss only. Read [../mechanics/snow-stomper.md](../mechanics/snow-stomper.md) first: a single-target damage race against a timer, where the score is damage dealt and not a kill.
 
-| Role | Hero | Faction | Range |
-| --- | --- | --- | --- |
-| DPS carry | Galahad | Mauler | 10 |
-| Debuffer | Kruger | Mauler | 1 |
-| Healer | Smokey & Meerky | Mauler | 8 |
-| Buffer | Hugin | Lightbearer | 20 |
-| Flex | Taichi & Agumon | Dimensional | 7, then 1 |
+| Row | Hero | Faction | Class | Damage | Range | Tier | Level |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Front | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Legendary | 150 |
+| Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 150 |
+| Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | 150 |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Legendary | 150 |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic | 150 |
 
-**Artifact:** Starshard Spell +8. True damage ignores the boss's defence, and the wave fires every 3 Ultimates.
+**Artifact:** Starshard Spell +8. Its wave is true damage, so it ignores the boss's defence, and at +8 it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Why:** fills the four roles the guides agree on. Galahad's Time Recast makes another hero fire again, which is the whole point of a single-target damage race. Kruger and Taichi & Agumon are the only heroes this account owns that the Snow Stomper guides name. Three Maulers pay **+10%**.
+**Faction bonus: +18%**, plus +1% for Rolan. Three Dimensional, and Rolan wildcards in as the fourth. See [../mechanics/factions.md](../mechanics/factions.md).
 
-**Known compromise:** the boss's frontal Frost cone punishes melee, and both Kruger and the digivolved Taichi & Agumon end up at range 1. They are in for their kits, not their positioning.
+**Archetype: ramp carry.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Six reasons, all read off the kits rather than off a guide.
+
+**1. The fight is long, so the ramp costs nothing.** Blizzard first casts 10s in, runs 20s, and repeats every 30s for three casts, so the fight lasts at least 70s. Both digivolves land in the first 15s. The single weakness of a ramp carry, that it pays nothing early, does not exist in this fight.
+
+**2. Gaia Force cannot be interrupted mid-cast, and interruption is the boss's whole defence.** Snowball knocks a hero down. Yeti Cell stops a hero attacking. Blizzard may silence the team, `unverified`. Every one of those is a tool for cancelling your damage, and WarGreymon's Ultimate ignores all three. It hits 7 times within 3 tiles of the target, hardest at the centre, which is single-target output stacked on one boss.
+
+**3. Snowball hits the healthiest hero, and that is WarGreymon on purpose.** Digivolving gives **+100% HP**, so he is the hero the boss picks for it. A 1s knockdown lands on the one hero whose Ultimate cannot be interrupted. The boss aims its targeted disable at the hero built to eat it.
+
+**4. Taichi cannot be targeted at all.** He stands off the field and invincible for the whole fight. So Snowball, Tearing Bite and Yeti Cell choose between **four** heroes, not five, and the Energy engine behind the carry can never be stopped.
+
+**5. Energy is damage when the score is damage dealt.** Taichi pushes **150 Energy into Agumon every 3s**, plus 250 more per cheer until the digivolve lands, which exists only to shorten the ramp. WarGreymon then hands every ally behind him **+25% of his own ATK** for 20s, and Gabumon taking that buff gains **300 Energy** on top, so the two ramp each other. Rolan clones each Ultimate at 80% of the caster's base stats. Pandora releases her boxed ally with bonus Energy. Casts per minute is the score here, and this comp maximises it.
+
+**6. Cecia is the debuffer, not Kruger.** The guides weight the defence-strip role highest, and Trial of Thorns steals **1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight**. Over 70s that compounds, and it multiplies both damage types this comp fields. Kruger strips defence too, but at range 1, standing in the frontal Frost cone that hits three heroes at once. Cecia does it from range 5 and adds a summon.
+
+**Damage is split 2 physical to 3 magic**, so Cecia's dual strip pays on every hero here.
+
+**Four weak points:**
+
+1. **No healer.** Pandora's invincible box, Rolan's 50% damage reduction for 8s, and WarGreymon's doubled HP are the entire defence. Nothing heals on demand.
+2. **Boxed Blessing may cost damage.** `unverified`. Pandora seals an ally in an invincible box for 4s. No source says whether the boxed ally can still attack. If it cannot, casting it on the carry in a damage race trades output for safety. Use it on whoever the boss is targeting, and watch what happens the first run.
+3. **Freeze may not land.** `unverified`. MetalGarurumon's Cocytus Breath freezes an area, and no source says whether Snow Stomper resists hard control. His continuous HP drain and his self-stacking ATK and Haste pay either way.
+4. **Yamato's range is not published**, so he sits in the back row on the advice in his own kit file, which is that he is more fragile than Agumon.
+
+**Rolan's Morale opener pays 6% per hero here, not 10%.** The 10% rate needs a Lightbearer or Celestial core, and this is a Dimensional one. Three Dimensional heroes give 18% Morale at battle start. He is in for the Ultimate clone, which on an uninterruptible 7-hit Ultimate is the largest single damage add available to this account.
+
+**Swap if the comp dies before the timer: Cecia out, Hewynn in.** The faction bonus does not move, because Hewynn is Wilder and Dimensional still counts 4. Rain Prayer heals every ally for up to 115% HP per second across 9s and Tranquil adds team-wide damage reduction while it runs. The cost is the defence strip, which is this comp's biggest damage multiplier, so make the trade only if heroes are actually dying.
+
+**Rolan also stands in the AFK Stages main, AFK Stages second and Arena comps, and Cecia stands in the Skyclops comp.** A change to either hero moves those comps too.
+
+---
+
+## Dream Realm, Skyclops — Graveborn true damage — `proposed`
+
+**Purpose:** the Skyclops boss only. Read [../mechanics/skyclops.md](../mechanics/skyclops.md) first: the boss summons Wings that stack **physical** resistance or **magical** resistance in turn, so a one-damage-type team spends half the fight resisted.
+
+| Row | Hero | Faction | Class | Damage | Range | Tier | Level |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 160 |
+| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary | 150 |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Legendary | 160 |
+| Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 160 |
+| Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 150 |
+
+**Artifact:** Starshard Spell +8. Its wave is true damage, and true damage is the one output the Wings cannot resist. At +8 it fires every **3** ally Ultimates for **24% of each target's current HP**. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+**Faction bonus: +22%**, plus +1% for Aurora. Four Graveborn, and Aurora wildcards in as the fifth.
+
+**Why: three heroes deal true damage scaled to enemy max HP, and the Wings carry 90% of the boss's HP.** Daimon's Stitchy, Shemira's sacrificed ghosts and Valka's Blooming Terror all scale off the target's max HP, so they hit the Wings as hard as they hit Skyclops, and none of them is touched by either resistance. Add Starshard on top and the comp has four taps that never stop paying.
+
+**Damage types are split 3 magic to 2 physical on purpose.** Whichever Wings are on the field, at least two heroes are firing unresisted. Cecia does more than carry the physical half: Trial of Thorns steals **1.5% of Phys DEF and Magic DEF every second and keeps it for the whole fight**, so she strips both of the defences the boss stacks, whichever one is live.
+
+**Aurora is the multiplier.** Dream Veil raises the damage of every allied summon, and this comp puts four summon sources on the field: Shemira's ghosts, Cecia's Mr. Carlyle, Daimon's Stitchy and Aurora's own bunnies.
+
+**AoE clears the Wings.** Skyclops is resisted or outright immune while a Wing lives, so wave clear is a requirement, not a bonus. Shemira's ten ghosts, Cecia's arc and Aurora's bunnies cover it.
+
+**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are Legendary and Elite+ where this one fields two Mythics and three heroes at 160, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
+
+**Three weak points:**
+
+1. **Nobody stands in the back row.** The longest range here is Cecia at 5. Skyclops is a range-20 Mage whose Ultimate sweeps a 10-tile arc for 260%, so there is no tile that hides from it, but this comp gives up more uptime to it than a ranged comp would.
+2. **Valka and Aurora both advance.** Valka is melee at range 1 and Aurora sits at range 2. Daimon holds the front and shields, and Valka's Spectral Bulwark shields nearby allies, but the two of them are the heroes that get hit.
+3. **No healer.** Shemira heals off her own ghosts, Daimon and Valka both shield. Nothing heals on demand.
+
+**Gear costs this comp about 4 levels, and that is not enough to matter.** Its five classes average **204.8** Class Equipment against **208.8** for the Mauler guide comp, which fields two Supports at 213. The six classes sit within 11 levels of each other, so gear does not pick or drop a comp on this account. See [equipment.md](equipment.md).
+
+**Daimon, Shemira and Aurora also stand in the AFK Stages second comp and the Arena comp.** Anything that changes their tier, level or kit changes all three. Cecia and Valka are in no other comp.
+
+**No Phantimal applies.** The 3-core faction rule pays a Phantimal only on the seasonal track, and this account is permanent-track only. The +22% stat bonus is the whole reward here. See [progression.md](progression.md).
+
+**Swap if the front row collapses: Cecia out, Zanie in.** Zanie is Legendary+ against Cecia's Epic, fires physical from range 20, and her turrets are summons that Aurora buffs. The cost is the faction bonus dropping from +22% to +18%, because she is Lightbearer. Take the trade for survivability, not for damage: it gives up Cecia's dual defence strip, which is the single best answer this account owns to a boss that stacks defence. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md).
 
 ---
 
@@ -257,7 +326,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 1. **There is no healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the whole defence.
 2. **No depth behind it.** A wall on this tower cannot be answered by swapping a hero in, only by ascending the six that exist.
 
-**The frontline is real.** Daimon is a Tank, not a Warrior, so this comp fields a Tank at Mythic beside Valka. Tank gear sits at 197 against Warrior at 205, so his class costs 8 levels of gear and buys the right role.
+**The frontline is real.** Daimon is a Tank, not a Warrior, so this comp fields a Tank at Mythic beside Valka. Tank gear sits at 202 against Warrior at 205, so his class costs 3 levels of gear and buys the right role.
 
 **Daimon, Shemira and Bonnie hold Hands of Resonance**, three of the five, so Daimon and Shemira run at 160 against 150 for Bonnie, Valka and Cecia. Swapping a Hand is free and the level travels with the slot, so borrow a 160 slot for Valka or Cecia before the tower opens. Do not swap out Bonnie or Rolan, the lowest Hands, or the Resonance Level moves. See [progression.md](progression.md).
 

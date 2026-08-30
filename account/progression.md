@@ -79,7 +79,7 @@ Everything except Trial of Abyss is unlocked at AFK Stage 901. See [../mechanics
 | Legend Trial | yes, needs 166 | Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90, Tower of Light 52/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
-| Stargaze Station | yes, needs 400 total pulls | pity at 0, no target set |
+| Stargaze Station | yes, needs 400 total pulls | pity at 0, target Elijah & Lailah |
 | Trial of Abyss | no, needs full story, all 1125 AFK Stages, and a 28-day-old server | locked |
 
 ## Recruitment state
