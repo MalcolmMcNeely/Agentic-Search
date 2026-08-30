@@ -3,7 +3,7 @@
 > **Covers:** the Snow Stomper Dream Realm boss, its skills, and the team shape that beats it.
 > **Updated:** 2026-08-29
 
-One of the four Dream Realm bosses. An ice-themed Elite Boss. Dream Realm is a damage race against a timer, so the score is damage dealt, not a kill. See [game-modes.md](game-modes.md).
+One of the four Dream Realm bosses. An ice-themed Elite Boss. The other boss written up is [skyclops.md](skyclops.md). Dream Realm is a damage race against a timer, so the score is damage dealt, not a kill. See [game-modes.md](game-modes.md).
 
 ## Faction
 
