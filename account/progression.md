@@ -15,8 +15,8 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 893 |
-| Resonance Level | 130 |
-| Total power | 4,100k |
+| Resonance Level | 150 |
+| Total power | `?` |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 Roughly on pace. A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
@@ -27,41 +27,23 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 | Hero | Faction | Class | Level | Tier |
 | --- | --- | --- | --- | --- |
-| Daimon | Graveborn | Tank | 140 | Mythic |
-| Thador | Wilder | Tank | 140 | Legendary |
-| Shemira | Graveborn | Mage | 140 | Mythic |
-| Hugin | Lightbearer | Support | 130 | Legendary+ |
-| Bonnie | Graveborn | Marksman | 140 | Legendary+ |
+| Daimon | Graveborn | Tank | 160 | Mythic |
+| Shemira | Graveborn | Mage | 160 | Mythic |
+| Aurora | Celestial | Mage | 160 | Legendary |
+| Bonnie | Graveborn | Marksman | 150 | Legendary+ |
+| Rolan | Celestial | Support | 150 | Epic |
 
-Daimon, Thador, Shemira and Bonnie sit at 140. Hugin sits at 130, so the **Resonance Level is 130** and every other hero on the account sits there too.
+**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played.
 
-**Four Hands are at the +10 cap and cannot take another level.** 140 is exactly 130 plus 10. Daimon, Thador, Shemira and Bonnie are frozen until the Resonance Level rises.
+Bonnie and Rolan sit at 150, so the **Resonance Level is 150** and every other hero on the account sits there too, Hugin and Thador included.
 
-**The Resonance Level is the AFK ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 40 heroes for free. Lifting the other four moves nothing. So every level goes into the lowest Hand, and only then does the account gain anything.
+**Daimon, Shemira and Aurora are at the +10 cap and cannot take another level.** 160 is exactly 150 plus 10. They are frozen until the Resonance Level rises.
 
-**Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's 140 slot makes Rolan 140. So the five Hands can be re-picked at will, and the AFK push comp can hold all five slots at no cost. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**The Resonance Level is the AFK ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 40 heroes for free. So every level now goes into **Bonnie and Rolan**, and the account gains nothing until both of them rise together. Levelling one alone moves only that hero.
 
-### The swap to make: put the whole push comp in the Hands
+**Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-The five Hands should be **Daimon, Shemira, Bonnie, Aurora and Rolan**, which is the AFK Stages push comp in [teams.md](teams.md). Daimon, Shemira and Bonnie are already Hands. Aurora and Rolan take the two slots Hugin and Thador hold.
-
-**Aurora goes into Thador's 140 slot. Rolan goes into Hugin's 130 slot.** Aurora becomes 140 straight away, Thador drops to 130, and Rolan enters at 130. Aurora takes the 140 slot rather than Rolan because her Dream Veil buff scales off her own level, while Rolan's Ultimate clone inherits 80% of the **ally's** base stats, so his own level pays him far less.
-
-The Hands after the swap:
-
-| Hero | Level |
-| --- | --- |
-| Daimon | 140 |
-| Shemira | 140 |
-| Bonnie | 140 |
-| Aurora | 140 |
-| Rolan | 130 |
-
-**Then put every level into Rolan until he reaches 140.** He is the lowest Hand, so he alone sets the Resonance Level. At 140 the Resonance Level becomes 140, all 40 heroes gain 10 levels for free, and the other four unfreeze.
-
-**Hugin and Thador drop to 130 and stay on the roster.** They rise again with the Resonance Level like every other non-Hand.
-
-**Thador can be borrowed back for Tower of Nature.** Swap him into any 140 slot before the run and he becomes 140; swap him out after. Rolan stays the lowest Hand throughout, so the Resonance Level never moves. The swap is free in both directions.
+**Thador can be borrowed for Tower of Nature.** Swap him into any Hand slot before the run and he takes its level; swap him out after. Keep the swap off the lowest Hand and the Resonance Level never moves. The swap is free in both directions.
 
 ### Artifacts owned
 
