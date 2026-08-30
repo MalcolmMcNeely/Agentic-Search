@@ -19,10 +19,10 @@ So the way to raise the whole account is to level all five Hands evenly. Dumping
 The five Hands are **not** a locked choice.
 
 - A Hand can be swapped for any owned hero **at any time**, and it **costs nothing**.
-- The incoming hero **inherits the outgoing Hand's level**. Put a level 130 hero into a level 140 Hand slot and it becomes 140; the outgoing hero drops to 130. The +10 investment moves with the slot, it is never lost.
+- The incoming hero **inherits the outgoing Hand's level**. Put a hero sitting at the Resonance Level into a Hand slot 10 levels above it and the hero takes that level; the outgoing hero drops to the Resonance Level. The +10 investment moves with the slot, it is never lost.
 - The only restriction is the level rule above: after the switch the five Hands must still sit within 10 levels of each other.
 
-**Confirmed from the account.** Swapping Daimon at 140 for Rolan put Rolan at 140. Two guides (lootbar, afk.global) read the incoming hero as entering at the Resonance Level instead. The game disagrees with them, so the account wins, per [../CLAUDE.md](../CLAUDE.md).
+**Confirmed from the account.** Swapping Daimon out for Rolan put Rolan on Daimon's level, not on the Resonance Level. Two guides (lootbar, afk.global) read the incoming hero as entering at the Resonance Level instead. The game disagrees with them, so the account wins, per [../CLAUDE.md](../CLAUDE.md).
 
 **A swap cannot move the Resonance Level on its own.** That number is set by the lowest Hand, and a swap only exchanges two heroes' levels. Raising it still takes levelling the lowest Hand.
 
