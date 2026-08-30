@@ -50,7 +50,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 1. **The ramp costs nothing here.** [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) names AFK Stages as a fight long enough to pay a ramp carry. The digivolve lands early and is permanent: **+100% HP, +50% ATK** and a new kit.
 2. **Rolan doubles the biggest hitter.** His clone inherits **80% of the caster's base stats**, so it copies the Supreme tier and the EX weapon with it. Gaia Force hits 7 times within 3 tiles and **cannot be interrupted mid-cast**. He also clones Shemira's ghost Ultimate, which is 10 more ghosts.
 3. **Daimon fixes the one confirmed way Agumon fails.** He dies during the ramp when nothing holds the front. This comp fields a Mythic Tank, which the Snow Stomper comp does not.
-4. **Aurora multiplies the summons.** Dream Veil raises the damage of every allied summon, which pays Shemira's ghosts and her own bunnies, and her Hero Focus pays her back in ATK for the same summons.
+4. **Aurora multiplies the summons, and this comp barely feeds her.** Dream Veil pays Shemira's ghosts and her own bunnies, and that is the whole list. See the third weak point below.
 5. **Two damage types.** Taichi & Agumon is Physical and the other four are Magic, so an enemy stacked against one defence cannot resist the whole comp.
 
 **At AFK Stage 1142 this comp is the deficit-proof one, and that is its main advantage.** The Starter Story ladder is cleared and Infinite Stages have no ceiling, so enemy defence keeps climbing while the Resonance Level sits at 170. Raw ATK buys less every stage. Three taps here do not care: Daimon's Stitchy and Shemira's sacrificed ghosts both deal **true damage scaled to the target's max HP**, and Starshard adds a third on **current HP**. See [progression.md](progression.md).
@@ -59,26 +59,39 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Grid note.** Taichi & Agumon starts in the **back** row at range 7 and walks to the front himself after the digivolve. Confirmed from the account: fielded in the front row he died before transforming. Daimon leads at range 3 and holds the front until then. Aurora sits at range 2 and advances furthest, so she is the hero that gets reached. Watch her.
 
-**Two weak points:**
+**Three weak points, and the third is the slot to change:**
 
 1. **No healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the rest of the defence.
 2. **Rolan's Morale opener pays 6% per hero, not 10%.** The 10% rate needs a Lightbearer or Celestial core and this is a Graveborn one. He is in for the Ultimate clone, which is worth more here than anywhere else on the account.
+3. **Aurora is starved here.** Both halves of her design read the same number: allied summons belonging to **different** allies. Dream Veil sends her buff out to them, and Hero Focus brings it back to her as ATK, capped at **5 stacks from 5 different allies**. [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) names nine owned summon heroes and this comp fields **one** of them, Shemira. So Hero Focus runs at 1 stack of 5, and Dream Veil has ghosts and her own bunnies to work on. She is the strongest hero on the account in a comp built for her and close to the weakest slot in this one.
 
 **Bonnie is the hero this comp gave up.** She is Mythic, and her Aging cuts enemy Haste and ATK and spreads it. Taichi & Agumon took the slot on raw strength.
 
 **Eironn is deliberately out.** His pull only fires at battle start from **Mythic+**. He is Mythic, one tier short.
 
-### Swap if the comp dies rather than runs out of damage
+### The Aurora slot, and what to put in it
 
-Two answers, and neither is free.
+Aurora cannot be fed without dropping Taichi & Agumon or Shemira, so the answer is to replace her. Three candidates, ranked, and the choice turns on **how** the comp is losing.
 
-**Rolan out, Elijah & Lailah in.** They give **+60 Haste to every ally for 7s**, heal and add Energy Regen to the linked allies, and shield the weakest one. Their shared HP pool carries **+50% max HP**. Haste is damage across five heroes at once, and it makes the Starshard wave land more often. **The cost is Rolan's clone**, the biggest single damage add in the comp, so this lowers the ceiling to raise the floor. They are **Epic**, and their Hero Focus needs Legendary+, three Soul Sigils away. `unverified`: the source text says allies linked by Stellar Bond are "unaffected during the dance", and no source says whether that excludes them from the Haste or makes them control-immune. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+**Aurora out, Elijah & Lailah in, and this is the one to test first.** It is the pick when the comp is winning slowly rather than dying.
 
-**Aurora out, Koko in.** Her Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage**, which is the damage type this ladder cannot resist. She is Mauler, so the faction bonus falls to +14%. The cost is the summon multiplier behind Shemira's ghosts. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+**The argument is Starshard, not the heroes.** The artifact is the comp's true-damage tap, and true damage is the only damage an uncapped ladder cannot inflate away. It fires every **3 ally Ultimates**, so the dial that controls the account's best scaling is **team Ultimate count**, not any one carry's ATK. Nothing in this comp turns that dial except Rolan. Starlight Waltz gives **+60 Haste to every ally for 7s**, which speeds all five heroes at once, so it turns the dial harder than any single hero's damage. They also heal, add Energy Regen, shield the weakest ally, and carry **+50% max HP** across two bodies, which answers the first weak point above. Celestial, so the faction bonus stays at **+18%** plus +2%. They are **Epic**, so Hero Focus is off, three Soul Sigils away, and it raises the Haste further.
 
-**Aurora out, Phraesto in, and this is the one to test first.** He is a second Tank who deploys as **two bodies**, so the front holds twice as long. He taunts and stuns the enemy's highest damage dealer, which is what reaches Aurora at range 2 today. He heals himself 160% HP per enemy his Ultimate hits, so the comp gains its first healing. Allies behind his true body gain Energy Recovery Speed and allies behind his Illusion take less damage. He is **Hypogean**, so he wildcards exactly as Aurora does and the faction bonus stays at **+18%** plus +2%. The cost is the same as Koko's: Aurora's summon multiplier behind Shemira's ghosts. He is Epic and not a Hand, so he sits at the Resonance Level of 170, level for level with the slot he takes. See [../mechanics/heroes/phraesto.md](../mechanics/heroes/phraesto.md).
+`unverified`: **Stellar Bond does not fire here.** It needs every linked ally to share one faction, and this comp holds Graveborn, Dimensional and Celestial. No source says which allies the twins link, so whether a mono-faction core could ever be built around them without dropping Taichi & Agumon is open. The Haste, the heals and the shield do not depend on it. `unverified`: the source text says linked allies are "unaffected during the dance", and no source says whether that excludes them from the Haste or makes them control-immune. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
-`unverified`: **whether Phraesto's Illusion adds to the Starshard Spell counter.** The artifact fires every 3 **ally** Ultimates, and the Illusion casts all his skills as its own unit. If it counts, the wave lands far more often and this swap raises the ceiling as well as the floor. One battle settles it: field him and watch the wave. See [progression.md](progression.md).
+**Aurora out, Phraesto in.** The pick when the comp is dying rather than running out of damage. He is a second Tank who deploys as **two bodies**, so the front holds twice as long. He taunts and stuns the enemy's highest damage dealer, which is what reaches Aurora at range 2 today. He heals himself 160% HP per enemy his Ultimate hits. Allies behind his true body gain Energy Recovery Speed and allies behind his Illusion take less damage. **Hypogean**, so the faction bonus stays at **+18%** plus +2%. He is Epic and not a Hand, so he sits at the Resonance Level of 170, level for level with the slot he takes. See [../mechanics/heroes/phraesto.md](../mechanics/heroes/phraesto.md).
+
+`unverified`: **whether Phraesto's Illusion adds to the Starshard Spell counter.** The artifact fires every 3 **ally** Ultimates, and the Illusion casts all his skills as its own unit. If it counts, this swap turns the Starshard dial too and beats Elijah & Lailah outright. One battle settles it: field him and watch the wave.
+
+**Aurora out, Pandora in, and this answers the one confirmed way the comp dies.** The record says Agumon dies during the ramp when nothing holds the front. Boxed Blessing seals one ally in an **invincible** box for 4s and then releases them with **bonus Energy and ATK**, so it is the insurance and the accelerator in one skill: the invincibility covers the ramp and the Energy shortens it, which is the same job Taichi's extra 250 Energy per cheer exists to do. Panic Projection makes every unit flee for 5s and then cuts enemy ATK, and control counts as survival. She is **Legendary**, a tier above Elijah & Lailah and Phraesto. The cost is the faction bonus: Dimensional does not wildcard, so a second Dimensional hero leaves Shemira and Daimon as a 2-core with only Rolan wildcarding in, and the bonus falls from +18% to **+14%**. See [../mechanics/heroes/pandora.md](../mechanics/heroes/pandora.md) and [../mechanics/factions.md](../mechanics/factions.md).
+
+**Koko is the fourth name and stays out.** Full Energy gives the team 45 to 55% damage reduction for 12s and converts everything blocked into true damage, which is the right damage type, but she is Mauler and drops the faction bonus to +14% for a hero that does Phraesto's job with no second body. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+
+### The 30% Morale opener is reachable again, and it still costs too much
+
+Rolan pays **10% Morale per hero** when the most-deployed faction is **Lightbearer or Celestial**, against 6% otherwise, and hands those heroes 20 Penetration and 50% damage reduction for 8s. The account owns three Celestials: **Aurora, Rolan and Elijah & Lailah**. All three in one comp make Celestial the most-deployed faction and fire the opener at 30%, on three strong heroes rather than on filler.
+
+**It does not fit.** Three Celestials plus Taichi & Agumon leaves one slot, and Daimon has to hold it or the ramp fails. That drops Shemira, the second true-damage carry. Revisit it if a hero arrives who tanks and carries in one slot.
 
 ---
 

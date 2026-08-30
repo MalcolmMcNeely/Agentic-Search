@@ -62,6 +62,8 @@ Different from the scaling carry, which grows smoothly from the first second. A 
 
 **The ramp is a survival problem before it is a damage one.** Until the digivolve lands, Agumon is a range-7 attacker carrying none of the HP that makes WarGreymon a frontliner. **Confirmed from the account:** placed in the front row he was killed before he ever transformed, and the whole comp fell over with him. Start him in the back row and let him walk forward after the change. See [formation.md](formation.md).
 
+**Pandora answers that failure directly, and she is the only hero on the roster that does.** Boxed Blessing seals one ally **invincible** for 4s and then releases them with **bonus Energy and ATK**. The invincibility covers the window Agumon dies in, and the Energy shortens the window itself, which is the same job Taichi's extra 250 Energy per cheer exists to do. She is Dimensional, so she also pays the faction bonus alongside both pairs. See [heroes/pandora.md](heroes/pandora.md).
+
 **Yamato & Gabumon** ramps the same way into MetalGarurumon, and WarGreymon shortens it for him. At battle start WarGreymon gives himself and every ally behind him **+25% of his own ATK** for 20s, and Gabumon taking that buff gains **300 Energy** on top.
 
 So the two ramp each other. Taichi feeds Agumon, Agumon digivolves early, WarGreymon then feeds Gabumon, and Gabumon digivolves early too.
@@ -93,6 +95,19 @@ Take it when the carry's Ultimate is the whole point, and when the fight lasts l
 **Phraesto** feeds Energy Recovery Speed to every ally standing behind his true body, and from Legendary+ his Hero Focus generates Energy every time either of his two bodies is hit, so a tank being attacked becomes an Energy source. He is placed under **Mitigation** below, because that is his first job. See [heroes/phraesto.md](heroes/phraesto.md).
 
 **Smokey & Meerky** feeds the pair Energy back off its own healing Ultimate, from range 8. **Pandora** feeds a single ally: Boxed Blessing seals that ally invincible for 4s, then releases them with bonus Energy and ATK, which is protection and Energy in one skill. **Taichi** is the most extreme feeder on the roster, but he only ever feeds Agumon, so he belongs to the ramp carry above.
+
+### Buff converter
+
+**Engine:** any hero handing out temporary ATK, Haste or shields.
+**Payload:** a hero that turns those temporary buffs into something that lasts.
+
+The other patterns treat a buff as a buff. These two treat it as a resource, so a buff that would expire in 7s is banked instead.
+
+**Silven** is the pure case: Oath of Fealty turns ally buffs into **Energy and permanent stats**. **Lily May** does the softer version: Rainfall Bliss grows her ATK every time an ally buffs her stats, and Swallow's Flight then converts that growth into **true damage scaled to the target's max HP**, with Hero Focus adding Penetration on top.
+
+**The roster is a buff factory, so the engine half is free.** Hugin forges ATK and Haste onto the top damage dealer, Elijah & Lailah give every ally +60 Haste, Solise's Bulbsprites raise team damage, Rolan stacks Morale and hands out Penetration, and Fay, Koko, Smokey & Meerky, Faramor, Valka, Thador and Kordan all buff allies as well.
+
+**Both payloads are held back by their tier, not their kit.** Silven is Elite+ and Lily May is Epic, so this is a pattern to build toward rather than one to field today. Lily May's true damage is the type an uncapped ladder cannot resist, which is the same argument that holds Starshard Spell, and her guide ratings weight PvP and boss fights rather than the ladder. See the guide silence rule in [hero-scoring.md](hero-scoring.md).
 
 ### Summon stack
 
@@ -162,6 +177,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is Legendary+.
 - **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. **Phraesto** is the second body in this slot, literally: he deploys as two, taunts the enemy's biggest hitter off the carry, and buffs damage reduction and Energy on the allies behind each of his bodies. He is **Epic**, so his Hero Focus is three Soul Sigils away. Lucius, Antandra and Pandora fill the same job at smaller scale.
 - **Control.** Bonnie is Mythic, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
+- **Buff converter.** **Lily May** at Epic and **Silven** at Elite+. The engine half is already on the roster many times over, so this pattern is waiting on their tiers, not on a missing hero.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).
 
