@@ -44,7 +44,7 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Galahad | Mage | Magic | Legendary | - | [galahad](../mechanics/heroes/galahad.md) |
-| Kordan | Warrior | Physical | Epic+ | - | [kordan](../mechanics/heroes/kordan.md) |
+| Kordan | Warrior | Physical | Legendary | - | [kordan](../mechanics/heroes/kordan.md) |
 | Kruger | Warrior | Physical | Legendary | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Elite+ | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
@@ -62,7 +62,7 @@
 | Lenya | Rogue | Physical | Elite+ | - | [lenya](../mechanics/heroes/lenya.md) |
 | Hewynn | Support | Magic | Epic | - | [hewynn](../mechanics/heroes/hewynn.md) |
 | Velara | Support | Magic | Legendary | - | [velara](../mechanics/heroes/velara.md) |
-| Eironn | Rogue | Magic | Epic | - | [eironn](../mechanics/heroes/eironn.md) |
+| Eironn | Rogue | Magic | Mythic | - | [eironn](../mechanics/heroes/eironn.md) |
 | Lily May | Rogue | Magic | Epic | - | [lily-may](../mechanics/heroes/lily-may.md) |
 | Arden | Mage | Magic | Elite | - | [arden](../mechanics/heroes/arden.md) |
 
@@ -71,7 +71,7 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Daimon | Tank | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
-| Shemira | Mage | Magic | Legendary | - | [shemira](../mechanics/heroes/shemira.md) |
+| Shemira | Mage | Magic | Mythic | - | [shemira](../mechanics/heroes/shemira.md) |
 | Bonnie | Marksman | Magic | Legendary+ | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
 | Valka | Warrior | Physical | Legendary | - | [valka](../mechanics/heroes/valka.md) |
@@ -83,7 +83,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Taichi & Agumon | Warrior | Physical | Legendary | - | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
 | Yamato & Gabumon | Mage | Magic | Legendary | - | [yamato-gabumon](../mechanics/heroes/yamato-gabumon.md) |
-| Pandora | Support | Magic | Epic | - | [pandora](../mechanics/heroes/pandora.md) |
+| Pandora | Support | Magic | Legendary | - | [pandora](../mechanics/heroes/pandora.md) |
 
 ## Celestial
 

@@ -1,7 +1,7 @@
 # Legend Trial
 
 > **Covers:** the four Legend Trial towers, which faction each locks to, the weekday rotation, floor count, and what the faction lock does to team building.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 Legend Trial is the old Factional Tower. It unlocks at AFK Stage 166. One own team per floor, and the team is faction-locked.
 
@@ -38,7 +38,7 @@ Dimensional heroes do not wildcard, so they are out of every tower. Confirmed fr
 
 Wilder depth is 9 heroes, so Tower of Nature can field a full team with bench to spare. Lightbearer 12, Mauler 8, Graveborn 6. Graveborn is exactly 5 of 6 usable, with no depth behind it. See [../account/roster.md](../account/roster.md).
 
-Comps for Tower of Nature and Tower of Eternity are written in [../account/teams.md](../account/teams.md).
+All four towers now have a comp in [../account/teams.md](../account/teams.md).
 
 ## Sources
 

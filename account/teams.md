@@ -52,9 +52,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **First swap to try if it stalls:** Temesia out, **Solise** in, for healing and a team damage buff. Hugin and Zanie plus the two wildcarding Celestials still make a 4-core, so the bonus falls to **+18%**, not to +14%. Rolan's Morale opener still fires at 10% per hero, on 2 heroes instead of 3. The real cost is the tank, not the stats. Test it, do not assume it.
 
-**Open test:** Starshard fires every 4 ally Ultimates, and Rolan's clones cast Ultimates. If clones feed the counter, Starshard may beat Confining here. Unknown.
-
-**The Shemira comp below is the rival for this slot, and it now leads on paper.** It matches the +22%, and beats this one on gear (170 to 166), hero tier, Hands of Resonance and damage sources. Daimon being a Tank rather than a Warrior removed its one structural weakness, so **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
+**The Shemira comp below holds the push slot.** It matches the +22%, ties it on gear (202.8 to 202.0), and beats it on hero tier, Hands of Resonance and damage sources. Daimon is a Tank, so it fields a real frontline too, and **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
 
 ---
 
@@ -66,17 +64,19 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | 3 | Mythic |
 | Middle | Aurora | Celestial | Mage | 2 | Legendary |
-| Middle | Shemira | Graveborn | Mage | 4 | Legendary |
+| Middle | Shemira | Graveborn | Mage | 4 | Mythic |
 | Back | Bonnie | Graveborn | Marksman | 7 | Legendary+ |
 | Back | Rolan | Celestial | Support | 10 | Epic |
 
 **Artifact:** Confining Spell +6. Daimon holds the front at range 3, so two enemies blocked out of the backline is what keeps Shemira and Aurora firing.
 
+**Artifact test: Starshard Spell +7 against Confining Spell +6.** Starshard fires a true damage wave every 4 ally Ultimates for **24% of each target's current HP**, because +4 is live on this account. This comp casts Ultimates faster than any other owned: Shemira's Ultimate resets its own strike count, and Rolan clones ally Ultimates outright. Percentage-of-current-HP true damage also ignores the enemy defence that a level deficit makes worse. Run one stage on each and keep the winner. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
 **Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, and Aurora and Rolan wildcard in.
 
 **Why:** **scaling carry and summon stack at once**, from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Shemira is the carry: her Ultimate summons 10 ghosts that bombard for 10s and heal her off their own damage, and the strike count resets on every cast, so she snowballs. Rolan clones that Ultimate outright, which is 10 more ghosts. Aurora's Dream Veil raises the damage of **every allied summon**, so it pays both the ghosts and her own bunnies. Daimon soaks and hands out shields. Bonnie's Aging cuts enemy Haste and ATK, then spreads it.
 
-**It beats the Lightbearer comp on every stat this file can measure.** Class Equipment averages **170** against 166, because four of the five draw on the account's three best gear classes: Mage 178 twice, Marksman 173 and Tank 167. It fields the account's only Mythic hero, where the other comp's weakest link is an Epic. It holds three Hands of Resonance against one, so it gains every level the account buys. It has three damage sources against one.
+**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **202.8** against 202.0, which is a rounding error. The six classes sit within 12 levels of each other, so gear no longer separates two comps. See [equipment.md](equipment.md). It fields two of the three Mythic heroes the account owns, where the other comp's weakest link is an Epic. It holds three Hands of Resonance against one, so it gains every level the account buys. It has three damage sources against one.
 
 **Grid note:** Daimon leads at range 3. He is a Tank whose kit is a damage soak and shield engine, so he holds the front without needing to close. Aurora sits at range 2 and advances furthest, so she is the hero that gets reached. Watch her.
 
@@ -85,31 +85,47 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 1. **No healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the rest of the defence.
 2. **Rolan pays less here.** His Morale opener gives 6% per hero on a Graveborn core, not the 10% per hero a Lightbearer or Celestial core triggers. He is in for the Ultimate clone, which is worth more on Shemira than on anyone else this account owns.
 
-**Daimon, Shemira and Bonnie are Hands of Resonance**, so this comp gains every level the account buys. The Lightbearer comp does not. See [progression.md](progression.md).
+**This is the AFK Stages push comp, and all five heroes take a Hand of Resonance slot.** Daimon, Shemira and Bonnie hold Hands already. Aurora and Rolan replace Hugin and Thador, and the swap is free because the level travels with the slot. Every level the account buys then lands on this comp. See [progression.md](progression.md).
 
-**Eironn is deliberately out.** His pull only fires at battle start from **Mythic+**. He is Epic.
+**Eironn is deliberately out.** His pull only fires at battle start from **Mythic+**. He is Mythic, one tier short.
 
 ---
 
-## PvP — Eironn nuke — `blocked` on ascension
+## PvP, Arena — Graveborn control carry — `proposed`
 
-**Purpose:** Arena, and any fight where enemies stand in a group.
+**Purpose:** Arena, ranked PvP. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
-| Row | Hero | Faction | Range |
-| --- | --- | --- | --- |
-| Front | Thador | Wilder | 1 |
-| Middle | Eironn | Wilder | 1 |
-| Middle | Faramor | Wilder | 1 |
-| Back | Solise | Wilder | 6 |
-| Back | Aurora | Celestial | 2 |
+| Row | Hero | Faction | Class | Range | Tier | Level |
+| --- | --- | --- | --- | --- | --- | --- |
+| Front | Daimon | Graveborn | Tank | 3 | Mythic | 140 |
+| Middle | Aurora | Celestial | Mage | 2 | Legendary | 130 |
+| Middle | Shemira | Graveborn | Mage | 4 | Mythic | 140 |
+| Back | Bonnie | Graveborn | Marksman | 7 | Legendary+ | 140 |
+| Back | Rolan | Celestial | Support | 10 | Epic | 130 |
 
-**Artifact:** Confining Spell +6.
+**Artifact:** Confining Spell +6. Two enemies held out of the backline is what keeps Shemira and Aurora alive against an Arena dive, and this comp has no healer.
 
-**Why:** Eironn's Ultimate drags every enemy within 2 tiles into one pile, freezes them 3s and cuts their Magic DEF by 40%. Faramor's circle punishes the stack and blocks enemy healing. Four Wilders plus Aurora wildcarding = **+22%**.
+**Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, with Aurora and Rolan wildcarding.
 
-**Blocked on Eironn reaching Mythic+.** Only then does his Ultimate fire at battle start. He is Epic. Until then the pull is not guaranteed to land first and the comp is a worse version of itself. Copies are the unlock.
+**Why:** **levels decide Arena, and this comp fields three of the four heroes that sit at 140.** Daimon, Shemira and Bonnie are Hands of Resonance ten levels above the Resonance Level of 130. Every other comp this account can field for PvP puts at most one Hand on the board. See [progression.md](progression.md).
 
-**Swap:** Arden for Faramor once Arden is above Elite. He charges his Ultimate off Eironn's hit and is the named payload for this pattern.
+On top of the levels it fields **control plus a carry**, the two patterns [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) names for PvP. Bonnie is the control: her Aging cuts enemy Haste and ATK, spreads to nearby foes, and her Ultimate stuns anything carrying it. Daimon is a real Tank at Mythic who soaks and shields. Shemira is the carry, and Rolan clones her ghost Ultimate outright. Aurora's Dream Veil raises the damage of every allied summon, which pays Shemira's ghosts and her own bunnies.
+
+**These are the same five as the AFK Stages second comp**, on purpose. They are the strongest five the account owns, and Arena rewards raw strength more than any other mode. That comp's write-up holds the fuller reasoning.
+
+**Three weak points:**
+
+1. **Scaling carry is the wrong archetype for a short fight.** The matchup table in [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) says leave a scaling carry home in a damage race. Shemira snowballs, and an Arena fight may end before she does. The levels are what carry the comp past this, not the pattern.
+2. **Rolan pays less here than in a Lightbearer core.** His Morale opener gives 6% per hero on Graveborn, not 10%, and Morale needs time this mode may not give. He is in for the Ultimate clone.
+3. **No healer.** Shemira heals herself off her ghosts. Daimon's shields are the rest.
+
+**Counter swap: Rolan out, Lily May in, against an Ultimate-heavy enemy comp.** She is rated **S+ for PvP**, the highest PvP rating on the account, and her Ultimate is a passive that answers every non-summoned enemy Ultimate with a Quellbolt. That includes enemy Eironn teams. The cost is the faction bonus dropping from +22% to +18%, since she is Wilder and Rolan wildcards. Take the trade when the enemy leans on Ultimates, not otherwise. See [../mechanics/heroes/lily-may.md](../mechanics/heroes/lily-may.md).
+
+**Do not swap Aurora out for Lily May.** Aurora is the summon engine behind Shemira's ghosts, and losing her costs more than Rolan's clone.
+
+**The upgrade path is the Eironn nuke, and it is one ascension away.** Eironn pulls every enemy within 2 tiles into one pile, freezes them 3s and cuts their Magic DEF by 40%, and PvP is the fight that pattern is built for. **It needs Mythic+, so his Ultimate fires at battle start.** He is Mythic. Until then the pull is not guaranteed to land first and the nuke is a worse version of itself. The payload for it is **Arden**, who charges his Ultimate off Eironn's hit, and Arden is Elite, so he needs raising too. Copies are the unlock. See [../mechanics/recruitment.md](../mechanics/recruitment.md).
+
+**The account sits at Adept 3**, the second of five named tiers. See [../mechanics/arena.md](../mechanics/arena.md) for the ladder and [progression.md](progression.md) for the rank. That is low enough that raw levels still decide most fights, which is what this comp is built on. Reassess the archetype when the enemy defence teams start surviving the opening.
 
 ---
 
@@ -125,7 +141,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 | Buffer | Hugin | Lightbearer | 20 |
 | Flex | Taichi & Agumon | Dimensional | 7, then 1 |
 
-**Artifact:** Starshard Spell +5. True damage ignores the boss's defence.
+**Artifact:** Starshard Spell +7. True damage ignores the boss's defence.
 
 **Why:** fills the four roles the guides agree on. Galahad's Time Recast makes another hero fire again, which is the whole point of a single-target damage race. Kruger and Taichi & Agumon are the only heroes this account owns that the Snow Stomper guides name. Three Maulers pay **+10%**.
 
@@ -171,7 +187,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **Four weak points:**
 
-1. **Only Thador is a Hand of Resonance.** Thador now runs at 121 against a Resonance Level of 120, so the other four heroes here are a level down on him and the gap will widen. Move the other Hands onto Faramor, Velara and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
+1. **No hero here is a Hand of Resonance**, so all five sit at the Resonance Level. Swapping a Hand is free and the level travels with the slot, so borrow the +10 for a run: swap Faramor, Velara and Solise into Hand slots before the run and swap them back after. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
 2. **Faramor is the only real damage dealer.** Aurora, Solise and Velara all add summon damage, but a floor with a hard timer or a high-HP boss can stall. He is **Legendary+** now, the account's second-highest tier, so the slot hits harder than it did, but it is still one slot.
 3. **Thador and Faramor are both range 1**, so both walk into the enemy and leave Aurora at range 2 exposed once the front moves up. Watch her HP, because it carries.
 4. **Healer role split is `unverified`.** gamerant says bring two healers, afk.guide says one is enough. This comp follows gamerant, which costs a damage slot. See [../mechanics/arcane-labyrinth.md](../mechanics/arcane-labyrinth.md).
@@ -184,13 +200,13 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 ## Legend Trial, Tower of Nature — Wilder sustain — `running`
 
-**Purpose:** Tower of Nature only. Faction-locked to Wilder. Open Wednesday, Saturday, Sunday. **Floor 37 of 90**. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
+**Purpose:** Tower of Nature only. Faction-locked to Wilder. Open Wednesday, Saturday, Sunday. **Floor 55 of 90**. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
 | Front | Thador | Tank | 1 | Legendary |
 | Middle | Faramor | Rogue | 1 | Legendary+ |
-| Middle | Eironn | Rogue | 1 | Epic |
+| Middle | Eironn | Rogue | 1 | Mythic |
 | Back | Hewynn | Support | 4 | Epic |
 | Back | Solise | Support | 6 | Legendary |
 
@@ -204,11 +220,11 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **Three weak points:**
 
-1. **Only Thador is a Hand of Resonance.** Thador now runs at 121 against a Resonance Level of 120, so the other four heroes here are a level down on him and the gap will widen. Move the other Hands onto Faramor, Hewynn and Solise. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
-2. **Eironn is Epic, so his battle-start pull does not fire.** That needs Mythic+. He is in for the Magic DEF cut and the mid-fight bunching, not the opening nuke.
-3. **Faramor is the only real damage dealer.** A floor with a high-HP wall can stall. He is **Legendary+** now, which unlocked Hero Focus and a new skill and makes him the highest-tier hero in this comp, so the ceiling is higher than it was. It is still one slot carrying the tower.
+1. **No hero here is a Hand of Resonance**, so all five sit at the Resonance Level. Swapping a Hand is free and the level travels with the slot, so borrow the +10 for a run: swap Thador, Faramor and Solise into Hand slots before the tower opens and swap them back after. Do not swap out the lowest Hand, or the Resonance Level moves. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+2. **Eironn is Mythic, so his battle-start pull does not fire.** That needs Mythic+, one tier up. He is in for the Magic DEF cut and the mid-fight bunching, not the opening nuke. One ascension away.
+3. **Faramor is the payload, and Eironn backs him up.** A floor with a high-HP wall can still stall. Faramor is **Legendary+**, which unlocks Hero Focus and a new skill. Eironn is **Mythic**, the highest tier in this comp, so his Magic DEF cut and his own damage both hit harder. The damage is no longer all in one slot, but it is close.
 
-**First swap to try if floors stall on damage:** Eironn out, **Arden** in, for AoE and crowd control. Arden is Elite, two tiers under Eironn, so he dies fast on high floors. Test it, do not assume it.
+**First swap to try if floors stall on damage:** Eironn out, **Arden** in, for AoE and crowd control. Arden is Elite, six tiers under Eironn, so he dies fast on high floors. This swap is a poor trade: Eironn is one ascension from Mythic+ and his battle-start pull. Test it, do not assume it.
 
 **Left home on purpose:** Lily May, an S+ **PvP** counter-pick with no job in PvE. Lenya, an isolate-and-duel kit at Elite+.
 
@@ -218,13 +234,13 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 ## Legend Trial, Tower of Eternity — Graveborn scaling carry — `running`
 
-**Purpose:** Tower of Eternity only. Faction-locked to Graveborn. Open Thursday, Saturday, Sunday. **Floor 36 of 90**. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
+**Purpose:** Tower of Eternity only. Faction-locked to Graveborn. Open Thursday, Saturday, Sunday. **Floor 56 of 90**. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
 | Front | Valka | Warrior | 1 | Legendary |
 | Front | Daimon | Tank | 3 | Mythic |
-| Middle | Shemira | Mage | 4 | Legendary |
+| Middle | Shemira | Mage | 4 | Mythic |
 | Back | Cecia | Marksman | 5 | Epic |
 | Back | Bonnie | Marksman | 7 | Legendary+ |
 
@@ -241,9 +257,71 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 1. **There is no healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the whole defence.
 2. **No depth behind it.** A wall on this tower cannot be answered by swapping a hero in, only by ascending the six that exist.
 
-**The frontline is stronger than this file used to claim.** Daimon is a Tank, not a Warrior, so this comp fields a real Tank at Mythic beside Valka, and Daimon draws Tank gear at 167 rather than Warrior gear at 148.
+**The frontline is real.** Daimon is a Tank, not a Warrior, so this comp fields a Tank at Mythic beside Valka. Tank gear sits at 197 against Warrior at 205, so his class costs 8 levels of gear and buys the right role.
 
-**Daimon, Shemira and Bonnie are Hands of Resonance**, three of the five, so levelling this comp is most of raising the Resonance Level. See [progression.md](progression.md).
+**Daimon, Shemira and Bonnie hold Hands of Resonance**, three of the five, so they run 10 levels above Valka and Cecia. Swapping a Hand is free and the level travels with the slot, so borrow the +10 for Valka and Cecia before the tower opens. Do not swap out the lowest Hand, or the Resonance Level moves. See [progression.md](progression.md).
+
+---
+
+## Legend Trial, Tower of Light — Lightbearer turret carry — `running`
+
+**Purpose:** Tower of Light only. Faction-locked to Lightbearer. Open Monday, Friday, Sunday. **Floor 52 of 90**. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
+
+| Row | Hero | Class | Range | Tier |
+| --- | --- | --- | --- | --- |
+| Front | Temesia | Tank | 1 | Epic |
+| Middle | Rowan | Mage | 3 | Legendary |
+| Back | Cyran | Mage | 6 | Epic |
+| Back | Zanie | Marksman | 20 | Legendary+ |
+| Back | Hugin | Support | 20 | Legendary+ |
+
+**Artifact:** Confining Spell +6. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
+
+**Faction bonus: +22%.** Five Lightbearer is forced by the lock.
+
+**Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
+
+**Borrow the Hands of Resonance before you run this.** A Hand swap is **free, unlimited, and the level travels with the slot**, so put Temesia, Rowan, Cyran and Zanie into the four Hand slots that sit at **140** and they run at 140 for the tower. Hugin already holds the fifth slot at 130. Swap back afterwards. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md). Without this, all five run at 130 and no hero in the comp has a level edge.
+
+**Three weak points:**
+
+1. **No healer.** Lightbearer owns none. Rowan's potions only fire on an ally already under 50% HP, and Hugin gives shields, not heals. High floors will punish this.
+2. **The frontline is one Epic.** Temesia is the only usable Lightbearer Tank; Chippy is Rare and cannot ascend. If she folds, three back-row heroes are exposed at once.
+3. **Lightbearer loses to Graveborn on the wheel**, so every Graveborn floor costs 15% damage and there is no way to dodge it. See [../mechanics/factions.md](../mechanics/factions.md).
+
+**First swap to try if floors stall on damage:** Cyran out, **Silven** in. His kit turns ally buffs into Energy and permanent stats, and Hugin and Rowan both hand out buffs, so he is the one Lightbearer built to cash in what this comp already does. He is Elite+ against Cyran's Epic, one tier down, so raise him before trying it. Test it, do not assume it.
+
+**Left home on purpose:** Mirael, an Epic Mage whose burn stacking is slower than Cyran's black hole. Valen and Lucius, Warriors at Elite+ and Elite. Fay, Chippy and Hammie, all Elite or Rare.
+
+---
+
+## Legend Trial, Tower of Will — Mauler frontline grind — `running`
+
+**Purpose:** Tower of Will only. Faction-locked to Mauler. Open Tuesday, Friday, Sunday. **Floor 53 of 90**. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
+
+| Row | Hero | Class | Range | Tier |
+| --- | --- | --- | --- | --- |
+| Front | Antandra | Tank | 1 | Epic |
+| Middle | Kordan | Warrior | 1 | Legendary |
+| Middle | Kruger | Warrior | 1 | Legendary |
+| Back | Galahad | Mage | 10 | Legendary |
+| Back | Smokey & Meerky | Support | 8 | Legendary |
+
+**Artifact:** Awakening Spell +6. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
+
+**Faction bonus: +22%.** Five Mauler is forced by the lock.
+
+**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. Smokey & Meerky is the healer and also raises ally ATK, so the heal slot still adds damage. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
+
+**Borrow the Hands of Resonance before you run this.** No hero in this comp holds a Hand, so all five run at **130** by default, and this is the only comp in this file with no level edge at all. The swap is **free, unlimited, and the level travels with the slot**, so put four of these five into the Hand slots sitting at **140** before the tower opens. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+
+**Three weak points:**
+
+1. **Kruger is in for his tier, not his fit.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He holds the slot because he is Legendary and the alternative is three tiers down.
+2. **Three heroes stand at range 1.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. Watch the back row.
+3. **The bench is thin.** Only 8 Maulers are owned and the three cut are Koko at Elite+, Gerda at Elite and Seth at Elite. A wall on this tower is answered by ascending, not by swapping.
+
+**First swap to try if floors are lost to damage taken:** Kruger out, **Koko** in. Her Ultimate gives the team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, which is both halves of this comp's problem at once. She is Elite+ against Kruger's Legendary, three ascension steps down, so it is a real stat loss. Raise her first, then test it.
 
 ---
 
@@ -253,11 +331,11 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 | Slot | Hero | Faction | Class | Range | Tier |
 | --- | --- | --- | --- | --- | --- |
-| The one | Shemira | Graveborn | Mage | 4 | Legendary |
+| The one | Shemira | Graveborn | Mage | 4 | Mythic |
 
 **Artifact:** Confining Spell +6, to hold enemies off her at range 4.
 
-**Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Legendary, and range 4 keeps her off the front.
+**Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Mythic, the joint-highest tier on the account, and range 4 keeps her off the front.
 
 **Runner-up: Cecia.** Range 5, and Mr. Carlyle inherits her stats, so a summoner is the one other kit that keeps most of itself alone. He can be resummoned to heal. Her Trial of Thorns steals 1.5% of both enemy DEF stats every second and keeps it, which compounds in a long duel. Her file rates her B for campaign against Shemira's S.
 
@@ -269,7 +347,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 ## Purposes with no comp yet
 
-Battle Drills, Supreme Arena, and the two Legend Trial towers this account cannot fill yet: **Tower of Light** (Lightbearer, 12 owned) and **Tower of Will** (Mauler, 8 owned). Both have the roster depth, neither has a comp written. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
+Battle Drills and Supreme Arena. Both need several teams at once, so they want roster depth rather than one stacked comp. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 ## Onward
 

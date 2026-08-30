@@ -1,7 +1,7 @@
 # Recruitment
 
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
@@ -96,13 +96,13 @@ Rolan fits this roster twice over:
 
 ### The Epic wishlist, 5 slots
 
-Picked by archetype and by what the account cannot field, not by tier list. **Eironn and Lily May came off this banner**, both at Epic, and all 44 letters went with them.
+Picked by archetype and by what the account cannot field, not by tier list. **Eironn and Lily May came off this banner**, and all 44 letters went with them.
 
 | Slot | Hero | Faction | Class | Why |
 | --- | --- | --- | --- | --- |
 | 1 | **Thoran** | Graveborn | Tank | the account's largest hole. Tower of Eternity is faction-locked and fields **no Tank**, which its own entry in [../account/teams.md](../account/teams.md) calls the comp's ceiling. He resurrects once per battle, marks the highest-HP enemy for +13% damage taken, and eats 50% of the damage aimed at the ally behind him. He is in no shop, so the wishlist is the only route |
-| 2 | **Shemira** | Graveborn | Mage | the scaling carry in two `running` comps and a Hand of Resonance. Copies raise a hero already carrying the account |
-| 3 | **Eironn** | Wilder | Rogue | owning him once is not the same as having him work. His battle-start pull needs **Mythic+**, and that unlocks the whole PvP nuke comp, currently `blocked`. Copies are the unlock |
+| 2 | **Shemira** | Graveborn | Mage | the scaling carry in two `running` comps and a Hand of Resonance. She is **Mythic**, one tier under Mythic+, so the next ascension unlocks her Exclusive Equipment and a new skill. Copies are the shortest route to the account's first EX weapon |
+| 3 | **Eironn** | Wilder | Rogue | owning him once is not the same as having him work. He is **Mythic**, and his battle-start pull needs **Mythic+**, one tier up. That unlocks the whole PvP nuke comp, currently `blocked`. Copies are the unlock |
 | 4 | **Smokey & Meerky** | Mauler | Support | the only S-Level healer the account owns, at Epic. Named healer in the Dream Realm comp and on the Arcane Labyrinth bench |
 | 5 | **Shakir** | Mauler | Rogue | a hero the account does not own. Lupine Aura cuts 20% damage taken and adds 10 Haste for nearby allies, which pays in every mode. Mauler is 8 deep with no Tower of Will comp written |
 

@@ -1,7 +1,7 @@
 # Equipment, Exclusive Equipment and charms
 
 > **Covers:** class gear, the EX weapon, Magic Charms, and which of them are per-class, per-hero or seasonal.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 Three separate systems, easy to confuse.
 
@@ -29,7 +29,7 @@ This matters for upgrade planning. Raising one slot by 6 raises the class Level 
 
 Several guides state that gear cannot exceed the Resonance Level, and that Resonance Level 79 crafts level 75 gear.
 
-**The account contradicts this.** At Resonance Level 120 it holds gear from 125 to 190, across all six classes. The lowest class Level is 148, the highest is 178, so every class sits **28 to 58 levels above** the Resonance Level and the top slots sit 70 above it. See [../account/equipment.md](../account/equipment.md).
+**The account contradicts this.** At Resonance Level 130 it holds gear from 145 to 230, across all six classes. The lowest class Level is 197, the highest is 209, so every class sits **67 to 79 levels above** the Resonance Level and the top slots sit 100 above it. See [../account/equipment.md](../account/equipment.md).
 
 The account has held gear above its Resonance Level across repeated readings, so this is not a one-off.
 

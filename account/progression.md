@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, artifacts owned and mode progress.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -14,9 +14,9 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Field | Value |
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
-| AFK Stage | 674 |
-| Resonance Level | 120 |
-| Total power | 1,941k |
+| AFK Stage | 893 |
+| Resonance Level | 130 |
+| Total power | 4,100k |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 Roughly on pace. A casual account reaches Resonance Level 240 and AFK Stage 1125 in about 70 to 80 days.
@@ -27,33 +27,49 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 | Hero | Faction | Class | Level | Tier |
 | --- | --- | --- | --- | --- |
-| Daimon | Graveborn | Tank | 121 | Mythic |
-| Thador | Wilder | Tank | 121 | Legendary |
-| Shemira | Graveborn | Mage | 121 | Legendary |
-| Hugin | Lightbearer | Support | 120 | Legendary+ |
-| Bonnie | Graveborn | Marksman | 120 | Legendary+ |
+| Daimon | Graveborn | Tank | 140 | Mythic |
+| Thador | Wilder | Tank | 140 | Legendary |
+| Shemira | Graveborn | Mage | 140 | Mythic |
+| Hugin | Lightbearer | Support | 130 | Legendary+ |
+| Bonnie | Graveborn | Marksman | 140 | Legendary+ |
 
-Daimon, Shemira and Thador sit at 121. Hugin and Bonnie sit at 120, so the **Resonance Level is 120** and every other hero on the account sits there too. Three Hands run one level above the rest.
+Daimon, Thador, Shemira and Bonnie sit at 140. Hugin sits at 130, so the **Resonance Level is 130** and every other hero on the account sits there too.
 
-**Raising the Resonance Level needs all five Hands.** It is set by the **lowest** Hand, so lifting four of them moves nothing. Level all five evenly to 130 and the Resonance Level follows the last one up.
+**Four Hands are at the +10 cap and cannot take another level.** 140 is exactly 130 plus 10. Daimon, Thador, Shemira and Bonnie are frozen until the Resonance Level rises.
 
-**The next levels to buy are Hugin and Bonnie.** Only the lowest Hand moves the Resonance Level, and the Resonance Level lifts all 40 heroes for free. A level bought on Daimon, Shemira or Thador pays one hero. A level bought on Hugin or Bonnie pays the whole roster. The headroom to 130 is legal, because a Hand may run +10 above the Resonance Level, but it is the worse buy while two Hands lag. It also does nothing for the main AFK Stages comp, which fields only Hugin of the five.
+**The Resonance Level is the AFK ladder's ceiling.** It is set by the **lowest** Hand, and it lifts all 40 heroes for free. Lifting the other four moves nothing. So every level goes into the lowest Hand, and only then does the account gain anything.
 
-**Swapping a Hand costs nothing, but it may now cost a level.** The two readings of the swap rule disagree over whether the incoming hero inherits the outgoing Hand's level or drops to the Resonance Level. Hugin and Bonnie sit at the Resonance Level, so swapping either is still free under both readings. Daimon, Shemira and Thador run above it, so swapping one of those three risks losing its extra level. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's 140 slot makes Rolan 140. So the five Hands can be re-picked at will, and the AFK push comp can hold all five slots at no cost. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**The Hands no longer match the most-fielded heroes.** Daimon, Shemira and Bonnie hold slots in the AFK Stages second comp and in Tower of Eternity. Hugin holds one in the AFK Stages main comp. Thador is down to one comp, Tower of Nature, since the old Wilder-fronted AFK backup was dropped.
+### The swap to make: put the whole push comp in the Hands
 
-**Aurora and Rolan are the gap.** Both now field in **both** `running` AFK Stages comps, more than any Hand, and neither is a Hand. Aurora is the stronger candidate of the two: Legendary against Rolan's Epic, and she anchors the summon stack in one comp and the Morale core in the other.
+The five Hands should be **Daimon, Shemira, Bonnie, Aurora and Rolan**, which is the AFK Stages push comp in [teams.md](teams.md). Daimon, Shemira and Bonnie are already Hands. Aurora and Rolan take the two slots Hugin and Thador hold.
 
-**The swap that suggests itself is Thador out, Aurora in**, and it is not free any more. Thador runs at 121, one above the Resonance Level, and the two readings of the swap rule disagree over whether that level travels with the slot. Tower of Nature is also faction-locked to Wilder and Thador is the only Wilder Tank owned, so the tower loses its whole frontline. Do not make this swap without deciding Tower of Nature is worth less than the AFK ladder. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**Aurora goes into Thador's 140 slot. Rolan goes into Hugin's 130 slot.** Aurora becomes 140 straight away, Thador drops to 130, and Rolan enters at 130. Aurora takes the 140 slot rather than Rolan because her Dream Veil buff scales off her own level, while Rolan's Ultimate clone inherits 80% of the **ally's** base stats, so his own level pays him far less.
+
+The Hands after the swap:
+
+| Hero | Level |
+| --- | --- |
+| Daimon | 140 |
+| Shemira | 140 |
+| Bonnie | 140 |
+| Aurora | 140 |
+| Rolan | 130 |
+
+**Then put every level into Rolan until he reaches 140.** He is the lowest Hand, so he alone sets the Resonance Level. At 140 the Resonance Level becomes 140, all 40 heroes gain 10 levels for free, and the other four unfreeze.
+
+**Hugin and Thador drop to 130 and stay on the roster.** They rise again with the Resonance Level like every other non-Hand.
+
+**Thador can be borrowed back for Tower of Nature.** Swap him into any 140 slot before the run and he becomes 140; swap him out after. Rolan stays the lowest Hand throughout, so the Resonance Level never moves. The swap is free in both directions.
 
 ### Artifacts owned
 
 | Artifact | Level | Tier | Notes |
 | --- | --- | --- | --- |
 | Confining Spell | +6 | S | the default pick for almost every comp |
-| Enlightening Spell | +7 | A | highest level owned, and still not the best pick |
-| Starshard Spell | +5 | A | |
+| Enlightening Spell | +7 | A | joint-highest level owned, and still not the best pick |
+| Starshard Spell | +7 | A | joint-highest level owned, true damage every 4 Ultimates |
 | Awakening Spell | +6 | B | healer teams and hyper-carry |
 
 Blazing and Ironwall Spell are not owned. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -64,19 +80,19 @@ Blazing and Ironwall Spell are not owned. See [../mechanics/artifacts.md](../mec
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 674 on the permanent ladder. If that 674 turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
+**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 893 on the permanent ladder. If that 893 turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
 
 ## Mode progress
 
-Everything except Trial of Abyss is unlocked at AFK Stage 674. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+Everything except Trial of Abyss is unlocked at AFK Stage 893. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
 | Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty |
-| Arena | yes, needs 20 | ? |
+| Arena | yes, needs 20 | **Adept 3** |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | ? |
-| Legend Trial | yes, needs 166 | Tower of Nature 37/90, Tower of Eternity 36/90. Tower of Light and Tower of Will not started |
+| Legend Trial | yes, needs 166 | Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90, Tower of Light 52/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
 | Stargaze Station | yes, needs 400 total pulls | pity at 0, no target set |

@@ -1,7 +1,7 @@
 # Progression systems
 
 > **Covers:** Resonating Hall, Resonance Level, Hands of Resonance and how to swap one, ascension tiers, and what each tier unlocks.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 ## Resonating Hall and Resonance Level
 
@@ -18,17 +18,21 @@ So the way to raise the whole account is to level all five Hands evenly. Dumping
 
 The five Hands are **not** a locked choice.
 
-- A Hand can be swapped for any owned hero **at any time**, and it **costs nothing**. Two sources agree.
+- A Hand can be swapped for any owned hero **at any time**, and it **costs nothing**.
+- The incoming hero **inherits the outgoing Hand's level**. Put a level 130 hero into a level 140 Hand slot and it becomes 140; the outgoing hero drops to 130. The +10 investment moves with the slot, it is never lost.
 - The only restriction is the level rule above: after the switch the five Hands must still sit within 10 levels of each other.
 
-**What happens to the levels is `unverified`.** Two readings, both shown, not averaged:
+**Confirmed from the account.** Swapping Daimon at 140 for Rolan put Rolan at 140. Two guides (lootbar, afk.global) read the incoming hero as entering at the Resonance Level instead. The game disagrees with them, so the account wins, per [../CLAUDE.md](../CLAUDE.md).
 
-| Source | Reading |
-| --- | --- |
-| Fandom wiki | the two heroes **swap levels**. Put a level 110 hero into a level 120 Hand slot and the incoming hero becomes 120, the outgoing hero drops to 110. The +10 investment moves across, it is not lost. |
-| lootbar, afk.global | the incoming hero **matches the current Resonance Level**, so it enters at the Resonance Level rather than inheriting the outgoing Hand's level. |
+**A swap cannot move the Resonance Level on its own.** That number is set by the lowest Hand, and a swap only exchanges two heroes' levels. Raising it still takes levelling the lowest Hand.
 
-The difference only touches the +10 headroom, never the Resonance Level itself. The Resonance Level is set by the lowest Hand, so a swap that leaves every Hand at or above it cannot move that number.
+### The Hands are a loadout, not a commitment
+
+Because the level travels with the slot and the swap is free and unlimited, the five Hands can be re-picked for whatever is being played.
+
+- Build the Hands around the comp that is being pushed, and move them when the push changes.
+- A hero needed at +10 for one mode can be swapped in before that run and swapped back out after. The hero leaving keeps nothing, but it costs nothing to bring it back.
+- Only the **lowest** Hand is worth spending levels on. Levels put into any other Hand buy nothing but that hero's own headroom.
 
 `unverified`, one source only (Fandom): heroes above level 1 outside the Hands had their levels reset when the Resonating Hall arrived, and **all levelling resources were fully returned**.
 
@@ -69,7 +73,7 @@ Hidden until 25 heroes reach Supreme+. Then excess Soul Sigils push heroes to Pa
 
 - https://afk-journey.fandom.com/wiki/Gameplay_Guide/Function/Resonance_Level
 - https://afk-journey.fandom.com/wiki/Resonating_Hall (swap free and at any time, levels swap, resources returned; page returned 402 on direct fetch, read through search summaries)
-- https://www.lootbar.com/blog/en/afk-journey-resonating-hall-guide-optimal-resonance-setup.html (swap free at any time, incoming hero matches the Resonance Level)
-- https://www.afk.global/afk-journey-resonating-hall (swap at any time, subject to the level requirement)
+- https://www.lootbar.com/blog/en/afk-journey-resonating-hall-guide-optimal-resonance-setup.html (swap free at any time; its claim that the incoming hero enters at the Resonance Level is contradicted by the account)
+- https://www.afk.global/afk-journey-resonating-hall (swap at any time, subject to the level requirement; same contradicted claim as lootbar)
 - https://levelpush.com/afk-journey/hero-ascension-tiers/
 - https://playafkjourney.com/hero-ascension/

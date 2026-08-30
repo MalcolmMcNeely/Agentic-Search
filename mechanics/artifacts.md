@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, the permanent artifact ranking, and the Season 7 set.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 One artifact is equipped per team, not per hero. It fires its effect during the battle.
 
@@ -43,7 +43,7 @@ Every 4 Ultimates cast by allies, a flame wave hits all enemies. It deals true d
 - The damage is capped at **60% of Team ATK**, rising to 90% at +4 (playafkjourney only).
 - The ATK SPD cut is **-60 for 4s** (zilliongamer only).
 
-**On this account:** Starshard sits at **+5**, so the +4 upgrade is live and the wave hits for 24% of current HP. It still needs 4 Ultimates, not 3. See [../account/progression.md](../account/progression.md).
+**On this account:** Starshard sits at **+7**, so the +4 upgrade is live and the wave hits for 24% of current HP. It still needs 4 Ultimates, not 3, because +8 is one level away. See [../account/progression.md](../account/progression.md).
 
 ### Enlightening Spell — A
 
@@ -59,7 +59,7 @@ At battle start it raises the ATK SPD of **one hero, the rearmost ally in the ba
 
 The community reading is that it is the weakest A-tier pick: worth it only for a fragile back-row damage dealer that needs the control immunity to survive the opening, and wasted on a hero that already buffs itself.
 
-**On this account:** Enlightening sits at **+7**, so +4 is live and the buff is 100 ATK SPD, but the duration is still 15s. It is the highest-level artifact on the account and still loses to Confining Spell +6, because tier beats level here. See [../account/progression.md](../account/progression.md).
+**On this account:** Enlightening sits at **+7**, so +4 is live and the buff is 100 ATK SPD, but the duration is still 15s. It is the joint-highest level on the account, tied with Starshard, and still loses to Confining Spell +6, because tier beats level here. See [../account/progression.md](../account/progression.md).
 
 ### Awakening Spell — B
 

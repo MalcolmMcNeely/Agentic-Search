@@ -1,7 +1,7 @@
 # Team archetypes
 
 > **Covers:** the comp patterns a team can be built on, the engine that drives each one, when to pick it, and which owned heroes fill it.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-08-30
 
 A tier list ranks a hero alone. A hero is never alone. This file holds the second half: what each hero's **job** is, and which fights that job wins.
 
@@ -92,7 +92,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
 - **Summon stack.** Aurora is Legendary, and eight owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** Galahad is Legendary. She is the Dream Realm answer.
-- **Sustain with offence.** Solise is Legendary and Hugin is Legendary+, the highest tier on the account after Daimon.
+- **Sustain with offence.** Solise is Legendary and Hugin is Legendary+, the highest tier on the account after Daimon and Shemira.
 - **Control.** Bonnie is Legendary, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).
