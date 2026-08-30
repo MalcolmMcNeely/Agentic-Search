@@ -52,7 +52,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **First swap to try if it stalls:** Temesia out, **Solise** in, for healing and a team damage buff. Hugin and Zanie plus the two wildcarding Celestials still make a 4-core, so the bonus falls to **+18%**, not to +14%. Rolan's Morale opener still fires at 10% per hero, on 2 heroes instead of 3. The real cost is the tank, not the stats. Test it, do not assume it.
 
-**The Shemira comp below holds the push slot.** It matches the +22%, ties it on gear (202.8 to 202.0), and beats it on hero tier, Hands of Resonance and damage sources. Daimon is a Tank, so it fields a real frontline too, and **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
+**The Shemira comp below holds the push slot.** It matches the +22%, trails it slightly on gear (205.4 to 207.2), and beats it on hero tier, Hands of Resonance and damage sources. Daimon is a Tank, so it fields a real frontline too, and **Rolan's 30% Morale opener is the only advantage this comp still holds**. Both run well and the user fields both. Aurora and Rolan are shared between them, so a change to either hero moves both comps.
 
 ---
 
@@ -76,7 +76,7 @@ The **+22%** faction cap is *not* a point in this comp's favour. Aurora and Rola
 
 **Why:** **scaling carry and summon stack at once**, from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Shemira is the carry: her Ultimate summons 10 ghosts that bombard for 10s and heal her off their own damage, and the strike count resets on every cast, so she snowballs. Rolan clones that Ultimate outright, which is 10 more ghosts. Aurora's Dream Veil raises the damage of **every allied summon**, so it pays both the ghosts and her own bunnies. Daimon soaks and hands out shields. Bonnie's Aging cuts enemy Haste and ATK, then spreads it.
 
-**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **202.8** against 202.0, which is a rounding error. The six classes sit within 12 levels of each other, so gear no longer separates two comps. See [equipment.md](equipment.md). It fields two of the three Mythic heroes the account owns, where the other comp's weakest link is an Epic. It holds all five Hands of Resonance against two, so it gains every level the account buys. It has three damage sources against one.
+**It beats the Lightbearer comp on every stat this file can measure except gear.** Class Equipment averages **205.4** against 207.2, so the Lightbearer comp is the better geared of the two by under 2 levels. The six classes sit within 16 levels of each other, so gear still does not separate two comps. See [equipment.md](equipment.md). It fields two of the three Mythic heroes the account owns, where the other comp's weakest link is an Epic. It holds all five Hands of Resonance against two, so it gains every level the account buys. It has three damage sources against one.
 
 **Grid note:** Daimon leads at range 3. He is a Tank whose kit is a damage soak and shield engine, so he holds the front without needing to close. Aurora sits at range 2 and advances furthest, so she is the hero that gets reached. Watch her.
 
