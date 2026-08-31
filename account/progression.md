@@ -86,7 +86,9 @@ Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifa
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Open question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. This account is at AFK Stage 1142 on the permanent ladder. If that number turns out to be the season ladder, charms are already available and this whole section is wrong. Worth the user checking the game once.
+**Season access is gated at Resonance Level 240 and the account holds 170, so it cannot be on the season ladder at all.** That settles what AFK Stage 1142 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms are out of reach** until the Resonance Level reaches 240. See [../mechanics/seasons.md](../mechanics/seasons.md).
+
+**Season 7 will be over long before the account can enter it, and that costs nothing.** A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
 
 ## Mode progress
 

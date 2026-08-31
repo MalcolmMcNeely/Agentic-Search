@@ -1,7 +1,7 @@
 # Game modes
 
 > **Covers:** every mode, what unlocks it, where to find it in the game, and what its team needs.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 | Mode | Unlocks at | Team | Notes |
 | --- | --- | --- | --- |
@@ -17,6 +17,10 @@
 | Supreme Arena | not recorded | several own teams | PvP with seasonal Phantimals, Charms and Artifacts |
 | Trial of Abyss | story clear + all 1125 AFK Stages + server 28 days old | one own team per floor | descending floor-by-floor dungeon |
 | Homestead, Darkswarm Invasion | not recorded | one own team per Hypofiend battle | a Homestead event, not an Everlight mode. Hypofiends loot the Homestead for 24 hours. Score is total damage dealt over the week. Written up in [darkswarm-invasion.md](darkswarm-invasion.md) |
+
+**Peaks of Time is not in this table because it is not a mode either.** It is the archive of finished seasons, gated behind season access at Resonance Level 240. It is written up in [peaks-of-time.md](peaks-of-time.md).
+
+**Starry Tales is not in this table because it is not a mode.** It is a permanent per-hero story feature with no team, no attempts and no timer. It is written up in [starry-tales.md](starry-tales.md).
 
 ## Where to find them
 

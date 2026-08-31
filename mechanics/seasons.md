@@ -1,7 +1,7 @@
 # Seasons
 
-> **Covers:** the two parallel progression tracks, what a season reset wipes, and Season 7 Crown of Ashes.
-> **Updated:** 2026-08-29
+> **Covers:** the two parallel progression tracks, what a season reset wipes, the Resonance Level gate on season access, and Season 7 Crown of Ashes.
+> **Updated:** 2026-08-31
 
 ## Two tracks, not one
 
@@ -18,6 +18,10 @@ AFK Journey runs **permanent** progression and **seasonal** progression side by 
 Permanent progression survives a season end untouched. Everything in the seasonal column resets, and the account is paid out rewards based on how far it got.
 
 Season AFK Stages are a separate ladder from regular AFK Stages, so an account has two stage numbers.
+
+**Season access is gated at Resonance Level 240**, plus a main story quest. A quest then appears in Holistone pointing at the season region. `unverified`: two readings of the same wiki page name the quest differently, **Ryeham Tales** in one and **New Journey** in the other. Both agree on 240.
+
+**A finished season is not gone. It moves into Peaks of Time**, the archive, and can be walked again for its story and its map. See [peaks-of-time.md](peaks-of-time.md).
 
 ## Season 7: Crown of Ashes
 
@@ -48,3 +52,4 @@ Soul Pact is free and resets at season end.
 - https://www.ldshop.gg/blog/afk-Journey/season-7-guide.html
 - https://www.lootbar.com/blog/en/afk-journey-season-7-crown-of-ashes.html
 - https://blog.prydwen.gg/2025/09/05/afk-journey-talk-with-designers-new-season-preview/
+- https://afk-journey.fandom.com/wiki/Season (season access needs Resonance Level 240 plus a story quest, and a quest then appears in Holistone; 402 on fetch, read through search summaries) [in window: names Crown of Ashes]

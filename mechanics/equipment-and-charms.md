@@ -1,7 +1,7 @@
 # Equipment, Exclusive Equipment and charms
 
 > **Covers:** class gear, the EX weapon, Magic Charms, and which of them are per-class, per-hero or seasonal.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 Three separate systems, easy to confuse.
 
@@ -54,7 +54,18 @@ Do the classes the main teams actually use before touching the rest.
 
 ## Exclusive Equipment (permanent, per hero)
 
-The EX weapon. One per hero, unlocked at **Mythic+** ascension, upgraded with Stones. See [progression-systems.md](progression-systems.md).
+The EX weapon. One per hero, unlocked at **Mythic+** ascension. See [progression-systems.md](progression-systems.md).
+
+**Each upgrade band takes a different material and a higher ascension tier**, so the cost climbs twice at once.
+
+| EX levels | Material | Ascension needed |
+| --- | --- | --- |
+| 1-5 | 150 Tidal Essence | Mythic+ |
+| 6-10 | 75 Temporal Essence | Supreme |
+| 11-15 | 100 Temporal Essence | Supreme+ |
+| 16-25 | 125 Twilight Essence | Supreme+ |
+
+**Temporal and Twilight Essence are the scarce ones, and Temporal Essence cannot be bought at all.** It comes from Dream Realm top 100, any Seasonal Dream Realm rank, Arena rank-ups, the Guild Chest and Legend Trial clears, plus the per-story payout in [starry-tales.md](starry-tales.md), which is the only route with no performance gate on it.
 
 An EX weapon is a large power jump, so a hero with one usually beats a hero without, even one faction slot out of place.
 
@@ -78,3 +89,5 @@ Charms reset every season. See [seasons.md](seasons.md).
 - https://gamerant.com/afk-journey-equipment-type-upgrade-guide/
 - https://www.gameleap.com/articles/afk-journey-magic-charms-full-guide-how-to-get
 - https://www.allclash.com/magic-charms-in-afk-journey-full-rank-for-all-heroes/
+- https://afk.guide/afk-journey-exclusive-weapon-priority-guide/ (the four EX upgrade bands, their materials and their ascension gates) [**no findable date.** Its band table is corroborated by an independent search summary giving the same 75 Temporal Essence and the same Supreme gate for levels 6-10]
+- https://afk-journey.fandom.com/wiki/Temporal_Essence (Temporal Essence raises Hero Focus and EX levels 6-15, and cannot be bought; 402 on fetch, read through search summaries) [in window]
