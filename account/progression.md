@@ -16,7 +16,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 1142 |
 | Resonance Level | 180 |
-| Total power | `?` |
+| Total power | 8,853k |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 **The Starter Story ladder is finished.** Its last stage is 1125, so the account has cleared all of it and is now in **Infinite Stages**, the uncapped ladder that follows. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
