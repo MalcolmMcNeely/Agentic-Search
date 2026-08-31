@@ -45,7 +45,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **The three Hand slots still below the cap are the account's bottleneck, and all three stand in this comp.** The Resonance Level is the lowest Hand, so it reaches 190 only when Shemira, Elijah & Lailah and Rolan all get there, and that lifts all 43 heroes and unfreezes Taichi & Agumon and Daimon with them. Every level goes into those three. It is the highest-value spend on the account and it lands on the comp being played. See [progression.md](progression.md).
 
-**Two carries, and the stronger of them is the strongest hero on the account.** Taichi & Agumon is **Supreme with an Exclusive Equipment at +8**, two ascension tiers above every other hero owned and the only EX weapon on the roster. Shemira is the second carry and the comp's original one.
+**Two carries, and the stronger of them is the strongest hero on the account.** Taichi & Agumon is **Supreme with an Exclusive Equipment at +8**, two ascension tiers above every hero owned outside his own pair. Only Yamato & Gabumon matches him, at Supreme with an EX at +6, and that hero is not in this comp. Shemira is the second carry and the comp's original one.
 
 **Why this shape:**
 
@@ -91,7 +91,7 @@ Elijah & Lailah hold this slot. The three below are the tested alternatives, and
 
 ### Rolan's slot, and why he keeps it
 
-**Rolan is paired with Taichi & Agumon, not with a support.** The clone copies whichever ally casts, at 80% of that ally's base stats, and the account's strongest Ultimate by a wide margin is Gaia Force off a **Supreme hero holding the only EX weapon on the roster**. That is the largest single damage add in the comp and it does not depend on any other slot. Aurora leaned on him, because his cloned Shemira Ultimate put ten more ghosts on the field for her to buff; he never leaned on her.
+**Rolan is paired with Taichi & Agumon, not with a support.** The clone copies whichever ally casts, at 80% of that ally's base stats, and the account's strongest Ultimate by a wide margin is Gaia Force off a **Supreme hero holding an EX weapon at +8**, the higher of the two the account owns. That is the largest single damage add in the comp and it does not depend on any other slot. Aurora leaned on him, because his cloned Shemira Ultimate put ten more ghosts on the field for her to buff; he never leaned on her.
 
 **He may also be a second Starshard dial.** `unverified`: whether a clone's Ultimate counts toward the artifact's 3-Ultimate counter. If it does, Rolan and Elijah & Lailah compound: their Haste raises the cast rate, every cast spawns a clone, and every clone casts again. It is the same open question as Phraesto's Illusion and the same one battle settles it.
 
@@ -154,7 +154,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 180 |
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | 180 |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | 190 |
-| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Mythic | 180 |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Supreme, EX +6 | 180 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 180 |
 
 **Artifact:** Starshard Spell +8. Its wave is true damage, so it ignores the boss's defence, and at +8 it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -186,7 +186,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 3. **Freeze may not land.** `unverified`. MetalGarurumon's Cocytus Breath freezes an area, and no source says whether Snow Stomper resists hard control. His continuous HP drain and his self-stacking ATK and Haste pay either way.
 4. **Yamato's range is not published**, so he sits in the back row on the advice in his own kit file, which is that he is more fragile than Agumon.
 
-**Hands of Resonance: Taichi & Agumon runs at 190 and Rolan at 180.** The second 190 slot is Daimon's and he is not in this comp, so lend it to Yamato & Gabumon before the run: he is now **Mythic**, the second-highest tier here. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. See [progression.md](progression.md).
+**Hands of Resonance: Taichi & Agumon runs at 190 and Rolan at 180.** The second 190 slot is Daimon's and he is not in this comp, so lend it to Yamato & Gabumon before the run: he is now **Supreme with an EX weapon at +6**, level with Taichi & Agumon and the joint-highest tier on the account. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. See [progression.md](progression.md).
 
 **Rolan's Morale opener pays 6% per hero here, not 10%.** The 10% rate needs a Lightbearer or Celestial core, and this is a Dimensional one. Three Dimensional heroes give 18% Morale at battle start. He is in for the Ultimate clone, which on an uninterruptible 7-hit Ultimate is the largest single damage add available to this account.
 
@@ -494,7 +494,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 ### Team 1 — Boss Strongholds
 
-**Use the AFK Stages push comp above, unchanged**, with **Starshard Spell +8**. Boss Strongholds score on damage dealt, and this is the account's highest damage: Taichi & Agumon at Supreme with the only EX weapon, Rolan cloning his Ultimate, and true damage that ignores whatever defence the boss carries. It also holds all five Hand slots, so it is the only team here that runs above the Resonance Level.
+**Use the AFK Stages push comp above, unchanged**, with **Starshard Spell +8**. Boss Strongholds score on damage dealt, and this is the account's highest damage: Taichi & Agumon at Supreme with an EX weapon at +8, Rolan cloning his Ultimate, and true damage that ignores whatever defence the boss carries. It also holds all five Hand slots, so it is the only team here that runs above the Resonance Level.
 
 Send it at the mid-boss and the final boss, not at passages.
 
@@ -580,7 +580,7 @@ Send it at the mid-boss and the final boss, not at passages.
 
 Eighteen heroes stand outside these five teams, and **Ironwall Spell +4 is the sixth artifact**, so a sixth team can now be fielded. It is still the weakest of the six.
 
-The strongest bench left is **Yamato & Gabumon, Pandora, Koko, Hewynn and Lily May**. Yamato & Gabumon is **Mythic** and Pandora is Legendary, so the tiers are real, but the five hold no faction core at all: two Dimensional, which do not wildcard, plus one Mauler and two Wilder. That is **+0%** from factions.
+The strongest bench left is **Yamato & Gabumon, Pandora, Koko, Hewynn and Lily May**. Yamato & Gabumon is **Supreme with an EX weapon at +6**, joint-highest on the account, and Pandora is Legendary, so this is a real team carried by one very strong hero. The five hold no faction core at all: two Dimensional, which do not wildcard, plus one Mauler and two Wilder. That is **+0%** from factions, and a Supreme carry is worth more than 18%, so take this one.
 
 **The alternative trades tiers for the bonus.** Gerda, Valen, Mirael, Silven and Fay are four Lightbearers behind a Mauler Tank, which pays **+18%** but tops out at Elite+. Take the first when the fight is short and the second when it is long. Give either **Ironwall Spell +4**: it blesses the frontmost hero with 20% of both defences and a shield every 12s, which is what a weak team's front row needs most. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 

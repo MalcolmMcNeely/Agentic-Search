@@ -68,6 +68,8 @@ Different from the scaling carry, which grows smoothly from the first second. A 
 
 **Yamato & Gabumon** ramps the same way into MetalGarurumon, and WarGreymon shortens it for him. At battle start WarGreymon gives himself and every ally behind him **+25% of his own ATK** for 20s, and Gabumon taking that buff gains **300 Energy** on top.
 
+**His Exclusive Equipment is live at +6, and it adds a formation rule.** Grace Cross Freezer is a spread missile barrage, and it fires **more missiles the closer allies stand to him**. So this pattern now wants its heroes bunched rather than spread, the same shape Smokey & Meerky's aroma asks for. See [heroes/yamato-gabumon.md](heroes/yamato-gabumon.md).
+
 So the two ramp each other. Taichi feeds Agumon, Agumon digivolves early, WarGreymon then feeds Gabumon, and Gabumon digivolves early too.
 
 Take it in long fights: Dream Realm, AFK Stages, Arcane Labyrinth, Supreme Arena. Leave it home in a burst race, where the fight ends before either digivolve lands.
@@ -173,7 +175,7 @@ Read with [../account/roster.md](../account/roster.md).
 
 - **Ultimate engine.** **Rolan** clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
-- **Ramp carry.** All three Dimensional heroes are owned. **Taichi & Agumon is Supreme with an EX weapon at +8**, which makes him the strongest hero on the roster by two ascension tiers. **Yamato & Gabumon is now Mythic** and Pandora is Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md) and [../account/equipment.md](../account/equipment.md).
+- **Ramp carry.** All three Dimensional heroes are owned. **Both Digimon pairs are Supreme with an EX weapon**, Taichi & Agumon at +8 and Yamato & Gabumon at +6, which puts them two ascension tiers above every other hero owned. Pandora is Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md) and [../account/equipment.md](../account/equipment.md).
 - **Summon stack.** Aurora is Mythic, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is now **Mythic**, the joint-highest tier on the account outside Taichi & Agumon.

@@ -67,15 +67,18 @@ So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mecha
 
 Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
-| Hero | EX level |
-| --- | --- |
-| Taichi & Agumon | +8 |
+| Hero | EX level | Skill |
+| --- | --- | --- |
+| Taichi & Agumon | +8 | `?` |
+| Yamato & Gabumon | +6 | Grace Cross Freezer |
 
-**This is the account's only Exclusive Equipment, and it makes Taichi & Agumon the strongest hero on the roster.** He is **Supreme**, two tiers above every other hero owned, and an EX weapon is a large power jump on its own. Treat him as the first pick in any mode that does not lock Dimensional heroes out. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+**Two Exclusive Equipments are owned, and both sit on the Digimon pair.** Taichi & Agumon and Yamato & Gabumon are both **Supreme**, two tiers above every other hero on the roster, and each carries an EX weapon on top. They are the two first picks in any mode that does not lock Dimensional heroes out. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md) and [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md).
 
-**Supreme+ is the next gate, and it unlocks Enhance Force**, which strengthens one skill he already has. He does not hold it yet.
+**They also ramp each other, so the two strongest heroes on the account are the same two that pay each other back.** WarGreymon hands every ally behind him +25% of his own ATK at battle start, and Gabumon taking that buff gains 300 Energy, which shortens his own digivolve. Grace Cross Freezer fires **more missiles the closer allies stand**, so the pair wants to be built inward, not spread. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
-**The next EX weapon is one tier away on six heroes.** Daimon, Shemira, Eironn, Aurora, Bonnie and Hugin are all **Mythic**. Shemira, Eironn and Aurora are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price Taichi & Agumon paid. Bonnie and Hugin are A-Level and cost far more copies, and Daimon's Level is `unverified`. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**Supreme+ is the next gate for both, and it unlocks Enhance Force**, which strengthens one skill they already have. Neither holds it yet.
+
+**The third EX weapon is one tier away on seven heroes.** Daimon, Shemira, Eironn, Aurora, Bonnie, Hugin and Smokey & Meerky are all **Mythic**. Shemira, Eironn, Aurora and Smokey & Meerky are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price the Digimon pair paid. Bonnie and Hugin are A-Level and cost far more copies, and Daimon's Level is `unverified`. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 ## Magic Charms
 

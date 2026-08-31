@@ -23,9 +23,9 @@ Unlocks at **Legendary+**, which this account holds. See [../progression-systems
 
 ## Exclusive Equipment
 
-Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate, and this is the only Exclusive Equipment on the account. See [../../account/equipment.md](../../account/equipment.md).
+Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate. It is one of **two** Exclusive Equipments on the account; Yamato & Gabumon holds the other at +6. See [../../account/equipment.md](../../account/equipment.md).
 
-**He is the strongest hero the account owns.** Two ascension tiers above every other hero plus an EX weapon is a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
+**He is the strongest hero the account owns, and only just.** Yamato & Gabumon matches his Supreme tier and holds an EX weapon too, at +6 against his +8, so the gap between them is the weapon level alone. Two ascension tiers above every hero outside that pair, plus an EX weapon, is still a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
 
 `?` What the weapon's skill does. No source publishes it. Read it off the hero screen in game.
 
