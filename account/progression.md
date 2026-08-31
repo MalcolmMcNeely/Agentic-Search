@@ -40,15 +40,15 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Daimon | Graveborn | Tank | 190 | Mythic |
 | Shemira | Graveborn | Mage | 180 | Mythic |
 | Elijah & Lailah | Celestial | Support | 180 | Epic |
-| Rolan | Celestial | Support | 180 | Epic |
+| Phraesto | Hypogean | Tank | 180 | Epic |
 
-**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Aurora is no longer a Hand.** Elijah & Lailah took the slot when they replaced her in that comp.
+**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Neither Aurora nor Rolan is a Hand.** Elijah & Lailah hold the slot Aurora had, and **Phraesto holds the slot Rolan had**, taken when he replaced Rolan in that comp to answer the account's report that the team dies rather than stalls.
 
-Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and every hero off the Hand slots sits there too, Aurora, Hugin and Bonnie included.
+Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and every hero off the Hand slots sits there too, Aurora, Rolan, Hugin and Bonnie included.
 
 **Taichi & Agumon and Daimon are at the +10 cap and cannot take another level.** Both sit at 190, which is exactly 180 plus 10. They are frozen until the Resonance Level rises.
 
-**Every level now goes into Shemira, Elijah & Lailah and Rolan, the three Hands still below the cap.** The Resonance Level is the **lowest** Hand, so it reaches 190 only when all three of them do. That is the move that lifts all 43 heroes and unfreezes Taichi & Agumon and Daimon at the same time. Levelling any one of the three on its own lifts that hero alone, so raise the three as a set.
+**Every level now goes into Shemira, Elijah & Lailah and Phraesto, the three Hands still below the cap.** The Resonance Level is the **lowest** Hand, so it reaches 190 only when all three of them do. That is the move that lifts all 43 heroes and unfreezes Taichi & Agumon and Daimon at the same time. Levelling any one of the three on its own lifts that hero alone, so raise the three as a set.
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 

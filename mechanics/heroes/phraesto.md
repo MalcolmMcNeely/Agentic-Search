@@ -33,7 +33,7 @@ AFK Stages and Infinite Stages, Arcane Labyrinth, and Arena. He is a **stall tan
 
 ## Against this account
 
-**He fills the hole the push comp names itself.** [../../account/teams.md](../../account/teams.md) lists *no healer* as that comp's first weak point, and Daimon as its only body holding the front. Phraesto is a second Tank who heals himself off his own Ultimate, taunts the enemy's biggest hitter away from the carry, and hands out damage reduction. He pays into the survival sum twice over, which is what [../hero-scoring.md](../hero-scoring.md) asks of a defensive slot.
+**He holds the AFK Stages push comp**, as its second Tank and one of its five Hands of Resonance. He took the slot from Rolan on the account's report that the comp dies rather than stalls: Rolan bought damage, and damage was not what the comp was short of. Phraesto heals himself off his own Ultimate, taunts the enemy's biggest hitter away from the carry, and hands out damage reduction from two bodies at once. He pays into the survival sum four ways, which is what [../hero-scoring.md](../hero-scoring.md) asks of a defensive slot. See [../../account/teams.md](../../account/teams.md).
 
 **Hypogean wildcards, so he costs no faction bonus.** He counts as any faction for the stat total and adds +1% ATK and HP just by deploying. He is the account's **first Hypogean**. See [../factions.md](../factions.md).
 
@@ -41,7 +41,7 @@ AFK Stages and Infinite Stages, Arcane Labyrinth, and Arena. He is a **stall tan
 
 `unverified`: **whether the Illusion's Ultimates count toward Starshard Spell.** The artifact fires its true-damage wave every 3 **ally** Ultimates. The Illusion casts all his skills and acts as its own unit, so it may double his contribution to that counter. No source states it either way. Testing it is one battle: field him in the push comp and watch how often the wave lands. See [../artifacts.md](../artifacts.md).
 
-**He is at Epic, so Hero Focus is off.** Three Soul Sigils take him to Legendary+ and switch it on. The Guild Store stocks him, but its medals are booked on Elijah & Lailah for about three months, then Aurora. See [../guild-store.md](../guild-store.md).
+**He is at Epic, so Hero Focus is off.** Three Soul Sigils take him to Legendary+ and switch it on. **He is the buy directly after Elijah & Lailah**, whose three sigils are about three months of Guild Medals away, and ahead of Aurora, because he stands in the comp being played and she does not. See [../guild-store.md](../guild-store.md).
 
 **He is barred from Legend Trial.** The four faction towers refuse Hypogean and Celestial heroes, and those towers hold this account's largest block of unclaimed rewards. He pays nothing there. See [../legend-trial.md](../legend-trial.md).
 
