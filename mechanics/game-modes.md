@@ -8,7 +8,7 @@
 | World Map | start | one own team | PvE exploration |
 | AFK Stages | start | one own team | main progression ladder, **1125 stages and that is the end of it** |
 | Infinite Stages | AFK Stage 1125 | one own team | the uncapped ladder that follows. See the section below |
-| Dream Realm | AFK Stage 16 | one own team | boss rush, damage race against the server. Four bosses rotate daily, six difficulties each |
+| Dream Realm | AFK Stage 16 | one own team | boss rush, damage race against the server. Four bosses rotate daily, six difficulties each, and the sixth is **Endless Mode**, where the boss cannot die |
 | Arena | AFK Stage 20 | one own team | ranked PvP. Written up in [arena.md](arena.md) |
 | Arcane Labyrinth | AFK Stage 100 | 10-hero bench, 5 fielded | roguelike dungeon. HP and Energy carry between floors. Written up in [arcane-labyrinth.md](arcane-labyrinth.md) |
 | Battle Drills | AFK Stage 121 `unverified`, the wiki says 50 | guild, several teams | guild map conquest, camp and stronghold buffs. In Endless Mode each hero deploys once a day. Written up in [battle-drills.md](battle-drills.md) |
@@ -34,6 +34,9 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 
 - **Legend Trial** is faction-locked, so a deep bench in one faction matters more than a good mixed comp. Celestial and Hypogean heroes do not wildcard in here. See [legend-trial.md](legend-trial.md).
 - **Dream Realm** is a pure damage race with a fixed boss, so faction counter and single-target burst dominate. Three bosses are written up: [snow-stomper.md](snow-stomper.md), [skyclops.md](skyclops.md) and [king-croaker.md](king-croaker.md). Its currency buys A-Level hero copies in [dream-store.md](dream-store.md).
+- **Endless Mode is the sixth Dream Realm difficulty and the one that ranks.** It opens once the five below it are cleared for that boss. **The boss cannot be killed**, so nothing the comp does shortens the fight and the score is simply the damage dealt before the timer. A comp there is built to last the whole timer rather than to kill, and every second of survival is score. The daily leaderboard pays Dream Fragments, Tidal Essence and **Temporal Essence**, which no shop sells. See [equipment-and-charms.md](equipment-and-charms.md).
+
+  `unverified`: **the numbers.** The readings are a **90-second** fight, **5 attempts a day** rising to 10 through the Mystic Collection, and brackets from Top 1-10 down to Top 75-100%. Three sources agree on 90 seconds and all three sit outside the 12-month window. No in-window source states any of it.
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
 - **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
@@ -64,7 +67,9 @@ Which banner to pull on, what each currency buys, the wishlists and Stargaze Sta
 - https://afk-journey.fandom.com/wiki/Arena (Arena is inside the Everlight; 402 on fetch, read through a search summary)
 - https://afk-journey.fandom.com/wiki/Menu (menu icon top-left, Tab on PC; 402 on fetch, read through a search summary)
 - https://www.prydwen.gg/afk-journey/guides/homestead-guide (Darkswarm Invasion lives in the Homestead; 403 on fetch, read through a search summary)
-- https://afk-journey.fandom.com/wiki/Dream_Realm (Dream Realm is reached from the Everlight screen; 402 on fetch, read through a search summary)
+- https://afk-journey.fandom.com/wiki/Dream_Realm (Dream Realm is reached from the Everlight screen; Endless Mode is the last difficulty and scores infinite damage on the leaderboard; 402 on fetch, read through a search summary)
+- https://www.thegamer.com/afk-journey-dream-realm-rewards-leaderboards-explained/ (Endless Mode: boss cannot die, 90-second timer, 5 daily attempts rising to 10 via the Mystic Collection, leaderboard brackets and their Dream Fragment, Tidal Essence and Temporal Essence rewards) [23 April 2024, **out of window**]
+- https://www.bluestacks.com/blog/game-guides/afk-2-journey/afkj-dream-realm-guide-en.html (Endless Mode unlocks after every difficulty for a boss is cleared; six difficulties per boss) [**no findable date**]
 - https://afk-journey.fandom.com/wiki/AFK_Stage (1125 is the last Starter Story stage; Infinite Quest unlocks server-wide at 1125 and runs until the next season; 402 on fetch, read through search summaries) [2026]
 - https://www.gameleap.com/articles/afk-journey-how-to-unlock-trial-of-abyss (Trial of Abyss follows the AFK Stages)
 - https://afk-journey.fandom.com/wiki/Version/1.1.16 (Infinite Quest patch notes; read through a search summary)

@@ -232,7 +232,11 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 ## Dream Realm, King Croaker — Digimon double carry — `proposed`
 
-**Purpose:** the King Croaker boss only. Read [../mechanics/king-croaker.md](../mechanics/king-croaker.md) first: the boss fires an **instant-kill bubble at whichever hero stands nearest to it**, three times a fight, and raises an Energy-fed barrier that cuts incoming damage.
+**Purpose:** the King Croaker boss at **Endless Mode**, where the account's best score is **30 million** damage. Read [../mechanics/king-croaker.md](../mechanics/king-croaker.md) first: the boss **cannot be killed** in Endless, so nothing this comp does ends the fight and the score is the damage dealt before the timer. It fires an **instant-kill bubble at whichever hero stands nearest to it**, three times a fight, and raises an Energy-fed barrier that cuts incoming damage.
+
+**Surviving to the timer is half the score.** A team that dies at the midpoint scores about half of one that lasts, whatever its damage per second. That is why this comp fields a bubble-eater and a healer rather than a fifth damage slot. See [progression.md](progression.md).
+
+**This is also the account's Temporal Essence supply.** The Endless leaderboard pays it, no shop sells it, and Yamato & Gabumon has **nine EX levels** waiting on it. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -263,6 +267,16 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 **Grid note: only Phraesto stands forward, and that is the point.** The bubble picks by distance, so the front tile is a slot this comp fills on purpose with the one hero that regrows a body. **Taichi & Agumon starts in the back row**, confirmed from the account: fielded in the front row he dies before the digivolve. Elijah & Lailah sit in the middle rather than the back to split the cluster, because Water Bomb aims at the area holding the most heroes. See [../mechanics/formation.md](../mechanics/formation.md).
 
 **Hands of Resonance: Taichi & Agumon runs at 190 and the other four at 180.** The second 190 slot is Daimon's and he is not in this comp, so **lend it to Yamato & Gabumon before the run**. He is Supreme+ with an EX weapon at +6, the highest ascension tier on the account, and Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. The swap is free and the level travels with the slot. See [progression.md](progression.md).
+
+**Raising the score, in order.** Endless allows five attempts a day `unverified`, so each run tests one change and the score is the comparison.
+
+1. **Lend Daimon's 190 Hand slot to Yamato & Gabumon**, per the paragraph above. Free, reversible, and 10 levels on the second carry.
+2. **Yamato & Gabumon now holds Enhance Force.** It arrived with Supreme+ and strengthens one skill he already has, and it has never been scored on this boss. The next run should read higher than the last with nothing else changed. See [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md).
+3. **Run Blazing Spell +10 against Starshard Spell +8, one attempt each.** Starshard's wave is true damage but fires once every 3 ally Ultimates, and it is `unverified` whether the Magic Barrier stops true damage at all. Blazing's DEF Penetration discounts every attack instead. The two scores settle it.
+4. **Run the back row spread, then bunched.** Grace Cross Freezer fires more missiles the closer allies stand, and Water Bomb aims at the area holding the most heroes. One attempt each says which costs more.
+5. **If the team dies before the timer, take the Hewynn swap below.** In Endless the clock is the only thing that ends the fight, so seconds lost are score lost.
+
+**No other five on this roster beats these.** They are the only comp that reaches the **+22%** faction cap while also fielding both top-tier heroes, and every substitution tested breaks one or the other. Swapping Rolan for Shemira, the next-best damage kit owned, drops the core to four and pays +18%, and it trades a clone of a Supreme Ultimate for a Mythic hero. See [roster.md](roster.md) and [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
 **Four weak points:**
 

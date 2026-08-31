@@ -7,6 +7,16 @@ One of the Dream Realm bosses, and one of the eight in the Season 7 rotation. A 
 
 **King Croaker is the boss that deletes whichever hero stands closest to it.** Everything below follows from that.
 
+## Endless Mode
+
+**Endless is the sixth and last difficulty, and the boss cannot be killed in it.** It opens once the five difficulties below it are cleared for this boss. The score is the damage dealt before the timer, ranked daily against the whole server. See [game-modes.md](game-modes.md).
+
+**Nothing the comp does ends the fight, so survival time is score.** On the lower difficulties a wipe at 40 seconds still means a kill or a near-kill. Here a team that lasts the timer scores roughly double one that dies halfway, whatever its damage per second. That moves the healer and the bubble-eater from useful to load-bearing, and it makes the three bubbles the main thing standing between the account and a higher rank.
+
+**The rank is also the essence supply.** The Endless leaderboard pays **Temporal Essence**, which cannot be bought, and the account's EX weapons are waiting on it. Climbing here funds the heroes that climb here. See [equipment-and-charms.md](equipment-and-charms.md).
+
+`unverified`: **the mode's numbers**, the same reading as the fight length below. **90 seconds** and **5 attempts a day**, rising to 10 through the Mystic Collection. Every source for them sits outside the 12-month window.
+
 ## Faction
 
 A **Mage of the "Other" faction at base range 20**, so it reaches any tile on the grid. Same reading as [skyclops.md](skyclops.md), and the counter wheel in [factions.md](factions.md) has no entry for it. Pick heroes on kit and survivability, not on faction advantage.

@@ -105,7 +105,7 @@ Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
 | Infinite Stages | yes, needs 1125 | at **1142**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
-| Dream Realm | yes, needs 16 | Snow Stomper, Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on Koko copies at 1,200 each |
+| Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on Koko copies at 1,200 each |
 | Arena | yes, needs 20 | **Adept 3** |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
