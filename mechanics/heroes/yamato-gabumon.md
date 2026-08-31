@@ -7,7 +7,7 @@
 - **Class:** Mage
 - **Damage:** Magic
 - **Range:** not published
-- **Level:** S
+- **Rarity:** S
 
 ## Kit
 

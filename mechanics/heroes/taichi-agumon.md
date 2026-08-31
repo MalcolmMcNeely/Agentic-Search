@@ -7,7 +7,7 @@
 - **Class:** Warrior
 - **Damage:** Physical
 - **Range:** 7 before digivolve, 1 after
-- **Level:** S
+- **Rarity:** S
 
 ## Kit
 

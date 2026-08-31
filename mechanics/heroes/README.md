@@ -5,14 +5,25 @@
 
 The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 43 hero files. Read the row, then open only the files the comp actually needs.
 
-Every hero file carries the same five fields, so grep works across the folder:
+Every hero file carries the same five fields, in the same order, so grep works across the folder: **Faction, Class, Damage, Range, Rarity.**
 
 ```
 grep -l "Damage:\*\* Magic" mechanics/heroes/*.md
 grep -l "Class:\*\* Tank" mechanics/heroes/*.md
+grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 ```
 
-| Hero | Faction | Class | Damage | Range | Level | File |
+**Rarity is what a hero is pulled as: S-Level, A-Level or Rare.** It is one of three different scales that a bare word "level" used to cover, and none of the three converts into another.
+
+| Scale | Values | Where it lives |
+| --- | --- | --- |
+| **Rarity** | S-Level, A-Level, Rare | the `Rarity` field of each hero file, and the column below |
+| **Ascension tier** | Elite up to Supreme+, and Rare heroes have none | [../../account/roster.md](../../account/roster.md) |
+| **Resonance Level** | a number, set by the lowest Hand of Resonance | [../../account/progression.md](../../account/progression.md) |
+
+**A tier list letter is none of them.** It is one source's opinion about one game mode, it belongs in the hero file with its mode, date and assumed investment attached, and it never sits in the table below. See [../tier-list-sources.md](../tier-list-sources.md) and [../progression-systems.md](../progression-systems.md).
+
+| Hero | Faction | Class | Damage | Range | Rarity | File |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aurora | Celestial | Mage | Magic | 2, or 3 with Enhance Force | S | [aurora.md](aurora.md) |
 | Rolan | Celestial | Support | Magic | 10 | S | [rolan.md](rolan.md) |

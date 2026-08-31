@@ -7,7 +7,7 @@
 - **Class:** Tank
 - **Damage:** Magic
 - **Range:** 3
-- **Level:** A `unverified`
+- **Rarity:** A `unverified`
 
 ## Kit
 

@@ -7,7 +7,7 @@
 - **Class:** Mage
 - **Damage:** Magic
 - **Range:** 4
-- **Level:** S
+- **Rarity:** S
 
 ## Kit
 

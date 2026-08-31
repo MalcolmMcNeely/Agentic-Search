@@ -7,7 +7,7 @@
 - **Class:** Marksman
 - **Damage:** Magic
 - **Range:** 7
-- **Level:** A
+- **Rarity:** A
 
 ## Kit
 

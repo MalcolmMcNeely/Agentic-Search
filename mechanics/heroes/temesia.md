@@ -7,7 +7,7 @@
 - **Class:** Tank
 - **Damage:** Physical
 - **Range:** 1
-- **Level:** S
+- **Rarity:** S
 
 ## Kit
 

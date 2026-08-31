@@ -60,27 +60,27 @@ The only banner that pulls Celestial and Hypogean heroes. It is not the only way
 - Pick **one** target Celestial or Hypogean. 3.25% per pull, guaranteed at **40**.
 - The target can be changed, but the pity counter is what you are spending. Pick one and commit.
 
-### Target priority, August 2026
+### Target priority
 
-`disputed` between sources on who comes first.
+**One question orders this list: who the next Stellar Crystals go to.** The order is allclash's Celestial and Hypogean build priority [2026-08-01], which ranks for spending order rather than for any single mode. The letters beside each name are from allclash's mode-split tier list [2026-08-26], so every rank shows which fights its case rests on. Neither page states an investment level per hero, and the tier list rates with Mythic+, Supreme+ and EX weapon priority in view, so every letter here describes a built copy. All three owned ranks are **Epic**, with Hero Focus still locked at Legendary+. Check the tier in [../account/roster.md](../account/roster.md) before spending on a letter.
 
-| Rank | Hero | Why |
-| --- | --- | --- |
-| 1 | Rolan | Celestial Support, Magic, range 10. Clones an ally Ultimate and drives the Morale system. Two 2026 guides call him the first PvE investment, ahead of Elijah & Lailah. Needs few copies to work |
-| 2 | Elijah & Lailah | **owned.** In the top team for every Dream Realm boss and for AFK Stages. 14 copies for full ascension, but the early steps are 1 sigil each, so Legendary+ and its Hero Focus is only three away |
-| 3 | Phraesto | **owned.** Claimed from a Glorious Hero Chest, at Epic. Hypogean Tank who deploys as two bodies. Copies now, not the unlock |
-| 4 | Baelran | in most modes and most top teams |
-| 5 | Reinier | allclash puts him fifth and says build Countess instead if he is not started. Older sources still list him joint-first |
+| Rank | Hero | Letters [2026-08-26] | The case |
+| --- | --- | --- | --- |
+| 1 | Elijah & Lailah | S+ PvE, S+ Dream Realm, S+ PvP | **owned.** Top band in all three modes at once, so no fight on the account argues against them. 14 copies for full ascension, but the early steps are 1 sigil each, so Legendary+ and its Hero Focus is three away |
+| 2 | Rolan | S+ PvE, S+ Dream Realm, S PvP | **owned.** Celestial Support, Magic, range 10. Clones an ally Ultimate and drives the Morale system, and needs few copies to work. His softest letter is the PvP one, so this is a PvE and Dream Realm case |
+| 3 | Phraesto | S+ PvE, S Dream Realm, S+ PvP | **owned.** Claimed from a Glorious Hero Chest, at Epic. Hypogean Tank who deploys as two bodies. Copies now, not the unlock. His case is PvE and PvP; the Dream Realm letter is a band lower |
+| 4 | Baelran | S PvE, S+ Dream Realm, S+ PvP | the first rank here that is still a pull rather than copies. Top band in Dream Realm and PvP |
+| 5 | Reinier | B+ PvE, S Dream Realm, A PvP | **a Dream Realm case only.** His PvE letter is three bands under Baelran's. allclash says build Contess instead if he is not started |
 
-The disagreement: allclash (2026-08-01) orders it Elijah & Lailah, Rolan, Phraesto, Baelran. ldshop and topuplive order it Rolan, Elijah & Lailah, Countess. Both agree those two are the only real starting picks.
+Contess is sixth on the same order, at A+ PvE, S+ Dream Realm, B+ PvP. Her PvP letter is the sharpest split between the two current independent lists: Pocket Tactics [2026-08-17] puts her in its top band instead, and both readings stand. See [tier-list-sources.md](tier-list-sources.md).
 
-Avoid Talene, Harak, Mehira and Berial. Berial is rated the worst hero in the meta for anyone not playing top-end Arena.
+**Talene, Harak and Mehira are not targets here.** allclash's build priority [2026-08-01] puts all three in its light-spender, PvP-focused block, below the six it tells every player to build, and the same page tells an F2P account to bank Stellar Crystals rather than start a sixth. **Berial is not a target either**, and he is the thinnest-covered hero named on this page: allclash's tier list and its build priority both leave him out entirely, so his only current letters are Pocket Tactics [2026-08-17], which rates him B story mode, D Dream Realm and C PvP and states no investment level. One list, no second reading, and nothing in it that beats the five above.
 
-**A Glorious Hero Chest picks off this table, not off a tier list.** The chest offers a fixed slate of Celestial and Hypogean heroes and gives one outright at Epic. Take the highest hero on this table that the account does not own. Phraesto came from one, chosen over Talene, Reinier, Dionel, Scarlita and Berial: he ranks third here, the other five rank fifth or lower or sit on the avoid line, and he is the only one of the six who patches a weak point the push comp names itself. See [../account/teams.md](../account/teams.md) and [heroes/phraesto.md](heroes/phraesto.md).
+**A Glorious Hero Chest picks off this table, not off a tier list.** The chest offers a fixed slate of Celestial and Hypogean heroes and gives one outright at Epic. Take the highest hero on this table that the account does not own. Phraesto came from one, chosen over Talene, Reinier, Dionel, Scarlita and Berial: he ranks third here, the other five rank fifth or lower or sit on the not-a-target lines, and he is the only one of the six who patches a weak point the push comp names itself. See [../account/teams.md](../account/teams.md) and [heroes/phraesto.md](heroes/phraesto.md).
 
 **Rolan's Morale passive reads the roster.** At battle start the team gains 6% Morale per hero of the most-deployed faction, and **10% per hero if that faction is Lightbearer or Celestial**. Those heroes also gain 20 Penetration and take 50% less damage for 8s. An account deep in Lightbearers gets the doubled version for free.
 
-**Stop after the core.** allclash, 2026-08-01: once those are built, bank Stellar Crystals rather than starting a sixth, because a new meta Celestial or Hypogean is due.
+**Stop after the core.** allclash [2026-08-01]: once those are built, bank Stellar Crystals rather than starting a sixth, because a new meta Celestial or Hypogean is due.
 
 ### Switching the target
 
@@ -117,7 +117,7 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 
 The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. The Dream Store does not stock him. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
 
-The rate-up pair **Cyran and Thador are both B+ tier** as of 2026-08-26. Neither is a priority pull. Both are already owned.
+The rate-up pair, **Cyran and Thador, are both already owned and both already fielded**, so this banner buys copies rather than a hero. allclash [2026-08-26, investment not stated per hero, and the list rates with Mythic+ and EX weapon priority in view] rates Cyran **A+ PvE, C Dream Realm, S+ PvP**, and Thador **A PvE, B Dream Realm, B+ PvP**. Cyran's top letter is the PvP one and he already holds the back row of the Tower of Light and Battle Drills comps at Epic; Thador tanks three comps at Legendary+. Neither ascension unlocks a comp the way Eironn's Mythic+ does, so the Epic wishlist above outranks this banner. See [../account/teams.md](../account/teams.md).
 
 ## Sources
 
@@ -136,8 +136,9 @@ The rate-up pair **Cyran and Thador are both B+ tier** as of 2026-08-26. Neither
 - https://afk-journey.fandom.com/wiki/Stargaze_Station
 - https://www.talkandroid.com/84046-how-to-get-stellar-crystals-afk-journey-afk2/
 - https://sportskeeda.com/esports/best-ways-getting-stellar-crystals-afk-journey
-- https://www.allclash.com/celestial-hypogeon-full-build-priority-in-afk-journey-for-every-player/
-- https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/
+- https://www.allclash.com/celestial-hypogeon-full-build-priority-in-afk-journey-for-every-player/ [2026-08-01, the Stargaze target order and the bank-after-the-core rule; rates a built hero]
+- https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/ [2026-08-26, separate PvE, Dream Realm and PvP letters; rates a built hero, referencing Mythic+, Supreme+ and EX weapon priority]
+- https://www.pockettactics.com/afk-journey/tier-list [2026-08-17, the only current letters for Berial: story mode, Dream Realm and PvP; states no investment level]
 - https://www.lootbar.com/blog/en/afk-journey-best-wish-list-priorities.html
 - https://gamerant.com/afk-journey-how-get-celestial-and-hypogean-heroes/
 - https://www.ldshop.gg/blog/afk-Journey/rolan-build.html

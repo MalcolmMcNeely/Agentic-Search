@@ -7,7 +7,7 @@
 - **Class:** Support
 - **Damage:** Magic
 - **Range:** 10
-- **Level:** S
+- **Rarity:** S
 
 ## Kit
 

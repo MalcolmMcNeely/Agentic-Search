@@ -7,7 +7,7 @@
 - **Class:** Support
 - **Damage:** Physical
 - **Range:** 4
-- **Level:** A
+- **Rarity:** A
 
 ## Kit
 

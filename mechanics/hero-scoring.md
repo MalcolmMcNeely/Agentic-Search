@@ -25,6 +25,16 @@ Two rules follow.
 
 The same holds for a hero the guides praise. Score it from its kit, because the guide may be ranking it for a mode this account is not playing.
 
+## A letter with no mode is not evidence
+
+**A tier list ranks for one purpose, and the purposes disagree with each other.** AFK Stages runs for minutes and pays for crowd control. Arena is settled in the opening seconds and pays for burst. Dream Realm is one armoured boss and pays for single-target damage. Endless Mode pays for HP-loss and true damage. The same hero sits in different bands on each of those lists, and that is the lists working correctly, not a mistake.
+
+So a letter is only worth quoting when the file records the mode it was given for. A bare S, or a letter labelled "overall" or "general", is an average across fights this account may never take, and it cannot be argued with because nobody can say what it measured.
+
+Three things travel with a letter or it does not go in the file: **the mode, the dated source, and the investment level the source assumes.** [tier-list-sources.md](tier-list-sources.md) holds the rule, the sources that pass it, and the sources that must never be cited.
+
+The third one is the tier gate again, from the other side. A source rating heroes at Mythic+ with Exclusive Equipment is describing a ceiling, so check it against `account/roster.md` before crediting it.
+
 ## Tier gates
 
 The mirror of guide silence, and the one that stings more. **A guide describes a hero at its ceiling.** The copy on the roster may be several ascensions below that, and a skill that is not unlocked pays nothing.

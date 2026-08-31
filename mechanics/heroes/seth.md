@@ -7,7 +7,7 @@
 - **Class:** Rogue
 - **Damage:** Physical
 - **Range:** 1
-- **Level:** A
+- **Rarity:** A
 
 ## Kit
 

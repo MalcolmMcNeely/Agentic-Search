@@ -43,7 +43,7 @@ So 30,000 Guild Medals buys a whole Celestial or Hypogean hero outright, with no
 
 ### Heroes named on the shelf
 
-Sylphira, Countess, Gunnar, Aurora, Alna, Mehira, Aliceth, Saida, Baelran, Kulu, Athalia, Cryonaia, **Elijah & Lailah**, Harak, Dunlingr, Talene, Phraesto. The list reads as permanent stock rather than a rotation.
+Sylphira, Contess, Gunnar, Aurora, Alna, Mehira, Aliceth, Saida, Baelran, Kulu, Athalia, Cryonaia, **Elijah & Lailah**, Harak, Dunlingr, Talene, Phraesto. The list reads as permanent stock rather than a rotation.
 
 `unverified`, and worth checking in game before planning around it. The list comes from a search summary of the wiki, not a fetched page, and **Rolan is absent from it** despite being a Celestial. A shop shelf that does not match a guide's hero list is already proven on this account: [../account/progression.md](../account/progression.md) records the Dream Store missing both Daimon and Bonnie.
 

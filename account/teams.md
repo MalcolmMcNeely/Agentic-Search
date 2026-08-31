@@ -133,7 +133,9 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 2. **Rolan pays less here than in a Lightbearer core.** His Morale opener gives 6% per hero on Graveborn, not 10%, and Morale needs time this mode may not give. He is in for the Ultimate clone.
 3. **No healer.** Shemira heals herself off her ghosts. Daimon's shields are the rest.
 
-**Counter swap: Rolan out, Lily May in, against an Ultimate-heavy enemy comp.** She is rated **S+ for PvP**, the highest PvP rating on the account, and her Ultimate is a passive that answers every non-summoned enemy Ultimate with a Quellbolt. That includes enemy Eironn teams. The cost is the faction bonus dropping from +22% to +18%, since she is Wilder and Rolan wildcards. Take the trade when the enemy leans on Ultimates, not otherwise. See [../mechanics/heroes/lily-may.md](../mechanics/heroes/lily-may.md).
+**Counter swap: Rolan out, Lily May in, against an Ultimate-heavy enemy comp.** afk.global's **PvP** tab rates her **S+** [August 2026, investment level not stated], and her Ultimate is a passive that answers every non-summoned enemy Ultimate with a Quellbolt. That includes enemy Eironn teams. The cost is the faction bonus dropping from +22% to +18%, since she is Wilder and Rolan wildcards. Take the trade when the enemy leans on Ultimates, not otherwise. See [../mechanics/heroes/lily-may.md](../mechanics/heroes/lily-may.md).
+
+**The letter says she is a strong PvP pick. It does not say she is the account's strongest.** Only four of the 43 heroes owned carry a PvP letter at all — Lily May, Eironn, Phraesto and Viperian — so a superlative drawn over that set ranks the heroes the guides happened to rate, not the roster. Guide silence is not evidence of weakness. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
 
 **Do not swap Aurora out for Lily May.** Aurora is the summon engine behind Shemira's ghosts, and losing her costs more than Rolan's clone.
 
@@ -379,7 +381,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **First swap to try if floors stall on damage:** Eironn out, **Arden** in, for AoE and crowd control. Arden is Elite, six tiers under Eironn, so he dies fast on high floors. This swap is a poor trade: Eironn is one ascension from Mythic+ and his battle-start pull. Test it, do not assume it.
 
-**Left home on purpose:** Lily May, an S+ **PvP** counter-pick with no job in PvE. Lenya, an isolate-and-duel kit at Elite+.
+**Left home on purpose:** Lily May, a **PvP** counter-pick with no job in PvE. Lenya, an isolate-and-duel kit at Elite+.
 
 **Velara is no longer clearly behind Hewynn.** She is Legendary against Hewynn's Epic, two tiers up, and both are Wilder Supports, so the swap costs nothing in faction bonus or gear class. Epic to Legendary crosses **no skill breakpoint**, though, so this is a pure stat gap: Velara has the better numbers, Hewynn the better kit. Hewynn heals every ally for up to 115% HP per second for 9s and strips debuffs. Velara ramps, waking four magic circles as Energy builds, then spreads the effect and transfers enemy stats to allies. Hewynn holds the slot because a tower floor is one fight, and a ramp that needs Energy is worth less there than a heal that lands now. Swap to Velara if floors are lost late rather than early.
 
@@ -444,7 +446,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **First swap to try if floors stall on damage:** Cyran out, **Silven** in. His kit turns ally buffs into Energy and permanent stats, and Hugin and Rowan both hand out buffs, so he is the one Lightbearer built to cash in what this comp already does. He is Elite+ against Cyran's Epic, one tier down, so raise him before trying it. Test it, do not assume it.
 
-**Left home on purpose:** Mirael, an Epic Mage whose burn stacking is slower than Cyran's black hole. Valen and Lucius, Warriors at Elite+ and Elite. Fay, Chippy and Hammie, all Elite or Rare.
+**Left home on purpose:** Mirael, an Epic Mage whose burn stacking is slower than Cyran's black hole. Valen and Lucius, Warriors at Elite+ and Elite. Fay, a Support at Elite. Chippy and Hammie, Rare heroes that cannot ascend at all, so neither ever holds a tier.
 
 ---
 
@@ -642,7 +644,7 @@ Send it at the mid-boss and the final boss, not at passages.
 
 ### What is left over
 
-Eighteen heroes stand outside these five teams, and **Ironwall Spell +4 is the sixth artifact**, so a sixth team can now be fielded. It is still the weakest of the six.
+Eighteen heroes stand outside these five teams, and **Ironwall Spell +4 is the sixth artifact**, so a sixth team can now be fielded. It is the last artifact free, and it happens to be the right one: everything it does lands on the frontmost hero, and a sixth team assembled from what is left over breaks at the front row first. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko**. Yamato & Gabumon is **Supreme+ with an EX weapon at +6**, the highest on the account, Pandora is Legendary, and Rolan clones whichever Ultimate hits hardest, which here is MetalGarurumon's. Two Dimensional plus Rolan wildcarding is a 3-core, so this pays **+10%** plus +1% for the Celestial, and a Supreme+ carry with its Ultimate cloned is worth more than any bonus a weaker five could reach.
 

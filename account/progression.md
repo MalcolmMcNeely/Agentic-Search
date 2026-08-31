@@ -58,38 +58,39 @@ Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and eve
 
 ### Artifacts owned
 
-| Artifact | Level | Tier | Notes |
+**All six permanent artifacts are owned.** What each one does and which fight it suits is in [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+| Artifact | Level | Effect steps live | The comps it holds |
 | --- | --- | --- | --- |
-| Starshard Spell | +8 | A | the account's best artifact in practice, and the pick on the AFK Stages push comp |
-| Confining Spell | +7 | S | the default where a comp needs its backline held, and one level short of its +8 step |
-| Enlightening Spell | +10 | A | fully upgraded and still not the pick |
-| Blazing Spell | +10 | B | **fully upgraded**, and the only artifact owned that grants DEF Penetration |
-| Awakening Spell | +7 | B | healer teams and hyper-carry, one level short of its +8 step |
-| Ironwall Spell | +4 | `unverified` C or B | the frontline artifact, and the sixth that lets Battle Drills field a sixth team |
+| Starshard Spell | +8 | +4 and +8 | AFK Stages push, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
+| Confining Spell | +7 | +4 | Arena, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
+| Awakening Spell | +7 | +4 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
+| Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
+| Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5 |
+| Ironwall Spell | +4 | +4 | the sixth Battle Drills team |
 
-**All six permanent artifacts are now owned.** See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**No tier letter appears in this table on purpose.** No current source ranks the six artifacts at all, and the one ranking inside the 12-month window is a single blended list with no mode attached to any letter, so a letter here could never be dated or traced back. The column that replaces it is the one the account can source itself: which comps the artifact actually holds. See [../mechanics/artifacts.md](../mechanics/artifacts.md) and [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md).
 
-**Artifact upgrades land at +4, +8 and +10 only.** Every level in between buys nothing, so a level is worth checking against those three numbers before it is spent.
+**An artifact's effect has two upgrade steps, +4 and +8, and no third.** Every level also raises a team-wide stat line. So a level buys stats, and a level landing on +4 or +8 buys an effect as well. The "+10 step" the guides describe is that stat line at its ceiling, not an ability. Whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and the upgrade screen settles it.
 
-**Starshard at +8 holds the push comp. Confirmed from the account.** Both the +4 and +8 upgrades are live, so the wave fires every 3 ally Ultimates for 24% of each target's current HP as true damage. The user ran it against Confining Spell on the Shemira comp and reports it running well.
+**Starshard at +8 holds the push comp, and it is the account's best artifact in practice. Confirmed from the account.** Both effect steps are live, so the wave fires every 3 ally Ultimates for 24% of each target's current HP as true damage. The user ran it against Confining Spell +7 on the Shemira comp and reports it running well. That result, not a guide, is what ranks it here.
 
-**Starshard +10 is the upgrade worth chasing, because it lands on the comp being played.** It adds a team Haste and HP boost on top of what the artifact already does.
+**The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining imprisons two enemies, which is worth the same at stage 1142 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead.
 
-**Enlightening at +10 is fully upgraded and still does not displace Confining at +7.** All three steps are live, and it still buffs **one hero, the rearmost ally**, chosen by the game rather than by the user. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry. Tier beats level here.
+**Blazing's DEF Penetration is that same argument applied to the rest of the comp.** Starshard's wave already ignores defence, but it is one wave every 3 Ultimates and everything else the comp does still pays full price. Penetration discounts **every** attack instead, and Blazing at +10 grants **+7.8** of it alongside +13.8% to both DEF stats. Starshard keeps the push comp, because a cut of current HP scales with the ladder and a flat penetration figure does not, but Blazing is the artifact to test against it on a run that scores poorly.
 
-**Blazing at +10 is fully upgraded, and it is the second artifact worth testing on the push comp.** All three steps are live: the fireball hits the weakest enemy every 5s for 30% of Team ATK plus 4% of that target's lost HP, and the +10 step adds **DEF Penetration** and raises both DEF stats.
+### Which artifact to upgrade next
 
-**Penetration is the same argument as true damage, applied to the rest of the comp.** Starshard's wave already ignores defence, but it is one wave every 3 Ultimates and everything else the comp does still pays full price against an enemy defence that climbs with no cap. Blazing's penetration discounts **every** attack instead. Starshard keeps the pick until a run says otherwise, because its cut of current HP scales with the ladder and a flat penetration figure does not, but this is now a real test rather than a foregone one. `unverified`: how much Penetration the +10 step grants. No source states the figure. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+The order rests on what the next step does and how many fielded comps it lands on. It does not rest on a tier letter, because there is no sourceable one to rest on.
 
-**Awakening at +7 buys nothing over +6.** Only the +4 step is live and the next real gain is one level away at +8.
+1. **Confining to +8, one level.** The cooldown drops from 12s to 10s, so the imprison on the enemy's two rearmost heroes lands a fifth more often for the whole fight. It holds five comps, and three of them — Arena, Tower of Eternity and Tower of Light — carry no healer, which makes that control the survival. The cheapest live effect step on the account.
+2. **Awakening to +8, one level.** The heal covers 4 allies instead of 3. It holds four comps, and one is Arcane Labyrinth, where HP carries between floors so every point healed is banked rather than wasted.
+3. **Starshard past +8.** Both effect steps are already live, so a level buys the team Haste and HP line and nothing else. It lands on six comps including the one played most, which is why it is worth having at all, but stats lose to two live effect steps.
+4. **Ironwall to +8, four levels.** The blessing moves to the frontmost surviving hero when the blessed one dies, which is the right effect for the weak team it holds. Four levels away, so it is last.
 
-**Ironwall at +4 has its first step live, and it changes what Battle Drills can field rather than what any comp does.** The blessing on the frontmost ally is worth **20% Phys DEF and Magic DEF** at +4 instead of 15%, plus **+20 Energy on Hit** and a shield of 20% max HP every 12s. It is the lowest-ranked artifact owned and it displaces nothing: every comp in [teams.md](teams.md) already holds something better. What it does buy is a **sixth artifact**, and Battle Drills fields several teams at once, so a sixth team is now possible. See [../mechanics/battle-drills.md](../mechanics/battle-drills.md).
+**Enlightening and Blazing are finished.** Both sit at +10 with both effect steps live and the stat line at its ceiling. Enlightening still buffs **one hero, the rearmost ally**, chosen by the game, so it stays on Battle Drills Team 5, the only comp in [teams.md](teams.md) with a single hero in the back row.
 
-**Its +8 step is the one worth wanting**, because it moves the whole blessing to the next frontline hero when the blessed one dies. That is four levels away and behind Confining's +8, which is one level away on an S-tier artifact.
-
-**Confining at +7 buys nothing over +6 either, and it is the better of the two to push.** Only its +4 step is live and the next real gain is one level away at +8. It is the **S-tier** artifact against Awakening's B, and it is the pick on **five** comps in [teams.md](teams.md): Arena, Tower of Eternity, Tower of Light, solo battles and Battle Drills Team 3. That is more comps than any other artifact owned holds.
-
-**The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining blocks two enemies, which is worth the same at stage 1142 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**Ironwall at +4 changes what Battle Drills can field rather than what any comp does.** The blessing on the frontmost ally is worth **20% Phys DEF and Magic DEF** at +4 instead of 15%, plus **+20 Energy on Hit** and a shield of 20% max HP every 12s. It displaces nothing, because every comp in [teams.md](teams.md) already holds an artifact that suits it better. What it buys is a **sixth artifact**, and Battle Drills fields several teams at once, so a sixth team is now possible. See [../mechanics/battle-drills.md](../mechanics/battle-drills.md).
 
 ## Seasonal track: Season 7, Crown of Ashes
 

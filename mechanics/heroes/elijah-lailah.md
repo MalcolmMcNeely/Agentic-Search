@@ -1,13 +1,13 @@
 # Elijah & Lailah
 
 > **Covers:** Elijah & Lailah kit, stats and best use.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 - **Faction:** Celestial
 - **Class:** Support
 - **Damage:** Magic
 - **Range:** 6
-- **Level:** S
+- **Rarity:** S
 
 ## Kit
 
@@ -27,11 +27,25 @@
 
 ## Best for
 
-Everything. allclash rates them **S+ for F2P, P2W, PvE and Dream Realm** alike, which is the widest rating on this account's roster.
-
 They are an **engine, not a carry**. Haste, Energy Regen and Ultimate refund make the rest of the team fire sooner and more often, so their value is set by who stands beside them. See [../team-archetypes.md](../team-archetypes.md).
 
+**They are the best-rated hero on this account in every mode any current list covers.**
+
+**Campaign, rated S+** as PvE [allclash, 2026-08-26, no investment stated], against **S** [afk.global Campaign tab, 2026-08-20, investment not stated] and **S** in story mode [Pocket Tactics, 2026-08-17, investment not stated].
+
+**Dream Realm** `unverified`: **SS**, the top band on its list [Pocket Tactics, 2026-08-17, investment not stated], against **S+** [allclash, 2026-08-26, no investment stated] and **S+** [afk.global Dream Realm tab, 2026-08-20, investment not stated].
+
+**Dream Realm Endless, rated S+** [afk.global Dream Realm Endless tab, 2026-08-20, investment not stated].
+
+**PvP** `unverified`, and it is their one real split: **S+** [allclash, 2026-08-26, no investment stated], **A+** [afk.global PvP tab, 2026-08-20, investment not stated] and **A** [Pocket Tactics, 2026-08-17, investment not stated].
+
+**allclash also grades them S+ for F2P and S+ for spenders. Those two are spending brackets, not modes**, so neither is a mode letter and neither belongs in a line about where to field them. They say the twins are worth building whatever the wallet, which is a build-priority claim. See [../tier-list-sources.md](../tier-list-sources.md).
+
 Named partner: Rolan. See [rolan.md](rolan.md).
+
+## Tier gate
+
+**They are Epic, so both gated skills are off, and every letter above rates a pair with them on.** Hero Focus needs **Legendary+**, three Soul Sigils away, and it raises the Haste further. Exclusive Equipment needs **Mythic+**, seven sigils away. No current list states an investment level, so none of them says which copy it is describing. allclash's build note names them one of the few heroes worth taking to EX +15, which is a ceiling well past this account. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
 
 ## Ascension
 
@@ -47,9 +61,9 @@ They start at **Epic**, like every S-Level hero. Celestial and Hypogean ascensio
 | Mythic+ -> Supreme | 2 |
 | Supreme -> Supreme+ | 4 |
 
-**Legendary+ is three sigils away, and it is the step that matters.** It unlocks **Hero Focus**, which raises the Haste further, and allclash calls that the single best investment on this hero. See [../progression-systems.md](../progression-systems.md).
+**Legendary+ is three sigils away, and it is the step that matters.** allclash calls Hero Focus the single best investment on this hero.
 
-**Mythic+ is seven sigils away** and brings the Exclusive Equipment. allclash names them one of the few heroes every player should take to EX +15.
+**Mythic+ is seven sigils away** and brings the Exclusive Equipment.
 
 Copies come from Stargaze Station or the Guild Store. See [../guild-store.md](../guild-store.md).
 
@@ -61,12 +75,15 @@ Celestial, so they count as any faction for the faction bonus and add +1% ATK an
 
 **Legend Trial locks them out.** The four faction towers bar Celestial, Hypogean and Dimensional heroes, so they pay nothing in any of the four towers. See [../legend-trial.md](../legend-trial.md).
 
-## Source
+## Sources
 
-- https://www.prydwen.gg/afk-journey/characters/elijah-and-lailah (S-Level Celestial Support, Magic, range 6; skill list. 403 on direct fetch, read through search summaries)
-- https://afk-journey.fandom.com/wiki/Elijah_%26_Lailah (Starlight Waltz text, shared HP and Energy pool, +50% max HP, Stellar Bond resonance, duration steps at 51/111/171/231. 402 on direct fetch, read through search summaries)
-- https://www.allclash.com/best-build-for-elijah-and-lailah-in-afk-journey-magic-charms-ex-weapon-priority/ (S+ in every category, Hero Focus 3 and EX +15 priority)
-- https://www.destructoid.com/afk-journey-ascension-guide-and-costs/ (Celestial and Hypogean per-tier Soul Sigil costs, no Acorns)
-- https://dotesports.com/afk-journey/news/afk-journey-ascension-guide-character-upgrade (S-Level heroes start at Epic; 14 copies total for Celestial and Hypogean)
+- https://www.prydwen.gg/afk-journey/characters/elijah-and-lailah [S-Level Celestial Support, Magic, range 6; skill list. 403 on direct fetch, read through search summaries]
+- https://afk-journey.fandom.com/wiki/Elijah_%26_Lailah [Starlight Waltz text, shared HP and Energy pool, +50% max HP, Stellar Bond resonance, duration steps at 51/111/171/231. 402 on direct fetch, read through search summaries]
+- https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/ [2026-08-26, PvE, Dream Realm and PvP letters, plus the F2P and spender build-priority grades]
+- https://www.afk.global/afk-journey/tier-list [2026-08-20, Campaign, PvP, Dream Realm and Dream Realm Endless tabs. Its Overall tab is blended and is not cited]
+- https://www.pockettactics.com/afk-journey/tier-list [2026-08-17, story mode, Dream Realm and PvP]
+- https://www.allclash.com/best-build-for-elijah-and-lailah-in-afk-journey-magic-charms-ex-weapon-priority/ [Hero Focus 3 and EX +15 priority]
+- https://www.destructoid.com/afk-journey-ascension-guide-and-costs/ [Celestial and Hypogean per-tier Soul Sigil costs, no Acorns]
+- https://dotesports.com/afk-journey/news/afk-journey-ascension-guide-character-upgrade [S-Level heroes start at Epic; 14 copies total for Celestial and Hypogean]
 
 **Not used:** afk.guide/heroes/elijah-lailah and theriagames both cover the **AFK Arena** hero of the same name, not this one. Their "Intelligence class", "Ascended rarity", signature item and furniture bonuses belong to a different game.

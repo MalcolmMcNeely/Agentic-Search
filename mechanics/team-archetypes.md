@@ -96,7 +96,7 @@ Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armo
 
 Take it when the carry's Ultimate is the whole point, and when the fight lasts long enough for Morale to climb. Weak in short fights.
 
-**Elijah & Lailah are the strongest engine on the roster**, and allclash rates them S+ in every category at once. Starlight Waltz gives **every ally +60 Haste for 7s**, Skill 1 adds healing and Energy Regen, and Stellar Bond adds +10 Vitality and +10% Energy gained when every linked ally shares one faction. Haste and Energy together mean the whole team fires sooner and more often, so they scale with whoever stands beside them rather than replacing a carry. The mono-faction clause is the build constraint: the account is 12 deep in Lightbearers, so that is the cheapest core to satisfy it. See [heroes/elijah-lailah.md](heroes/elijah-lailah.md).
+**Elijah & Lailah are the strongest engine on the roster**, and the best-rated hero on the account in every mode any current list covers: **S+ for PvE and S+ for Dream Realm** [allclash, 2026-08-26, no investment stated], with PvP their one split between the lists. **They are Epic, so Hero Focus and the Exclusive Equipment are both still locked, and every one of those letters rates a pair with them on.** The Ultimate below is not gated. Starlight Waltz gives **every ally +60 Haste for 7s**, Skill 1 adds healing and Energy Regen, and Stellar Bond adds +10 Vitality and +10% Energy gained when every linked ally shares one faction. Haste and Energy together mean the whole team fires sooner and more often, so they scale with whoever stands beside them rather than replacing a carry. The mono-faction clause is the build constraint: the account is 12 deep in Lightbearers, so that is the cheapest core to satisfy it. See [heroes/elijah-lailah.md](heroes/elijah-lailah.md).
 
 **Phraesto** feeds Energy Recovery Speed to every ally standing behind his true body, and from Legendary+ his Hero Focus generates Energy every time either of his two bodies is hit, so a tank being attacked becomes an Energy source. He is placed under **Mitigation** below, because that is his first job. See [heroes/phraesto.md](heroes/phraesto.md).
 
@@ -120,7 +120,7 @@ The other patterns treat a buff as a buff. These two treat it as a resource, so 
 **Engine:** Aurora. Her Dream Veil raises the damage of **every allied summon**, protects melee allies and strengthens ranged summon attacks.
 **Payload:** heroes whose damage comes from things they put on the field, not from themselves.
 
-Aurora is rated A+ alone and much better than that on a team built for her. **Her Hero Focus, live from Legendary+ and she is Mythic, pays her back for the same summons she buffs**: +10% ATK, plus +1% per allied summon belonging to a different ally, up to 5. So Dream Veil sends the buff out and Hero Focus brings it home, and both halves want the summon sources spread across different heroes. See [heroes/aurora.md](heroes/aurora.md). Owned heroes that pay her: Shemira (ghosts), Cecia (Mr. Carlyle), Zanie (turrets), Silven (flying blades), Velara (magic circles), Chippy (hamsters), Kordan (hunting ring), Temesia (mount), Faramor (magic circle).
+Aurora is a different hero in a lineup that fields summons than in one that does not, so read her placement before her rating. allclash rates her **S+ for Dream Realm, S for PvE and A for PvP** [2026-08-26, assuming the Exclusive Equipment, which unlocks at Mythic+ and she is one ascension short at Mythic]. afk.global's mode tabs [2026-08-20] and Pocket Tactics [2026-08-17] rate her lower in every mode, and all three agree on the shape, strongest in Dream Realm and weakest in PvP, which is what the kit predicts: summons need a fight long enough to get them on the field and keep them there. **Her Hero Focus, live from Legendary+ and she is Mythic, pays her back for the same summons she buffs**: +10% ATK, plus +1% per allied summon belonging to a different ally, up to 5. So Dream Veil sends the buff out and Hero Focus brings it home, and both halves want the summon sources spread across different heroes. See [heroes/aurora.md](heroes/aurora.md). Owned heroes that pay her: Shemira (ghosts), Cecia (Mr. Carlyle), Zanie (turrets), Silven (flying blades), Velara (magic circles), Chippy (hamsters), Kordan (hunting ring), Temesia (mount), Faramor (magic circle).
 
 ### Sustain with offence
 
@@ -197,6 +197,11 @@ Read with [../account/roster.md](../account/roster.md).
 
 The archetype patterns and the hero placements are derived from the kits in [heroes/README.md](heroes/README.md) using [hero-scoring.md](hero-scoring.md). The guides below cover the older patterns, and none of them names the Dimensional collab heroes.
 
+Every tier letter above carries its mode and comes from one of the three mode-split lists below. Before adding another, check it against [tier-list-sources.md](tier-list-sources.md), and check the hero's tier in [../account/roster.md](../account/roster.md) before crediting a rating that assumes a gated skill.
+
+- https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/ [2026-08-26, separate PvE, Dream Realm and PvP letters]
+- https://www.afk.global/afk-journey/tier-list [2026-08-20, mode tabs only; its Overall tab is blended and is not cited]
+- https://www.pockettactics.com/afk-journey/tier-list [2026-08-17, story mode, Dream Realm and PvP; states no investment level]
 - https://www.prydwen.gg/afk-journey/guides/team-building-advanced
 - https://www.allclash.com/best-teams-in-afk-journey-campaign-dream-realm-arena/
 - https://playafkjourney.com/teams/

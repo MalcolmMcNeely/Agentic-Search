@@ -5,7 +5,8 @@
 
 ## How to read this
 
-- **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+- **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md). A hero that cannot ascend has no tier and reads `n/a`.
+- **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
 - **Level** is not stored per hero. Every hero sits at the Resonance Level in [progression.md](progression.md), except the Hands of Resonance, listed there with their own levels.
 - **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 43: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
@@ -36,8 +37,10 @@
 | Temesia | Tank | Physical | Epic | - | [temesia](../mechanics/heroes/temesia.md) |
 | Fay | Support | Magic | Elite | - | [fay](../mechanics/heroes/fay.md) |
 | Lucius | Warrior | Physical | Elite | - | [lucius](../mechanics/heroes/lucius.md) |
-| Chippy | Tank | Physical | Rare | - | [chippy](../mechanics/heroes/chippy.md) |
-| Hammie | Support | Magic | Rare | - | [hammie](../mechanics/heroes/hammie.md) |
+| Chippy | Tank | Physical | n/a | - | [chippy](../mechanics/heroes/chippy.md) |
+| Hammie | Support | Magic | n/a | - | [hammie](../mechanics/heroes/hammie.md) |
+
+**Chippy and Hammie are Rare, and Rare heroes cannot ascend at all**, so neither ever holds an ascension tier or reaches the Mythic+ gate that unlocks Exclusive Equipment. afk.global labels both A-Level; the account holds them at Rare, and the account is the record. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
 ## Mauler
 
