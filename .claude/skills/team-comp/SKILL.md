@@ -21,6 +21,8 @@ Drafting first is what gives the reconcile its worth. A comp built from the rost
 
 4. **Place and kit it.** Rows from [formation.md](../../../mechanics/formation.md). One artifact from [artifacts.md](../../../mechanics/artifacts.md), at a level `progression.md` says is owned.
 
+   **Place every entity, not every hero.** A five-hero comp is rarely five tiles. Elijah & Lailah deploy as two bodies, Phraesto stands beside an Illusion, and Taichi & Agumon puts only Agumon on the grid. **State the count hero by hero**, because it is a property of the hero, not of the comp, and give each entity its own row. Name the summons and zones that arrive later too, wherever their position changes what they are worth. The full table is in [formation.md](../../../mechanics/formation.md).
+
 5. **Assign the Hands of Resonance.** The account owns five levelled **slots**, not five levelled heroes. `progression.md` holds the slot levels; read them there rather than from here, because they move. Swapping a hero into a slot is free, unlimited, and the level travels with the slot, so any comp can hold all five. See [progression-systems.md](../../../mechanics/progression-systems.md).
 
    Two consequences, and the first is the one that goes wrong:
@@ -30,7 +32,7 @@ Drafting first is what gives the reconcile its worth. A comp built from the rost
 
    The Resonance Level is the **lowest** slot, so it never moves when heroes change slots. It moves only when a slot's level changes.
 
-Done when five heroes are named, each confirmed in `roster.md` at the tier claimed, each placed in a row, one artifact named at an owned level, the highest Hand slots assigned, and one line saying what each hero is there to do.
+Done when five heroes are named, each confirmed in `roster.md` at the tier claimed, **every entity each hero fields counted and placed in a row**, one artifact named at an owned level, the highest Hand slots assigned, and one line saying what each hero is there to do.
 
 ## Reconcile
 
