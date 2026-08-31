@@ -87,7 +87,7 @@ This is a **Dream Realm** pattern, not a campaign one. One target, one long heal
 
 **Galahad is the engine the guides mean, and she is three tiers away.** Her **Time Recast** makes another hero cast again, and it unlocks at **Mythic+**. She is Legendary, so Legendary+, Mythic and Mythic+ all sit between her and the skill. Every guide comp that names her for this job is describing a hero this account does not own yet. She is still the best magic damage on the roster, so she plays as a payload now and becomes an engine later. See [heroes/galahad.md](heroes/galahad.md).
 
-Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armor to strip boss defence and knocks down for 450%, **Valka** builds panic stacks into true damage scaled to the boss's **max** HP, which is the stat a boss has most of, and **Lenya** locks the enemy top damage dealer into a 12s duel.
+Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armor to strip boss defence and knocks down for 450%, **Valka** builds panic stacks into true damage scaled to the boss's **max** HP, which is the stat a boss has most of, and her Hero Focus is now live at Legendary+ for **18 ATK SPD**, which is what fills those stacks. **Lenya** locks the enemy top damage dealer into a 12s duel.
 
 ### Ultimate engine
 

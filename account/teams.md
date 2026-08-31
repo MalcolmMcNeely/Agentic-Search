@@ -201,7 +201,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 190 |
-| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary | 180 |
+| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | 180 |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 180 |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 180 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 180 |
@@ -232,7 +232,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **No Phantimal applies.** The 3-core faction rule pays a Phantimal only on the seasonal track, and this account is permanent-track only. The +22% stat bonus is the whole reward here. See [progression.md](progression.md).
 
-**Swap if the front row collapses: Cecia out, Zanie in.** Zanie is Legendary+ against Cecia's Epic, fires physical from range 20, and her turrets are summons that Aurora buffs. The cost is the faction bonus dropping from +22% to +18%, because she is Lightbearer. Take the trade for survivability, not for damage: it gives up Cecia's dual defence strip, which is the single best answer this account owns to a boss that stacks defence. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md).
+**Swap if the front row collapses: Cecia out, Zanie in.** Zanie is **Mythic** against Cecia's Epic, fires physical from range 20, and her turrets are summons that Aurora buffs. **Her Hero Focus is live and grants Penetration**, so she partly replaces the defence strip she costs. The faction bonus still drops from +22% to +18%, because she is Lightbearer, and Cecia's Trial of Thorns strips **both** DEF stats and keeps them, which Penetration does not match. Take the trade for survivability. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md).
 
 ---
 
@@ -391,7 +391,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
-| Front | Valka | Warrior | 1 | Legendary |
+| Front | Valka | Warrior | 1 | Legendary+ |
 | Front | Daimon | Tank | 3 | Mythic |
 | Middle | Shemira | Mage | 4 | Mythic |
 | Back | Cecia | Marksman | 5 | Epic |
@@ -401,7 +401,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **Faction bonus: +22%.** Five Graveborn is forced by the lock.
 
-**Why:** this is the **scaling carry** pattern from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), which suits long floor fights. Shemira is the carry: her ghosts snowball, heal her, and can be spent for true damage off enemy max HP. Daimon shields the team and soaks. Bonnie's Aging strips enemy Haste and ATK, then spreads it. Cecia is the second damage dealer, and her Trial of Thorns steals 1.5% of both enemy DEF stats every second and keeps it for the whole fight, which compounds the longer a floor runs. Valka holds the front and shields nearby allies.
+**Why:** this is the **scaling carry** pattern from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), which suits long floor fights. Shemira is the carry: her ghosts snowball, heal her, and can be spent for true damage off enemy max HP. Daimon shields the team and soaks. Bonnie's Aging strips enemy Haste and ATK, then spreads it. Cecia is the second damage dealer, and her Trial of Thorns steals 1.5% of both enemy DEF stats every second and keeps it for the whole fight, which compounds the longer a floor runs. Valka holds the front and shields nearby allies, and her Hero Focus is now live at Legendary+, adding **18 ATK SPD**, which fills her panic stacks faster and so lands Blooming Terror sooner.
 
 **Only 6 Graveborn are owned, so this comp is 5 of 6.** Shadewing is the one cut: Elite tier, range 1, and pure single-target damage the comp already has.
 
@@ -425,14 +425,14 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Front | Temesia | Tank | 1 | Epic |
 | Middle | Rowan | Mage | 3 | Legendary |
 | Back | Cyran | Mage | 6 | Epic |
-| Back | Zanie | Marksman | 20 | Legendary+ |
+| Back | Zanie | Marksman | 20 | Mythic |
 | Back | Hugin | Support | 20 | Mythic |
 
 **Artifact:** Confining Spell +7. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
 
 **Faction bonus: +22%.** Five Lightbearer is forced by the lock.
 
-**Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
+**Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. She is now **Mythic**, joint-highest in the Lightbearer roster with Hugin, and her Hero Focus grants **Penetration** to every attack she and her three turrets make. **Start her two laser turrets within 2 tiles of each other** so they link and focus the nearest enemy instead of firing at random. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md). Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
 
 **Borrow the Hands of Resonance before you run this.** No hero in this comp holds a Hand, so all five run at **180** by default. **Two Hand slots sit at 190**, and a swap is **free, unlimited, and the level travels with the slot**, so put two of these five into them and they run 10 levels above the rest of the roster. Take both from Taichi & Agumon and Yamato & Gabumon, who are both Dimensional and barred from every tower anyway, and swap back afterwards. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
 
@@ -587,7 +587,7 @@ Send it at the mid-boss and the final boss, not at passages.
 | Front | Temesia | Lightbearer | Tank | Physical | 1 | Epic | 180 |
 | Middle | Rowan | Lightbearer | Mage | Magic | 3 | Legendary | 180 |
 | Back | Cyran | Lightbearer | Mage | Magic | 6 | Epic | 180 |
-| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Legendary+ | 180 |
+| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic | 180 |
 | Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic | 180 |
 
 **Artifact:** Confining Spell +7. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
@@ -621,7 +621,7 @@ Send it at the mid-boss and the final boss, not at passages.
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Gerda | Mauler | Tank | Physical | 1 | Elite | 180 |
-| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary | 180 |
+| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | 180 |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 180 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 180 |
 | Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | 180 |

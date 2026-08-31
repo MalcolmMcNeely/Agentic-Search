@@ -66,7 +66,7 @@ Not placed, but position still decides what they are worth, so a comp says where
 | Rolan | a **clone** on every ally Ultimate | it inherits 80% of the caster's base stats, so it follows whichever hero cast |
 | Shemira | 10 **ghosts** per Ultimate, plus more when allies take heavy damage | they feed any summon buff on the team |
 | Aurora | **Sonny** the unicorn, then **bunnies** | her own Hero Focus counts summons from **different** allies, so spread the sources |
-| Zanie | 2 laser **turrets**, plus a gun turret | static, so her own tile decides their firing arc |
+| Zanie | 2 laser **turrets**, plus a gun turret | static, so her own tile decides the firing arc. **The two laser turrets link only if they start within 2 tiles of each other**; linked they focus the nearest enemy, unlinked they fire at random. See [heroes/zanie.md](heroes/zanie.md) |
 | Silven | 6 flying **blades** | launched off her normal attacks |
 | Cecia | **Mr. Carlyle**, who inherits her stats | he hits in an arc |
 | Chippy | **hamsters** he rides on | |

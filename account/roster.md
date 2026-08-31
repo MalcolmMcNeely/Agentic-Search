@@ -28,7 +28,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Hugin | Support | Physical | Mythic | - | [hugin](../mechanics/heroes/hugin.md) |
 | Rowan | Mage | Magic | Legendary | - | [rowan](../mechanics/heroes/rowan.md) |
-| Zanie | Marksman | Physical | Legendary+ | - | [zanie](../mechanics/heroes/zanie.md) |
+| Zanie | Marksman | Physical | Mythic | - | [zanie](../mechanics/heroes/zanie.md) |
 | Silven | Marksman | Physical | Elite+ | - | [silven](../mechanics/heroes/silven.md) |
 | Valen | Warrior | Physical | Elite+ | - | [valen](../mechanics/heroes/valen.md) |
 | Cyran | Mage | Magic | Epic | - | [cyran](../mechanics/heroes/cyran.md) |
@@ -74,7 +74,7 @@
 | Shemira | Mage | Magic | Mythic | - | [shemira](../mechanics/heroes/shemira.md) |
 | Bonnie | Marksman | Magic | Mythic | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
-| Valka | Warrior | Physical | Legendary | - | [valka](../mechanics/heroes/valka.md) |
+| Valka | Warrior | Physical | Legendary+ | - | [valka](../mechanics/heroes/valka.md) |
 | Shadewing | Rogue | Magic | Elite | - | [shadewing](../mechanics/heroes/shadewing.md) |
 | Viperian | Mage | Magic | Elite | - | [viperian](../mechanics/heroes/viperian.md) |
 
