@@ -45,7 +45,7 @@ Take it when enemies spread out, and in PvP. It is a burst pattern: it wins in t
 
 The named build is **Eironn, Ulmus, Bonnie, Daimon, Shemira**. Shemira snowballs, Ulmus holds the front, Daimon hands out shields, Bonnie strips enemy Haste and ATK.
 
-**This account runs it without Ulmus.** Daimon is a Tank, so he holds the front himself, Phraesto stands beside him as a second one, and Elijah & Lailah take the last slot. See the AFK Stages push comp in [../account/teams.md](../account/teams.md).
+**This account owns four of the five, and the pattern no longer runs on the ladder.** Ulmus is the one missing. Shemira carries it in the **Tower of Eternity**, **Arena** and **Darkswarm** comps instead, with Daimon holding the front in each. The AFK Stages push comp moved to **ramp carry** once both Digimon pairs reached Supreme and took the Hand slots with them. See [../account/teams.md](../account/teams.md).
 
 Take it in long fights: AFK Stages and campaign. It needs almost no Exclusive Equipment, so it suits a young account.
 

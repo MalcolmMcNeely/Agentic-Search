@@ -1,7 +1,7 @@
 # Guild Store
 
 > **Covers:** the Guild Store's Guild Medal shelf: what it stocks, the price of a hero copy, the monthly limit, and who on this account to buy.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 A shop inside the guild, reached by tapping **Guild** at the bottom of the screen and then **Emporium**. It has two shelves in two currencies, and they answer different questions.
 
@@ -83,7 +83,7 @@ That is 13 sigils on top of the original copy, 14 in all. S-Level heroes start a
 
 **Aurora is the buy after that, and she is closer than she looks.** She is the only other hero on this shelf the account owns, and she is **Mythic**, so **Mythic+ is 2 sigils**, or 60,000 Guild Medals. That is a second Exclusive Equipment for the account, and Mythic+ is the only tier that adds a skill. [dream-store.md](dream-store.md) reaches the same step on Daimon for 12 Dream Fragment sigils, so the two shops can run in parallel: Daimon there, Aurora here.
 
-**Rolan is ranked first among Celestials by two 2026 guides and is not on the shelf list**, so copies of him are not a Guild Store option. He is owned at Epic regardless. See [heroes/rolan.md](heroes/rolan.md).
+**Rolan is ranked first among Celestials by two 2026 guides and is not on the shelf list**, so copies of him are not a Guild Store option. He is owned at Epic regardless. **He now holds a Hand of Resonance and stands in the comp being played**, which puts him level with Elijah & Lailah and Phraesto in need, so **check the shelf in game**: the hero list here is `unverified` and if he is actually stocked he joins the front of the queue. See [heroes/rolan.md](heroes/rolan.md) and [../account/teams.md](../account/teams.md).
 
 ## Sources
 

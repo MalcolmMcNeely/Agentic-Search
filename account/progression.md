@@ -37,22 +37,24 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Hero | Faction | Class | Level | Tier |
 | --- | --- | --- | --- | --- |
 | Taichi & Agumon | Dimensional | Warrior | 190 | Supreme, EX +8 |
-| Daimon | Graveborn | Tank | 190 | Mythic |
-| Shemira | Graveborn | Mage | 180 | Mythic |
-| Elijah & Lailah | Celestial | Support | 180 | Epic |
+| Yamato & Gabumon | Dimensional | Mage | 190 | Supreme+, EX +6 |
 | Phraesto | Hypogean | Tank | 180 | Epic |
+| Elijah & Lailah | Celestial | Support | 180 | Epic |
+| Rolan | Celestial | Support | 180 | Epic |
 
-**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. **Neither Aurora nor Rolan is a Hand.** Elijah & Lailah hold the slot Aurora had, and **Phraesto holds the slot Rolan had**, taken when he replaced Rolan in that comp to answer the account's report that the team dies rather than stalls.
+**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. That comp is also the King Croaker comp, so the slots pay in both places at once. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the 190 slot Daimon had and **Rolan holds the 180 slot Shemira had**, taken when both moved into the comp the account now fields.
 
-Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and every hero off the Hand slots sits there too, Aurora, Rolan, Hugin and Bonnie included.
+Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and every hero off the Hand slots sits there too, Daimon, Shemira, Aurora, Hugin and Bonnie included.
 
-**Taichi & Agumon and Daimon are at the +10 cap and cannot take another level.** Both sit at 190, which is exactly 180 plus 10. They are frozen until the Resonance Level rises.
+**Taichi & Agumon and Yamato & Gabumon are at the +10 cap and cannot take another level.** Both sit at 190, which is exactly 180 plus 10. They are frozen until the Resonance Level rises. They are also the account's two highest-tier heroes, so the cap bites hardest exactly where the levels are worth most.
 
-**Every level now goes into Shemira, Elijah & Lailah and Phraesto, the three Hands still below the cap.** The Resonance Level is the **lowest** Hand, so it reaches 190 only when all three of them do. That is the move that lifts all 43 heroes and unfreezes Taichi & Agumon and Daimon at the same time. Levelling any one of the three on its own lifts that hero alone, so raise the three as a set.
+**Every level now goes into Phraesto, Elijah & Lailah and Rolan, the three Hands still below the cap.** The Resonance Level is the **lowest** Hand, so it reaches 190 only when all three of them do. That is the move that lifts all 43 heroes and unfreezes Taichi & Agumon and Yamato & Gabumon at the same time. Levelling any one of the three on its own lifts that hero alone, so raise the three as a set.
 
-**Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: putting Rolan into Daimon's slot makes Rolan take that slot's level. So the five Hands can be re-picked at will. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**All three are Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the same three slots are the account's cheapest ascension target and its levelling bottleneck at once. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
-**Two 190 slots can be lent to any hero for a run.** Taichi & Agumon and Daimon hold them, and a hero swapped in takes the slot's level, so it runs 10 above the rest of the roster. Thador borrowing one for Tower of Nature is the standing example, and both slot holders are barred from Legend Trial anyway. Swapping into one of the three 180 slots buys nothing, because 180 is the level that hero already has.
+**Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: a hero moved into a slot takes that slot's level, not its own. So the five Hands are re-picked whenever the comp being played changes, and that is why they match the push comp. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+
+**Two 190 slots can be lent to any hero for a run.** Taichi & Agumon and Yamato & Gabumon hold them, and a hero swapped in takes the slot's level, so it runs 10 above the rest of the roster. Thador borrowing one for Tower of Nature is the standing example, and **both slot holders are Dimensional, so both are barred from Legend Trial anyway** and neither loses anything by lending during a tower run. Swapping into one of the three 180 slots buys nothing, because 180 is the level that hero already has.
 
 ### Artifacts owned
 

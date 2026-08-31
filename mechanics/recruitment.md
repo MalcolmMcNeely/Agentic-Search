@@ -1,7 +1,7 @@
 # Recruitment
 
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
@@ -106,7 +106,7 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 | Slot | Hero | Faction | Class | Why |
 | --- | --- | --- | --- | --- |
 | 1 | **Thoran** | Graveborn | Tank | the account's largest hole. Tower of Eternity is faction-locked and fields **no Tank**, which its own entry in [../account/teams.md](../account/teams.md) calls the comp's ceiling. He resurrects once per battle, marks the highest-HP enemy for +13% damage taken, and eats 50% of the damage aimed at the ally behind him. He is in no shop, so the wishlist is the only route |
-| 2 | **Shemira** | Graveborn | Mage | the scaling carry in two `running` comps and a Hand of Resonance. She is **Mythic**, one tier under Mythic+, so the next ascension unlocks her Exclusive Equipment and a new skill. Copies are the shortest route to a second EX weapon, after Taichi & Agumon |
+| 2 | **Shemira** | Graveborn | Mage | the scaling carry in the Tower of Eternity, Arena and Darkswarm comps. **She no longer holds a Hand of Resonance and no longer stands in the push comp**, both of which went to the Digimon pair. She is still **Mythic**, one tier under Mythic+, so the next ascension unlocks her Exclusive Equipment and a new skill, and copies are the shortest route to a **third** EX weapon after the Digimon pair |
 | 3 | **Eironn** | Wilder | Rogue | owning him once is not the same as having him work. He is **Mythic**, and his battle-start pull needs **Mythic+**, one tier up. That unlocks the whole PvP nuke comp, currently `blocked`. Copies are the unlock |
 | 4 | **Smokey & Meerky** | Mauler | Support | **Mythic**, one tier under Mythic+, so the next ascension unlocks Withering Potion, which widens the aroma and drains enemies for up to 12% of max HP a second. That turns the account's S-Level healer into a damage source, and it is the shortest route to a third EX weapon |
 | 5 | **Shakir** | Mauler | Rogue | a hero the account does not own. Lupine Aura cuts 20% damage taken and adds 10 Haste for nearby allies, which pays in every mode. Mauler is 8 deep and its Tower of Will comp is `running`, so he slots straight into a team already being played |
