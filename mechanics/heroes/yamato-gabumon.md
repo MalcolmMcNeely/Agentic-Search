@@ -15,6 +15,8 @@ Digivolves into MetalGarurumon on the first Ultimate. Ultimate Cocytus Breath le
 
 Yamato cheers Gabumon with an ATK boost at battle start and again on every Ultimate cast, plus extra Energy recovery until the digivolve lands.
 
+**Yamato stands off the field and cheers from there, so the pair takes one tile, not two.** Confirmed from the account. It is the same shape as Taichi & Agumon. See [../formation.md](../formation.md).
+
 ## Exclusive Equipment: Grace Cross Freezer
 
 **Unlocked, at +6.** He is **Supreme**, two tiers past the Mythic+ gate, and this is one of two EX weapons the account owns. See [../../account/equipment.md](../../account/equipment.md).

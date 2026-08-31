@@ -17,7 +17,9 @@
 
 `unverified`: the source reads the buff as "60 + 4 Haste" and says allies linked by Stellar Bond are "unaffected during the dance". Whether that means they are excluded from the Haste or made immune to control is not stated anywhere. Check it in game before building around the linked allies.
 
-**Stellar Bond.** At battle start the twins link to allies. If every linked ally **excluding the twins belongs to the same faction**, a resonance fires and those allies gain **+10 Vitality and +10% Energy gained**.
+**Stellar Bond, and it is a placement skill.** The bond draws a **straight line between the two twins when they are aligned** on the grid, and the allies standing **between them on that line** are the ones linked. So the user chooses who is linked by choosing the two tiles. Linked allies gain ATK and both DEF stats worth **20% of the highest stats among the other linked allies**, capped at **40% of the twins' own**. Lailah's green glow heals each of them along the path for **100% + 10%**, and Elijah's golden glow restores their Energy. If every linked ally **excluding the twins belongs to the same faction**, a resonance fires and those allies also gain **+10 Vitality and +10% Energy gained**. See [../formation.md](../formation.md).
+
+**Linking costs the twins their own buff.** Stellar Bond grants them a permanent **+25% ATK while no other ally is linked**, so an empty line is a real option rather than a wasted one. `unverified`: one pre-release source says the bonus drops 5% per linked ally, and nothing dated repeats it.
 
 **Skill 1.** Healing and Energy Regen to the linked allies.
 
@@ -55,7 +57,7 @@ Copies come from Stargaze Station or the Guild Store. See [../guild-store.md](..
 
 Celestial, so they count as any faction for the faction bonus and add +1% ATK and HP to the team just by being deployed. See [../factions.md](../factions.md).
 
-**Stellar Bond wants a mono-faction core.** The resonance only fires when every linked ally shares one faction. The account is 12 deep in Lightbearers, so that is the cheapest core to build it on. See [../../account/roster.md](../../account/roster.md).
+**Stellar Bond wants a mono-faction core, and the line is how it is aimed.** The resonance only fires when every linked ally shares one faction, and the linked allies are whichever heroes stand between the twins. The account is 12 deep in Lightbearers, so that is the cheapest core to build it on. In the AFK Stages push comp the resonance cannot fire at all, because that comp holds four factions. See [../../account/roster.md](../../account/roster.md) and [../../account/teams.md](../../account/teams.md).
 
 **Legend Trial locks them out.** The four faction towers bar Celestial, Hypogean and Dimensional heroes, so they pay nothing in any of the four towers. See [../legend-trial.md](../legend-trial.md).
 
