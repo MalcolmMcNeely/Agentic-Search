@@ -238,6 +238,59 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 ---
 
+## Dream Realm, King Croaker — Digimon double carry — `proposed`
+
+**Purpose:** the King Croaker boss only. Read [../mechanics/king-croaker.md](../mechanics/king-croaker.md) first: the boss fires an **instant-kill bubble at whichever hero stands nearest to it**, three times a fight, and raises an Energy-fed barrier that cuts incoming damage.
+
+| Row | Hero | Faction | Class | Damage | Range | Tier | Level |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Front | Phraesto | Hypogean | Tank | Magic | 1 | Epic | 180 |
+| Middle | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | 180 |
+| Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | 190 |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme, EX +6 | 190 |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic | 180 |
+
+**Artifact:** Starshard Spell +8. Its wave is true damage, and at +8 it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+**Faction bonus: +22%**, plus **+3%** for three wildcards. Two Dimensional, with Phraesto, Rolan and Elijah & Lailah counting as any faction, which makes 5. **A 2-core plus wildcards does stack**, confirmed from the account: the AFK Stages push comp above pays +18% off two Graveborn plus the same two Celestials. This is the **cap**, and it is the only comp in this file that reaches the cap while also fielding both Supreme heroes. See [../mechanics/factions.md](../mechanics/factions.md).
+
+**Archetype: ramp carry, doubled.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Five reasons, read off the kits.
+
+**1. Phraesto is this account's Thoran.** Every guide names Thoran because his revive lets him eat the bubble twice, and **the account does not own him**. Phraesto is the nearest answer owned: he deploys as **two bodies**, the Illusion inherits **100% of his stats**, and **Foggy Whisper resummons the Illusion if it falls**. So the bubble deletes a body that comes back, rather than a hero that does not. Standing both bodies in the same row also gives each **30% damage reduction** until one dies, and allies behind the Illusion take less damage while allies behind the true body gain Energy Recovery Speed.
+
+**2. Both Supreme heroes field together, and only here.** Taichi & Agumon at **Supreme with EX +8** and Yamato & Gabumon at **Supreme with EX +6** are two ascension tiers above every other hero owned. The guides all say no single carry scores enough on this boss, so the fight wants exactly the pair this account has. They also feed each other: WarGreymon gives every ally behind him **+25% of his own ATK for 20s**, and Gabumon taking that buff gains **300 Energy**, which shortens his own ramp.
+
+**3. Gaia Force ignores the boss's whole disable kit.** Tail Smash knocks a hero back a tile and stuns it. WarGreymon's Ultimate hits 7 times within 3 tiles and **cannot be interrupted mid-cast**, so the stun cannot cancel it. Rolan then clones it at 80% of the caster's base stats, which copies the Supreme tier and the EX weapon with it. That is the largest single damage add the account owns.
+
+**4. Elijah & Lailah are the healer and the Ultimate dial in one slot.** The guides ask for a healer that heals continuously, because the ranged AoE keeps landing behind the front. Starlight Waltz gives **every ally +60 Haste for 7s**, Skill 1 heals and adds Energy Regen, and Skill 2 shields the weakest ally. Two bodies on one HP pool carrying **+50% max HP** add a third body to soak. The Haste also raises the Starshard wave count, which is the score here.
+
+**5. Energy is damage when the score is damage dealt.** Taichi pushes **150 Energy into Agumon every 3s** plus 250 more until the digivolve lands, Gabumon's Hero Focus raises the Energy he recovers from attacking and raises it again after digivolving, Rolan clones every Ultimate and Elijah & Lailah speed all five heroes at once. Casts per minute is the score, and Starshard counts casts rather than damage.
+
+**Galahad is cut on the tier gate, and she is the one guide pick dropped.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon, and the account owns all five, which no other Dream Realm guide lineup manages. **Time Recast, the skill that whole role rests on, unlocks at Mythic+ and she is Legendary**, three tiers short. Yamato & Gabumon takes the slot instead: Supreme, with an EX weapon, and magic damage from the back row either way. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
+
+**Grid note: only Phraesto stands forward, and that is the point.** The bubble picks by distance, so the front tile is a slot this comp fills on purpose with the one hero that regrows a body. **Taichi & Agumon starts in the back row**, confirmed from the account: fielded in the front row he dies before the digivolve. Elijah & Lailah sit in the middle rather than the back to split the cluster, because Water Bomb aims at the area holding the most heroes. See [../mechanics/formation.md](../mechanics/formation.md).
+
+**Hands of Resonance: Taichi & Agumon runs at 190 and the other four at 180.** The second 190 slot is Daimon's and he is not in this comp, so **lend it to Yamato & Gabumon before the run**. He is Supreme with an EX weapon at +6, level with Taichi & Agumon and the joint-highest tier on the account, and Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. The swap is free and the level travels with the slot. See [progression.md](progression.md).
+
+**Four weak points:**
+
+1. **WarGreymon walks to the front, and the bubble picks by distance.** His range drops from 7 to 1 on the digivolve and he advances on his own, so from that moment he may stand as near as Phraesto and take a bubble aimed at nobody in particular. This is the comp's biggest risk and no source says how the boss breaks a tie. Watch the first run and, if the carry dies to a bubble, take the Cecia swap below.
+2. **No defence-strip debuffer.** The guides weight that role highly and this comp fills it only with Phraesto's Vicious Sting, which cuts enemy Haste and Vitality rather than DEF.
+3. **Yamato's EX weapon and the Water Bomb pull opposite ways.** Grace Cross Freezer **fires more missiles the closer allies stand to him**, and Water Bomb targets the area holding the most heroes. Spreading the back row costs missiles, bunching it feeds the bomb. Start spread and see which hurts more.
+4. **Stellar Bond does not fire.** It needs every linked ally to share one faction, and this comp holds Dimensional, Hypogean and Celestial. The Haste, the heals and the shield do not depend on it. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+
+`unverified`: **whether the Magic Barrier stops true damage.** Starshard's wave and Phraesto's HP-reading damage both ignore defence, but the barrier is described as reducing damage rather than as a defence stat. If the score comes in low, test **Blazing Spell +10** instead: its DEF Penetration discounts every attack rather than one wave, and it is already the artifact this account has been meaning to test. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+`unverified`: **whether Phraesto's Illusion and Rolan's clone add to the Starshard counter.** The artifact fires every 3 **ally** Ultimates, and both cast as their own units. This comp holds both, so if either counts the wave rate roughly doubles. One battle settles it: field it and watch the wave.
+
+**Swap if the carry dies to a bubble: Yamato & Gabumon out, Cecia in.** She is Graveborn Marksman at range 5, so she stays behind WarGreymon and never contests the front tile, and **Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight**, which fills the missing debuffer role. The cost is heavy: the faction bonus falls from +22% to +14%, and a Supreme hero with an EX weapon leaves for an Epic one. Make the trade only if bubbles are actually killing the carry.
+
+**Swap if the comp wipes before the timer: Rolan out, Hewynn in.** Rain Prayer heals every ally for up to 115% HP per second across 9s and Tranquil adds team-wide damage reduction while it runs. The cost is the Ultimate clone, the comp's largest damage add, and the faction bonus dropping to +18%.
+
+**This comp shares every hero with another.** Taichi & Agumon, Yamato & Gabumon and Rolan all stand in the Snow Stomper comp; Taichi & Agumon, Elijah & Lailah and Rolan stand in the AFK Stages push comp; Rolan also stands in the Arena and Darkswarm comps; and Phraesto and Yamato & Gabumon each hold a Battle Drills team. Anything that changes their tier, level or kit moves those comps too.
+
+---
+
 ## Arcane Labyrinth — Wilder sustain — `proposed`
 
 **Purpose:** the Arcane Labyrinth run. Read [../mechanics/arcane-labyrinth.md](../mechanics/arcane-labyrinth.md) first: HP and Energy carry between floors, so this comp is built to end each fight healthy, not to end it fast.

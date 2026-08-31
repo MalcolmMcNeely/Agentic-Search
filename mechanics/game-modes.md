@@ -33,7 +33,7 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 ## What this changes about team building
 
 - **Legend Trial** is faction-locked, so a deep bench in one faction matters more than a good mixed comp. Celestial and Hypogean heroes do not wildcard in here. See [legend-trial.md](legend-trial.md).
-- **Dream Realm** is a pure damage race with a fixed boss, so faction counter and single-target burst dominate. Two bosses are written up: [snow-stomper.md](snow-stomper.md) and [skyclops.md](skyclops.md). Its currency buys A-Level hero copies in [dream-store.md](dream-store.md).
+- **Dream Realm** is a pure damage race with a fixed boss, so faction counter and single-target burst dominate. Three bosses are written up: [snow-stomper.md](snow-stomper.md), [skyclops.md](skyclops.md) and [king-croaker.md](king-croaker.md). Its currency buys A-Level hero copies in [dream-store.md](dream-store.md).
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
 - **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
