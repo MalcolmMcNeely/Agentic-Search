@@ -39,7 +39,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | 180 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 180 |
 
-**Artifact:** Starshard Spell +8. Its wave is true damage worth **24% of each target's current HP**, and it fires every **3** ally Ultimates because +4 and +8 are both live. **Confirmed from the account: it beat Confining Spell +6 here.**
+**Artifact:** Starshard Spell +8. Its wave is true damage worth **24% of each target's current HP**, and it fires every **3** ally Ultimates because +4 and +8 are both live. **Confirmed from the account: it beat Confining Spell +7 here.**
 
 **These five are the Hands of Resonance**, so every level the account buys lands on this comp. **Taichi & Agumon and Daimon are at the +10 cap of 190**, and Shemira, Elijah & Lailah and Rolan sit at the Resonance Level of 180. Elijah & Lailah hold the slot Aurora used to.
 
@@ -119,7 +119,7 @@ Rolan pays **10% Morale per hero** when the most-deployed faction is **Lightbear
 | Back | Bonnie | Graveborn | Marksman | 7 | Mythic | 180 |
 | Back | Rolan | Celestial | Support | 10 | Epic | 180 |
 
-**Artifact:** Confining Spell +6. Two enemies held out of the backline is what keeps Shemira and Aurora alive against an Arena dive, and this comp has no healer.
+**Artifact:** Confining Spell +7. Two enemies held out of the backline is what keeps Shemira and Aurora alive against an Arena dive, and this comp has no healer.
 
 **Faction bonus: +22%**, plus +1% per Celestial. Three Graveborn, with Aurora and Rolan wildcarding.
 
@@ -333,7 +333,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Back | Cecia | Marksman | 5 | Epic |
 | Back | Bonnie | Marksman | 7 | Mythic |
 
-**Artifact:** Confining Spell +6. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
+**Artifact:** Confining Spell +7. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
 
 **Faction bonus: +22%.** Five Graveborn is forced by the lock.
 
@@ -364,7 +364,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Back | Zanie | Marksman | 20 | Legendary+ |
 | Back | Hugin | Support | 20 | Mythic |
 
-**Artifact:** Confining Spell +6. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
+**Artifact:** Confining Spell +7. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
 
 **Faction bonus: +22%.** Five Lightbearer is forced by the lock.
 
@@ -472,7 +472,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | --- | --- | --- | --- | --- | --- |
 | The one | Shemira | Graveborn | Mage | 4 | Mythic |
 
-**Artifact:** Confining Spell +6, to hold enemies off her at range 4.
+**Artifact:** Confining Spell +7, to hold enemies off her at range 4.
 
 **Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Mythic, the joint-highest tier on the account, and range 4 keeps her off the front.
 
@@ -526,7 +526,7 @@ Send it at the mid-boss and the final boss, not at passages.
 | Back | Zanie | Lightbearer | Marksman | Physical | 20 | Legendary+ | 180 |
 | Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic | 180 |
 
-**Artifact:** Confining Spell +6. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
+**Artifact:** Confining Spell +7. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
 
 **Faction bonus: +22%.** Five Lightbearer, the deepest faction on the account at 12.
 

@@ -59,7 +59,7 @@ Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and eve
 | Artifact | Level | Tier | Notes |
 | --- | --- | --- | --- |
 | Starshard Spell | +8 | A | the account's best artifact in practice, and the pick on the AFK Stages push comp |
-| Confining Spell | +6 | S | the default where a comp needs its backline held |
+| Confining Spell | +7 | S | the default where a comp needs its backline held, and one level short of its +8 step |
 | Enlightening Spell | +10 | A | fully upgraded and still not the pick |
 | Blazing Spell | +10 | B | **fully upgraded**, and the only artifact owned that grants DEF Penetration |
 | Awakening Spell | +7 | B | healer teams and hyper-carry, one level short of its +8 step |
@@ -68,17 +68,19 @@ Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifa
 
 **Artifact upgrades land at +4, +8 and +10 only.** Every level in between buys nothing, so a level is worth checking against those three numbers before it is spent.
 
-**Starshard at +8 holds the push comp. Confirmed from the account.** Both the +4 and +8 upgrades are live, so the wave fires every 3 ally Ultimates for 24% of each target's current HP as true damage. The user ran it against Confining Spell +6 on the Shemira comp and reports it running well.
+**Starshard at +8 holds the push comp. Confirmed from the account.** Both the +4 and +8 upgrades are live, so the wave fires every 3 ally Ultimates for 24% of each target's current HP as true damage. The user ran it against Confining Spell on the Shemira comp and reports it running well.
 
 **Starshard +10 is the upgrade worth chasing, because it lands on the comp being played.** It adds a team Haste and HP boost on top of what the artifact already does.
 
-**Enlightening at +10 is fully upgraded and still does not displace Confining at +6.** All three steps are live, and it still buffs **one hero, the rearmost ally**, chosen by the game rather than by the user. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry. Tier beats level here.
+**Enlightening at +10 is fully upgraded and still does not displace Confining at +7.** All three steps are live, and it still buffs **one hero, the rearmost ally**, chosen by the game rather than by the user. Every comp in [teams.md](teams.md) with a back row has two or three heroes in it, so the buff cannot be aimed at the carry. Tier beats level here.
 
 **Blazing at +10 is fully upgraded, and it is the second artifact worth testing on the push comp.** All three steps are live: the fireball hits the weakest enemy every 5s for 30% of Team ATK plus 4% of that target's lost HP, and the +10 step adds **DEF Penetration** and raises both DEF stats.
 
 **Penetration is the same argument as true damage, applied to the rest of the comp.** Starshard's wave already ignores defence, but it is one wave every 3 Ultimates and everything else the comp does still pays full price against an enemy defence that climbs with no cap. Blazing's penetration discounts **every** attack instead. Starshard keeps the pick until a run says otherwise, because its cut of current HP scales with the ladder and a flat penetration figure does not, but this is now a real test rather than a foregone one. `unverified`: how much Penetration the +10 step grants. No source states the figure. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 **Awakening at +7 buys nothing over +6.** Only the +4 step is live and the next real gain is one level away at +8.
+
+**Confining at +7 buys nothing over +6 either, and it is the better of the two to push.** Only its +4 step is live and the next real gain is one level away at +8. It is the **S-tier** artifact against Awakening's B, and it is the pick on **five** comps in [teams.md](teams.md): Arena, Tower of Eternity, Tower of Light, solo battles and Battle Drills Team 3. That is more comps than any other artifact owned holds.
 
 **The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining blocks two enemies, which is worth the same at stage 1142 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 

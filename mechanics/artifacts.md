@@ -20,7 +20,7 @@ Ranked best to worst:
 
 Upgrade priority follows the same order. Confining Spell and Starshard Spell stay the best all-rounders across every season.
 
-**`disputed`: the guides rank Confining above Starshard. This account shows the reverse on an Ultimate-heavy comp with a level deficit.** Starshard Spell +8 beat Confining Spell +6 on the AFK Stages push comp, confirmed from the account, and the account wins per [../CLAUDE.md](../CLAUDE.md). The reason is scaling: Confining blocks 2 enemies, which is worth the same whatever the stage, while Starshard takes a cut of the target's **current HP** as true damage, which is worth more as enemy defence and HP climb. Two conditions decide it, so check them before copying the swap:
+**`disputed`: the guides rank Confining above Starshard. This account shows the reverse on an Ultimate-heavy comp with a level deficit.** Starshard Spell +8 beat Confining Spell +7 on the AFK Stages push comp, confirmed from the account, and the account wins per [../CLAUDE.md](../CLAUDE.md). The reason is scaling: Confining blocks 2 enemies, which is worth the same whatever the stage, while Starshard takes a cut of the target's **current HP** as true damage, which is worth more as enemy defence and HP climb. Two conditions decide it, so check them before copying the swap:
 
 - **How many Ultimates the comp casts.** Starshard fires every 3 ally Ultimates at +8. A comp with an Ultimate cloner or a resetting carry comes round far faster than one without.
 - **How far the roster sits below the stage.** True damage ignores defence, so the wider the level gap, the more Starshard pays and the less raw damage does. See [../account/progression.md](../account/progression.md).
@@ -66,7 +66,7 @@ At battle start it raises the ATK SPD of **one hero, the rearmost ally in the ba
 
 The community reading is that it is the weakest A-tier pick: worth it only for a fragile back-row damage dealer that needs the control immunity to survive the opening, and wasted on a hero that already buffs itself.
 
-**On this account:** Enlightening sits at **+10**, fully upgraded, and still loses to Confining Spell +6. Tier beats level here. All three steps are live, and the artifact still buffs **one hero, the rearmost ally**, chosen by the game. Every comp in [../account/teams.md](../account/teams.md) with a back row holds two or three heroes, so the buff cannot be aimed at the carry. The +10 step itself is `unverified`: one source, and its numbers do not fit the ones above. See [../account/progression.md](../account/progression.md).
+**On this account:** Enlightening sits at **+10**, fully upgraded, and still loses to Confining Spell +7. Tier beats level here. All three steps are live, and the artifact still buffs **one hero, the rearmost ally**, chosen by the game. Every comp in [../account/teams.md](../account/teams.md) with a back row holds two or three heroes, so the buff cannot be aimed at the carry. The +10 step itself is `unverified`: one source, and its numbers do not fit the ones above. See [../account/progression.md](../account/progression.md).
 
 ### Awakening Spell — B
 
