@@ -1,7 +1,7 @@
 # Taichi & Agumon
 
 > **Covers:** Taichi & Agumon kit, stats and best use.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
 - **Faction:** Dimensional
 - **Class:** Warrior
@@ -27,17 +27,17 @@ Its three levels are bought with **Tidal Essence**, not earned by ascending, so 
 
 ## Exclusive Equipment
 
-Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate. It is one of **two** Exclusive Equipments on the account; Yamato & Gabumon holds the other at +6. See [../../account/equipment.md](../../account/equipment.md).
+Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate, and levels 11 to 15 need Supreme+, so his ceiling is **+10**. It is one of **two** Exclusive Equipments on the account; Yamato & Gabumon holds the other at +6. See [../../account/equipment.md](../../account/equipment.md).
 
-**He is the strongest hero the account owns, and only just.** Yamato & Gabumon matches his Supreme tier and holds an EX weapon too, at +6 against his +8, so the gap between them is the weapon level alone. Two ascension tiers above every hero outside that pair, plus an EX weapon, is still a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
+**He and Yamato & Gabumon are the two strongest heroes the account owns, and which one leads is open.** Yamato & Gabumon stands one ascension tier higher at Supreme+ and holds Enhance Force; he holds two more weapon levels, +8 against +6. `?` which of those two is worth more. Standing two or three ascension tiers above every hero outside the pair, plus an EX weapon, is still a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
 
 `?` What the weapon's skill does. No source publishes it. Read it off the hero screen in game.
 
-**Enhance Force needs Supreme+, one tier above him.** It strengthens a skill he already has. See [../progression-systems.md](../progression-systems.md).
+**Enhance Force needs Supreme+, one tier above him.** It strengthens a skill he already has, and Yamato & Gabumon already holds it. See [../progression-systems.md](../progression-systems.md) and [yamato-gabumon.md](yamato-gabumon.md).
 
 ## Copies are on a clock
 
-Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. Copies now buy Supreme+ and Enhance Force, so take them before the event closes.
+Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. Copies now buy Supreme+ and Enhance Force, so take them before the event closes. **He is the only one of the pair a copy still helps**, because Yamato & Gabumon is already Supreme+. See [yamato-gabumon.md](yamato-gabumon.md).
 
 The event also carries the redemption code **CourageAndFriendship** for 300 Diamonds and 20,000 Gold, expiring 14 September 2026 at 16:00 UTC.
 

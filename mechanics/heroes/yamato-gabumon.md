@@ -19,7 +19,7 @@ Yamato cheers Gabumon with an ATK boost at battle start and again on every Ultim
 
 ## Exclusive Equipment: Grace Cross Freezer
 
-**Unlocked, at +6.** He is **Supreme**, two tiers past the Mythic+ gate, and this is one of two EX weapons the account owns. See [../../account/equipment.md](../../account/equipment.md).
+**Unlocked, at +6.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of two EX weapons the account owns. Supreme+ opens levels 11 to 15, so his ceiling is **+15** against Taichi & Agumon's +10. See [../../account/equipment.md](../../account/equipment.md).
 
 Grace Cross Freezer is a spread missile barrage. It hits several enemies at once and does less on repeat hits against the same target, so it spreads damage rather than deleting one hero. Its upgrades add an instant freeze plus bonus damage once enough hits land.
 
@@ -31,11 +31,11 @@ Grace Cross Freezer is a spread missile barrage. It hits several enemies at once
 
 **It shortens his own ramp and then keeps paying after it.** Energy is what he needs to reach the digivolve, and the same skill gets stronger the moment he arrives, so the second half lands on a hero who is already casting faster. **Energy is damage** by the reckoning in [../hero-scoring.md](../hero-scoring.md): more Energy means more Ultimates, and Starshard Spell counts ally Ultimates rather than damage.
 
-**Supreme+ is the next gate**, and it unlocks Enhance Force, which strengthens one skill he already holds. He does not have it yet.
+**Enhance Force is live.** Supreme+ is the top ascension tier and he is the first hero on the account to reach it, so one skill he already holds is strengthened. `?` which skill, and by how much. Read it off the hero screen.
 
-## Copies are on a clock
+## Copies buy nothing more
 
-Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. He is Supreme, so copies now buy **Supreme+ and Enhance Force**, the same as for Taichi & Agumon. Take them before the event closes. See [taichi-agumon.md](taichi-agumon.md).
+He sits at the top ascension tier, so further Soul Sigils spent on him change nothing. The only sink above Supreme+ is Paragon, and that stays hidden until **25 heroes** reach Supreme+; he is the first. **Take the hero-locked Temporal Essence from any remaining event chest instead**, because it raises the EX weapon and cannot be bought anywhere. It converts to universal Temporal Essence once the hero is invested in, which he is. Taichi & Agumon still gains from a copy, and the crossover event is the only published source; it ends **14 September 2026**, `unverified` against one source that reads 15 September. See [taichi-agumon.md](taichi-agumon.md), [../progression-systems.md](../progression-systems.md) and [../dream-store.md](../dream-store.md).
 
 ## Best for
 
@@ -43,7 +43,7 @@ Dream Realm and AFK Stages. Backline magic damage and the heaviest freeze on the
 
 ## Notes
 
-More fragile than Agumon, so keep him in the back row. Pairs directly with Taichi & Agumon: at battle start WarGreymon hands every ally behind him +25% of his own ATK for 20s, and Gabumon taking that buff gains 300 Energy, which shortens his own ramp. **Both are now Supreme with an EX weapon**, so the pair is the strongest thing the account can field. Also works with Elijah & Lailah, Rowan and Hugin.
+More fragile than Agumon, so keep him in the back row. Pairs directly with Taichi & Agumon: at battle start WarGreymon hands every ally behind him +25% of his own ATK for 20s, and Gabumon taking that buff gains 300 Energy, which shortens his own ramp. **He is Supreme+ with an EX weapon and Taichi & Agumon is Supreme with one**, so the pair is the strongest thing the account can field. Also works with Elijah & Lailah, Rowan and Hugin.
 
 ## Source
 

@@ -47,7 +47,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **The three Hand slots still below the cap are the account's bottleneck, and all three stand in this comp.** The Resonance Level is the lowest Hand, so it reaches 190 only when Shemira, Elijah & Lailah and Phraesto all get there, and that lifts all 43 heroes and unfreezes Taichi & Agumon and Daimon with them. Every level goes into those three. It is the highest-value spend on the account and it lands on the comp being played. See [progression.md](progression.md).
 
-**Two carries, and the stronger of them is the strongest hero on the account.** Taichi & Agumon is **Supreme with an Exclusive Equipment at +8**, two ascension tiers above every hero owned outside his own pair. Only Yamato & Gabumon matches him, at Supreme with an EX at +6, and that hero is not in this comp. Shemira is the second carry and the comp's original one.
+**Two carries, and the stronger of them is one of the two strongest heroes on the account.** Taichi & Agumon is **Supreme with an Exclusive Equipment at +8**, two ascension tiers above every hero owned outside his own pair. Only Yamato & Gabumon stands with him, at **Supreme+** with an EX at +6, and that hero is not in this comp. Shemira is the second carry and the comp's original one.
 
 **Why this shape:**
 
@@ -146,7 +146,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 180 |
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | 180 |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | 190 |
-| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Supreme, EX +6 | 180 |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Supreme+, EX +6 | 180 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 180 |
 
 **Artifact:** Starshard Spell +8. Its wave is true damage, so it ignores the boss's defence, and at +8 it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -178,7 +178,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 3. **Freeze may not land.** `unverified`. MetalGarurumon's Cocytus Breath freezes an area, and no source says whether Snow Stomper resists hard control. His continuous HP drain and his self-stacking ATK and Haste pay either way.
 4. **Yamato's range is not published**, so he sits in the back row on the advice in his own kit file, which is that he is more fragile than Agumon.
 
-**Hands of Resonance: Taichi & Agumon runs at 190 and Rolan at 180.** The second 190 slot is Daimon's and he is not in this comp, so lend it to Yamato & Gabumon before the run: he is now **Supreme with an EX weapon at +6**, level with Taichi & Agumon and the joint-highest tier on the account. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. See [progression.md](progression.md).
+**Hands of Resonance: Taichi & Agumon runs at 190 and Rolan at 180.** The second 190 slot is Daimon's and he is not in this comp, so lend it to Yamato & Gabumon before the run: he is now **Supreme+ with an EX weapon at +6**, the highest ascension tier on the account. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. See [progression.md](progression.md).
 
 **Rolan's Morale opener pays 6% per hero here, not 10%.** The 10% rate needs a Lightbearer or Celestial core, and this is a Dimensional one. Three Dimensional heroes give 18% Morale at battle start. He is in for the Ultimate clone, which on an uninterruptible 7-hit Ultimate is the largest single damage add available to this account.
 
@@ -239,18 +239,18 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Front | Phraesto | Hypogean | Tank | Magic | 1 | Epic | 180 |
 | Middle | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | 180 |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | 190 |
-| Back | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme, EX +6 | 190 |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 | 190 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 180 |
 
 **Artifact:** Starshard Spell +8. Its wave is true damage, and at +8 it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Faction bonus: +22%**, plus **+3%** for three wildcards. Two Dimensional, with Phraesto, Rolan and Elijah & Lailah counting as any faction, which makes 5. **A 2-core plus wildcards does stack**, confirmed from the account: the AFK Stages push comp above pays +18% off two Graveborn plus Phraesto and Elijah & Lailah wildcarding in. This is the **cap**, and it is the only comp in this file that reaches the cap while also fielding both Supreme heroes. See [../mechanics/factions.md](../mechanics/factions.md).
+**Faction bonus: +22%**, plus **+3%** for three wildcards. Two Dimensional, with Phraesto, Rolan and Elijah & Lailah counting as any faction, which makes 5. **A 2-core plus wildcards does stack**, confirmed from the account: the AFK Stages push comp above pays +18% off two Graveborn plus Phraesto and Elijah & Lailah wildcarding in. This is the **cap**, and it is the only comp in this file that reaches the cap while also fielding both top-tier heroes. See [../mechanics/factions.md](../mechanics/factions.md).
 
 **Archetype: ramp carry, doubled.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Five reasons, read off the kits.
 
 **1. Phraesto is this account's Thoran.** Every guide names Thoran because his revive lets him eat the bubble twice, and **the account does not own him**. Phraesto is the nearest answer owned: he deploys as **two bodies**, the Illusion inherits **100% of his stats**, and **Foggy Whisper resummons the Illusion if it falls**. So the bubble deletes a body that comes back, rather than a hero that does not. Standing both bodies in the same row also gives each **30% damage reduction** until one dies, and allies behind the Illusion take less damage while allies behind the true body gain Energy Recovery Speed.
 
-**2. Both Supreme heroes field together, and only here.** Taichi & Agumon at **Supreme with EX +8** and Yamato & Gabumon at **Supreme with EX +6** are two ascension tiers above every other hero owned. The guides all say no single carry scores enough on this boss, so the fight wants exactly the pair this account has. They also feed each other: WarGreymon gives every ally behind him **+25% of his own ATK for 20s**, and Gabumon taking that buff gains **300 Energy**, which shortens his own ramp.
+**2. Both top-tier heroes field together, and only here.** Taichi & Agumon at **Supreme with EX +8** and Yamato & Gabumon at **Supreme+ with EX +6** stand two and three ascension tiers above every other hero owned. The guides all say no single carry scores enough on this boss, so the fight wants exactly the pair this account has. They also feed each other: WarGreymon gives every ally behind him **+25% of his own ATK for 20s**, and Gabumon taking that buff gains **300 Energy**, which shortens his own ramp.
 
 **3. Gaia Force ignores the boss's whole disable kit.** Tail Smash knocks a hero back a tile and stuns it. WarGreymon's Ultimate hits 7 times within 3 tiles and **cannot be interrupted mid-cast**, so the stun cannot cancel it. Rolan then clones it at 80% of the caster's base stats, which copies the Supreme tier and the EX weapon with it. That is the largest single damage add the account owns.
 
@@ -258,11 +258,11 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **5. Energy is damage when the score is damage dealt.** Taichi pushes **150 Energy into Agumon every 3s** plus 250 more until the digivolve lands, Gabumon's Hero Focus raises the Energy he recovers from attacking and raises it again after digivolving, Rolan clones every Ultimate and Elijah & Lailah speed all five heroes at once. Casts per minute is the score, and Starshard counts casts rather than damage.
 
-**Galahad is cut on the tier gate, and she is the one guide pick dropped.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon, and the account owns all five, which no other Dream Realm guide lineup manages. **Time Recast, the skill that whole role rests on, unlocks at Mythic+ and she is Legendary**, three tiers short. Yamato & Gabumon takes the slot instead: Supreme, with an EX weapon, and magic damage from the back row either way. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
+**Galahad is cut on the tier gate, and she is the one guide pick dropped.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon, and the account owns all five, which no other Dream Realm guide lineup manages. **Time Recast, the skill that whole role rests on, unlocks at Mythic+ and she is Legendary**, three tiers short. Yamato & Gabumon takes the slot instead: Supreme+, with an EX weapon, and magic damage from the back row either way. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
 
 **Grid note: only Phraesto stands forward, and that is the point.** The bubble picks by distance, so the front tile is a slot this comp fills on purpose with the one hero that regrows a body. **Taichi & Agumon starts in the back row**, confirmed from the account: fielded in the front row he dies before the digivolve. Elijah & Lailah sit in the middle rather than the back to split the cluster, because Water Bomb aims at the area holding the most heroes. See [../mechanics/formation.md](../mechanics/formation.md).
 
-**Hands of Resonance: Taichi & Agumon runs at 190 and the other four at 180.** The second 190 slot is Daimon's and he is not in this comp, so **lend it to Yamato & Gabumon before the run**. He is Supreme with an EX weapon at +6, level with Taichi & Agumon and the joint-highest tier on the account, and Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. The swap is free and the level travels with the slot. See [progression.md](progression.md).
+**Hands of Resonance: Taichi & Agumon runs at 190 and the other four at 180.** The second 190 slot is Daimon's and he is not in this comp, so **lend it to Yamato & Gabumon before the run**. He is Supreme+ with an EX weapon at +6, the highest ascension tier on the account, and Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. The swap is free and the level travels with the slot. See [progression.md](progression.md).
 
 **Four weak points:**
 
@@ -275,7 +275,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 `unverified`: **whether Phraesto's Illusion and Rolan's clone add to the Starshard counter.** The artifact fires every 3 **ally** Ultimates, and both cast as their own units. This comp holds both, so if either counts the wave rate roughly doubles. One battle settles it: field it and watch the wave.
 
-**Swap if the carry dies to a bubble: Yamato & Gabumon out, Cecia in.** She is Graveborn Marksman at range 5, so she stays behind WarGreymon and never contests the front tile, and **Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight**, which fills the missing debuffer role. The cost is heavy: the faction bonus falls from +22% to +14%, and a Supreme hero with an EX weapon leaves for an Epic one. Make the trade only if bubbles are actually killing the carry.
+**Swap if the carry dies to a bubble: Yamato & Gabumon out, Cecia in.** She is Graveborn Marksman at range 5, so she stays behind WarGreymon and never contests the front tile, and **Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight**, which fills the missing debuffer role. The cost is heavy: the faction bonus falls from +22% to +14%, and a Supreme+ hero with an EX weapon leaves for an Epic one. Make the trade only if bubbles are actually killing the carry.
 
 **Swap if the comp wipes before the timer: Rolan out, Hewynn in.** Rain Prayer heals every ally for up to 115% HP per second across 9s and Tranquil adds team-wide damage reduction while it runs. The cost is the Ultimate clone, the comp's largest damage add, and the faction bonus dropping to +18%.
 
@@ -519,7 +519,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **Artifact:** Confining Spell +7, to hold enemies off her at range 4.
 
-**Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Mythic, the joint-highest tier on the account, and range 4 keeps her off the front.
+**Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Mythic, the joint-highest tier on the account outside the Digimon pair, and range 4 keeps her off the front.
 
 **Runner-up: Cecia.** Range 5, and Mr. Carlyle inherits her stats, so a summoner is the one other kit that keeps most of itself alone. He can be resummoned to heal. Her Trial of Thorns steals 1.5% of both enemy DEF stats every second and keeps it, which compounds in a long duel. Her file rates her B for campaign against Shemira's S.
 
@@ -625,7 +625,7 @@ Send it at the mid-boss and the final boss, not at passages.
 
 Eighteen heroes stand outside these five teams, and **Ironwall Spell +4 is the sixth artifact**, so a sixth team can now be fielded. It is still the weakest of the six.
 
-The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko**. Yamato & Gabumon is **Supreme with an EX weapon at +6**, joint-highest on the account, Pandora is Legendary, and Rolan clones whichever Ultimate hits hardest, which here is MetalGarurumon's. Two Dimensional plus Rolan wildcarding is a 3-core, so this pays **+10%** plus +1% for the Celestial, and a Supreme carry with its Ultimate cloned is worth more than any bonus a weaker five could reach.
+The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko**. Yamato & Gabumon is **Supreme+ with an EX weapon at +6**, the highest on the account, Pandora is Legendary, and Rolan clones whichever Ultimate hits hardest, which here is MetalGarurumon's. Two Dimensional plus Rolan wildcarding is a 3-core, so this pays **+10%** plus +1% for the Celestial, and a Supreme+ carry with its Ultimate cloned is worth more than any bonus a weaker five could reach.
 
 **The alternative trades tiers for the bonus.** Gerda, Valen, Mirael, Silven and Fay are four Lightbearers behind a Mauler Tank, which pays **+18%** but tops out at Elite+. Take the first when the fight is short and the second when it is long. Give either **Ironwall Spell +4**: it blesses the frontmost hero with 20% of both defences and a shield every 12s, which is what a weak team's front row needs most. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 

@@ -32,7 +32,7 @@ New stories ship in patches, one or two at a time:
 
 **Temporal Essence cannot be bought.** It is farmed from Dream Realm top 100, any Seasonal Dream Realm rank, Arena rank-ups, the Guild Chest and Legend Trial clears. Every other route is a performance gate. Starry Tales is not, so it is free essence for reading text.
 
-**This account is standing in the exact band that spends it.** Taichi & Agumon is **Supreme** at **EX +8**, and EX levels **6 to 10** are bought with Temporal Essence. See [../account/equipment.md](../account/equipment.md) and [equipment-and-charms.md](equipment-and-charms.md).
+**This account is standing in the exact band that spends it.** Taichi & Agumon is **Supreme** at **EX +8** and Yamato & Gabumon is **Supreme+** at **EX +6**. EX levels **6 to 10** cost 75 Temporal Essence each and **11 to 15** cost 100, so eleven levels across the pair are waiting on essence the account cannot buy. See [../account/equipment.md](../account/equipment.md) and [equipment-and-charms.md](equipment-and-charms.md).
 
 **The diamonds are small but real.** 200 a story against a 17,000 stock is under a day's income, and the spend order in [diamonds.md](diamonds.md) already has a standing 2,400-a-month order on Stellar Crystals. Take them, do not plan around them.
 
