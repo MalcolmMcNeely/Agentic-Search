@@ -11,7 +11,7 @@
 | Dream Realm | AFK Stage 16 | one own team | boss rush, damage race against the server. Four bosses rotate daily, six difficulties each |
 | Arena | AFK Stage 20 | one own team | ranked PvP. Written up in [arena.md](arena.md) |
 | Arcane Labyrinth | AFK Stage 100 | 10-hero bench, 5 fielded | roguelike dungeon. HP and Energy carry between floors. Written up in [arcane-labyrinth.md](arcane-labyrinth.md) |
-| Battle Drills | AFK Stage 121 | guild, several teams | guild map conquest, stronghold buffs |
+| Battle Drills | AFK Stage 121 `unverified`, the wiki says 50 | guild, several teams | guild map conquest, camp and stronghold buffs. In Endless Mode each hero deploys once a day. Written up in [battle-drills.md](battle-drills.md) |
 | Legend Trial | AFK Stage 166 | one own team, faction-locked | the old Factional Tower. Four towers, 90 floors each, on a weekday rotation. Drops Acorns, Essence and artifact ascension mats. Written up in [legend-trial.md](legend-trial.md) |
 | Honor Duel | not recorded | game-provided heroes | fair-play PvP, own roster does not matter. Written up in [honor-duel.md](honor-duel.md) |
 | Supreme Arena | not recorded | several own teams | PvP with seasonal Phantimals, Charms and Artifacts |
@@ -36,7 +36,7 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 - **Dream Realm** is a pure damage race with a fixed boss, so faction counter and single-target burst dominate. Two bosses are written up: [snow-stomper.md](snow-stomper.md) and [skyclops.md](skyclops.md). Its currency buys A-Level hero copies in [dream-store.md](dream-store.md).
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
-- **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team.
+- **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
 - **Darkswarm Invasion** scores on total damage dealt across the week, so a battle that ends in a wipe still pays. Attempts per Hypofiend battle are limited and the enemy faction is unpublished, so build for raw output and wave clear. See [darkswarm-invasion.md](darkswarm-invasion.md).
 - **Solo battles** on the World Map and in the story deploy one hero, so the faction bonus pays nothing and ally-facing skills are wasted. See [solo-battles.md](solo-battles.md).
 

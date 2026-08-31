@@ -51,6 +51,8 @@ Take it in long fights: AFK Stages and campaign. It needs almost no Exclusive Eq
 
 Other owned payloads that grow the same way: **Valen** stacks permanent ATK across casts, **Mirael** stacks rolling burn, **Shadewing** stacks curses and scales with HP the enemy has already lost, and **Seth** stacks Haste and Life Drain while every kill refunds his cooldown and Energy. Seth needs a fight with many killable bodies, so he is a campaign and Labyrinth pick, not a boss pick.
 
+**Viperian grows a different way, and it is the way an uncapped ladder cannot resist.** His Ultimate possesses **every** enemy at once, and each possessed enemy then loses **1% of its HP per second** for as long as he holds them. That is percentage damage, so it ignores enemy defence, and it pays once per enemy on the field. He buys all of it with his own HP, so he wants a healer or mitigation beside him rather than a second damage dealer. He is **Elite**, which locks his Haste passive behind Legendary+ and his AoE nuke behind Mythic+. See [heroes/viperian.md](heroes/viperian.md).
+
 ### Ramp carry
 
 **Engine:** a feeder that exists to push one hero over a threshold fast.
@@ -144,7 +146,7 @@ Take it in Dream Realm and Arena, where one enemy Ultimate is what kills you.
 
 Take it in PvP and against enemy comps that need their own Ultimates.
 
-**Yamato & Gabumon** is the heaviest control on the roster once digivolved: Cocytus Breath freezes an area and drains HP, and Garuru Tomahawk is a splash freeze missile. **Gerda** sleeps a whole area for up to 3s while healing through it. **Pandora** makes every unit flee for 5s and then cuts enemy ATK. **Lenya** removes one enemy from the fight by duelling it.
+**Yamato & Gabumon** is the heaviest control on the roster once digivolved: Cocytus Breath freezes an area and drains HP, and Garuru Tomahawk is a splash freeze missile. **Gerda** sleeps a whole area for up to 3s while healing through it. **Pandora** makes every unit flee for 5s and then cuts enemy ATK. **Lenya** removes one enemy from the fight by duelling it. **Viperian** controls by starving Energy: every possessed enemy drops **20 Energy** each time it is hit, and his active Tearing Bite cuts **60** more from one target. An enemy that never fills its bar never casts its Ultimate, and that is survival by the reckoning in [hero-scoring.md](hero-scoring.md).
 
 ### Placed nowhere
 
@@ -176,7 +178,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is now **Mythic**, the joint-highest tier on the account outside Taichi & Agumon.
 - **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. **Phraesto** is the second body in this slot, literally: he deploys as two, taunts the enemy's biggest hitter off the carry, and buffs damage reduction and Energy on the allies behind each of his bodies. He is **Epic**, so his Hero Focus is three Soul Sigils away. Lucius, Antandra and Pandora fill the same job at smaller scale.
-- **Control.** Bonnie is Mythic, Cyran is Epic. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
+- **Control.** Bonnie is Mythic, Cyran is Epic. **Viperian** adds Energy denial across the whole enemy line, at Elite. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 - **Buff converter.** **Lily May** at Epic and **Silven** at Elite+. The engine half is already on the roster many times over, so this pattern is waiting on their tiers, not on a missing hero.
 
 **Four of five owned for the scaling carry.** Eironn, Bonnie, Daimon and Shemira are in hand. Only **Ulmus** is missing, and he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. See [recruitment.md](recruitment.md).

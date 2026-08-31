@@ -8,7 +8,7 @@
 - **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
 - **Level** is not stored per hero. Every hero sits at the Resonance Level in [progression.md](progression.md), except the Hands of Resonance, listed there with their own levels.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 42: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 43: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
@@ -17,7 +17,7 @@
 | Lightbearer | 12 |
 | Mauler | 8 |
 | Wilder | 9 |
-| Graveborn | 6 |
+| Graveborn | 7 |
 | Dimensional | 3 |
 | Celestial | 3 |
 | Hypogean | 1 |
@@ -76,6 +76,7 @@
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
 | Valka | Warrior | Physical | Legendary | - | [valka](../mechanics/heroes/valka.md) |
 | Shadewing | Rogue | Magic | Elite | - | [shadewing](../mechanics/heroes/shadewing.md) |
+| Viperian | Mage | Magic | Elite | - | [viperian](../mechanics/heroes/viperian.md) |
 
 ## Dimensional
 

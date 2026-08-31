@@ -1,9 +1,9 @@
 # Hero files
 
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-08-31
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 42 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 43 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, so grep works across the folder:
 
@@ -21,6 +21,7 @@ grep -l "Class:\*\* Tank" mechanics/heroes/*.md
 | Pandora | Dimensional | Support | Magic | 5 | S | [pandora.md](pandora.md) |
 | Taichi & Agumon | Dimensional | Warrior | Physical | 7 before digivolve, 1 after | S | [taichi-agumon.md](taichi-agumon.md) |
 | Shemira | Graveborn | Mage | Magic | 4 | S | [shemira.md](shemira.md) |
+| Viperian | Graveborn | Mage | Magic | 5 | A | [viperian.md](viperian.md) |
 | Bonnie | Graveborn | Marksman | Magic | 7 | A | [bonnie.md](bonnie.md) |
 | Cecia | Graveborn | Marksman | Physical | 5 | S | [cecia.md](cecia.md) |
 | Shadewing | Graveborn | Rogue | Magic | 1 | A | [shadewing.md](shadewing.md) |
