@@ -63,8 +63,9 @@ Two Hands sit at 190 and three at 180, so the **Resonance Level is 180** and eve
 | Enlightening Spell | +10 | A | fully upgraded and still not the pick |
 | Blazing Spell | +10 | B | **fully upgraded**, and the only artifact owned that grants DEF Penetration |
 | Awakening Spell | +7 | B | healer teams and hyper-carry, one level short of its +8 step |
+| Ironwall Spell | +4 | `unverified` C or B | the frontline artifact, and the sixth that lets Battle Drills field a sixth team |
 
-Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**All six permanent artifacts are now owned.** See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 **Artifact upgrades land at +4, +8 and +10 only.** Every level in between buys nothing, so a level is worth checking against those three numbers before it is spent.
 
@@ -79,6 +80,10 @@ Ironwall Spell is not owned. See [../mechanics/artifacts.md](../mechanics/artifa
 **Penetration is the same argument as true damage, applied to the rest of the comp.** Starshard's wave already ignores defence, but it is one wave every 3 Ultimates and everything else the comp does still pays full price against an enemy defence that climbs with no cap. Blazing's penetration discounts **every** attack instead. Starshard keeps the pick until a run says otherwise, because its cut of current HP scales with the ladder and a flat penetration figure does not, but this is now a real test rather than a foregone one. `unverified`: how much Penetration the +10 step grants. No source states the figure. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 **Awakening at +7 buys nothing over +6.** Only the +4 step is live and the next real gain is one level away at +8.
+
+**Ironwall at +4 has its first step live, and it changes what Battle Drills can field rather than what any comp does.** The blessing on the frontmost ally is worth **20% Phys DEF and Magic DEF** at +4 instead of 15%, plus **+20 Energy on Hit** and a shield of 20% max HP every 12s. It is the lowest-ranked artifact owned and it displaces nothing: every comp in [teams.md](teams.md) already holds something better. What it does buy is a **sixth artifact**, and Battle Drills fields several teams at once, so a sixth team is now possible. See [../mechanics/battle-drills.md](../mechanics/battle-drills.md).
+
+**Its +8 step is the one worth wanting**, because it moves the whole blessing to the next frontline hero when the blessed one dies. That is four levels away and behind Confining's +8, which is one level away on an S-tier artifact.
 
 **Confining at +7 buys nothing over +6 either, and it is the better of the two to push.** Only its +4 step is live and the next real gain is one level away at +8. It is the **S-tier** artifact against Awakening's B, and it is the pick on **five** comps in [teams.md](teams.md): Arena, Tower of Eternity, Tower of Light, solo battles and Battle Drills Team 3. That is more comps than any other artifact owned holds.
 

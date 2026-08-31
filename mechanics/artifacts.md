@@ -98,6 +98,8 @@ Blesses the **frontmost allied hero** at battle start: **+15% Phys DEF and Magic
 
 Best in early and mid game. Other artifacts overtake it later.
 
+**On this account:** Ironwall sits at **+4**, so the defence bonus is 20% rather than 15% and the rest of the base kit is live. It is the **lowest-ranked of the six artifacts owned** and it takes no comp off another artifact. Its value here is arithmetic rather than power: [../account/teams.md](../account/teams.md) fields five Battle Drills teams at once and the account held exactly five artifacts, so this is the sixth. See [battle-drills.md](battle-drills.md) and [../account/progression.md](../account/progression.md).
+
 ## Season 7 artifacts
 
 12 Legendary artifacts exclusive to Crown of Ashes, enhanceable to +30. They reset at season end. See [seasons.md](seasons.md).

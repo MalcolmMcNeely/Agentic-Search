@@ -154,7 +154,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 180 |
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | 180 |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | 190 |
-| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Legendary | 180 |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Mythic | 180 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 180 |
 
 **Artifact:** Starshard Spell +8. Its wave is true damage, so it ignores the boss's defence, and at +8 it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -186,7 +186,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 3. **Freeze may not land.** `unverified`. MetalGarurumon's Cocytus Breath freezes an area, and no source says whether Snow Stomper resists hard control. His continuous HP drain and his self-stacking ATK and Haste pay either way.
 4. **Yamato's range is not published**, so he sits in the back row on the advice in his own kit file, which is that he is more fragile than Agumon.
 
-**Hands of Resonance: Taichi & Agumon runs at 190 and Rolan at 180.** The second 190 slot is Daimon's and he is not in this comp, so lend it to Yamato & Gabumon before the run. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. See [progression.md](progression.md).
+**Hands of Resonance: Taichi & Agumon runs at 190 and Rolan at 180.** The second 190 slot is Daimon's and he is not in this comp, so lend it to Yamato & Gabumon before the run: he is now **Mythic**, the second-highest tier here. The carry gains twice over, because Rolan's clone inherits 80% of the **caster's** base stats, so a higher-levelled caster makes a stronger clone. See [progression.md](progression.md).
 
 **Rolan's Morale opener pays 6% per hero here, not 10%.** The 10% rate needs a Lightbearer or Celestial core, and this is a Dimensional one. Three Dimensional heroes give 18% Morale at battle start. He is in for the Ultimate clone, which on an uninterruptible 7-hit Ultimate is the largest single damage add available to this account.
 
@@ -220,7 +220,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 
 **AoE clears the Wings.** Skyclops is resisted or outright immune while a Wing lives, so wave clear is a requirement, not a bonus. Shemira's ten ghosts, Cecia's arc and Aurora's bunnies cover it.
 
-**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are Legendary+ and Elite+ where this one fields three Mythics, one of them on a 190 Hand slot, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
+**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are one Mythic and one Legendary+ where this one fields three Mythics, one of them on a 190 Hand slot, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
 
 **Three weak points:**
 
@@ -257,7 +257,7 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Hero | Faction | Class | Tier | Why |
 | --- | --- | --- | --- | --- |
 | Hewynn | Wilder | Support | Epic | the bigger burst heal, and the only debuff strip owned |
-| Smokey & Meerky | Mauler | Support | Legendary | sustained healing plus an ally ATK buff |
+| Smokey & Meerky | Mauler | Support | Mythic | sustained healing plus an ally ATK buff, and Hero Focus is live |
 | Antandra | Mauler | Tank | Epic | replacement frontline: taunt, 60% damage cut, self-heal |
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
 | Hugin | Lightbearer | Support | Mythic | cogshields and an ATK buff |
@@ -394,20 +394,20 @@ On top of the levels it fields **control plus a carry**, the two patterns [../me
 | Middle | Kordan | Warrior | 1 | Legendary |
 | Middle | Kruger | Warrior | 1 | Legendary+ |
 | Back | Galahad | Mage | 10 | Legendary |
-| Back | Smokey & Meerky | Support | 8 | Legendary |
+| Back | Smokey & Meerky | Support | 8 | Mythic |
 
 **Artifact:** Awakening Spell +7. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
 
 **Faction bonus: +22%.** Five Mauler is forced by the lock.
 
-**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. Smokey & Meerky is the healer and also raises ally ATK, so the heal slot still adds damage. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
+**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Mythic and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
 
 **Borrow the Hands of Resonance before you run this.** No hero in this comp holds a Hand, so all five run at **180** by default. **Two Hand slots sit at 190**, and the swap is **free, unlimited, and the level travels with the slot**, so put two of these five into them before the tower opens. Take both from Taichi & Agumon and Daimon, who are barred from every tower anyway, and swap back afterwards. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
 **Three weak points:**
 
 1. **Kruger is in for his tier, not his fit.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He holds the slot because he is Legendary+ and the alternative is four tiers down.
-2. **Three heroes stand at range 1.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. Watch the back row.
+2. **Three heroes stand at range 1, and that now costs the aroma.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. The aroma is only **2 tiles wide**, so a front that walks out of it drops the 16% ATK buff, the healing and the 3-ally clause on Hero Focus at once. Keep Galahad inside it and accept that the melee three leave. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
 3. **The bench is thin.** Only 8 Maulers are owned and the three cut are Koko at Epic, Gerda at Elite and Seth at Elite. A wall on this tower is answered by ascending, not by swapping.
 
 **First swap to try if floors are lost to damage taken:** Kruger out, **Koko** in. Her Ultimate gives the team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, which is both halves of this comp's problem at once. She is Epic against Kruger's Legendary+, three ascension steps down, so it is still a real stat loss. **The Dream Store stocks her, and those three steps cost 17 Soul Sigils.** Raise her the rest of the way, then test it. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
@@ -542,13 +542,13 @@ Send it at the mid-boss and the final boss, not at passages.
 | Middle | Kordan | Mauler | Warrior | Physical | 1 | Legendary | 180 |
 | Middle | Kruger | Mauler | Warrior | Physical | 1 | Legendary+ | 180 |
 | Back | Galahad | Mauler | Mage | Magic | 10 | Legendary | 180 |
-| Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Legendary | 180 |
+| Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Mythic | 180 |
 
 **Artifact:** Blazing Spell +10. It is fully upgraded and the only artifact owned that grants DEF Penetration, and three of these five are physical melee paying full price against enemy defence.
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s, Antandra taunts and cuts her own damage taken by 60%, Smokey & Meerky heal from range 8 and feed the pair Energy back, and Galahad is the best magic damage on the roster at range 10. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Legendary. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
+**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Mythic and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Legendary. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
 
 **This is the Tower of Will comp, unchanged**, and it is `running` in that tower.
 
@@ -578,7 +578,11 @@ Send it at the mid-boss and the final boss, not at passages.
 
 ### What is left over
 
-Eighteen heroes stand outside these five teams, so a sixth deploy is possible but weak. The strongest bench left is **Yamato & Gabumon, Pandora, Koko, Hewynn and Lily May**, and it has no faction core at all: two Dimensional, which do not wildcard, plus one Mauler, one Wilder and one Wilder. That is +0% from factions. Build a sixth team only when the guild map actually needs a sixth fight.
+Eighteen heroes stand outside these five teams, and **Ironwall Spell +4 is the sixth artifact**, so a sixth team can now be fielded. It is still the weakest of the six.
+
+The strongest bench left is **Yamato & Gabumon, Pandora, Koko, Hewynn and Lily May**. Yamato & Gabumon is **Mythic** and Pandora is Legendary, so the tiers are real, but the five hold no faction core at all: two Dimensional, which do not wildcard, plus one Mauler and two Wilder. That is **+0%** from factions.
+
+**The alternative trades tiers for the bonus.** Gerda, Valen, Mirael, Silven and Fay are four Lightbearers behind a Mauler Tank, which pays **+18%** but tops out at Elite+. Take the first when the fight is short and the second when it is long. Give either **Ironwall Spell +4**: it blesses the frontmost hero with 20% of both defences and a shield every 12s, which is what a weak team's front row needs most. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 ---
 ## Purposes with no comp yet

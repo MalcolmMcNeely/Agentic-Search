@@ -48,7 +48,7 @@
 | Kruger | Warrior | Physical | Legendary+ | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Epic | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
-| Smokey & Meerky | Support | Magic | Legendary | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
+| Smokey & Meerky | Support | Magic | Mythic | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
 | Gerda | Tank | Physical | Elite | - | [gerda](../mechanics/heroes/gerda.md) |
 | Seth | Rogue | Physical | Elite | - | [seth](../mechanics/heroes/seth.md) |
 
@@ -83,7 +83,7 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Taichi & Agumon | Warrior | Physical | Supreme | +8 | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
-| Yamato & Gabumon | Mage | Magic | Legendary | - | [yamato-gabumon](../mechanics/heroes/yamato-gabumon.md) |
+| Yamato & Gabumon | Mage | Magic | Mythic | - | [yamato-gabumon](../mechanics/heroes/yamato-gabumon.md) |
 | Pandora | Support | Magic | Legendary | - | [pandora](../mechanics/heroes/pandora.md) |
 
 ## Celestial

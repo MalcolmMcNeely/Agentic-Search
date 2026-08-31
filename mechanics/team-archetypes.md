@@ -96,7 +96,7 @@ Take it when the carry's Ultimate is the whole point, and when the fight lasts l
 
 **Phraesto** feeds Energy Recovery Speed to every ally standing behind his true body, and from Legendary+ his Hero Focus generates Energy every time either of his two bodies is hit, so a tank being attacked becomes an Energy source. He is placed under **Mitigation** below, because that is his first job. See [heroes/phraesto.md](heroes/phraesto.md).
 
-**Smokey & Meerky** feeds the pair Energy back off its own healing Ultimate, from range 8. **Pandora** feeds a single ally: Boxed Blessing seals that ally invincible for 4s, then releases them with bonus Energy and ATK, which is protection and Energy in one skill. **Taichi** is the most extreme feeder on the roster, but he only ever feeds Agumon, so he belongs to the ramp carry above.
+**Smokey & Meerky** feeds the pair **5 Energy a second for every ally inside the aroma**, from range 8, and at **Mythic** their Hero Focus is live and adds up to 15% of their own ATK when 3 allies stand in it. Every heal and buff they cast is a multiple of that ATK, so the aroma pays itself back. The catch is a formation one: the aroma is 2 tiles wide. See [heroes/smokey-meerky.md](heroes/smokey-meerky.md). **Pandora** feeds a single ally: Boxed Blessing seals that ally invincible for 4s, then releases them with bonus Energy and ATK, which is protection and Energy in one skill. **Taichi** is the most extreme feeder on the roster, but he only ever feeds Agumon, so he belongs to the ramp carry above.
 
 ### Buff converter
 
@@ -124,7 +124,7 @@ Aurora is rated A+ alone and much better than that on a team built for her. **He
 
 Take it when the fight is survivable but slow, and a pure healer would waste a slot. Not for burst races.
 
-**Hewynn is the account's strongest healer** and takes this slot ahead of the two above when the team is simply dying. Rain Prayer heals every ally for up to 115% HP per second across 9s, Revitalize strips debuffs, and Tranquil adds team-wide damage reduction while the Ultimate runs, so she pays into both sums at once. **Fay** and **Smokey & Meerky** heal and buff ATK together. **Hammie** does the same job at Rare, and she cannot ascend, so she falls off and is a filler pick only.
+**Hewynn is the account's strongest healer** and takes this slot ahead of the two above when the team is simply dying. Rain Prayer heals every ally for up to 115% HP per second across 9s, Revitalize strips debuffs, and Tranquil adds team-wide damage reduction while the Ultimate runs, so she pays into both sums at once. **Fay** and **Smokey & Meerky** heal and buff ATK together, and Smokey & Meerky are **Mythic**, the joint-highest tier on the account outside Taichi & Agumon. **Hammie** does the same job at Rare, and she cannot ascend, so she falls off and is a filler pick only.
 
 ### Mitigation
 
@@ -173,7 +173,7 @@ Read with [../account/roster.md](../account/roster.md).
 
 - **Ultimate engine.** **Rolan** clones an ally Ultimate outright and opens with a Morale spike. On a Lightbearer core that spike doubles to 10% per hero. This is the strongest engine on the account.
 - **Nuke.** Eironn pulls, **Arden** detonates. Both Wilder, both owned.
-- **Ramp carry.** All three Dimensional heroes are owned. **Taichi & Agumon is Supreme with an EX weapon at +8**, which makes him the strongest hero on the roster by two ascension tiers, and the other two are Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md) and [../account/equipment.md](../account/equipment.md).
+- **Ramp carry.** All three Dimensional heroes are owned. **Taichi & Agumon is Supreme with an EX weapon at +8**, which makes him the strongest hero on the roster by two ascension tiers. **Yamato & Gabumon is now Mythic** and Pandora is Legendary. **Taichi & Agumon** and **Yamato & Gabumon** ramp each other, and **Pandora** protects whichever one is under fire. Three Dimensional pays +10%, and Aurora and Rolan wildcard on top for the full **+22%**. See [factions.md](factions.md) and [../account/equipment.md](../account/equipment.md).
 - **Summon stack.** Aurora is Mythic, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is now **Mythic**, the joint-highest tier on the account outside Taichi & Agumon.
