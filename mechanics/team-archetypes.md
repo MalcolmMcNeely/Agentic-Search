@@ -72,6 +72,8 @@ Different from the scaling carry, which grows smoothly from the first second. A 
 
 So the two ramp each other. Taichi feeds Agumon, Agumon digivolves early, WarGreymon then feeds Gabumon, and Gabumon digivolves early too.
 
+**Both Hero Focus passives are live, and each one extends its own hero's ramp past the digivolve.** Agumon's raises his ATK and raises it again after he assists or defeats a **non-summoned** enemy, so he keeps growing wherever there are bodies to kill and stalls against a lone boss. Gabumon's raises the Energy he recovers from attacking and raises it again once digivolved, so he reaches the transformation sooner and then casts faster for the rest of the fight. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md) and [heroes/yamato-gabumon.md](heroes/yamato-gabumon.md).
+
 Take it in long fights: Dream Realm, AFK Stages, Arcane Labyrinth, Supreme Arena. Leave it home in a burst race, where the fight ends before either digivolve lands.
 
 ### Boss amplify

@@ -19,7 +19,11 @@ His named skills are Gaia Force, Brave Tornado, Recovery Shield and Dramon Kille
 
 Unlocks at **Legendary+**, which this account holds. See [../progression-systems.md](../progression-systems.md).
 
-`?` What it does. No source publishes the effect for this hero. Read it off the hero screen in game. Its three levels are bought with **Tidal Essence**, not earned by ascending, so the tier alone does not settle which level is held.
+It raises his ATK for the battle, and raises it **again after he assists or defeats a non-summoned enemy**. Confirmed from the account. `?` the figures; the effect is read off the hero screen and the numbers are not recorded.
+
+**So he ramps twice, and the second ramp is fed by bodies.** The digivolve is the first jump and it is permanent. The kill clause is the second, and it only pays where there are enemies to kill: campaign, Battle Drills passages, Arcane Labyrinth and Darkswarm. **Summons do not count**, so a boss that spawns adds feeds this nothing, and a single-target boss fight feeds it once at most.
+
+Its three levels are bought with **Tidal Essence**, not earned by ascending, so the tier alone does not settle which level is held.
 
 ## Exclusive Equipment
 

@@ -25,9 +25,15 @@ Grace Cross Freezer is a spread missile barrage. It hits several enemies at once
 
 ## Tier gates
 
-**Hero Focus is live**, past the Legendary+ gate. `unverified`: what it does. No source publishes the effect, and it is not guessed here. See [../hero-scoring.md](../hero-scoring.md).
+**Hero Focus is live**, past the Legendary+ gate. It raises the **Energy he recovers from attacking**, and raises it **again once he has digivolved**. Confirmed from the account. `?` the figures; the effect is read off the hero screen and the numbers are not recorded.
+
+**It shortens his own ramp and then keeps paying after it.** Energy is what he needs to reach the digivolve, and the same skill gets stronger the moment he arrives, so the second half lands on a hero who is already casting faster. **Energy is damage** by the reckoning in [../hero-scoring.md](../hero-scoring.md): more Energy means more Ultimates, and Starshard Spell counts ally Ultimates rather than damage.
 
 **Supreme+ is the next gate**, and it unlocks Enhance Force, which strengthens one skill he already holds. He does not have it yet.
+
+## Copies are on a clock
+
+Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. He is Supreme, so copies now buy **Supreme+ and Enhance Force**, the same as for Taichi & Agumon. Take them before the event closes. See [taichi-agumon.md](taichi-agumon.md).
 
 ## Best for
 
