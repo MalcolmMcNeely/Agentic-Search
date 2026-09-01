@@ -1,9 +1,9 @@
 # Hero files
 
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 43 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 44 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, in the same order, so grep works across the folder: **Faction, Class, Damage, Range, Rarity.**
 
@@ -52,6 +52,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Lucius | Lightbearer | Warrior | Physical | 1 | A | [lucius.md](lucius.md) |
 | Valen | Lightbearer | Warrior | Physical | 1 | A | [valen.md](valen.md) |
 | Galahad | Mauler | Mage | Magic | 10 | S | [galahad.md](galahad.md) |
+| Odie | Mauler | Marksman | Magic | 5, and 7 from level 91 | A | [odie.md](odie.md) |
 | Seth | Mauler | Rogue | Physical | 1 | A | [seth.md](seth.md) |
 | Koko | Mauler | Support | Physical | 4 | A | [koko.md](koko.md) |
 | Smokey & Meerky | Mauler | Support | Magic | 8 | S | [smokey-meerky.md](smokey-meerky.md) |

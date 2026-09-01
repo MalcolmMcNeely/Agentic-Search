@@ -1,7 +1,7 @@
 # Arena
 
-> **Covers:** the Arena rank ladder, the daily attempt limits, where the mode sits in the game, and what all that asks of a comp.
-> **Updated:** 2026-08-30
+> **Covers:** the Arena rank ladder, the maps and who chooses them, the daily attempt limits, where the mode sits in the game, and what all that asks of a comp.
+> **Updated:** 2026-09-01
 
 Ranked PvP against other players' defence teams. Unlocks at **AFK Stage 20**. See [game-modes.md](game-modes.md).
 
@@ -31,6 +31,16 @@ The point bands come from lootbar only. The tier names and their order are confi
 
 Rewards are worked out from the tier held at **00:00 UTC every Monday**, and a one-off reward lands the first time a new tier is reached. Daily Arena coins buy hero shards in the Arena Store.
 
+## The maps
+
+**Arena is the one mode where a player picks the battlefield.** You save a Defence Team on one map, and that saved map is the map every attacker fights you on. Attacking, you get no such choice: **the map is whichever one your opponent saved**, so it was picked to suit their formation and not yours.
+
+**Different maps carry different walls and tiles.** What the walls do is in [formation.md](formation.md), and the short version is the part that decides fights: a **low wall blocks every hero from walking through it but lets ranged units shoot over it**. So the same five heroes are a different team on two different maps, and a melee carry is the hero a bad map punishes first.
+
+`unverified`: **five maps exist, and more unlock as the Arena tier climbs.** Arena I is the default. The claim comes from [talkandroid, 2024-03-20](https://www.talkandroid.com/83866-arena-guide-afk-journey-afk2/), which the dating key in [tier-list-sources.md](tier-list-sources.md) reads as 2024 content because its newest hero is Reinier. [gamerant, 2024-04-09](https://gamerant.com/afk-journey-arena-pvp-guide-battle-teams-rewards/) independently confirms only the weaker parts: that a player chooses one of several maps to defend on, that some maps carry barriers, and that one saved formation both attacks and defends. **Nothing inside the 12-month window covers Arena maps at all.** The account holds **3**, which fits the unlock-by-tier claim at Adept 3 without proving it. See [../account/progression.md](../account/progression.md).
+
+**The practical rule needs none of that settled.** Read the enemy's map before locking your formation, and place for the walls on it rather than for the rows in the abstract.
+
 ## Attempts a day
 
 **5 free challenge tickets a day, and up to 5 more for diamonds, so 10 attacks a day at most.** Prices climb with each ticket bought, and no source names the figures. See [diamonds.md](diamonds.md), which rates buying them worthwhile **only when a rank-up is within reach**.
@@ -39,7 +49,7 @@ Rewards are worked out from the tier held at **00:00 UTC every Monday**, and a o
 
 Arena fights are short compared with a Legend Trial floor or an AFK Stage, so the matchup table in [team-archetypes.md](team-archetypes.md) points at **nuke and control**, not a scaling carry. Two things pull the other way on this account:
 
-- **Levels beat patterns here.** The Hands of Resonance run ten levels above every other hero, so the comp that fields the most Hands starts ahead. See [progression-systems.md](progression-systems.md).
+- **Levels beat patterns here, and the levels travel.** Only two Hand of Resonance slots run above the Resonance Level, and a slot is lent to any hero for free. So every Arena comp starts with two heroes ten levels up, and the choice is which two, not which comp. Give them to the carry and to the hero that has to survive. See [progression-systems.md](progression-systems.md).
 - **You are fighting a defence team, not a boss.** Faction counter still pays its +15%, so the enemy faction is worth reading before each challenge. See [factions.md](factions.md).
 
 ## Sources
@@ -48,3 +58,6 @@ Arena fights are short compared with a Legend Trial floor or an AFK Stage, so th
 - https://www.lootbar.com/blog/en/afk-journey-arena-of-heroes-a-guide-to-climb-the-ranks-quickly.html (tier names, point bands, Champion bracket, 5 free plus 5 bought tickets)
 - https://www.bluestacks.com/blog/game-guides/afk-2-journey/afkj-game-modes-guide-en.html (unlocks at AFK Stage 20)
 - https://afk-journey.fandom.com/wiki/Arena (Arena sits inside the Everlight; 402 on fetch, read through a search summary)
+- https://www.talkandroid.com/83866-arena-guide-afk-journey-afk2/ (five Arena Maps, more unlocked by Arena tier, unique wall and tile placements per map, the attacker fights on the defender's saved map. **2024 content**: its newest hero is Reinier, so every claim taken from it is `unverified`) [2024-03-20]
+- https://gamerant.com/afk-journey-arena-pvp-guide-battle-teams-rewards/ (a player chooses one of several maps to defend on, some maps carry barriers, one saved formation both attacks and defends. Also 2024) [2024-04-09]
+- https://www.pocketgamer.com/afk-journey/combat-guide/ (the high-wall and low-wall rule, carried in [formation.md](formation.md) where it is used)

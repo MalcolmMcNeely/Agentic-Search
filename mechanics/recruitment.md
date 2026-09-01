@@ -1,7 +1,7 @@
 # Recruitment
 
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
@@ -106,9 +106,9 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 | Slot | Hero | Faction | Class | Why |
 | --- | --- | --- | --- | --- |
 | 1 | **Thoran** | Graveborn | Tank | the account's largest hole. Tower of Eternity is faction-locked and fields **no Tank**, which its own entry in [../account/teams.md](../account/teams.md) calls the comp's ceiling. He resurrects once per battle, marks the highest-HP enemy for +13% damage taken, and eats 50% of the damage aimed at the ally behind him. He is in no shop, so the wishlist is the only route |
-| 2 | **Shemira** | Graveborn | Mage | the scaling carry in the Tower of Eternity, Arena and Darkswarm comps. **She no longer holds a Hand of Resonance and no longer stands in the push comp**, both of which went to the Digimon pair. She is still **Mythic**, one tier under Mythic+, so the next ascension unlocks her Exclusive Equipment and a new skill, and copies are the shortest route to a **third** EX weapon after the Digimon pair |
-| 3 | **Eironn** | Wilder | Rogue | owning him once is not the same as having him work. He is **Mythic**, and his battle-start pull needs **Mythic+**, one tier up. That unlocks the whole PvP nuke comp, currently `blocked`. Copies are the unlock |
-| 4 | **Smokey & Meerky** | Mauler | Support | **Mythic**, one tier under Mythic+, so the next ascension unlocks Withering Potion, which widens the aroma and drains enemies for up to 12% of max HP a second. That turns the account's S-Level healer into a damage source, and it is the shortest route to a third EX weapon |
+| 2 | **Shemira** | Graveborn | Mage | the scaling carry in the Tower of Eternity, Arena and Darkswarm comps. **She no longer holds a Hand of Resonance and no longer stands in the push comp**, both of which went to the Digimon pair. She is still **Mythic**, one tier under Mythic+, so the next ascension unlocks her Exclusive Equipment and a new skill, and copies are the shortest route to a **fourth** EX weapon after the Digimon pair and Eironn |
+| 3 | **Eironn** | Wilder | Rogue | **Supreme with the weapon at +5**, so the battle-start pull is live and the PvP nuke comp is no longer blocked on him. Copies now buy two things instead: the weapon to **+10**, which doubles the immobilise from 3s to 6s, and **Supreme+**, which turns on Enhance Force. He is the account's third EX weapon and the only one outside the Digimon pair |
+| 4 | **Smokey & Meerky** | Mauler | Support | **Mythic**, one tier under Mythic+, so the next ascension unlocks Withering Potion, which widens the aroma and drains enemies for up to 12% of max HP a second. That turns the account's S-Level healer into a damage source, and it is a short route to a fourth EX weapon |
 | 5 | **Shakir** | Mauler | Rogue | a hero the account does not own. Lupine Aura cuts 20% damage taken and adds 10 Haste for nearby allies, which pays in every mode. Mauler is 8 deep and its Tower of Will comp is `running`, so he slots straight into a team already being played |
 
 **Slot 5 runner-up: Cecia.** Owned, Graveborn, and in the Tower of Eternity comp. She stays off until her rarity is settled, because an A-Level in a slot spends the 30-pull guarantee.
@@ -117,7 +117,7 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 
 The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. The Dream Store does not stock him. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
 
-The rate-up pair, **Cyran and Thador, are both already owned and both already fielded**, so this banner buys copies rather than a hero. allclash [2026-08-26, investment not stated per hero, and the list rates with Mythic+ and EX weapon priority in view] rates Cyran **A+ PvE, C Dream Realm, S+ PvP**, and Thador **A PvE, B Dream Realm, B+ PvP**. Cyran's top letter is the PvP one and he already holds the back row of the Tower of Light and Battle Drills comps at Epic; Thador tanks three comps at Legendary+. Neither ascension unlocks a comp the way Eironn's Mythic+ does, so the Epic wishlist above outranks this banner. See [../account/teams.md](../account/teams.md).
+The rate-up pair, **Cyran and Thador, are both already owned and both already fielded**, so this banner buys copies rather than a hero. allclash [2026-08-26, investment not stated per hero, and the list rates with Mythic+ and EX weapon priority in view] rates Cyran **A+ PvE, C Dream Realm, S+ PvP**, and Thador **A PvE, B Dream Realm, B+ PvP**. Cyran's top letter is the PvP one and he already holds the back row of the Tower of Light and Battle Drills comps at Epic; Thador tanks three comps at Legendary+. Neither ascension unlocks a comp, and the wishlist slots above each do, so the Epic wishlist outranks this banner. See [../account/teams.md](../account/teams.md).
 
 ## Sources
 

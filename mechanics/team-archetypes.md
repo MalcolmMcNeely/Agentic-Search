@@ -1,7 +1,7 @@
 # Team archetypes
 
 > **Covers:** the comp patterns a team can be built on, the engine that drives each one, when to pick it, and which owned heroes fill it.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 A tier list ranks a hero alone. A hero is never alone. This file holds the second half: what each hero's **job** is, and which fights that job wins.
 
@@ -34,9 +34,11 @@ New heroes are what this turns on. A collab hero or a new banner hero has no gui
 **Engine:** Eironn pulls every enemy within 2 tiles to one point and immobilises them for 3s.
 **Payload:** Arden, who charges his Ultimate fast off Eironn's hit, then drops AoE damage and control on the stack.
 
-Take it when enemies spread out, and in PvP. It is a burst pattern: it wins in the first ten seconds or not at all. Eironn casts at battle start from Mythic+, which is when the pattern really turns on.
+Take it when enemies spread out, and in PvP. It is a burst pattern: it wins in the first ten seconds or not at all. Eironn casts at battle start from Mythic+, and he is **Supreme with the weapon at +5**, so that half of the pattern is live on this account.
 
 **Faramor** is the third body here. His Ultimate circle deals true damage and blocks enemy healing, and its damage rises with HP the enemy has already lost, so it pays most on a stack Eironn has already gathered.
+
+**The payload does not have to be Arden, and on this account it is not.** Arden is the partner the guides name, and he is Elite. What the pull actually hands the team is a stationary pile with **40% less Magic DEF**, so any Magic damage already in the comp cashes it in. The Arena comp fires it into Shemira, Bonnie and Rolan's clone for that reason. See [../account/teams.md](../account/teams.md).
 
 ### Scaling carry
 
@@ -48,6 +50,8 @@ The named build is **Eironn, Ulmus, Bonnie, Daimon, Shemira**. Shemira snowballs
 **This account owns four of the five, and the pattern no longer runs on the ladder.** Ulmus is the one missing. Shemira carries it in the **Tower of Eternity**, **Arena** and **Darkswarm** comps instead, with Daimon holding the front in each. The AFK Stages push comp moved to **ramp carry** once both Digimon pairs reached Supreme and took the Hand slots with them. See [../account/teams.md](../account/teams.md).
 
 Take it in long fights: AFK Stages and campaign. It needs almost no Exclusive Equipment, so it suits a young account.
+
+**Odie is the purest scaling carry on the roster, and the account owns none of what makes him one.** His Dart Poison ticks 30% a second until the target dies, cannot be dispelled, and every normal attack he lands on a poisoned target raises that poison permanently by 25%, up to 20 stacks. That is a payload with no ceiling inside a fight. He is **Elite**, so his ATK SPD Hero Focus is off at Legendary+, his execute is off at Mythic+ and his Enhance Force is off at Supreme+. Elite Odie stacks slowly and cannot finish. See [heroes/odie.md](heroes/odie.md).
 
 Other owned payloads that grow the same way: **Valen** stacks permanent ATK across casts, **Mirael** stacks rolling burn, **Shadewing** stacks curses and scales with HP the enemy has already lost, and **Seth** stacks Haste and Life Drain while every kill refunds his cooldown and Energy. Seth needs a fight with many killable bodies, so he is a campaign and Labyrinth pick, not a boss pick.
 
@@ -181,7 +185,7 @@ Read with [../account/roster.md](../account/roster.md).
 - **Summon stack.** Aurora is Mythic, and nine owned heroes put summons on the field. Rolan stacks on top: two Celestials wildcard into any core at once.
 - **Boss amplify.** **Rolan** is the engine, because his Ultimate clone works at the tier he is at. Galahad's Time Recast is the stronger version of the same job and needs **Mythic+**, which is three ascensions away, so she plays as the payload until then.
 - **Sustain with offence.** **Hewynn** is the account's best dedicated healer. Solise and Hugin add damage alongside the healing, and Hugin is now **Mythic**, the joint-highest tier on the account outside the Digimon pair.
-- **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. **Phraesto** is the second body in this slot, literally: he deploys as two, taunts the enemy's biggest hitter off the carry, and buffs damage reduction and Energy on the allies behind each of his bodies. He is **Epic**, so his Hero Focus is three Soul Sigils away. Lucius, Antandra and Pandora fill the same job at smaller scale.
+- **Mitigation.** **Koko** blocks about half the incoming damage for 12s and returns it as true damage. She is **Legendary**, one step short of the Legendary+ that switches on her Hero Focus. **Phraesto** is the second body in this slot, literally: he deploys as two, taunts the enemy's biggest hitter off the carry, and buffs damage reduction and Energy on the allies behind each of his bodies. He is **Epic**, so his Hero Focus is three Soul Sigils away. Lucius, Antandra and Pandora fill the same job at smaller scale.
 - **Control.** Bonnie is Mythic, Cyran is Epic. **Viperian** adds Energy denial across the whole enemy line, at Elite. **Lily May** adds a counter-pick layer: her passive punishes enemy Ultimates, so she is an Arena answer to Ultimate-reliant comps, including enemy Eironn teams.
 - **Buff converter.** **Lily May** at Epic and **Silven** at Elite+. The engine half is already on the roster many times over, so this pattern is waiting on their tiers, not on a missing hero.
 

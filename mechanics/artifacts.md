@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, which fight each one suits, and the Season 7 set.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 One artifact is equipped per team, not per hero, and it pays the team twice.
 
@@ -41,7 +41,7 @@ What replaces the letters is what the repo can defend: the effect, the stat line
 
 The account's own levels and deployment are in [../account/progression.md](../account/progression.md), and the comp-by-comp picks are in [../account/teams.md](../account/teams.md).
 
-**`disputed`: the guides rank Confining above Starshard. This account shows the reverse on an Ultimate-heavy comp with a level deficit.** Starshard Spell +8 beat Confining Spell +7 on the AFK Stages push comp, confirmed from the account, and the account wins per [../CLAUDE.md](../CLAUDE.md). The reason is scaling: Confining blocks 2 enemies, which is worth the same whatever the stage, while Starshard takes a cut of the target's **current HP** as true damage, which is worth more as enemy defence and HP climb. Two conditions decide it, so check them before copying the swap:
+**`disputed`: the guides rank Confining above Starshard. This account shows the reverse on an Ultimate-heavy comp with a level deficit.** Starshard beat Confining on the AFK Stages push comp, confirmed from the account, and the account wins per [../CLAUDE.md](../CLAUDE.md). The reason is scaling: Confining blocks 2 enemies, which is worth the same whatever the stage, while Starshard takes a cut of the target's **current HP** as true damage, which is worth more as enemy defence and HP climb. Two conditions decide it, so check them before copying the swap:
 
 - **How many Ultimates the comp casts.** Starshard fires every 3 ally Ultimates at +8. A comp with an Ultimate cloner or a resetting carry comes round far faster than one without.
 - **How far the roster sits below the stage.** True damage ignores defence, so the wider the level gap, the more Starshard pays and the less raw damage does. See [../account/progression.md](../account/progression.md).
@@ -63,7 +63,7 @@ Confining stays the pick where a comp genuinely needs its backline held, such as
 
 **Nothing about it scales with the ladder.** Two enemies held for 2.5s is the same effect at stage 1142 as at stage 1, and the damage is read off your own Team ATK rather than the enemy's stats. That is the whole of the argument in the `disputed` note above, and it cuts the other way in a short fight, where a fixed opening effect is exactly what is wanted.
 
-**On this account:** Confining sits at **+7**, so only the +4 step is live and the cooldown is still 12s. It is the pick on five comps in [../account/teams.md](../account/teams.md).
+**On this account:** Confining sits at **+8**, so both effect steps are live: the imprison lasts 2.5s and the cooldown is 10s. No effect step remains. It is the pick on five comps in [../account/teams.md](../account/teams.md).
 
 ### Starshard Spell
 
@@ -78,7 +78,7 @@ Every **4** Ultimates cast by allies, a flame wave hits all enemies for true dam
 
 **Its rate is a comp property, not an artifact property.** The trigger counts ally Ultimates, so a comp with a cloner or a resetting carry fires the wave far more often than one without. Two heroes on the push comp cast as their own units, and whether those casts count is `unverified` in [../account/teams.md](../account/teams.md).
 
-**On this account:** Starshard sits at **+8**, so both effect steps are live. The wave hits for 24% of current HP and fires every **3** Ultimates. No effect step remains, and it holds six comps, more than any other artifact owned.
+**On this account:** Starshard sits at **+10**, so both effect steps are live and the stat line is at its ceiling: the wave hits for 24% of current HP, fires every **3** Ultimates, and adds +4.8 Haste and +10.2% HP to the team. **It is finished.** It holds six comps, more than any other artifact owned.
 
 ### Enlightening Spell
 

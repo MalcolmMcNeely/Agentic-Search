@@ -1,7 +1,7 @@
 # Faramor
 
 > **Covers:** Faramor kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Wilder
 - **Class:** Rogue
@@ -27,9 +27,9 @@ A support damage dealer against grouped enemies, and a **heal-block answer**: th
 
 ## Tier gate
 
-**He is Legendary+, so Hero Focus is live.** Exclusive Equipment needs **Mythic+**, two ascensions up, and no current list states whether its letters assume it.
+**He is Mythic, so Hero Focus is live.** Exclusive Equipment needs **Mythic+**, **one ascension up**, and no current list states whether its letters assume it. That single step is what would settle every `unverified` letter above, because a source rating him at his ceiling is rating a hero with the EX weapon on.
 
-He is **A-Level**, so the Dream Store stocks his copies and the step is a Dream Fragment purchase rather than a banner pull. See [../dream-store.md](../dream-store.md), [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
+He is **A-Level**, so the Dream Store stocks his copies and the step is a Dream Fragment purchase rather than a banner pull. **Mythic to Mythic+ costs 12 Soul Sigils**, which is 14,400 fragments. See [../dream-store.md](../dream-store.md), [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
 
 ## Sources
 

@@ -1,7 +1,7 @@
 # Eironn
 
 > **Covers:** Eironn kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Wilder
 - **Class:** Rogue
@@ -29,7 +29,13 @@ allclash reads him as an early-game engine rather than a lasting meta pick: stro
 
 ## Tier gate
 
-**allclash names the Exclusive Equipment as the thing that turns him on**, saying he reads badly before it is built and becomes strong once it is. **Exclusive Equipment unlocks at Mythic+, and this account holds him at Mythic**, one ascension short. Hero Focus, at **Legendary+**, is live. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
+**allclash names the Exclusive Equipment as the thing that turns him on**, saying he reads badly before it is built and becomes strong once it is. **This account holds him at Supreme with the weapon at +5**, so it is built and the letters above describe the hero being fielded. Hero Focus, at **Legendary+**, is live too. **Enhance Force needs Supreme+ and he is one step short**, so the deeper Magic DEF cut on immobilised targets is off. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
+
+## Exclusive Equipment
+
+**Howling Hurricane, live on this account at +5.** His first Ultimate of the battle costs **no Energy**, so the pull lands in the opening seconds instead of waiting for a bar to fill. The trade is damage on that one cast: **70% of normal at +5**, up from 50% with the weapon unbuilt.
+
+**The step worth saving for is +10, which doubles the immobilise from 3s to 6s.** That is the whole point of him, because the pull exists to hold a stack still while an AoE ally deletes it. +15 lifts the free cast to 80% damage, which is the smaller prize.
 
 ## Notes
 

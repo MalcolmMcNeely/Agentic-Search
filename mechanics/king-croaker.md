@@ -1,7 +1,7 @@
 # King Croaker
 
 > **Covers:** the King Croaker Dream Realm boss, its instant-kill bubble, its energy barrier, and the team shape that beats it.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 One of the Dream Realm bosses, and one of the eight in the Season 7 rotation. A giant frog. Dream Realm is a damage race against a timer, so the score is damage dealt, not a kill. See [game-modes.md](game-modes.md). The other bosses written up are [snow-stomper.md](snow-stomper.md) and [skyclops.md](skyclops.md).
 
@@ -50,7 +50,7 @@ A **Mage of the "Other" faction at base range 20**, so it reaches any tile on th
 
 **Starshard Spell**, named by every guide that names one. Its wave is true damage, which ignores the boss's defence.
 
-`unverified`: **whether the Magic Barrier stops true damage.** The barrier is described as reducing damage, not as a defence stat, and no source says which. Starshard stays the pick because it is the guide choice and the account holds it at +8, but a run that scores poorly is a reason to test Blazing Spell +10 instead, whose DEF Penetration discounts every attack rather than one wave. See [artifacts.md](artifacts.md).
+`unverified`: **whether the Magic Barrier stops true damage.** The barrier is described as reducing damage, not as a defence stat, and no source says which. Starshard stays the pick because it is the guide choice and the account holds it at +10, but a run that scores poorly is a reason to test Blazing Spell +10 instead, whose DEF Penetration discounts every attack rather than one wave. See [artifacts.md](artifacts.md).
 
 ## Heroes the guides name
 

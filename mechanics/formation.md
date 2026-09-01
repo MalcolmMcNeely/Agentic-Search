@@ -1,7 +1,7 @@
 # Formation and range
 
-> **Covers:** where to stand heroes on the grid, how base range decides the row, how many entities each hero actually puts on it, and every kit that reads a tile rather than a row.
-> **Updated:** 2026-08-31
+> **Covers:** where to stand heroes on the grid, how base range decides the row, the walls and hazards on the board, how many entities each hero actually puts on it, and every kit that reads a tile rather than a row.
+> **Updated:** 2026-09-01
 
 Picking five heroes is half the job. Where they stand is the other half.
 
@@ -25,6 +25,27 @@ Two heroes on this account break their class label:
 
 - **Taichi & Agumon** starts at range 7, then digivolves to WarGreymon at range 1. It opens as a backline attacker and ends as the frontline. **Start it in the back row, not the front.** Confirmed from the account: fielded in the front row it was killed before the digivolve landed. The +100% HP that makes it a frontliner arrives with the transformation, so the pre-digivolve form is a fragile range-7 attacker with a tank's job and none of a tank's HP. Once it transforms it walks to the front on its own.
 - **Shadewing** is a Graveborn Rogue at range 1 doing magic damage. It has to reach the enemy to work.
+
+## The board is not empty
+
+The grid carries **terrain**, and terrain is the third input to a placement alongside the row and the range. A comp placed by row and range alone is placed as if the map were flat, and no map is.
+
+**Two kinds of wall, and they treat melee and ranged differently.**
+
+| Terrain | Movement | Attacks |
+| --- | --- | --- |
+| **High wall** | blocks every hero and unit | blocks attacks through it |
+| **Low wall** | blocks every hero and unit | **ranged units fire over it** |
+
+That asymmetry is the whole rule. A low wall between the two teams is invisible to a Marksman and a solid barrier to a Rogue at range 1. The melee hero walks the long way round it, arrives late and arrives alone, while the enemy backline shoots over it the whole time. **A melee carry losing a fight it should win is the first thing a low wall explains.**
+
+Walls also make **bottlenecks**, because a hero can only move in the directions the walls leave open. A bottleneck is worth having when your frontline stands in it and worth avoiding when your carry has to cross it.
+
+`unverified`: **the wall rules above rest on one source**, [pocketgamer](https://www.pocketgamer.com/afk-journey/combat-guide/), which displays **2024-02-05** but names the Digimon, Frieren and Delicious in Dungeon collabs in its body, which puts the content at or after **2026-08-18** by the dating key in [tier-list-sources.md](tier-list-sources.md). Every other page found repeats its wording rather than testing it. Nothing inside the 12-month window confirms it independently, so treat the high-versus-low split as a reading to check in game, not a settled number.
+
+**Some maps carry hazards as well as walls.** Named across the same sources: **explosive red barrels**, which can be detonated deliberately and damage your own heroes too, plus **rolling spikes**, **flamethrowers** and **ice throwers**. `unverified`, and none of them is confirmed present in Arena specifically.
+
+**Where terrain is chosen rather than dealt.** Arena is the one mode where a player picks the battlefield: the defender saves a map, and every attacker fights on it. See [arena.md](arena.md).
 
 ## Count the entities, not the heroes
 
@@ -124,6 +145,7 @@ Check the range **and the entity count** of every hero in the comp before fixing
 
 ## Sources
 
+- https://www.pocketgamer.com/afk-journey/combat-guide/ (high and low walls, both impassable, low walls fired over by ranged units, bottlenecks; explosive barrels, rolling spikes, flamethrowers and ice throwers. **The only source for the wall split.** Displays 2024-02-05, but its body names the Digimon, Frieren and Delicious in Dungeon collabs, which dates the content at or after 2026-08-18) [stamp 2024-02-05, content 2026-08 or later, `unverified`]
 - https://gamerant.com/afk-journey-best-team-comp-guide/
 - https://molanaacademy.com/afk-journey-best-heroes-guide-and-powerful-formations/
 - https://sportskeeda.com/esports/afk-journey-team-building-guide-best-team-compositions

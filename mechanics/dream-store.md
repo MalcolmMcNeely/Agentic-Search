@@ -1,7 +1,7 @@
 # Dream Store
 
 > **Covers:** the Dream Realm shop: what currency it takes, the live shelf, the per-tier Soul Sigil costs, and who on this account to buy.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 A shop inside the **Emporium**, paid for with **Dream Fragments**. It sells hero copies, so it is a route to ascension that does not go through a banner.
 
@@ -63,29 +63,23 @@ Only three tiers change anything, per [progression-systems.md](progression-syste
 
 ## Against this account
 
-**Keep buying Koko. She sits at Epic, and 17 more copies take her to Legendary+.**
+**Keep buying Koko. She sits at Legendary, and 8 more copies take her to Legendary+.**
 
-She is the hero this account has already decided it wants. The Tower of Will entry in [../account/teams.md](../account/teams.md) names her as the first swap to try and says to raise her first. The only thing still stopping the swap is that she is Epic against Kruger's Legendary+, three ascension steps down. Those three steps cost 4 + 5 + 8 = **17 sigils**, and they end on Hero Focus.
+She is the hero this account has already decided it wants, and she is now one step from the target rather than three. The Tower of Will entry in [../account/teams.md](../account/teams.md) names her as the swap on the table. She is Legendary against Kruger's Legendary+, a single ascension step down, and that step costs **8 sigils** and ends on Hero Focus.
 
 **Her Ultimate is the account's stated need, not just a tower fix.** Full Energy gives allies 45 to 55% damage reduction for 12s, then converts everything blocked into **true damage**. [../account/progression.md](../account/progression.md) identifies true damage as the one thing that holds its value while Infinite Stages inflate enemy defence with no cap. Koko turns a defensive cooldown into defence-ignoring offence. See [heroes/koko.md](heroes/koko.md).
 
-### The road from Epic
+### The road from Legendary
 
-A copy is 1,200 fragments. Koko climbs like this:
-
-| To | Sigils this step | Total sigils | Total fragments |
-| --- | --- | --- | --- |
-| Epic+ | 4 | 4 | 4,800 |
-| Legendary | 5 | 9 | 10,800 |
-| **Legendary+** | 8 | **17** | **20,400** |
-
-Legendary+ is where she matches Kruger and Hero Focus unlocks. At the account's current Dream Realm output that is a multi-month target, not a purchase.
+A copy is 1,200 fragments, so **Legendary+ is 8 sigils and 9,600 fragments**, in one step. That is where she matches Kruger and where Hero Focus unlocks.
 
 **Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and the one EX weapon the account owns sits on Taichi & Agumon, who is S-Level and never stocked here. Banking is therefore worse than committing.
 
 **The account's first Exclusive Equipment did not come from this shelf, and neither will the second.** Taichi & Agumon reached **Supreme** with an **EX +8** through the Digimon crossover event, which handed his copies out free. The shelf's stocked heroes are still nowhere near Mythic+. It remains the slower, separate project. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md) and [../account/equipment.md](../account/equipment.md).
 
-**Second pick: Antandra, 17 copies from Epic to Legendary+.** She is the tank holding the front of the same Tower of Will comp and its lowest tier. Cheaper than Koko and it fixes the same comp, but it buys survival where Koko buys survival and damage at once.
+**Second pick: Faramor, 12 copies from Mythic to Mythic+ and his Exclusive Equipment.** He is the payload in both the Tower of Nature comp and the Arcane Labyrinth comp, and **Mythic+ is the only tier that adds a whole new skill**. Nothing else on this shelf is one step from an EX weapon.
+
+**Third pick: Antandra, 17 copies from Epic to Legendary+.** She is the tank holding the front of the same Tower of Will comp and its lowest tier. It buys survival where Koko buys survival and damage at once.
 
 **Do not buy Kruger, even though he is the highest tier owned on the shelf.** Two of his three unlocks pay nothing here.
 
@@ -96,7 +90,7 @@ That makes his 22 sigils to Mythic+ the worst value on the shelf, not the best.
 
 **Graveborn depth is here, and it is slower than it looks.** [recruitment.md](recruitment.md) names Viperian, Silvina, Niru and Salazer as the depth Tower of Eternity needs, and all four are stocked. Each starts at Elite, so Legendary+ costs 1 + 3 + 4 + 5 + 8 = **21 sigils** from scratch, per hero. Worth doing after Koko, not before.
 
-**The AFK Stages push comp cannot be helped here at all.** No hero in it is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hands, now **Phraesto, Elijah & Lailah and Rolan**. **None of the three will ever be buyable here**, because this shelf stocks A-Level heroes only and the three are Hypogean and Celestial. Their sigils come from the Guild Store or Stargaze Station instead. See [../account/progression.md](../account/progression.md) and [guild-store.md](guild-store.md).
+**The AFK Stages push comp cannot be helped here at all.** No hero in it is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hand, and **all five Hands now sit level at 200**, so raising it means levelling the whole set. **None of the five will ever be buyable here**, because this shelf stocks A-Level heroes only and they are Dimensional, Hypogean and Celestial. Their sigils come from the Guild Store or Stargaze Station instead. See [../account/progression.md](../account/progression.md) and [guild-store.md](guild-store.md).
 
 **The budget is the real constraint.** The account runs **King Croaker at Endless Mode** and scores 30 million damage. Fragment income scales with boss damage, so raising Dream Realm output is what makes this shop affordable. See [king-croaker.md](king-croaker.md).
 

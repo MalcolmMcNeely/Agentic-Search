@@ -1,7 +1,7 @@
 # Equipment and charms
 
 > **Covers:** Class Equipment levels, Exclusive Equipment owned, and Magic Charm loadouts.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 Three systems with different scopes. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
@@ -61,7 +61,7 @@ So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mecha
 
 **Support now carries two of the five heroes in the push comp, and Tank carries one.** Elijah & Lailah and Rolan are both Support, which is the **lowest class at 224**, with **Support Ring at 195** as its weakest slot. Phraesto is the only Tank left in that comp. **Tank Gloves at 185 is still the single lowest slot on the account** and lifting it alone takes Tank from 226 to 235, so it remains the biggest one-slot jump, but it now pays one played hero rather than two. **Raise Support first, Tank Gloves second.** That does not overturn the rule above: the 6-level spread is still too small to pick or drop a comp, and this only reorders which class to raise next. See [teams.md](teams.md).
 
-**Every slot on the account now sits above the Resonance Level of 180.** The lowest, Tank Gloves at 185, is 5 above it, and sixteen slots reach 240, which is **60 above**. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**Gear runs above the Resonance Level of 200, with two slots below it.** Sixteen slots reach 240, which is **40 above**. **Tank Gloves at 185 and Support Ring at 195** are the two below, and Warrior Weapon and Rogue Gloves sit level with it at 200. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 ## Exclusive Equipment
 
@@ -71,8 +71,9 @@ Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipm
 | --- | --- | --- |
 | Taichi & Agumon | +8 | `?` |
 | Yamato & Gabumon | +6 | Grace Cross Freezer |
+| Eironn | +5 | Howling Hurricane |
 
-**Two Exclusive Equipments are owned, and both sit on the Digimon pair.** Yamato & Gabumon is **Supreme+**, the top ascension tier and the first hero on this account to reach it. Taichi & Agumon is **Supreme**, one step behind him and still two tiers above every other hero on the roster. Each carries an EX weapon on top. They are the two first picks in any mode that does not lock Dimensional heroes out. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md) and [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md).
+**Three Exclusive Equipments are owned.** Yamato & Gabumon is **Supreme+**, the top ascension tier and the first hero on this account to reach it. Taichi & Agumon and Eironn are both **Supreme**, one step behind. Each of the three carries an EX weapon on top. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out, and Eironn is the strongest hero the account can field in the modes that do, because he is Wilder and the towers take him. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md) and [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 
 **They also ramp each other, so the two strongest heroes on the account are the same two that pay each other back.** WarGreymon hands every ally behind him +25% of his own ATK at battle start, and Gabumon taking that buff gains 300 Energy, which shortens his own digivolve. Grace Cross Freezer fires **more missiles the closer allies stand**, so the pair wants to be built inward, not spread. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
@@ -80,7 +81,7 @@ Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipm
 
 **The two EX weapons now have different ceilings.** Levels 11 to 15 need Supreme+, so Yamato & Gabumon can climb from +6 to **+15** while Taichi & Agumon stops at **+10**. Both bands are paid in Temporal Essence, which cannot be bought: 75 per level up to +10, then 100 per level above it. The cheaper band holds **four levels on Yamato & Gabumon and two on Taichi & Agumon**, and past +10 only Yamato & Gabumon can spend at all. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
-**The third EX weapon is one tier away on eight heroes.** Daimon, Shemira, Eironn, Aurora, Bonnie, Hugin, Smokey & Meerky and **Zanie** are all **Mythic**. Shemira, Eironn, Aurora and Smokey & Meerky are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price the Digimon pair paid. Bonnie, Hugin and Zanie are A-Level and cost **12 sigils** each, and Daimon's Level is `unverified`. **Zanie is the hardest of the eight**, because the Dream Store does not stock her either, so her copies have to come off a banner. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**The fourth EX weapon is one tier away on eight heroes.** Daimon, Shemira, Aurora, Bonnie, Hugin, Smokey & Meerky, **Zanie** and **Faramor** are all **Mythic**. Shemira, Aurora and Smokey & Meerky are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price the Digimon pair and Eironn paid. Bonnie, Hugin, Zanie and Faramor are A-Level and cost **12 sigils** each, and Daimon's Level is `unverified`. **Faramor is the cheapest of the four to reach**, because the Dream Store stocks him and his copies are a fragment purchase. **Zanie is the hardest of the eight**, because that shelf does not stock her, so her copies have to come off a banner. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 ## Magic Charms
 

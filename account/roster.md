@@ -1,22 +1,22 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 ## How to read this
 
 - **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md). A hero that cannot ascend has no tier and reads `n/a`.
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
-- **Level** is not stored per hero. Every hero sits at the Resonance Level in [progression.md](progression.md), except the Hands of Resonance, listed there with their own levels.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 43: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Level** is not stored per hero. **Every hero on the account sits at the Resonance Level**, which is in [progression.md](progression.md). The five Hands of Resonance are levelled separately and are listed there, and all five currently sit at the Resonance Level too, so the roster is flat.
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 44: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
 | Faction | Heroes owned |
 | --- | --- |
 | Lightbearer | 12 |
-| Mauler | 8 |
+| Mauler | 9 |
 | Wilder | 9 |
 | Graveborn | 7 |
 | Dimensional | 3 |
@@ -47,11 +47,12 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Galahad | Mage | Magic | Legendary | - | [galahad](../mechanics/heroes/galahad.md) |
-| Kordan | Warrior | Physical | Legendary | - | [kordan](../mechanics/heroes/kordan.md) |
+| Kordan | Warrior | Physical | Legendary+ | - | [kordan](../mechanics/heroes/kordan.md) |
 | Kruger | Warrior | Physical | Legendary+ | - | [kruger](../mechanics/heroes/kruger.md) |
-| Koko | Support | Physical | Epic | - | [koko](../mechanics/heroes/koko.md) |
+| Koko | Support | Physical | Legendary | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
 | Smokey & Meerky | Support | Magic | Mythic | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
+| Odie | Marksman | Magic | Elite `?` | - | [odie](../mechanics/heroes/odie.md) |
 | Gerda | Tank | Physical | Elite | - | [gerda](../mechanics/heroes/gerda.md) |
 | Seth | Rogue | Physical | Elite | - | [seth](../mechanics/heroes/seth.md) |
 
@@ -61,11 +62,11 @@
 | --- | --- | --- | --- | --- | --- |
 | Solise | Support | Magic | Legendary | - | [solise](../mechanics/heroes/solise.md) |
 | Thador | Tank | Physical | Legendary+ | - | [thador](../mechanics/heroes/thador.md) |
-| Faramor | Rogue | Physical | Legendary+ | - | [faramor](../mechanics/heroes/faramor.md) |
+| Faramor | Rogue | Physical | Mythic | - | [faramor](../mechanics/heroes/faramor.md) |
 | Lenya | Rogue | Physical | Elite+ | - | [lenya](../mechanics/heroes/lenya.md) |
 | Hewynn | Support | Magic | Epic | - | [hewynn](../mechanics/heroes/hewynn.md) |
 | Velara | Support | Magic | Legendary | - | [velara](../mechanics/heroes/velara.md) |
-| Eironn | Rogue | Magic | Mythic | - | [eironn](../mechanics/heroes/eironn.md) |
+| Eironn | Rogue | Magic | Supreme | +5 | [eironn](../mechanics/heroes/eironn.md) |
 | Lily May | Rogue | Magic | Epic | - | [lily-may](../mechanics/heroes/lily-may.md) |
 | Arden | Mage | Magic | Elite | - | [arden](../mechanics/heroes/arden.md) |
 
