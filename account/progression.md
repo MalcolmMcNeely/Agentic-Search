@@ -27,7 +27,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, and all five Hands now sit level at 200, so it moves only when the whole set moves. Every level on the lowest Hand lifts all 44 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, and three Hands sit at 200, so it moves only when all three of those move. Every level on the lowest Hand lifts all 44 heroes at once. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
@@ -36,32 +36,32 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 | Hero | Faction | Class | Level | Tier |
 | --- | --- | --- | --- | --- |
-| Taichi & Agumon | Dimensional | Warrior | 200 | Supreme, EX +8 |
-| Yamato & Gabumon | Dimensional | Mage | 200 | Supreme+, EX +6 |
+| Taichi & Agumon | Dimensional | Warrior | **210** | Supreme, EX +8 |
+| Yamato & Gabumon | Dimensional | Mage | **210** | Supreme+, EX +6 |
 | Phraesto | Hypogean | Tank | 200 | Epic |
 | Elijah & Lailah | Celestial | Support | 200 | Epic |
 | Rolan | Celestial | Support | 200 | Epic |
 
 **The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. That comp is also the King Croaker comp, so the slots pay in both places at once. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**, taken when both moved into the comp the account now fields.
 
-**All five Hands sit at 200, so the Resonance Level is 200 and the roster is flat.** Every hero off the Hand slots sits at 200 as well, all 44 of them, Daimon, Shemira, Aurora, Hugin and Bonnie included.
+**Two Hands sit at 210 and three sit at 200, so the Resonance Level is 200.** It reads the **lowest** Hand, and the three at 200 hold it there. Every hero off the Hand slots sits at 200 as well, all 44 of them, Daimon, Shemira, Aurora, Hugin and Bonnie included.
 
-**Nothing is capped, and nothing is levelled ahead.** A Hand may run up to 10 above the Resonance Level, and every Hand is exactly on it, so all five have the full 10 levels of headroom open. The freeze that held four heroes still is gone.
+**Two Hands are capped and three have the full headroom open.** A Hand may run at most 10 above the Resonance Level, so Taichi & Agumon and Yamato & Gabumon at 210 can take no further level until the Resonance Level rises, and the only way to raise it is to level the three still at 200.
 
-**Levelling now buys one of two different things, and they are not the same trade.**
+**Levelling now buys one thing, and it is the three Hands still at 200.**
 
-- **Level the whole set of five and the Resonance Level follows.** It is set by the lowest Hand, so a point only counts once every Hand has it. That costs five heroes' levels per point and pays all 44 heroes.
-- **Level four Hands to 210 and leave one behind.** The Resonance Level stays at 200, the four run 10 above the roster, and the fifth becomes a lendable-slot problem rather than a gain.
+- **The two at 210 take nothing more.** They sit on the +10 ceiling, so a point cannot be spent there at all until the Resonance Level rises.
+- **Phraesto, Elijah & Lailah and Rolan are the only slots a point can go into**, and the Resonance Level follows only once all three have it. That costs three heroes' levels per point and pays all 44 heroes.
 
-**Raising the whole set is the better buy, and it is the same argument as before.** Every hero off the Hands rides the Resonance Level for free, so a point that reaches all five pays 44 heroes and a point that reaches one pays one. The bottleneck has widened from one hero to five, not disappeared.
+**Finishing the set is the better buy, and it is the same argument as before.** Every hero off the Hands rides the Resonance Level for free, so a point that reaches the lowest Hand pays 44 heroes and a point that reaches one pays one. The bottleneck is three heroes wide now, not five.
 
 **Rolan, Phraesto and Elijah & Lailah are all Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the cheapest ascension on the account is still inside the Hand slots, and it is now the only thing a Hand slot buys that levelling does not. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: a hero moved into a slot takes that slot's level, not its own. So the five Hands are re-picked whenever the comp being played changes, and that is why they match the push comp. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**Lending a Hand slot currently buys nothing, and that is new.** A slot is only worth borrowing when it sits above the Resonance Level, and all five sit exactly on it. A hero swapped in takes 200, which is the level it already had. **So the instruction to borrow slots before a tower run, a Dream Realm run or a Battle Drills round is dead for now**, and every comp in [teams.md](teams.md) fields at a flat 200 whoever holds the slots.
+**Lending a Hand slot pays again, and that is new.** The two slots at 210 stand 10 levels above the Resonance Level, so any hero swapped into one gains 10 levels for nothing. The three slots at 200 hand over a level the hero already has. **So borrow the two 210 slots before a tower run, a Dream Realm run or a Battle Drills round**, and give them to that comp's carry. Every comp in [teams.md](teams.md) names who takes them.
 
-**It comes back the moment any Hand is levelled past 200.** Each level above 200 on a Hand is a level that slot can lend to any hero, up to the +10 ceiling. Until then the swap is free and pointless.
+**The hero giving up a 210 slot drops back to 200.** So run the push comp before any borrowing comp when both are due the same day.
 
 ### Artifacts owned
 
