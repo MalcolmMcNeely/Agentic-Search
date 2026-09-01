@@ -1,7 +1,7 @@
 # Battle Drills
 
 > **Covers:** the guild map mode: the weekly round, the four location types, stamina, the three difficulty modes, Endless Mode and the one-deploy-a-day rule, and what all that asks of a comp.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 A guild mode, not a solo one. The guild works one map together, and **progress on every enemy piece is shared**, so one member finishing a piece another member started still counts.
 
@@ -49,7 +49,7 @@ Endless Mode opens once the final boss falls, and escalates through **5 difficul
 
 ## Unlock
 
-`unverified`: the AFK Stage gate. [game-modes.md](game-modes.md) records **121**; the wiki says **50**. Both are far behind this account, which sits at AFK Stage 1142, so the gap changes nothing in play.
+`unverified`: the AFK Stage gate. [game-modes.md](game-modes.md) records **121**; the wiki says **50**. Both are far behind this account, which sits at AFK Stage 1292, so the gap changes nothing in play.
 
 ## Sources
 

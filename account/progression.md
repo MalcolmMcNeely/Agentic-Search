@@ -14,14 +14,16 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Field | Value |
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
-| AFK Stage | 1142 |
+| AFK Stage | 1292 |
 | Resonance Level | 200 |
 | Total power | `?`. Raising the Resonance Level raised it, and the new figure has not been read off the screen |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 **The Starter Story ladder is finished.** Its last stage is 1125, so the account has cleared all of it and is now in **Infinite Stages**, the uncapped ladder that follows. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
-`unverified`: whether 1142 is an Infinite Stage counter carrying on from 1125, or a separate number. No source states it. Either way the account is 17 stages past the Starter Story ceiling.
+`unverified`: whether 1292 is an Infinite Stage counter carrying on from 1125, or a separate number. No source states it. Either way the account is **167 stages past the Starter Story ceiling**.
+
+**The ladder is moving fast, and that is the account's own evidence about the push comp.** It has climbed **150 stages** since the current five were fielded, so the comp is not stalling on the trade its own weak-point list warns about. See [teams.md](teams.md).
 
 **The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 200 is 83% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
 
@@ -82,7 +84,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 **Starshard at +10 holds the push comp, and it is the account's best artifact in practice. Confirmed from the account.** Both effect steps are live and the stat line is at its ceiling, so the wave fires every 3 ally Ultimates for 24% of each target's current HP as true damage. The user ran it against Confining Spell on the Shemira comp and reports it running well. That result, not a guide, is what ranks it here.
 
-**The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining imprisons two enemies, which is worth the same at stage 1142 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead.
+**The reason generalises, so use it when picking an artifact for any comp.** True damage ignores enemy defence, and Infinite Stages keep inflating that defence with no cap. Confining imprisons two enemies, which is worth the same at stage 1292 as it was at stage 1. Starshard's cut of current HP is worth more every stage. So the more Ultimates a comp casts, and the further the ladder runs, the further Starshard pulls ahead.
 
 **Blazing's DEF Penetration is that same argument applied to the rest of the comp.** Starshard's wave already ignores defence, but it is one wave every 3 Ultimates and everything else the comp does still pays full price. Penetration discounts **every** attack instead, and Blazing at +10 grants **+7.8** of it alongside +13.8% to both DEF stats. Starshard keeps the push comp, because a cut of current HP scales with the ladder and a flat penetration figure does not, but Blazing is the artifact to test against it on a run that scores poorly.
 
@@ -102,18 +104,18 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Season access is gated at Resonance Level 240 and the account holds 200, so it cannot be on the season ladder at all.** That settles what AFK Stage 1142 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms are out of reach** until the Resonance Level reaches 240. See [../mechanics/seasons.md](../mechanics/seasons.md).
+**Season access is gated at Resonance Level 240 and the account holds 200, so it cannot be on the season ladder at all.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms are out of reach** until the Resonance Level reaches 240. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
 **Season 7 will be over long before the account can enter it, and that costs nothing.** A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
 
 ## Mode progress
 
-**Every mode's AFK Stage requirement is met.** The highest gate in the game is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1142. Only Trial of Abyss is still locked, and its remaining conditions are not stage-based. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+**Every mode's AFK Stage requirement is met.** The highest gate in the game is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1292. Only Trial of Abyss is still locked, and its remaining conditions are not stage-based. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
-| Infinite Stages | yes, needs 1125 | at **1142**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
+| Infinite Stages | yes, needs 1125 | at **1292**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
 | Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on Koko copies at 1,200 each |
 | Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, of the 5 the guides claim exist. See [../mechanics/arena.md](../mechanics/arena.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |

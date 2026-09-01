@@ -39,7 +39,7 @@ Six finished seasons: **Song of Strife, Waves of Intrigue, Chains of Eternity, E
 
 **Nothing is expiring.** Peaks of Time is permanent and the six archived seasons do not rotate out, so nothing is being lost by reaching it late.
 
-**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. Season access needs Resonance Level 240 and the account holds 200, so the account cannot be on the season ladder at all. AFK Stage 1142 is the permanent ladder, and charms are not available.
+**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. Season access needs Resonance Level 240 and the account holds 200, so the account cannot be on the season ladder at all. AFK Stage 1292 is the permanent ladder, and charms are not available.
 
 ## Sources
 

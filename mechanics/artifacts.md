@@ -61,7 +61,7 @@ Confining stays the pick where a comp genuinely needs its backline held, such as
 
 **The 2 rearmost enemies are usually the enemy carry and whatever feeds it**, so this is control aimed at the half of the enemy team that deals the damage. [hero-scoring.md](hero-scoring.md) counts control as survival: an enemy that cannot act deals nothing for those seconds, and unlike a heal it also stops burst.
 
-**Nothing about it scales with the ladder.** Two enemies held for 2.5s is the same effect at stage 1142 as at stage 1, and the damage is read off your own Team ATK rather than the enemy's stats. That is the whole of the argument in the `disputed` note above, and it cuts the other way in a short fight, where a fixed opening effect is exactly what is wanted.
+**Nothing about it scales with the ladder.** Two enemies held for 2.5s is the same effect at stage 1292 as at stage 1, and the damage is read off your own Team ATK rather than the enemy's stats. That is the whole of the argument in the `disputed` note above, and it cuts the other way in a short fight, where a fixed opening effect is exactly what is wanted.
 
 **On this account:** Confining sits at **+8**, so both effect steps are live: the imprison lasts 2.5s and the cooldown is 10s. No effect step remains. It is the pick on five comps in [../account/teams.md](../account/teams.md).
 
