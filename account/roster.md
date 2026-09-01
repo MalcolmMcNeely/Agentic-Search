@@ -75,7 +75,7 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Daimon | Tank | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
-| Shemira | Mage | Magic | Mythic | - | [shemira](../mechanics/heroes/shemira.md) |
+| Shemira | Mage | Magic | Supreme | +1 | [shemira](../mechanics/heroes/shemira.md) |
 | Bonnie | Marksman | Magic | Mythic | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
 | Valka | Warrior | Physical | Legendary+ | - | [valka](../mechanics/heroes/valka.md) |

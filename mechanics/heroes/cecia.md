@@ -1,7 +1,7 @@
 # Cecia
 
 > **Covers:** Cecia kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Graveborn
 - **Class:** Marksman
@@ -31,7 +31,7 @@ allclash separately grades her **S for a free-to-play player**, which is a spend
 
 **She is Epic**, so Hero Focus, at **Legendary+**, is off, and Exclusive Equipment, at **Mythic+**, is off. No current list states an investment level. allclash calls both of those a reasonable spend on her while an account is still pushing the main story, and a waste after it. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
 
-She is not this account's leading Graveborn: Shemira, Bonnie and Daimon all sit at Mythic, four ascensions above her. See [../../account/roster.md](../../account/roster.md).
+She is not this account's leading Graveborn: **Shemira is Supreme with an EX weapon**, six ascensions above her, and Bonnie and Daimon both sit at Mythic, four above. See [../../account/roster.md](../../account/roster.md).
 
 ## Sources
 

@@ -1,7 +1,7 @@
 # Starry Tales
 
 > **Covers:** what Starry Tales is, how it is paid out, what its rewards are worth to this account, and what is still unknown about it.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 **Starry Tales is a permanent story feature, not an event and not a battle mode.** It holds one exclusive side story per hero, telling that hero's own tale in Esperia. It arrived on **5 March 2026** and stories are still being added patch by patch.
 
@@ -32,7 +32,7 @@ New stories ship in patches, one or two at a time:
 
 **Temporal Essence cannot be bought.** It is farmed from Dream Realm top 100, any Seasonal Dream Realm rank, Arena rank-ups, the Guild Chest and Legend Trial clears. Every other route is a performance gate. Starry Tales is not, so it is free essence for reading text.
 
-**This account is standing in the exact band that spends it.** Taichi & Agumon is **Supreme** at **EX +8** and Yamato & Gabumon is **Supreme+** at **EX +6**. EX levels **6 to 10** cost 75 Temporal Essence each and **11 to 15** cost 100, so eleven levels across the pair are waiting on essence the account cannot buy. See [../account/equipment.md](../account/equipment.md) and [equipment-and-charms.md](equipment-and-charms.md).
+**This account is standing in the exact band that spends it, and the queue keeps growing.** EX levels **6 to 10** cost 75 Temporal Essence each and **11 to 15** cost 100. **Four owned weapons are inside that band**: Yamato & Gabumon at **Supreme+ and EX +6** with nine levels open, Eironn at **Supreme and EX +5** with five, Shemira at **Supreme and EX +1** with five once she clears +5 on Tidal Essence, and Taichi & Agumon at **Supreme and EX +8** with two. That is **twenty-one levels** waiting on essence the account cannot buy. See [../account/equipment.md](../account/equipment.md) and [equipment-and-charms.md](equipment-and-charms.md).
 
 **The diamonds are small but real.** 200 a story against a 17,000 stock is under a day's income, and the spend order in [diamonds.md](diamonds.md) already has a standing 2,400-a-month order on Stellar Crystals. Take them, do not plan around them.
 

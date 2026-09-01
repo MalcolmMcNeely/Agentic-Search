@@ -1,7 +1,7 @@
 # Silven
 
 > **Covers:** Silven kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Lightbearer
 - **Class:** Marksman
@@ -21,7 +21,7 @@ He is a **ramp carry**. Aloft Edge pays per normal attack, Blademarks build over
 
 **Campaign** `unverified`, a five-band split: rated **S** [afk.global Campaign tab, 2026-08-20, investment not stated], **A** in story mode [Pocket Tactics, 2026-08-17, investment not stated] and **B+** as PvE [allclash, 2026-08-26, no investment stated]. All three readings stand.
 
-**Dream Realm** `unverified`: **A+** [afk.global Dream Realm tab, 2026-08-20, investment not stated], **A** [Pocket Tactics, 2026-08-17, investment not stated] and **B+** [allclash, 2026-08-26, no investment stated]. allclash gives its reason: it reads him as working less well in Dream Realm than Shemira, and this account holds Shemira at Mythic.
+**Dream Realm** `unverified`: **A+** [afk.global Dream Realm tab, 2026-08-20, investment not stated], **A** [Pocket Tactics, 2026-08-17, investment not stated] and **B+** [allclash, 2026-08-26, no investment stated]. allclash gives its reason: it reads him as working less well in Dream Realm than Shemira, and this account holds Shemira at **Supreme with an EX weapon** against his Elite+, so the comparison lands even harder here than in the guide.
 
 **Dream Realm Endless, rated S** [afk.global Dream Realm Endless tab, 2026-08-20, investment not stated]. His true damage component is the reason to take that seriously, because Endless pays for damage that ignores defence. afk.global is also the only current list that separates Endless from blended Dream Realm. See [../game-modes.md](../game-modes.md).
 

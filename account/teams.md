@@ -90,7 +90,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ### The heroes queued for a slot
 
-**Shemira is the swap when the comp stalls rather than dies.** Her sacrificed ghosts deal **true damage scaled to enemy max HP**, which is the tap this comp gave up, and Rolan clones her ghost Ultimate for 10 more. She is **Mythic**. The cost is the faction cap: she is Graveborn, so the core drops to four and the bonus falls from +22% to +18%. Take her over Rolan only if the clone is worth less than the true damage, which one run each will say. See [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md).
+**Shemira is the swap when the comp stalls rather than dies, and her price just dropped.** Her sacrificed ghosts deal **true damage scaled to enemy max HP**, which is the tap this comp gave up, and Rolan clones her ghost Ultimate for 10 more. **She is now Supreme with her EX weapon at +1**, level with Taichi & Agumon and above every other hero here, where she was a Mythic when this swap was last weighed. The cost is unchanged and it is the faction cap: she is Graveborn, so the core drops to four and the bonus falls from +22% to +18%.
+
+**So the trade is now 4% team stats against the account's third-highest-invested hero, and it is worth one run.** Take her over Rolan only if the clone is worth less than the true damage, which one run each will say. **Ask before swapping**, because this comp is `running` and has climbed 150 stages as it stands. See [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md).
 
 **Hewynn is the swap when the comp dies with one Tank in it.** Rain Prayer heals **every** ally for up to 115% HP per second across 9s, Revitalize strips debuffs, and Tranquil adds team-wide damage reduction while the Ultimate runs. She is the account's strongest dedicated healer. The cost is the faction bonus: she is Wilder, so it falls to **+10%** plus wildcards. Take her over Rolan, never over Phraesto. See [../mechanics/heroes/hewynn.md](../mechanics/heroes/hewynn.md).
 
@@ -113,7 +115,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | 3 | Mythic | 200 |
 | Front | Eironn | Wilder | Rogue | 1 | Supreme, EX +5 | 200 |
-| Middle | Shemira | Graveborn | Mage | 4 | Mythic | 200 |
+| Middle | Shemira | Graveborn | Mage | 4 | Supreme, EX +1 | 200 |
 | Back | Bonnie | Graveborn | Marksman | 7 | Mythic | 200 |
 | Back | Rolan | Celestial | Support | 10 | Epic | 200 |
 
@@ -220,7 +222,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 200 |
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | 200 |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
-| Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 200 |
+| Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 | 200 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 200 |
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, and true damage is the one output the Wings cannot resist. It fires every **3** ally Ultimates for **24% of each target's current HP**. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -259,7 +261,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 
 **Surviving to the timer is half the score.** A team that dies at the midpoint scores about half of one that lasts, whatever its damage per second. That is why this comp fields a bubble-eater and a healer rather than a fifth damage slot. See [progression.md](progression.md).
 
-**This is also the account's Temporal Essence supply.** The Endless leaderboard pays it, no shop sells it, and Yamato & Gabumon has **nine EX levels** waiting on it. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**This is also the account's Temporal Essence supply, and the queue for it has grown.** The Endless leaderboard pays it and no shop sells it. **Four EX weapons are now waiting on it**: Yamato & Gabumon has nine levels open, Eironn five, Shemira five above +5, and Taichi & Agumon two. **Shemira's +10 is the one to fund first**, because it is the only one of them that turns an Ultimate into defence-ignoring damage. See [equipment.md](equipment.md) and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -298,7 +300,9 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 3. **Run the back row spread, then bunched.** Grace Cross Freezer fires more missiles the closer allies stand, and Water Bomb aims at the area holding the most heroes. One attempt each says which costs more.
 4. **If the team dies before the timer, take the Hewynn swap below.** In Endless the clock is the only thing that ends the fight, so seconds lost are score lost.
 
-**No other five on this roster beats these.** They are the only comp that reaches the **+22%** faction cap while also fielding both top-tier heroes, and every substitution tested breaks one or the other. Swapping Rolan for Shemira, the next-best damage kit owned, drops the core to four and pays +18%, and it trades a clone of a Supreme Ultimate for a Mythic hero. See [roster.md](roster.md) and [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**No other five on this roster beats these.** They are the only comp that reaches the **+22%** faction cap while also fielding both top-tier heroes, and every substitution tested breaks one or the other. Swapping Rolan for Shemira, the next-best damage kit owned, drops the core to four and pays +18%.
+
+**That swap is closer than it was.** It used to trade a clone of a Supreme Ultimate for a Mythic hero. Shemira is now **Supreme with an EX weapon herself**, so it trades a clone for a hero of the same tier who brings back the defence-ignoring damage this comp gave up. The faction cost is still real and the comp is still `running` on a 150-stage climb, so this is a run to schedule, not a change to make. See [roster.md](roster.md), [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md) and [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
 **Four weak points:**
 
@@ -410,7 +414,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | --- | --- | --- | --- | --- |
 | Front | Valka | Warrior | 1 | Legendary+ |
 | Front | Daimon | Tank | 3 | Mythic |
-| Middle | Shemira | Mage | 4 | Mythic |
+| Middle | Shemira | Mage | 4 | Supreme, EX +1 |
 | Back | Cecia | Marksman | 5 | Epic |
 | Back | Bonnie | Marksman | 7 | Mythic |
 
@@ -519,7 +523,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 200 |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
-| Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 200 |
+| Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 | 200 |
 | Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | 200 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 200 |
 
@@ -567,7 +571,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 
 | Slot | Hero | Faction | Class | Range | Tier |
 | --- | --- | --- | --- | --- | --- |
-| The one | Shemira | Graveborn | Mage | 4 | Mythic |
+| The one | Shemira | Graveborn | Mage | 4 | Supreme, EX +1 |
 
 **Artifact:** Confining Spell +7, to hold enemies off her at range 4.
 
