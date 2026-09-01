@@ -1,7 +1,7 @@
 # Guild Store
 
 > **Covers:** the Guild Store's Guild Medal shelf: what it stocks, the price of a hero copy, the monthly limit, and who on this account to buy.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 A shop inside the guild, reached by tapping **Guild** at the bottom of the screen and then **Emporium**. It has two shelves in two currencies, and they answer different questions.
 
@@ -79,9 +79,9 @@ That is 13 sigils on top of the original copy, 14 in all. S-Level heroes start a
 
 **The next three sigils all go to Elijah & Lailah.** Three more takes them to **Legendary+** and switches on Hero Focus, which allclash calls the single best investment on the hero. At about 28,000 Guild Medals a month that is roughly three months. Nothing else on this shelf returns as much.
 
-**Phraesto is owned at Epic and did not cost a medal.** A Glorious Hero Chest gave him outright, so the 30,000-medal unlock on the shelf is money this account never has to spend. Sigils bought for him now ascend rather than unlock, and three of them reach **Legendary+** and his Hero Focus, which raises DEF on **both** his bodies and generates Energy whenever either is hit. **He queues directly behind Elijah & Lailah and ahead of Aurora**, because he now holds a slot in the AFK Stages push comp and she does not. See [../account/teams.md](../account/teams.md) and [heroes/phraesto.md](heroes/phraesto.md).
+**Phraesto is owned at Epic and did not cost a medal.** A Glorious Hero Chest gave him outright, so the 30,000-medal unlock on the shelf is money this account never has to spend. Sigils bought for him now ascend rather than unlock, and three of them reach **Legendary+** and his Hero Focus, which raises DEF on **both** his bodies and generates Energy whenever either is hit. **He queues directly behind Elijah & Lailah**, because he holds a slot in the AFK Stages push comp. See [../account/teams.md](../account/teams.md) and [heroes/phraesto.md](heroes/phraesto.md).
 
-**Aurora is the buy after that, and she is closer than she looks.** She is the only other hero on this shelf the account owns, and she is **Mythic**, so **Mythic+ is 2 sigils**, or 60,000 Guild Medals. That is a second Exclusive Equipment for the account, and Mythic+ is the only tier that adds a skill. [dream-store.md](dream-store.md) reaches the same step on Daimon for 12 Dream Fragment sigils, so the two shops can run in parallel: Daimon there, Aurora here.
+**Aurora is past the step this shelf was saved for.** She is the only other hero on the list the account owns, and she is now **Mythic+ with her EX weapon at +5**, so the 2-sigil Mythic+ buy is spent. **Her next step is Supreme, at 2 more sigils by the table above, and it buys more than a tier.** EX levels 6 to 10 need Supreme, so her weapon is frozen at +5 until she gets there and then five levels open at once. She still sits **behind** Elijah & Lailah and Phraesto, because both of them stand in the comp being played and she does not. See [heroes/aurora.md](heroes/aurora.md) and [../account/equipment.md](../account/equipment.md).
 
 **Rolan is ranked first among Celestials by two 2026 guides and is not on the shelf list**, so copies of him are not a Guild Store option. He is owned at Epic regardless. **He now holds a Hand of Resonance and stands in the comp being played**, which puts him level with Elijah & Lailah and Phraesto in need, so **check the shelf in game**: the hero list here is `unverified` and if he is actually stocked he joins the front of the queue. See [heroes/rolan.md](heroes/rolan.md) and [../account/teams.md](../account/teams.md).
 

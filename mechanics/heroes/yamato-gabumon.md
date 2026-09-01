@@ -1,7 +1,7 @@
 # Yamato & Gabumon
 
 > **Covers:** Yamato & Gabumon kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Dimensional
 - **Class:** Mage
@@ -19,7 +19,7 @@ Yamato cheers Gabumon with an ATK boost at battle start and again on every Ultim
 
 ## Exclusive Equipment: Grace Cross Freezer
 
-**Unlocked, at +6.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of two EX weapons the account owns. Supreme+ opens levels 11 to 15, so his ceiling is **+15** against Taichi & Agumon's +10. See [../../account/equipment.md](../../account/equipment.md).
+**Unlocked, at +6.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of **four** EX weapons the account owns. Supreme+ opens levels 11 to 15, so **he is the only one of the four that can be spent on above +10**: Taichi & Agumon and Eironn stop at +10, and Aurora is already frozen on her Mythic+ ceiling of +5. See [../../account/equipment.md](../../account/equipment.md).
 
 Grace Cross Freezer is a spread missile barrage. It hits several enemies at once and does less on repeat hits against the same target, so it spreads damage rather than deleting one hero. Its upgrades add an instant freeze plus bonus damage once enough hits land.
 

@@ -1,7 +1,7 @@
 # Phraesto
 
 > **Covers:** Phraesto kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Hypogean
 - **Class:** Tank
@@ -55,7 +55,7 @@ None of the three lists states an investment level, so none of them says which P
 
 **His HP-based damage suits an uncapped ladder.** Guides call him weak against early bosses because his damage reads the enemy's health rather than his own ATK. That is the same argument [../../account/progression.md](../../account/progression.md) already uses for Starshard Spell: on Infinite Stages, where enemy defence climbs with no ceiling, damage that reads enemy HP is the kind that keeps working. It is also the likeliest reason the Dream Realm letters split so far, because a single armoured boss is the fight his kit reads worst.
 
-**He is the buy directly after Elijah & Lailah.** Three Soul Sigils take him to Legendary+ and switch Hero Focus on. The twins' three sigils are about three months of Guild Medals away, and he goes ahead of Aurora, because he stands in the comp being played and she does not. See [../guild-store.md](../guild-store.md).
+**He is the buy directly after Elijah & Lailah.** Three Soul Sigils take him to Legendary+ and switch Hero Focus on. The twins' three sigils are about three months of Guild Medals away. Aurora is the only other hero this shelf can ascend and she is already **Mythic+**, so nothing on it competes with him now. See [../guild-store.md](../guild-store.md).
 
 **He is barred from Legend Trial.** The four faction towers refuse Hypogean and Celestial heroes, and those towers hold this account's largest block of unclaimed rewards. He pays nothing there. See [../legend-trial.md](../legend-trial.md).
 

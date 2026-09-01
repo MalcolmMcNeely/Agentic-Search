@@ -72,16 +72,26 @@ Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipm
 | Taichi & Agumon | +8 | `?` |
 | Yamato & Gabumon | +6 | Grace Cross Freezer |
 | Eironn | +5 | Howling Hurricane |
+| Aurora | +5 | `?` |
 
-**Three Exclusive Equipments are owned.** Yamato & Gabumon is **Supreme+**, the top ascension tier and the first hero on this account to reach it. Taichi & Agumon and Eironn are both **Supreme**, one step behind. Each of the three carries an EX weapon on top. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out, and Eironn is the strongest hero the account can field in the modes that do, because he is Wilder and the towers take him. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md) and [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
+**Four Exclusive Equipments are owned.** Yamato & Gabumon is **Supreme+**, the top ascension tier and the first hero on this account to reach it. Taichi & Agumon and Eironn are both **Supreme**, one step behind, and **Aurora is Mythic+**, the tier the weapon unlocks at. Each of the four carries an EX weapon on top. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out, and Eironn is the strongest hero the account can field in the modes that do, because he is Wilder and the towers take him. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md) and [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 
 **They also ramp each other, so the two strongest heroes on the account are the same two that pay each other back.** WarGreymon hands every ally behind him +25% of his own ATK at battle start, and Gabumon taking that buff gains 300 Energy, which shortens his own digivolve. Grace Cross Freezer fires **more missiles the closer allies stand**, so the pair wants to be built inward, not spread. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
 **Yamato & Gabumon holds Enhance Force and Taichi & Agumon does not.** It arrives with Supreme+ and strengthens one skill the hero already has. `?` which skill it lands on; read it off the hero screen. Taichi & Agumon needs Supreme+ for it, and the Digimon crossover event is the only published source of his copies. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**The two EX weapons now have different ceilings.** Levels 11 to 15 need Supreme+, so Yamato & Gabumon can climb from +6 to **+15** while Taichi & Agumon stops at **+10**. Both bands are paid in Temporal Essence, which cannot be bought: 75 per level up to +10, then 100 per level above it. The cheaper band holds **four levels on Yamato & Gabumon and two on Taichi & Agumon**, and past +10 only Yamato & Gabumon can spend at all. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**The four EX weapons sit at three ceilings, because every upgrade band needs a higher ascension tier than the last.** Levels 6 to 10 need Supreme, and 11 upwards needs Supreme+.
 
-**The fourth EX weapon is one tier away on eight heroes.** Daimon, Shemira, Aurora, Bonnie, Hugin, Smokey & Meerky, **Zanie** and **Faramor** are all **Mythic**. Shemira, Aurora and Smokey & Meerky are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the same price the Digimon pair and Eironn paid. Bonnie, Hugin, Zanie and Faramor are A-Level and cost **12 sigils** each, and Daimon's Level is `unverified`. **Faramor is the cheapest of the four to reach**, because the Dream Store stocks him and his copies are a fragment purchase. **Zanie is the hardest of the eight**, because that shelf does not stock her, so her copies have to come off a banner. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
+| Hero | EX now | Ceiling at its tier | Levels it can still buy |
+| --- | --- | --- | --- |
+| Aurora | +5 | **+5**, Mythic+ | **none** |
+| Eironn | +5 | +10, Supreme | 5 |
+| Taichi & Agumon | +8 | +10, Supreme | 2 |
+| Yamato & Gabumon | +6 | +15, Supreme+ | 9 |
+
+**Aurora's weapon is already on her ceiling.** Not one level can be bought on it until she ascends to Supreme, so a sigil spent on her buys the next EX level as well as the tier. **Yamato & Gabumon is the only weapon that can be spent on above +10 at all.** Levels 6 to 15 are paid in Temporal Essence, which cannot be bought: 75 per level to +10, then 100 per level. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+
+**The fifth EX weapon is one tier away on seven heroes.** Daimon, Shemira, Bonnie, Hugin, Smokey & Meerky, **Zanie** and **Faramor** are all **Mythic**. Shemira and Smokey & Meerky are **S-Level**, so each crosses Mythic to Mythic+ for **2 Soul Sigils and 100 Faction Acorns**, the price the Digimon pair, Eironn and Aurora all paid. Bonnie, Hugin, Zanie and Faramor are A-Level and cost **12 sigils** each, and Daimon's Level is `unverified`. **Faramor is the cheapest of the seven to reach**, because the Dream Store stocks him and his copies are a fragment purchase. **Zanie is the hardest**, because that shelf does not stock her, so her copies have to come off a banner. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 ## Magic Charms
 

@@ -1,7 +1,7 @@
 # Taichi & Agumon
 
 > **Covers:** Taichi & Agumon kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-01
 
 - **Faction:** Dimensional
 - **Class:** Warrior
@@ -27,7 +27,7 @@ Its three levels are bought with **Tidal Essence**, not earned by ascending, so 
 
 ## Exclusive Equipment
 
-Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate, and levels 11 to 15 need Supreme+, so his ceiling is **+10**. It is one of **two** Exclusive Equipments on the account; Yamato & Gabumon holds the other at +6. See [../../account/equipment.md](../../account/equipment.md).
+Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate, and levels 11 to 15 need Supreme+, so his ceiling is **+10**. It is one of **four** Exclusive Equipments on the account; Yamato & Gabumon holds one at +6, Eironn one at +5 and Aurora one at +5. See [../../account/equipment.md](../../account/equipment.md).
 
 **He and Yamato & Gabumon are the two strongest heroes the account owns, and which one leads is open.** Yamato & Gabumon stands one ascension tier higher at Supreme+ and holds Enhance Force; he holds two more weapon levels, +8 against +6. `?` which of those two is worth more. Standing two or three ascension tiers above every hero outside the pair, plus an EX weapon, is still a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
 

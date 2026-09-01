@@ -94,7 +94,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Aurora | Mage | Magic | Mythic | - | [aurora](../mechanics/heroes/aurora.md) |
+| Aurora | Mage | Magic | Mythic+ | +5 | [aurora](../mechanics/heroes/aurora.md) |
 | Rolan | Support | Magic | Epic | - | [rolan](../mechanics/heroes/rolan.md) |
 | Elijah & Lailah | Support | Magic | Epic | - | [elijah-lailah](../mechanics/heroes/elijah-lailah.md) |
 

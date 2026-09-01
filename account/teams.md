@@ -98,7 +98,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Pandora is the swap when Agumon dies before he digivolves specifically.** Boxed Blessing seals one ally in an **invincible** box for 4s and releases them with **bonus Energy and ATK**, so it covers the ramp and shortens it in one skill. She is **Legendary** and Dimensional, so she keeps the 3-core: the bonus stays at **+22%** and only the wildcard count drops. She is the cheapest swap here in faction terms. See [../mechanics/heroes/pandora.md](../mechanics/heroes/pandora.md).
 
-**Aurora stays out, and the reason is worth keeping.** Both halves of her design read one number: allied summons belonging to **different** allies, capped at **5 stacks from 5 different allies**. This comp fields almost none, so she would run starved. **Put her back only in a comp built around summons.** She is Mythic against three Epics here, so raw tier says the opposite; the starvation is why tier loses.
+**Aurora stays out, and the ascension makes the reason stronger, not weaker.** All three parts of her design read one number: allied summons belonging to **different** allies, capped at **5 stacks from 5 different allies**. Her EX weapon at +5 is a **third** multiplier on that same count, so the tier bump bought more of a thing this comp does not feed. This comp fields almost none, so she would run starved. **Put her back only in a comp built around summons.** She is Mythic+ with a weapon against three Epics here, so raw tier says the opposite louder than before; the starvation is still why tier loses. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
 **Koko stays out because Phraesto does her job.** Her damage reduction converts to true damage, which is the right damage type, but she is Mauler and drops the faction bonus for mitigation this comp already fields, with no second body behind it. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
 
@@ -129,7 +129,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, spreads to nearby foes, and her Ultimate stuns anything carrying it. Daimon soaks and hands shields to bonded allies. Rolan clones Shemira's ghost Ultimate outright.
 
-**Eironn replaces Aurora, and the trade is 4% team stats for the account's best-evidenced PvP hero.** Three current lists land within one band on him: **A+** [allclash, 2026-08-26, assumes the EX weapon], **A+** [afk.global PvP tab, 2026-08-20, investment not stated] and **A** [Pocket Tactics, 2026-08-17, investment not stated]. This account holds the weapon those letters assume. Aurora's PvP letters split four bands the other way, **A** / **B** / **C** across the same three lists, `unverified`, and her own file names PvP her weakest mode. Her summon stack needs a fight long enough to put summons on the field, and this comp fields two summon sources against the five different allies her Hero Focus counts. Eironn is two ascension tiers above her with an Exclusive Equipment live, which is the case [../mechanics/team-building.md](../mechanics/team-building.md) names for dropping the faction bonus. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md) and [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
+**Eironn replaces Aurora, and the trade is 4% team stats for the account's best-evidenced PvP hero.** Three current lists land within one band on him: **A+** [allclash, 2026-08-26, assumes the EX weapon], **A+** [afk.global PvP tab, 2026-08-20, investment not stated] and **A** [Pocket Tactics, 2026-08-17, investment not stated]. This account holds the weapon those letters assume. Aurora's PvP letters split four bands the other way, **A** / **B** / **C** across the same three lists, `unverified`, and her own file names PvP her weakest mode. Her summon stack needs a fight long enough to put summons on the field, and this comp fields two summon sources against the five different allies her Hero Focus counts.
+
+**The tier argument for this swap is gone, and the mode argument is what is left.** Aurora is now **Mythic+ with her own weapon at +5**, one ascension behind Eironn's Supreme rather than two, and both weapons sit at +5. So this is no longer a well-invested hero displacing a poorly invested one. It is the mode: Arena is settled in the opening seconds, Eironn's pull and 40% Magic DEF cut land in those seconds, and every one of Aurora's three multipliers pays only once summons are on the field. **Re-test her here anyway**, because the comp is `proposed` and the gap it rested on has closed. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md) and [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
 **Re-place this comp for every opponent, because the map is theirs and not yours.** The defender saves one Arena map and every attacker fights on it, so the walls change with each challenge. **A low wall blocks walking but lets ranged units shoot over it**, and this comp puts its opener on **Eironn at range 1**. On a map with a low wall between the two lines he walks the long way round while the enemy backline fires over it the whole time, and the pull that the rest of the comp is built on lands late or not at all. Read the walls before locking the rows. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
 
@@ -217,7 +219,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 200 |
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | 200 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 200 |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 200 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 200 |
 
@@ -229,7 +231,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 
 **Damage types are split 3 magic to 2 physical on purpose.** Whichever Wings are on the field, at least two heroes are firing unresisted. Cecia does more than carry the physical half: Trial of Thorns steals **1.5% of Phys DEF and Magic DEF every second and keeps it for the whole fight**, so she strips both of the defences the boss stacks, whichever one is live.
 
-**Aurora is the multiplier.** Dream Veil raises the damage of every allied summon, and this comp puts four summon sources on the field: Shemira's ghosts, Cecia's Mr. Carlyle, Daimon's Stitchy and Aurora's own bunnies.
+**Aurora is the multiplier, and she multiplies harder than she did.** Dream Veil raises the damage of every allied summon, and her **EX weapon at +5 raises it a further 8%** on top. This comp puts four summon sources on the field: Shemira's ghosts, Cecia's Mr. Carlyle, Daimon's Stitchy and Aurora's own bunnies. Three different allies feed her Hero Focus here, against the 5 it counts. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
 **AoE clears the Wings.** Skyclops is resisted or outright immune while a Wing lives, so wave clear is a requirement, not a bonus. Shemira's ten ghosts, Cecia's arc and Aurora's bunnies cover it.
 
@@ -327,7 +329,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | --- | --- | --- | --- | --- | --- |
 | Front | Thador | Wilder | Tank | 1 | Legendary+ |
 | Middle | Faramor | Wilder | Rogue | 1 | Mythic |
-| Middle | Aurora | Celestial | Mage | 2 | Mythic |
+| Middle | Aurora | Celestial | Mage | 2 | Mythic+, EX +5 |
 | Back | Velara | Wilder | Support | 5 | Legendary |
 | Back | Solise | Wilder | Support | 6 | Legendary |
 
@@ -345,7 +347,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 
 **Faction bonus: +22%.** Four Wilder plus Aurora wildcarding, plus +1% ATK and HP for the Celestial.
 
-**Why:** the mode is attrition, so the comp is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), not nuke. Solise heals in waves and her Bulbsprites raise team damage, so the first healing slot still adds damage. Thador tanks and his Ultimate heals the team on top. Faramor is the payload: true damage, blocked enemy healing, and a 12 to 15% ATK buff on the ally beside him. Aurora raises the damage of every allied summon, which pays Solise's Bulbsprites, Velara's circles and her own, and turns nearby enemies into immobilised plushies.
+**Why:** the mode is attrition, so the comp is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), not nuke. Solise heals in waves and her Bulbsprites raise team damage, so the first healing slot still adds damage. Thador tanks and his Ultimate heals the team on top. Faramor is the payload: true damage, blocked enemy healing, and a 12 to 15% ATK buff on the ally beside him. Aurora raises the damage of every allied summon twice over, through Dream Veil and through her **EX weapon at +5 for a further 8%**, which pays Solise's Bulbsprites, Velara's circles and her own, and she turns nearby enemies into immobilised plushies.
 
 **Velara takes the second healer slot from Hewynn, and this mode is the reason.** She is Legendary against Hewynn's Epic, two tiers up, and both are Wilder Supports, so the swap costs nothing in faction bonus or gear class. Her Ultimate wakes four magic circles **as Energy builds**, and **Energy carries between floors here**, so the ramp that makes her worse in a one-off fight is largely paid off by floor two. Once all four circles wake she spreads the effect field-wide and transfers enemy stats to allies, which compounds over a run. Her circles are summons, so Aurora's Dream Veil buffs them, which Hewynn's healing does not benefit from.
 
@@ -360,7 +362,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 3. **Thador and Faramor are both range 1**, so both walk into the enemy and leave Aurora at range 2 exposed once the front moves up. Watch her HP, because it carries.
 4. **Healer role split is `unverified`.** gamerant says bring two healers, afk.guide says one is enough. This comp follows gamerant, which costs a damage slot. See [../mechanics/arcane-labyrinth.md](../mechanics/arcane-labyrinth.md).
 
-**First swap to try if runs stall on damage:** Aurora out, **Cecia** in. She steals 1.5% of the target's two DEF stats every second and keeps it for the fight, and Mr. Carlyle can be resummoned to heal. It drops the bonus from +22% to +18%.
+**Cecia is no longer the first swap to try if runs stall on damage.** Taking Aurora out for her would strip a **Mythic+ hero carrying an EX weapon** out of the comp she pays the most in, because this is the one comp on the account built entirely of summon sources. Cecia is Epic and steals 1.5% of the target's two DEF stats a second, which is real, but it costs the +22% bonus down to +18% as well. **Try the two 210 Hand slots and Faramor's ascension first.** Take the Cecia swap only if both of those are spent and runs still stall.
 
 **Run state:** difficulty 2 is cleared and the Deep Labyrinth is open. See [progression.md](progression.md).
 
@@ -516,7 +518,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 200 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 200 |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Mythic | 200 |
 | Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | 200 |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | 200 |
@@ -533,7 +535,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 
 **2. Rolan doubles the carry.** His clone casts Shemira's Ultimate again at 80% of her base stats, which is 10 more ghosts. It is the largest single damage add the account owns.
 
-**3. Aurora multiplies both.** Dream Veil raises the damage of every allied summon. This comp puts Shemira's ghosts, Rolan's cloned ghosts and Aurora's own bunnies on the field, so one buff pays three times.
+**3. Aurora multiplies both, and she is the slot that improved.** Dream Veil raises the damage of every allied summon and her **EX weapon at +5 adds a further 8%** to the same summons. This comp puts Shemira's ghosts, Rolan's cloned ghosts and Aurora's own bunnies on the field, so both buffs pay three times over. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
 **4. The AoE is the ghosts.** The enemy is a swarm and no source says whether a battle fields one Hypofiend or a wave, so wave clear is the safe build. Twenty ghosts plus Aurora's bunnies covers it, and Bonnie's Aging cuts enemy Haste and ATK and then spreads.
 
@@ -653,7 +655,7 @@ Send it at the mid-boss and the final boss, not at passages.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Front | Gerda | Mauler | Tank | Physical | 1 | Elite | 200 |
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | 200 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic | 200 |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 200 |
 | Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | 200 |
 
@@ -661,7 +663,7 @@ Send it at the mid-boss and the final boss, not at passages.
 
 **Faction bonus: +18%**, plus **+1%** for one wildcard. Three Graveborn, with Aurora counting as any faction, makes 4. Gerda is Mauler and does not wildcard. She holds this front because Phraesto now holds Team 1's.
 
-**Why:** Gerda sleeps a whole area for up to 3s and heals through it, which is control and sustain in one slot, Valka builds panic stacks into true damage off the target's max HP, Bonnie's Aging strips enemy Haste and ATK and then spreads, Cecia steals 1.5% of both enemy DEF stats a second and keeps it, and Aurora raises the damage of every allied summon, which pays Cecia's Mr. Carlyle and her own bunnies.
+**Why:** Gerda sleeps a whole area for up to 3s and heals through it, which is control and sustain in one slot, Valka builds panic stacks into true damage off the target's max HP, Bonnie's Aging strips enemy Haste and ATK and then spreads, Cecia steals 1.5% of both enemy DEF stats a second and keeps it, and Aurora raises the damage of every allied summon by Dream Veil and by a further 8% from her EX weapon at +5, which pays Cecia's Mr. Carlyle and her own bunnies. **She is now the highest-invested hero in this team**, the only one carrying an EX weapon, so keep her alive and keep summons on the field around her.
 
 **Weak point:** Gerda is **Elite**, the lowest tier in any team here, and her sleep is the only sustain behind it. This is the team that wipes first on a Hard passage. Send it at Easy and Regular work.
 
