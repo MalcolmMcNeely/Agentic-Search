@@ -1,7 +1,7 @@
 # Koko
 
 > **Covers:** Koko kit, stats and best use.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 - **Faction:** Mauler
 - **Class:** Support
@@ -22,6 +22,10 @@ Ultimate Full Energy gives allies 45 to 55% damage reduction for 12s, then conve
 Campaign and PvP. Damage mitigation plus healing.
 
 **A team-wide mitigation is worth five heroes' survival bought with one slot**, and the conversion to true damage means the same cooldown also pays into the damage sum. That is why she scores above a single-target Warrior a tier higher. See [../hero-scoring.md](../hero-scoring.md).
+
+**PvP, rated S** [allclash, 2026-08-26, investment not stated] `unverified`. The letter came out of an extraction that listed two other heroes in two tiers at once, so **re-read that list in a browser before leaning on it**. The kit argument above stands without it.
+
+She is the first swap into the Arena comp if that comp gets wiped rather than out-damaged. She is Mauler, so the cost is the faction cap, not levels: every hero on the account runs at the Resonance Level of 210. See [../../account/teams.md](../../account/teams.md).
 
 ## Source
 

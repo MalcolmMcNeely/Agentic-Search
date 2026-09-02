@@ -39,7 +39,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | **210** |
 | Back | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 | **210** |
 | Back | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | **210** |
-| Back | Rolan | Celestial | Support | Magic | 10 | Epic | 200 |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic | **210** |
 
 **Seven bodies from five heroes.** The count is a property of the hero, not of the comp. See [../mechanics/formation.md](../mechanics/formation.md).
 
@@ -55,7 +55,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Faction bonus: +22%, plus +3%.** Two Dimensional, with Phraesto, Rolan and Elijah & Lailah counting as any faction, which makes 5. Each of those three adds +1% ATK and HP on top for being Hypogean or Celestial. **This is the cap**, and the comp reaches it while fielding both top-tier heroes, which no other five on the roster manages. See [../mechanics/factions.md](../mechanics/factions.md).
 
-**These five hold all five Hands of Resonance**, so every level the account buys lands on the comp being played. **Four of the five run at 210 and only Rolan sits at 200**, the Resonance Level. So this comp now fields four heroes above the rest of the roster rather than two, and the two carries are among them: Taichi & Agumon and Yamato & Gabumon both stand at Supreme tier with an Exclusive Equipment, so 10 levels multiply the largest damage numbers here and the extra HP helps each survive to its digivolve. **Yamato & Gabumon takes the slot Daimon held and Rolan takes the slot Shemira held**; both swaps are free and the level travels with the slot. **Rolan is the slot to level**, because he is the lowest Hand and the Resonance Level follows him alone. See [progression.md](progression.md).
+**These five hold all five Hands of Resonance**, so every level the account buys lands on the comp being played. **All five run at 210, and so does the Resonance Level and therefore every hero on the roster.** This comp no longer stands above the rest of the account on levels; it stands above it on tier, because Taichi & Agumon and Yamato & Gabumon carry Supreme ascensions and Exclusive Equipment that nothing else here matches. **Yamato & Gabumon takes the slot Daimon held and Rolan takes the slot Shemira held**; both swaps are free and the level travels with the slot. **Level all five together**, because the Resonance Level reads the lowest Hand and moves only when every one of them moves. See [progression.md](progression.md).
 
 **The levelling bottleneck is Phraesto, Elijah & Lailah and Rolan, and all three stand in this comp.** The Resonance Level is the lowest Hand, so it moves only when all three reach the next point, and that lifts all 44 heroes and unfreezes the two capped Hands with them. **Every level goes into those three and nowhere else**, because Taichi & Agumon and Yamato & Gabumon already run 10 above the Resonance Level and can take no more. It is the highest-value spend on the account and it lands on the comp being played.
 
@@ -107,90 +107,101 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 **Eironn is out, and the reason that used to keep him out is gone.** His battle-start pull needed Mythic+ and he is now **Supreme with the weapon at +5**, so it fires. What keeps him out now is the faction maths: he is Wilder, and dropping any of these five for him breaks the 5-count that pays the +22% and costs a Hand slot as well. Worth one run to test against the current five, not worth assuming. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 ---
 
-## PvP, Arena — mitigation into a Graveborn carry — `proposed`
+## PvP, Arena — Dimensional double digivolve — `proposed`
 
 **Purpose:** Arena, ranked PvP. See [../mechanics/arena.md](../mechanics/arena.md).
 
-| Row | Entity | Faction | Class | Range | Tier | Level |
-| --- | --- | --- | --- | --- | --- | --- |
-| Front left | Phraesto, true body | Hypogean | Tank | 1 | Epic | **210** |
-| Front right | Phraesto, Illusion | Hypogean | Tank | 1 | Epic | **210** |
-| Middle right | Koko | Mauler | Support | 4 | Legendary | **210** |
-| Back right | Shemira | Graveborn | Mage | 4 | Supreme, EX +1 | **210** |
-| Back left | Bonnie | Graveborn | Marksman | 7 | Mythic | **210** |
-| Back far left | Rolan | Celestial | Support | 10 | Epic | 200 |
+| Row | Entity | Faction | Class | Damage | Range | Tier | Level |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Front left | Phraesto, true body | Hypogean | Tank | Magic | 1 | Epic | **210** |
+| Front right | Phraesto, Illusion | Hypogean | Tank | Magic | 1 | Epic | **210** |
+| Middle right | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | **210** |
+| Back right | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 | **210** |
+| Back left | Pandora | Dimensional | Support | Magic | 5 | Legendary | **210** |
+| Back left | Elijah & Lailah, Ranged Twin | Celestial | Support | Magic | 6 | Epic | **210** |
+| Back centre | Elijah & Lailah, Melee Twin | Celestial | Support | Magic | 6 | Epic | **210** |
 
-**Entities: five heroes, six tiles.** Phraesto deploys as two bodies, both placed in the preparation phase, and the Illusion inherits 100% of his stats. Three more arrive during the fight and the caster's tile decides where: Shemira's 10 ghosts, Rolan's clone on every ally Ultimate, and Koko's Full Energy shield-and-return, which reads the whole team. See [../mechanics/formation.md](../mechanics/formation.md).
+**Entities: five heroes, seven tiles.** Phraesto fields two bodies and Elijah & Lailah field two twins; Taichi and Yamato each cheer from off the field and take no tile. Rolan's clone is not here, so nothing else arrives mid-fight. See [../mechanics/formation.md](../mechanics/formation.md).
 
-**Artifact:** Confining Spell +8. Both steps are live, so the imprison lasts **2.5s on a 10s cooldown**, and it fires first at **3s**. It hits the **2 rearmost enemies**, and an undigivolved Agumon is a range-7 backline unit, so this artifact aims at him by default. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**Artifact:** Confining Spell +8. Both steps are live, so the imprison runs **2.5s on a 10s cooldown** and fires first at **3s**, at the **2 rearmost enemies**. An undigivolved enemy Agumon is a range-7 backline unit, so the artifact aims itself at him inside the only window he can be stopped in. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Faction bonus: +18%**, plus +2% for the two wildcards. Shemira and Bonnie are two Graveborn, and Rolan and Phraesto each count as any faction, making four. Koko is a lone Mauler and does not count into it. See [../mechanics/factions.md](../mechanics/factions.md).
+**Faction bonus: +22%, plus +2%.** Three Dimensional — Taichi & Agumon, Yamato & Gabumon and Pandora — with Phraesto and Elijah & Lailah counting as any faction, which makes 5. **This is the faction cap**, and it is reached with a real 3-hero core rather than a 2-hero one, so the comp keeps its shape if a wildcard is ever swapped out. Each wildcard adds +1% on top. See [../mechanics/factions.md](../mechanics/factions.md).
 
-**Hands of Resonance: four of the five heroes here run at 210, and no swapping is needed for one of them.** Phraesto already holds a Hand at 210. The three spare 210 slots belong to Taichi & Agumon, Yamato & Gabumon and Elijah & Lailah, none of whom stands here, so **lend them to Shemira, Koko and Bonnie**. Shemira because she is the carry and Rolan's clone inherits 80% of her base stats, so a level on her lands twice. Koko because her damage reduction is the reason this comp survives the wipe. Bonnie because her Aging has to land before the digivolve. **Rolan keeps his own slot at 200**, the Resonance Level, and he is the one hero here who cannot be lifted. See [progression.md](progression.md).
+**Hands of Resonance: nothing to borrow, and nothing to give up.** All five Hands run at 210 and the Resonance Level is 210, so **every hero in this comp fields at 210**, Pandora included, whether or not she holds a slot. Four of these five are Hands anyway, so the comp costs the push comp nothing. See [progression.md](progression.md).
+
+**Archetype: ramp carry, doubled, with the ramp bought outright.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
 ### The fight this comp is built against
 
-**Confirmed from the account: attacks from here lose to defence teams carrying a shield and a Taichi & Agumon.** The shield absorbs the opening, and Agumon then wipes the team. That is three separate problems, and the previous comp answered none of them.
+**Confirmed from the account: attacks lose to defence teams carrying a shield and a Taichi & Agumon, including teams 50,000 power weaker.** The shield absorbs the opening and Agumon then wipes the team.
 
-1. **A shield beats a burst comp by outlasting it.** The old comp spent everything in the opening ten seconds. A shield that survives those seconds wins the fight outright, because nothing came after them.
-2. **The digivolve is the wipe, and it shields itself.** Agumon's first Ultimate turns him into WarGreymon: +100% HP, +50% ATK, and **Recovery Shield grants a 700% + 100% shield in the same instant**, for 10s. Gaia Force then hits **7 times within 3 tiles of the target**, and cannot be interrupted mid-cast. `unverified`, one source, and the same source says WarGreymon **"remains unaffected" while that shield holds**. Read as control immunity, it means **every counter has to land before the digivolve**. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
-3. **A five-hero block is one Gaia Force.** Gaia Force reads a 3-tile radius, so a comp placed in one clump loses everyone to a single cast.
+**The reply is to field the same engine, better funded.** This account owns the pair the losing teams are built on, at **Supreme with EX +8** and **Supreme+ with EX +6**, both at level 210. Nothing else on the roster is within two ascension tiers. The previous comp left them home on the archetype rule that a ramp carry loses a burst race; that rule is right in general and wrong here, because **Taichi removes the ramp**. He restores **150 Energy every 3s, plus 250 more while Agumon has not digivolved**, so the transformation is an opening move rather than a late one.
 
-**So the comp is built on three answers, in this order.**
+**A ramp carry has exactly one window where it dies, and this comp buys that window three ways.**
 
-- **Hit Agumon before he transforms.** He is **range 7 until the digivolve**, so he stands in the enemy back row with none of the HP that makes WarGreymon a frontliner. Confining Spell fires at 3s at the 2 rearmost enemies and locks them 2.5s, and Bonnie's Aging cuts Haste and ATK and spreads it, which lengthens the ramp. Both of these stop working the moment the shield is up.
-- **Survive the cast rather than trying to stop it.** [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) puts mitigation, not healing, against a fight where one enemy Ultimate is what kills you, because a heal arrives after the hit and a shield arrives before it. **Koko's Full Energy gives the team 45 to 55% damage reduction for 12s and then converts everything it blocked into true damage.** That is one slot buying five heroes' survival, and the same cooldown pays the damage back. **Phraesto's Foggy Whisper taunts and stuns the enemy's highest damage dealer**, which is Agumon, and pulls him onto a tank with two bodies at 30% damage reduction each.
-- **Split the formation so one cast cannot reach everyone.** See the placement below.
+1. **Pandora seals him.** Boxed Blessing makes an ally **invincible for 4s** and releases them with **bonus Energy and ATK**. Pointed at Agumon it covers the seconds he is weakest, then shortens the ramp it just protected and raises the Gaia Force at the end of it. She is Dimensional, so the protection costs no faction bonus. See [../mechanics/heroes/pandora.md](../mechanics/heroes/pandora.md).
+2. **Phraesto pulls the enemy off him.** Foggy Whisper **taunts and stuns the enemy's highest damage dealer**, which is the enemy carry, and it lands before their digivolve, the only window control works in. Two bodies in one row give each other **30% damage reduction**, and Foggy Whisper regrows the Illusion if it falls.
+3. **He starts in the back row.** He is range 7 until the digivolve and the +100% HP arrives with it. Confirmed from the account: fielded in the front row he died before transforming. He walks to the front himself afterwards.
+
+**After the digivolve he is the problem rather than the target.** Recovery Shield lands in the same instant as the transformation, worth **700% + 100% for 10s**, and the same source says he **"remains unaffected"** while it holds. Gaia Force then hits **7 times within 3 tiles** and **cannot be interrupted mid-cast**. Dramon Killer executes whatever the rest of the comp has already wounded.
+
+**The enemy Agumon is answered in the same window, with four taps.** Confining Spell at 3s on the 2 rearmost enemies, Phraesto's taunt and stun on their top damage dealer, Gabumon's freeze, and Pandora's Panic Projection, which scatters every unit for 5s and then cuts enemy ATK. **All four expire as counters the moment their shield goes up**, so a fight that reaches their digivolve intact is a fight this comp has to out-damage rather than out-play.
 
 ### Placement
 
-**Two clumps at opposite ends of the board, three entities each.** One Gaia Force then reaches half the team instead of all of it.
+**Rows, front to back: Phraesto's two bodies, then Agumon, then Gabumon, Pandora and both twins.**
 
-- **Both Phraesto bodies stand in the front row**, which is what grants each of them 30% damage reduction, and they stand at **opposite ends of it** so one cast cannot catch both.
-- **Which body an ally stands behind decides which buff it gets.** Allies behind the **Illusion** take less damage, so **Shemira and Koko** stand on the right. Allies behind the **true body** gain Energy Recovery Speed, so **Bonnie and Rolan** stand on the left, where the faster bar brings Rolan's clone round sooner.
-- **Placing Phraesto draws a marker on the tile the Illusion lands on.** Read it before locking the rows, because it decides which of the two columns is which. Confirmed from the account.
-- **Keep Shemira off the front.** She is range 4, so she needs to sit behind the Phraesto bodies rather than beside them, and Gaia Force reads WarGreymon's current target.
+- **Both Phraesto bodies share the front row**, which is what grants each of them 30% damage reduction, and they stand at **opposite ends of it** so one enemy Gaia Force cannot catch both.
+- **Agumon stands one row back, alone**, out of the front row and ahead of everyone else. That second half is the point: at battle start he buffs **himself and every ally behind him** with **+25% of his own ATK for 20s**, and **Gabumon taking that buff gains 300 Energy**, which starts the second digivolve early. Standing level with the others pays them nothing.
+- **Both Elijah & Lailah twins go in the back row with nothing between them.** They share one HP pool carrying +50% max HP, so neither ever goes forward, and an empty line keeps their permanent **+25% ATK** while leaving every ally certain of Starlight Waltz.
+- **Keep Gabumon and Pandora on opposite sides of the back row.** Gabumon is the most fragile hero here and Pandora is the one whose skill decides the fight, and one Gaia Force reads a 3-tile radius.
+- **Which Phraesto body an ally stands behind decides its buff.** Damage reduction sits behind the Illusion, Energy Recovery Speed behind the true body. **Put Agumon behind the Illusion** — surviving to the digivolve is his whole job — and **Gabumon and Pandora behind the true body**, where the faster bar brings the second digivolve and the box round sooner. Placing Phraesto draws a marker on the tile the Illusion lands on; read it before locking the rows.
 
-**This comp has no range-1 carry, so a low wall no longer decides the fight.** That was the old comp's worst weakness: Eironn at range 1 walked the long way round a low wall while the enemy backline fired over it. Phraesto is range 1 and is the only hero here who has to close, and closing is a tank's job. **Still read the walls before locking the rows**, because the defender saves the map and every attacker fights on it. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
+**Read the walls before locking anything.** The defender saves the map and every attacker fights on it. Agumon becomes range 1 after transforming, so a **low wall** is the terrain that hurts this comp: he has to walk round it while the enemy backline shoots over. He is the only hero here who has to close. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
+
+### The one tension in the formation
+
+**Gabumon's EX weapon fires more missiles the closer allies stand to him, and an enemy Gaia Force punishes exactly that.** The two rules pull against each other and there is no placement that satisfies both.
+
+**Split, and give up the missiles.** The account is losing to enemy Agumon teams, so the cast that wipes a bunched comp is the confirmed threat and the extra missiles are not. Revisit it if the losses stop being wipes.
 
 ### What each hero is here to do
 
-- **Shemira** is the carry, and she is the answer to a shield. Her Ultimate runs **10 ghosts for 10s** and Rolan clones it for 10 more, so the damage is spread across the fight rather than spent in one hit, which is what a timed shield cannot absorb. Ghastly Tribute adds **true damage worth 24% + 3% of the enemy's max HP**, which ignores defence. She heals herself off her ghosts, which is why the comp survives without a healer.
-- **Koko** is the mitigation, and she is why the wipe stops being a wipe.
-- **Phraesto** is the frontline, the taunt and a second body. He also feeds Energy to the left column.
-- **Bonnie** is the control. Aging cuts enemy Haste and ATK and spreads to nearby foes, so it slows the ramp and softens the cast; her Ultimate stuns anything carrying it.
-- **Rolan** doubles the carry. His clone casts Shemira's Ultimate outright and inherits 80% of her base stats.
+- **Taichi & Agumon** is the carry, the frontline after 10 seconds, and the highest-invested hero the account can put in a PvP slot.
+- **Yamato & Gabumon** is the second carry and the freeze. Cocytus Breath freezes an area and applies continuous HP loss; Garuru Tomahawk is a splash freeze missile. He is the only hard control here that does not depend on the artifact.
+- **Pandora** is the enabler. The box is why Agumon reaches the digivolve, and Panic Projection is a second scatter aimed at the enemy's opening.
+- **Phraesto** is the whole frontline, and he is two of it. He also taunts the enemy carry away from Agumon during the only seconds that works.
+- **Elijah & Lailah** are the accelerant. Starlight Waltz gives every ally **+60 Haste for 7s**, which speeds both digivolves at once, and their skills add healing, Energy Regen and a shield on the weakest ally. Two twins on one pool add another body to soak.
 
-**Confirmed from the account: an attack from this account has lost to a defence team 50,000 power weaker.** Raw power does not settle these fights. Terrain, the faction counter and the enemy's saved map are what beat a power lead, and all three are read off the challenge screen before the fight.
+**Two damage types.** Agumon is Physical and the other four are Magic, so an enemy stacked against one defence cannot resist the whole comp.
 
 ### Weak points
 
-1. **The map is the enemy's choice.** It is the only weak point that changes between one challenge and the next.
-2. **The whole plan rests on one word in one source.** If "unaffected" does not mean control immunity, then Phraesto's stun and Confining Spell still bite after the digivolve, and the comp can afford to trade a defensive slot back for damage. **Settle it in game.**
-3. **Shemira is a scaling carry in a short fight.** The matchup table says leave one home in a damage race. Rolan's clone and a 210 Hand slot are what front-load her, and Eironn's 40% Magic DEF cut is what she has lost.
-4. **Damage is thinner than it was.** Two defensive slots replaced an engine and a second tank, so this comp wins by outlasting rather than by out-hitting. If enemy defence teams start surviving to a timeout, trade Koko back for Eironn.
-5. **Phraesto and Koko are both below their gates.** Phraesto is **Epic**, so his Hero Focus needs Legendary+ and his Exclusive Equipment needs Mythic+, and the weapon is what opens the fight with a 570% shield on both bodies. Koko is **Legendary**, one step and 8 Soul Sigils short of Legendary+. See [../mechanics/heroes/phraesto.md](../mechanics/heroes/phraesto.md) and [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
-6. **Rolan pays less here than in a Lightbearer core.** His Morale opener gives 6% per hero, not 10%, and Morale needs time this mode may not give. He is in for the Ultimate clone, which is not Morale-keyed.
+1. **The map is the enemy's choice**, and it is the only weak point that changes between one challenge and the next. A low wall is the one that bites, because Agumon ends the fight at range 1.
+2. **The plan rests on one word in one source.** If WarGreymon's "unaffected" is not control immunity, then the enemy's stuns and imprisons still bite their own Agumon after his digivolve, and this comp can trade a defensive slot for damage. **Settle it in game.** It cuts both ways: it also means your Agumon can be stopped mid-shield.
+3. **Three of the five sit at Epic or Legendary.** Phraesto and Elijah & Lailah are **Epic**, three Soul Sigils each from a live Hero Focus; Phraesto's raises DEF on both bodies and generates Energy whenever either takes damage, and Elijah & Lailah's raises the Haste. Pandora is **Legendary**, one step short of hers. Those are the three cheapest upgrades on the account and all three are in this comp.
+4. **No dedicated healer.** The comp survives on mitigation, invincibility and Agumon's own shield recovery instead. That is the right trade against a single wiping Ultimate, but it is a trade.
+5. **Both carries are Dimensional, and Dimensional does not wildcard.** Confirmed from the account. So the 3-core is real and losing any one of the three drops the bonus, where the push comp's 2-core is propped up by wildcards.
+6. **`?` What counts as "behind him".** Agumon's opening buff reads allies behind him, and no source says whether that is his column or the whole rear. If it is the column, Gabumon has to stand directly behind Agumon and the 300 Energy is worth more than the Illusion's damage reduction. **One battle settles it: watch whether Gabumon's bar jumps at the start.**
+7. **`unverified`: whether a boxed ally can still attack.** No source says. If Boxed Blessing silences the hero it protects, boxing Agumon delays the digivolve it is meant to protect. **It probably still nets out**, because Taichi cheers from off the field regardless and the release hands back bonus Energy on top, but **watch his Energy bar through the box on the first run**. The same question is open on the Snow Stomper comp below, and one battle settles both.
 
 ### Swaps
 
-**Koko out, Eironn in, once the comp stops dying.** Eironn is the account's best-evidenced PvP hero, **A+** [allclash, 2026-08-26, assumes the EX weapon], **A+** [afk.global PvP tab, 2026-08-20, investment not stated] and **A** [Pocket Tactics, 2026-08-17, investment not stated], and this account holds the weapon those letters assume. He is out today because his pull bunches enemies, and bunching enemies does nothing to a shield, while his range 1 hands the enemy's map a way to beat him. The faction bonus falls from +18% to +14% with him in, because he is a lone Wilder. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
+**Koko in for Elijah & Lailah, if the comp still gets wiped rather than out-damaged.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into true damage, which is one slot buying five heroes' survival on a cooldown that also pays the damage back. The cost is the faction cap alone: she is Mauler, so the bonus falls from +22% to +18%, and levels no longer enter into it because every hero on the account runs at 210. `unverified`: **S in PvP** [allclash, 2026-08-26, investment not stated], read out of a noisy extraction that listed two other heroes in two tiers at once, so **re-read that list in a browser before leaning on the letter**. The kit argument stands on its own either way. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
 
-**Bonnie out, Lily May in, against an Ultimate-heavy enemy comp.** Her Ultimate is a passive that answers every non-summoned enemy Ultimate with a Quellbolt, and a digivolve is an Ultimate. **The cost is the faction bonus**, which falls from +18% to +10% because she leaves only Shemira as a Graveborn. Her PvP letters split three bands, **S+** [allclash, 2026-08-26, no investment stated], **A** [afk.global PvP tab, 2026-08-20, investment not stated] and **B** [Pocket Tactics, 2026-08-17, investment not stated], all `unverified`, and she is **Epic**, so the Hero Focus Penetration those letters assume is three ascensions off. See [../mechanics/heroes/lily-may.md](../mechanics/heroes/lily-may.md).
+**Rolan in for Elijah & Lailah, to double the Gaia Force.** His clone casts an ally's Ultimate outright at **80% of their base stats**, so it copies Supreme tier and an EX weapon with it, and Gaia Force is the best Ultimate on the roster to copy. Both are Celestial, so the faction bonus does not move. He is out today because the clone arrives **after** the digivolve while the Haste arrives before it, and Arena is short. His PvP letter is also the weaker of the two. **Taking him here costs the push comp its lowest Hand**, so run the push comp first on any day both are due.
 
-**Rolan out, Elijah & Lailah in, to test.** Both are Celestial, so the faction bonus does not move. Starlight Waltz gives every ally **+60 Haste for 7s**, and they field **two bodies**, so the comp becomes seven tiles. Their PvP letters are **S+** [allclash, 2026-08-26, no investment stated] and **A+** [afk.global PvP tab, 2026-08-20, investment not stated], `unverified`. What stops it being an obvious upgrade is the `unverified` clause in [../mechanics/formation.md](../mechanics/formation.md): the skill text says linked allies are "unaffected during the dance", and no source says whether that excludes them from the +60 Haste. Settle that in game before trading Rolan's clone for it. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+**Shemira in for Pandora, only if enemy shields are what stop the comp rather than enemy damage.** Her ghosts run 10s and add true damage worth **24% + 3% of enemy max HP**, which is damage a timed shield cannot absorb, and she is **Supreme with EX +1**. The cost is the whole faction core: she is Graveborn, so the bonus falls from +22% to +14%, and Agumon loses the box that gets him to the digivolve. **This is the swap to reach for last.**
 
 ### Notes
 
-**`?` What gives the enemy team its shield.** Recovery Shield covers WarGreymon alone, so it does not explain a shield across the enemy line. Nothing in `mechanics/` holds a hero that shields a whole team, and the account owns none. One weak source names **Merlin** for team-wide shield and block control and **Scarlita** for a shield-then-ramp PvP defence build; neither is checked and neither is owned. **Read the enemy hero list off the challenge screen and name it**, because whether the shield is one hero, one artifact or Agumon alone changes which of the swaps above is right.
+**This comp and the AFK Stages push comp share four heroes and differ in one.** Pandora replaces Rolan. The push comp entry above already names her as "the swap when Agumon dies before he digivolves specifically", and in Arena that is not a contingency, it is the fight. A correction to Agumon, Gabumon, Phraesto or Elijah & Lailah belongs in both entries.
 
-**Twelve of the 44 heroes owned carry a PvP letter**: Aurora, Cecia, Eironn, Elijah & Lailah, Faramor, Hugin, Lily May, Phraesto, Shadewing, Silven, Viperian and Zanie. That is a quarter of the roster, so guide silence about the other thirty-two is not evidence against them, and every hero here was scored from its kit before any letter was read. **Koko carries no PvP letter at all** and holds a slot anyway, on the kit argument in [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md): a team-wide mitigation buys five heroes' survival with one slot, and the conversion to true damage pays the damage sum on the same cooldown.
+**Because the two comps overlap, the Hand slots do not have to move at all.** Four of these five hold one already.
 
-**The Digimon pair stay home.** Taichi & Agumon and Yamato & Gabumon are the account's two strongest heroes, but both are ramp carries whose payoff is a digivolve, and the matchup table leaves a ramp carry home in a burst race. Their slots come without them, and both run at 210, so this comp takes the levels and leaves the heroes at home. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Agumon's PvP ceiling is one ascension away, and the copies for it are on a clock.** **Supreme+** switches on the team-buffing half of his kit and the Gabumon synergy, both named for PvP, and it also opens EX levels 11 to 15, where **+15 is called the Arena target**. He is Supreme at EX **+8**, so two weapon levels are reachable now and five more sit behind that ascension. The crossover event is the only published source of copies and it ends **14 September 2026**. **This is the single highest-value purchase for Arena on the account.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
 
-**Shared heroes.** Shemira also stands in the **Skyclops**, **Tower of Eternity**, **Darkswarm Invasion** and **solo battles** entries. Bonnie stands in **Tower of Eternity**, **Darkswarm Invasion** and **Battle Drills**. Rolan stands in the **AFK Stages push comp**, **Snow Stomper**, **King Croaker** and **Darkswarm Invasion**. Phraesto stands in the **AFK Stages push comp** and holds his own Hand at 210, so this comp costs that one nothing. **Shemira, Koko and Bonnie borrow the other three 210 slots, and the heroes giving them up drop back to 200**, so run the push comp first when both are due the same day. A correction to any of these belongs in every comp holding them.
-
-**The upgrade path is Phraesto, and it is the cheapest ascension on the account.** Three Soul Sigils take him from Epic to Legendary+ and switch on a Hero Focus that raises DEF on both bodies and generates Energy whenever either takes damage. Koko's Legendary+ is the second buy, at 8 Soul Sigils from the Dream Store. See [../mechanics/guild-store.md](../mechanics/guild-store.md) and [../mechanics/dream-store.md](../mechanics/dream-store.md).
+**Agumon is rated S in PvP for an account that buys no copies, S+ for a spender** [allclash, 2026-08-26, states the split by spend]. Pandora is **S** and Elijah & Lailah are **S** on the same list; Phraesto's letter on that list is **disputed** between S+ and B+ across two readings of the same page, so it is not leaned on here. Every hero in this comp was placed on its kit first. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
 
 **The account sits at Adept 3**, the second of five named tiers. See [../mechanics/arena.md](../mechanics/arena.md) for the ladder and [progression.md](progression.md) for the rank.
 ---
@@ -205,7 +216,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | **210** |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | **210** |
 | Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Supreme+, EX +6 | **210** |
-| Back | Rolan | Celestial | Support | Magic | 10 | Epic | 200 |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic | **210** |
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, so it ignores the boss's defence, and it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
@@ -236,13 +247,13 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 3. **Freeze may not land.** `unverified`. MetalGarurumon's Cocytus Breath freezes an area, and no source says whether Snow Stomper resists hard control. His continuous HP drain and his self-stacking ATK and Haste pay either way.
 4. **Yamato's range is not published**, so he sits in the back row on the advice in his own kit file, which is that he is more fragile than Agumon.
 
-**Hands of Resonance: two slots stand here already, and two more are now worth lending.** Taichi & Agumon and Yamato & Gabumon hold Hands at 210 and both are fielded. **The Phraesto and Elijah & Lailah slots now run at 210 as well, so lend them to Cecia and Pandora**, which lifts four of the five. Rolan holds the last slot at 200 and cannot be lifted. See [progression.md](progression.md).
+**Hands of Resonance: nothing to borrow.** All five Hands run at 210 and the Resonance Level is 210, so every hero here fields at 210 whether or not it holds a slot. See [progression.md](progression.md).
 
 **Rolan's Morale opener pays 6% per hero here, not 10%.** The 10% rate needs a Lightbearer or Celestial core, and this is a Dimensional one. Three Dimensional heroes give 18% Morale at battle start. He is in for the Ultimate clone, which on an uninterruptible 7-hit Ultimate is the largest single damage add available to this account.
 
 **Swap if the comp dies before the timer: Cecia out, Hewynn in.** The faction bonus does not move, because Hewynn is Wilder and Dimensional still counts 4. Rain Prayer heals every ally for up to 115% HP per second across 9s and Tranquil adds team-wide damage reduction while it runs. The cost is the defence strip, which is this comp's biggest damage multiplier, so make the trade only if heroes are actually dying.
 
-**Rolan also stands in the Arena and Darkswarm comps, and Cecia stands in the Skyclops comp.** A change to either hero moves those comps too.
+**Rolan also stands in the push comp, the King Croaker comp and the Darkswarm comp, and Cecia stands in the Skyclops comp.** A change to either hero moves those comps too.
 
 ---
 
@@ -256,13 +267,13 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | **210** |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | **210** |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 | **210** |
-| Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | 200 |
+| Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | **210** |
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, and true damage is the one output the Wings cannot resist. It fires every **3** ally Ultimates for **24% of each target's current HP**. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 **Faction bonus: +22%**, plus +1% for Aurora. Four Graveborn, and Aurora wildcards in as the fifth.
 
-**Hands of Resonance: borrow all four slots at 210 before the run.** No hero here holds a Hand, so all five start at the Resonance Level of 200. Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah hold the four slots at 210 and none of them is fielded here. **Give them to Shemira, Aurora, Daimon and Valka**: the carry, the summon engine, and the two frontline bodies whose true damage scales off the boss's max HP. **Cecia is the one hero left at 200**, at Epic the lowest tier here. Rolan's slot sits at 200 and hands over nothing. See [progression.md](progression.md).
+**Hands of Resonance: nothing to borrow.** No hero here holds a Hand, and it no longer matters: all five Hands run at 210 and so does the Resonance Level, so **every hero in this comp already fields at 210**. Cecia at Epic is the lowest tier here, and tier is now the only thing separating these five. See [progression.md](progression.md).
 
 **Why: three heroes deal true damage scaled to enemy max HP, and the Wings carry 90% of the boss's HP.** Daimon's Stitchy, Shemira's sacrificed ghosts and Valka's Blooming Terror all scale off the target's max HP, so they hit the Wings as hard as they hit Skyclops, and none of them is touched by either resistance. Add Starshard on top and the comp has four taps that never stop paying.
 
@@ -282,7 +293,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Gear costs this comp about 4 levels, and that is not enough to matter.** Its five classes average **204.8** Class Equipment against **208.8** for the Mauler guide comp, which fields two Supports at 213. The six classes sit within 11 levels of each other, so gear does not pick or drop a comp on this account. See [equipment.md](equipment.md).
 
-**Daimon, Shemira and Aurora all stand in the Arena comp, and Daimon and Shemira also stand in the Darkswarm and Tower of Eternity comps.** Anything that changes their tier, level or kit changes those comps. **None of them stands in the push comp any more.** Cecia and Valka are in no other comp.
+**Daimon and Shemira also stand in the Darkswarm and Tower of Eternity comps, Shemira stands in solo battles, and Aurora stands in the Arcane Labyrinth, Darkswarm and Battle Drills comps.** Anything that changes their tier, level or kit changes those comps. **None of the three stands in the push comp or the Arena comp.** Cecia and Valka are in no other comp.
 
 **No Phantimal applies.** The 3-core faction rule pays a Phantimal only on the seasonal track, and this account is permanent-track only. The +22% stat bonus is the whole reward here. See [progression.md](progression.md).
 
@@ -304,7 +315,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Middle | Elijah & Lailah | Celestial | Support | Magic | 6 | Epic | **210** |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | **210** |
 | Back | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 | **210** |
-| Back | Rolan | Celestial | Support | Magic | 10 | Epic | 200 |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic | **210** |
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, and it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
@@ -326,7 +337,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Grid note: only Phraesto stands forward, and that is the point.** The bubble picks by distance, so the front tile is a slot this comp fills on purpose with the one hero that regrows a body. **Taichi & Agumon starts in the back row**, confirmed from the account: fielded in the front row he dies before the digivolve. Elijah & Lailah sit in the middle rather than the back to split the cluster, because Water Bomb aims at the area holding the most heroes. See [../mechanics/formation.md](../mechanics/formation.md).
 
-**Hands of Resonance: this comp holds all five slots, and nothing needs lending.** Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah all run at **210**, and Rolan at **200**, the Resonance Level. That follows from this being the AFK Stages push comp as well, so the slots live here permanently rather than being borrowed for a run. See [progression.md](progression.md).
+**Hands of Resonance: this comp holds all five slots, and nothing needs lending.** All five run at **210**, and so does the Resonance Level. That follows from this being the AFK Stages push comp as well, so the slots live here permanently rather than being borrowed for a run. See [progression.md](progression.md).
 
 **Raising the score, in order.** Endless allows five attempts a day `unverified`, so each run tests one change and the score is the comparison.
 
@@ -354,7 +365,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Swap if the comp wipes before the timer: Rolan out, Hewynn in.** Rain Prayer heals every ally for up to 115% HP per second across 9s and Tranquil adds team-wide damage reduction while it runs. The cost is the Ultimate clone, the comp's largest damage add, and the faction bonus dropping to +18%.
 
-**This comp is also the AFK Stages push comp**, so a change to one is a change to both. Taichi & Agumon, Yamato & Gabumon and Rolan additionally stand in the Snow Stomper comp; Rolan stands in the Arena and Darkswarm comps; and Yamato & Gabumon holds a Battle Drills team. Anything that changes their tier, level or kit moves all of those.
+**This comp is also the AFK Stages push comp**, so a change to one is a change to both. Taichi & Agumon, Yamato & Gabumon and Rolan additionally stand in the Snow Stomper comp; **Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah stand in the Arena comp**; Rolan stands in the Darkswarm comp; and Yamato & Gabumon holds a Battle Drills team. Anything that changes their tier, level or kit moves all of those.
 
 ---
 
@@ -396,7 +407,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Four weak points:**
 
-1. **No hero here is a Hand of Resonance, so borrow the four slots at 210 before the run.** Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah hold them, none is fielded here, and a hero swapped in gains 10 levels over the Resonance Level of 200. **Give them to Faramor, Thador, Aurora and Solise**: the payload, the frontline, the summon engine and the healer. **Velara is the one hero left at 200**, because her magic circles heal rather than carry. Rolan's slot sits at 200 and hands over nothing. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
+1. **No hero here is a Hand of Resonance, and there is nothing to borrow.** All five Hands run at 210 and so does the Resonance Level, so **every hero in this comp already fields at 210**. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
 2. **Faramor is the only real damage dealer.** Aurora, Solise and Velara all add summon damage, but a floor with a hard timer or a high-HP boss can stall. He is **Mythic** now, so the slot hits harder than it did, but it is still one slot. **Mythic+ and his Exclusive Equipment are one ascension away**, and the Dream Store stocks him at 12 Soul Sigils for the step. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
 3. **Thador and Faramor are both range 1**, so both walk into the enemy and leave Aurora at range 2 exposed once the front moves up. Watch her HP, because it carries.
 4. **Healer role split is `unverified`.** gamerant says bring two healers, afk.guide says one is enough. This comp follows gamerant, which costs a damage slot. See [../mechanics/arcane-labyrinth.md](../mechanics/arcane-labyrinth.md).
@@ -429,7 +440,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Three weak points:**
 
-1. **No hero here is a Hand of Resonance, so borrow the four slots at 210 before the run.** Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah hold them, and the tower bars all four heroes anyway, so every one of those slots is free to lend. A hero swapped in gains 10 levels over the Resonance Level of 200. **Give them to Faramor, Eironn, Thador and Hewynn**: the two damage slots, the frontline and the healer. **Solise is the one hero left at 200.** Rolan's slot sits at 200 and hands over nothing. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+1. **No hero here is a Hand of Resonance, and there is nothing to borrow.** All five Hands run at 210 and so does the Resonance Level, so **every hero in this comp already fields at 210**. The tower bars all four Digimon-and-wildcard Hands anyway. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 2. **Hewynn is Epic, the lowest tier here.** Every other hero in the comp is Legendary or above and Eironn is Supreme, so she is three steps behind the front two and dies first on a high floor. She is also the strongest dedicated healer the account owns, so the fix is ascending her, not replacing her. See [../mechanics/heroes/hewynn.md](../mechanics/heroes/hewynn.md).
 3. **The damage sits in two slots, and the gap between them has closed.** Faramor is **Mythic** and brings true damage, blocked enemy healing and scaling off HP already lost. Eironn is **Supreme with the weapon at +5**, the highest-invested hero in the comp, so his battle-start pull, his Magic DEF cut and his own damage all land at full strength. Two ascensions still separate them, but Faramor is now one step from his own Exclusive Equipment. Which of the two is really the payload here is untested.
 
@@ -468,7 +479,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **The frontline is real.** Daimon is a Tank, not a Warrior, so this comp fields a Tank at Mythic beside Valka. Tank gear sits at 202 against Warrior at 205, so his class costs 3 levels of gear and buys the right role.
 
-**All five run at 200**, the Resonance Level, because the whole roster off the Hands sits there. **Four Hand slots are worth borrowing**, the ones on Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah, all at 210, and the tower bars all four heroes anyway. **Give them to Shemira, Daimon, Bonnie and Valka**: the carry, the frontline, and the two next-highest tiers. **Cecia is the one hero left at 200**, at Epic the lowest tier here. Rolan's slot sits at 200 and hands over nothing. See [progression.md](progression.md).
+**All five run at 210**, the Resonance Level, because the whole roster sits there. **There is nothing to borrow**: no Hand stands above the Resonance Level. Cecia at Epic is the lowest tier here, and tier is now the only thing separating these five. See [progression.md](progression.md).
 
 ---
 
@@ -490,7 +501,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. She is now **Mythic**, joint-highest in the Lightbearer roster with Hugin, and her Hero Focus grants **Penetration** to every attack she and her three turrets make. **Start her two laser turrets within 2 tiles of each other** so they link and focus the nearest enemy instead of firing at random. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md). Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
 
-**Borrow four slots before you run this.** No hero in this comp holds a Hand, so all five run at **200**. Take the four slots at **210** from Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah, none of whom can enter a tower anyway, and **give them to Zanie, Hugin, Temesia and Rowan**: Zanie is the carry, Hugin forges gear onto her, Temesia is the only frontline and Rowan is the Energy battery and the nearest thing to a healer. **Cyran is the one hero left at 200.** Rolan's slot sits at 200 and hands over nothing. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
+**Nothing to borrow.** No hero in this comp holds a Hand, and it makes no difference: all five Hands run at 210 and so does the Resonance Level, so **all five heroes here already field at 210**. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
 
 **Three weak points:**
 
@@ -522,7 +533,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Mythic and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Legendary+, so his Hero Focus is live**, worth +12% ATK to himself at level 1. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
 
-**Borrow four slots before you run this.** No hero in this comp holds a Hand, so all five run at **200**. Take the four slots at **210** from Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah, none of whom can enter a tower anyway, and **give them to Galahad, Smokey & Meerky, Antandra and Kordan**: Galahad is the carry, Smokey & Meerky is the highest tier here, Antandra is the only Tank and Kordan's ring buffs the allies standing in it. **Kruger is the one hero left at 200.** Rolan's slot sits at 200 and hands over nothing. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**Nothing to borrow.** No hero in this comp holds a Hand, and it makes no difference: all five Hands run at 210 and so does the Resonance Level, so **all five heroes here already field at 210**. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
 **Three weak points:**
 
@@ -556,11 +567,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | 200 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
-| Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 | 200 |
-| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | 200 |
-| Back | Rolan | Celestial | Support | Magic | 10 | Epic | 200 |
+| Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic | **210** |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | **210** |
+| Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 | **210** |
+| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | **210** |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic | **210** |
 
 **Artifact:** Starshard Spell +10. The wave fires every **3** ally Ultimates and hits **every enemy** for 24% of its current HP as true damage. Against a swarm that is five or more true damage hits per wave, and true damage ignores whatever defence the Hypofiends carry, which no source publishes. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
@@ -578,7 +589,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **4. The AoE is the ghosts.** The enemy is a swarm and no source says whether a battle fields one Hypofiend or a wave, so wave clear is the safe build. Twenty ghosts plus Aurora's bunnies covers it, and Bonnie's Aging cuts enemy Haste and ATK and then spreads.
 
-**5. Hands of Resonance: borrow all four slots at 210.** Rolan is the only Hand in this comp and his slot sits at 200. The slots on Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah all run at 210 and none of those heroes is fielded here, so **Shemira, Aurora, Daimon and Bonnie take one each**, which lifts every hero in the comp except Rolan. Shemira because she is the carry and Rolan's clone copies her stats, Aurora because Dream Veil scales every summon on the field, Daimon because he is the only frontline, and Bonnie because her Aging spreads across a crowd. See [progression.md](progression.md).
+**5. Hands of Resonance: nothing to borrow.** All five Hands run at 210 and so does the Resonance Level, so **every hero in this comp already fields at 210**. Rolan is the only Hand fielded here and he now brings no level the others lack. See [progression.md](progression.md).
 
 **6. No faction counter is available to plan around.** The Hypofiend faction is unpublished, so the +22% stat bonus is the whole faction reward here. See [../mechanics/factions.md](../mechanics/factions.md).
 
@@ -590,11 +601,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 2. **No healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the rest of the defence. Attempts are limited, so a wipe is a spent attempt.
 3. **Aurora advances furthest** at range 2, so she is the hero the enemy reaches. Watch her.
 
-**Swap if the damage looks resisted: Bonnie out, Cecia in.** Cecia is physical, so the comp stops being one damage type, and Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight. The faction bonus does not move, because Cecia is Graveborn, and both heroes sit at 200. The cost is four ascension tiers, Mythic down to Epic, and Bonnie's Haste and ATK strip. See [../mechanics/heroes/cecia.md](../mechanics/heroes/cecia.md).
+**Swap if the damage looks resisted: Bonnie out, Cecia in.** Cecia is physical, so the comp stops being one damage type, and Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight. The faction bonus does not move, because Cecia is Graveborn, and both heroes sit at 210 like everything else on the roster. The cost is four ascension tiers, Mythic down to Epic, and Bonnie's Haste and ATK strip. See [../mechanics/heroes/cecia.md](../mechanics/heroes/cecia.md).
 
 **Swap if the comp wipes before the timer: Rolan out, Hewynn in.** Rain Prayer heals every ally for up to 115% HP per second across 9s, Revitalize strips debuffs, and Tranquil adds team-wide damage reduction while it runs. The cost is the Ultimate clone and the faction bonus, which drops from +22% to +18% because Hewynn is Wilder. Make the trade only if attempts are actually being lost to wipes.
 
-**All of Daimon, Shemira, Aurora, Bonnie and Rolan stand in the Arena comp, and Rolan also stands in the push comp and the King Croaker comp.** A change to any of them moves those comps.
+**None of these five stands in the Arena comp.** Rolan stands in the push comp, the Snow Stomper comp and the King Croaker comp. Daimon and Shemira stand in the Skyclops and Tower of Eternity comps, and Shemira also in solo battles. Aurora stands in the Skyclops, Arcane Labyrinth and Battle Drills comps. Bonnie stands in the Tower of Eternity and Battle Drills comps. A change to any of them moves those comps.
 
 **Assist beats comp tuning.** Guildmates and friends can be invited to defend, and answering another player's request opens a 30-day mutual assist period. A Hypofiend battle above this account's strength is cleared by help, not by a better five. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md).
 
@@ -638,11 +649,11 @@ Send it at the mid-boss and the final boss, not at passages.
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Front | Thador | Wilder | Tank | Physical | 1 | Legendary+ | 200 |
-| Middle | Faramor | Wilder | Rogue | Physical | 1 | Mythic | 200 |
-| Middle | Eironn | Wilder | Rogue | Magic | 1 | Supreme, EX +5 | 200 |
-| Back | Velara | Wilder | Support | Magic | 5 | Legendary | 200 |
-| Back | Solise | Wilder | Support | Magic | 6 | Legendary | 200 |
+| Front | Thador | Wilder | Tank | Physical | 1 | Legendary+ | **210** |
+| Middle | Faramor | Wilder | Rogue | Physical | 1 | Mythic | **210** |
+| Middle | Eironn | Wilder | Rogue | Magic | 1 | Supreme, EX +5 | **210** |
+| Back | Velara | Wilder | Support | Magic | 5 | Legendary | **210** |
+| Back | Solise | Wilder | Support | Magic | 6 | Legendary | **210** |
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. Two Supports heal here, so the healing artifact lands on the one team built to use it.
 
@@ -656,11 +667,11 @@ Send it at the mid-boss and the final boss, not at passages.
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Front | Temesia | Lightbearer | Tank | Physical | 1 | Legendary | 200 |
-| Middle | Rowan | Lightbearer | Mage | Magic | 3 | Legendary | 200 |
-| Back | Cyran | Lightbearer | Mage | Magic | 6 | Epic | 200 |
-| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic | 200 |
-| Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic | 200 |
+| Front | Temesia | Lightbearer | Tank | Physical | 1 | Legendary | **210** |
+| Middle | Rowan | Lightbearer | Mage | Magic | 3 | Legendary | **210** |
+| Back | Cyran | Lightbearer | Mage | Magic | 6 | Epic | **210** |
+| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic | **210** |
+| Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic | **210** |
 
 **Artifact:** Confining Spell +8, so the imprison lasts 2.5s on a 10s cooldown. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
 
@@ -674,11 +685,11 @@ Send it at the mid-boss and the final boss, not at passages.
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Front | Antandra | Mauler | Tank | Physical | 1 | Epic | 200 |
-| Middle | Kordan | Mauler | Warrior | Physical | 1 | Legendary+ | 200 |
-| Middle | Kruger | Mauler | Warrior | Physical | 1 | Legendary+ | 200 |
-| Back | Galahad | Mauler | Mage | Magic | 10 | Legendary | 200 |
-| Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Mythic | 200 |
+| Front | Antandra | Mauler | Tank | Physical | 1 | Epic | **210** |
+| Middle | Kordan | Mauler | Warrior | Physical | 1 | Legendary+ | **210** |
+| Middle | Kruger | Mauler | Warrior | Physical | 1 | Legendary+ | **210** |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Legendary | **210** |
+| Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Mythic | **210** |
 
 **Artifact:** Blazing Spell +10. It is fully upgraded and the only artifact owned that grants DEF Penetration, and three of these five are physical melee paying full price against enemy defence.
 
@@ -692,11 +703,11 @@ Send it at the mid-boss and the final boss, not at passages.
 
 | Row | Hero | Faction | Class | Damage | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Front | Gerda | Mauler | Tank | Physical | 1 | Elite | 200 |
-| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | 200 |
-| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | 200 |
+| Front | Gerda | Mauler | Tank | Physical | 1 | Elite | **210** |
+| Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ | **210** |
+| Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 | **210** |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | **210** |
-| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | 200 |
+| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic | **210** |
 
 **Artifact:** Enlightening Spell +10. **This is the one comp on the account where it aims correctly.** It buffs the rearmost ally, chosen by the game, and Bonnie is the only hero in the back row here, so the fully upgraded buff lands on a Mythic Marksman instead of being split three ways. Every other comp on this account has two or three heroes in the back row, which is why the artifact sits unused everywhere else. See [progression.md](progression.md).
 
@@ -708,9 +719,9 @@ Send it at the mid-boss and the final boss, not at passages.
 
 ### Hands of Resonance across the five
 
-**Team 1 holds all five slots, four at 210 and Rolan at 200.** Every hero in the other four teams runs at 200, the Resonance Level.
+**Team 1 holds all five slots, and all five run at 210.** So does the Resonance Level, so **every hero across all five teams runs at 210**.
 
-**Lending pays twice as much as it did, so run Team 1 at the boss first and then move all four 210 slots.** The swap is free and the level travels with the slot, so once Team 1 has scored, lend the Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah slots to the next team going out. **Four of that team's five heroes can be lifted, not two**, which is enough to move a whole team rather than just its carry. Rolan's slot sits at 200 and hands over nothing. **A hero giving up a 210 slot drops back to 200**, which is why Team 1 goes first. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
+**Lending is switched off, and that makes this mode simpler.** No Hand stands above the Resonance Level, so a borrowed slot hands over a level the hero already has. **Run the five teams in whatever order the map wants**, because no team is now weaker for going second. Lending comes back only if a Hand climbs above 210. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md) and [progression.md](progression.md).
 
 ### What is left over
 

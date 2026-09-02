@@ -13,7 +13,7 @@
 
 Taichi stays off the field, invincible, and cheers every 3s to restore 150 Energy to Agumon, plus 250 more while Agumon has not digivolved. The first Ultimate digivolves Agumon into WarGreymon permanently: +100% HP, +50% ATK, new skills, and range drops from 7 to 1. WarGreymon's Ultimate Gaia Force hits 7 times within 3 tiles of the target for 160% + 20% each, rising to 220% + 30% at the centre, and cannot be interrupted mid-cast. At battle start WarGreymon gives himself and every ally behind him +25% of his ATK for 20s, and Gabumon receiving it gains 300 extra Energy.
 
-His named skills are Gaia Force, Brave Tornado, Recovery Shield and Dramon Killer.
+His named skills are Gaia Force, Brave Tornado, Recovery Shield and Dramon Killer. **Dramon Killer is an execute.** It is a multi-slash finisher whose bonus damage scales with how much HP the target has already lost, so it pays most against a wounded enemy and least against a fresh one.
 
 **Recovery Shield is the skill that decides how he is fought, and it is the shield an opponent sees.** `unverified`, one source. It unlocks at level 31 on a **14s** cooldown at global range, and gives WarGreymon a shield worth **700% + 100%** for **10s**, rising to 800% + 100% at level 91, 900% + 100% at level 151 and 1000% + 100% at level 211. When the shield expires he recovers HP worth **150% + 10% of whatever is left of it**. **The digivolve grants the shield outright**, so the transformation and the shield land in the same instant. It shields **only WarGreymon**, not the team.
 
@@ -47,20 +47,33 @@ Both Digimon pairs come from the crossover event, free during it, and no other s
 
 The event also carries the redemption code **CourageAndFriendship** for 300 Diamonds and 20,000 Gold, expiring 14 September 2026 at 16:00 UTC.
 
+## PvP
+
+**Rated S in PvP for a free-to-play account, S+ for a spender** [allclash, 2026-08-26, states the split by spend]. The account buys no copies, so **S** is its reading.
+
+**The PvP half of his kit sits behind Supreme+, one tier above him.** The build order is Mythic+ with EX+10 for the execute and the lost-HP damage, **then Supreme+ for the team buffing and the Gabumon synergy, and PvP is the reason given**. `unverified`, one source. He is **Supreme**, so the execute half is live and the team-buffing half is not.
+
+**His Arena ceiling is EX+15, and that needs Supreme+ too.** allclash names +15 the final goal "especially for Arena". He holds **+8**, and Supreme caps the weapon at +10, so **two weapon levels are reachable now and five more wait behind the same ascension**. See [../equipment-and-charms.md](../equipment-and-charms.md).
+
+**So one ascension opens both halves of his PvP ceiling at once**, and the only published source of copies closes with the crossover event.
+
 ## Best for
 
 Everything except Legend Trial, which bars Dimensional heroes. Dream Realm and Supreme Arena remain his best modes, and he is now strong enough to carry AFK Stages too. A frontline tank-carry once digivolved.
 
+**Start him in the back row.** He is range 7 until the digivolve and range 1 after it, and the +100% HP that makes him a frontliner arrives with the transformation. Confirmed from the account: fielded in the front row he died before the digivolve landed. He walks to the front on his own once he transforms. See [../formation.md](../formation.md).
+
 ## Notes
 
-Pairs directly with Yamato & Gabumon.
+Pairs directly with Yamato & Gabumon. **He also leads the Arena comp** in [../../account/teams.md](../../account/teams.md), where Pandora's invincible box is what carries him through the pre-digivolve window.
 
 He is the carry of the Snow Stomper Dream Realm comp in [../../account/teams.md](../../account/teams.md), and Dream Realm is the only source of Dream Fragments. So raising him raises the budget of the Dream Store. See [../dream-store.md](../dream-store.md).
 
 ## Source
 
 - https://www.afk.global/afk-journey/characters/taichi-agumon
-- https://www.prydwen.gg/afk-journey/characters/taichi-agumon (Gaia Force percentages, skill names, and the whole of Recovery Shield: level 31 unlock, 14s cooldown, 700% + 100% shield for 10s with its level steps, the HP recovery on expiry, the shield granted on digivolve, and the "remains unaffected" clause. **The only source for Recovery Shield**, which is why every figure in it is `unverified`; 403 on direct fetch, read through search summaries) [2026]
+- https://www.prydwen.gg/afk-journey/characters/taichi-agumon (Gaia Force percentages, skill names, and the whole of Recovery Shield: level 31 unlock, 14s cooldown, 700% + 100% shield for 10s with its level steps, the HP recovery on expiry, the shield granted on digivolve, and the "remains unaffected" clause. **The only source for Recovery Shield**, which is why every figure in it is `unverified`. Also Dramon Killer as a lost-HP execute, and the Mythic+ EX+10 then Supreme+ build order with Supreme+ named for team buffing and Gabumon synergy in PvP; 403 on direct fetch, read through search summaries) [2026]
+- https://www.allclash.com/best-build-for-agumon-in-afk-journey-magic-charms-ex-weapon-priority/ (S in PvP free-to-play and S+ for spenders, S+ Dream Realm; the Hero Focus 3 / EX+5 / EX+10 / EX+15 investment ladder, with EX+15 named for Arena) [2026-08-18]
 - https://www.destructoid.com/afk-journey-ascension-guide-and-costs/ (S-Level Mythic to Mythic+ costs 2 Soul Sigils)
 - https://thenerdstash.com/afk-journey-ascension-guide-costs-and-best-heroes-to-ascend/ (S-Level Mythic to Mythic+ costs 2 Soul Sigils, 100 Acorns after the adjustment)
 - https://gamedaily.com/games/afk-journey-x-digimon-everything-you-need-to-know (event 18 August to 14 September 2026, heroes free during it, redemption code) [2026]

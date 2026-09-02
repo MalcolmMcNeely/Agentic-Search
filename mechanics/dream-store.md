@@ -1,7 +1,7 @@
 # Dream Store
 
 > **Covers:** the Dream Realm shop: what currency it takes, the live shelf, the per-tier Soul Sigil costs, and who on this account to buy.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 A shop inside the **Emporium**, paid for with **Dream Fragments**. It sells hero copies, so it is a route to ascension that does not go through a banner.
 
@@ -90,7 +90,7 @@ That makes his 22 sigils to Mythic+ the worst value on the shelf, not the best.
 
 **Graveborn depth is here, and it is slower than it looks.** [recruitment.md](recruitment.md) names Viperian, Silvina, Niru and Salazer as the depth Tower of Eternity needs, and all four are stocked. Each starts at Elite, so Legendary+ costs 1 + 3 + 4 + 5 + 8 = **21 sigils** from scratch, per hero. Worth doing after Koko, not before.
 
-**The AFK Stages push comp cannot be helped here at all.** No hero in it is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hand, and **all five Hands now sit level at 200**, so raising it means levelling the whole set. **None of the five will ever be buyable here**, because this shelf stocks A-Level heroes only and they are Dimensional, Hypogean and Celestial. Their sigils come from the Guild Store or Stargaze Station instead. See [../account/progression.md](../account/progression.md) and [guild-store.md](guild-store.md).
+**The AFK Stages push comp cannot be helped here at all.** No hero in it is on the shelf. The push still moves on Resonance Level, which is set by the lowest Hand, and **all five Hands now sit level at 210**, so raising it means levelling the whole set. **None of the five will ever be buyable here**, because this shelf stocks A-Level heroes only and they are Dimensional, Hypogean and Celestial. Their sigils come from the Guild Store or Stargaze Station instead. See [../account/progression.md](../account/progression.md) and [guild-store.md](guild-store.md).
 
 **The budget is the real constraint.** The account runs **King Croaker at Endless Mode** and scores 30 million damage. Fragment income scales with boss damage, so raising Dream Realm output is what makes this shop affordable. See [king-croaker.md](king-croaker.md).
 

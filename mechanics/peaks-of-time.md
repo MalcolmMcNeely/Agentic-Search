@@ -33,13 +33,13 @@ Six finished seasons: **Song of Strife, Waves of Intrigue, Chains of Eternity, E
 
 ## What this means for this account
 
-**Peaks of Time is locked, and the gate is a long way off.** The account holds Resonance Level 200 against a gate of 240, and its story sits at Merlin's Ward. See [../account/progression.md](../account/progression.md).
+**Peaks of Time is locked, and the gate is a long way off.** The account holds Resonance Level 210 against a gate of 240, and its story sits at Merlin's Ward. See [../account/progression.md](../account/progression.md).
 
 **So it is not worth doing, because it cannot be done.** The work that opens it is the same work already named as the account's bottleneck: levels into Rolan raise the Resonance Level, and story progress is separately the last blocker on Trial of Abyss.
 
 **Nothing is expiring.** Peaks of Time is permanent and the six archived seasons do not rotate out, so nothing is being lost by reaching it late.
 
-**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. Season access needs Resonance Level 240 and the account holds 200, so the account cannot be on the season ladder at all. AFK Stage 1292 is the permanent ladder, and charms are not available.
+**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. Season access needs Resonance Level 240 and the account holds 210, so the account cannot be on the season ladder at all. AFK Stage 1292 is the permanent ladder, and charms are not available.
 
 ## Sources
 

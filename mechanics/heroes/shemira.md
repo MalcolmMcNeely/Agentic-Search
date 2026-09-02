@@ -1,7 +1,7 @@
 # Shemira
 
 > **Covers:** Shemira kit, stats and best use.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 - **Faction:** Graveborn
 - **Class:** Mage
@@ -54,9 +54,9 @@ Campaign and PvE. Sustained damage with built-in survivability, and the account'
 
 ## Against this account
 
-**She holds five comps at once**: Tower of Eternity, Arena, Skyclops, Darkswarm Invasion and solo battles. A change to her tier or kit moves all five. See [../../account/teams.md](../../account/teams.md).
+**She holds four comps at once**: Tower of Eternity, Skyclops, Darkswarm Invasion and solo battles. A change to her tier or kit moves all four. **She is queued as a late swap into the Arena comp**, against enemy shields only, and the cost there is the whole Dimensional faction core. See [../../account/teams.md](../../account/teams.md).
 
-**She is not a Hand of Resonance**, so she runs at the Resonance Level of 200. Rolan holds the slot she used to have. **Borrow a 210 slot for her before any run**, because she is the carry in every comp she stands in, and Rolan's clone inherits 80% of her base stats, so a level on her lands twice. See [../../account/progression.md](../../account/progression.md).
+**She is not a Hand of Resonance, and it costs her nothing.** All five Hands stand at 210, so the Resonance Level is 210 and she runs at 210 like every other hero on the account. Borrowing a slot for her buys nothing while that holds. See [../../account/progression.md](../../account/progression.md).
 
 **Rolan doubles her, so every point of investment in her is doubled too.** His clone casts her Ultimate again for 10 more ghosts. It is the largest single damage add the account owns, and it copies her Supreme tier and her EX weapon with it.
 

@@ -15,7 +15,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 1292 |
-| Resonance Level | 200 |
+| Resonance Level | 210 |
 | Total power | `?`. Raising the Resonance Level raised it, and the new figure has not been read off the screen |
 | Story progress | Merlin's Ward, a few sidequests done |
 
@@ -25,11 +25,11 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 **The ladder is moving fast, and that is the account's own evidence about the push comp.** It has climbed **150 stages** since the current five were fielded, so the comp is not stalling on the trade its own weak-point list warns about. See [teams.md](teams.md).
 
-**The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 200 is 83% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
+**The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 210 is 87.5% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **Rolan alone sits at 200**, so every level on him raises it. That lifts all 44 heroes at once, and it is now a one-hero job rather than a three-hero one. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **all five Hands now stand level at 210**, so the next point costs a level on every one of them. That lifts all 44 heroes at once. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
@@ -42,30 +42,26 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Yamato & Gabumon | Dimensional | Mage | **210** | Supreme+, EX +6 |
 | Phraesto | Hypogean | Tank | **210** | Epic |
 | Elijah & Lailah | Celestial | Support | **210** | Epic |
-| Rolan | Celestial | Support | 200 | Epic |
+| Rolan | Celestial | Support | **210** | Epic |
 
 **The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. That comp is also the King Croaker comp, so the slots pay in both places at once. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**, taken when both moved into the comp the account now fields.
 
-**Four Hands sit at 210 and one sits at 200, so the Resonance Level is 200.** It reads the **lowest** Hand, and Rolan alone holds it there. Every hero off the Hand slots sits at 200 as well, all 44 of them, Daimon, Shemira, Aurora, Hugin and Bonnie included.
+**All five Hands stand at 210, so the Resonance Level is 210.** It reads the **lowest** Hand, and none of the five is lower than another. **Every hero on the account is now at 210**, all 44 of them, because a hero off the Hand slots sits at the Resonance Level.
 
-**Four Hands are capped and one has headroom.** A Hand may run at most 10 above the Resonance Level, so the four at 210 can take no further level until the Resonance Level rises, and the only way to raise it is to level Rolan.
+**The Hands are level with the Resonance Level, not above it.** A Hand may run at most 10 above, so each of the five has **10 levels of headroom** and can climb to 220.
 
-**The bottleneck is now one hero wide, and that is the cheapest it has ever been.**
+**The bottleneck just went from one hero wide to five.** That is the cost of having caught Rolan up, and it was still the right purchase.
 
-- **The four at 210 take nothing more.** They sit on the +10 ceiling, so a point cannot be spent there at all until the Resonance Level rises.
-- **Rolan is the only slot a point can go into**, and **every point that lands on him raises the Resonance Level with it**, because he is the lowest Hand and there is no second hero holding the level down. That is one hero's levels paying all 44 heroes, at a one-to-one rate.
+- **The Resonance Level moves only when all five Hands move.** It reads the lowest, so raising four of them to 220 leaves it at 210 and lifts nothing outside those four. The next Resonance Level point costs **five hero-levels**, where the last ten cost one each.
+- **So spread points evenly across all five.** Levelling one Hand ahead of the others buys that hero alone; levelling all five together buys all 44.
 
-**So levelling Rolan is the single best purchase on the account.** One hero's levels raise all 44, and every point also reopens 10 levels of headroom on the four Hands above him, so the ceiling rises for the whole set at once.
+**Lending a Hand slot now buys nothing.** No Hand stands above the Resonance Level, so a hero swapped into a slot gains the level it already has. **That rule is switched off until the Hands climb above 210 again**, and every comp in [teams.md](teams.md) that borrowed a slot no longer needs to.
 
-**Rolan, Phraesto and Elijah & Lailah are all Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the cheapest ascension on the account is still inside the Hand slots, and it is the only thing a Hand slot buys that levelling does not. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**The upside is that comp choice is free again.** Every hero on the roster fields at 210, so a comp is now picked entirely on kit and faction, with no level penalty for leaving the Hands at home.
+
+**Rolan, Phraesto and Elijah & Lailah are all Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the cheapest ascension on the account is still inside the Hand slots, and it is the only thing a Hand slot buys that levelling no longer does. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: a hero moved into a slot takes that slot's level, not its own. So the five Hands are re-picked whenever the comp being played changes, and that is why they match the push comp. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
-
-**Lending a Hand slot pays, and there are four to lend now instead of two.** Each of the four slots at 210 stands 10 levels above the Resonance Level, so any hero swapped into one gains 10 levels for nothing. Rolan's slot at 200 hands over a level the hero already has. **So borrow the four 210 slots before an Arena run, a tower run, a Dream Realm run or a Battle Drills round**, and give them to that comp's carry and to the heroes that have to survive. Every comp in [teams.md](teams.md) names who takes them.
-
-**A borrowing comp can now cover four of its five heroes**, where it could cover two before. That is a larger change than the two extra levels suggest, because it moves a whole comp up rather than one carry.
-
-**The hero giving up a 210 slot drops back to 200.** So run the push comp before any borrowing comp when both are due the same day.
 
 ### Artifacts owned
 
@@ -106,7 +102,7 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Season access is gated at Resonance Level 240 and the account holds 200, so it cannot be on the season ladder at all.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms are out of reach** until the Resonance Level reaches 240. See [../mechanics/seasons.md](../mechanics/seasons.md).
+**Season access is gated at Resonance Level 240 and the account holds 210, so it cannot be on the season ladder at all.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms are out of reach** until the Resonance Level reaches 240. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
 **Season 7 will be over long before the account can enter it, and that costs nothing.** A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
 

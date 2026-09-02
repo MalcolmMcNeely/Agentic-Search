@@ -8,7 +8,7 @@
 - **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md). A hero that cannot ascend has no tier and reads `n/a`.
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
-- **Level** is not stored per hero. **Every hero on the account sits at the Resonance Level**, which is in [progression.md](progression.md). The five Hands of Resonance are levelled separately and are listed there. **Four of the five run at 210 and one sits at the Resonance Level of 200**, so every hero off those four slots is at 200.
+- **Level** is not stored per hero. **Every hero on the account sits at the Resonance Level**, which is in [progression.md](progression.md). **All five Hands of Resonance stand at 210, so the Resonance Level is 210 and all 44 heroes are at 210.** No hero on the roster is above or below another on levels, so a comp is picked on tier, kit and faction alone.
 - **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 44: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
