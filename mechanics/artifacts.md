@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, which fight each one suits, and the Season 7 set.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 One artifact is equipped per team, not per hero, and it pays the team twice.
 
@@ -108,7 +108,7 @@ At battle start it raises the ATK SPD of **one hero, the rearmost ally in the ba
 
 **In Arcane Labyrinth the healing compounds, because HP carries between floors.** Healing a normal fight would waste is banked there instead. It is also the pick on a Legend Trial healer team. See [arcane-labyrinth.md](arcane-labyrinth.md) and [legend-trial.md](legend-trial.md).
 
-**On this account:** Awakening sits at **+7**, so only the +4 step is live: 10% of Max HP, still on 3 allies. It is the pick on four comps in [../account/teams.md](../account/teams.md).
+**On this account:** Awakening sits at **+8**, so both effect steps are live: **10% of Max HP, on the 4 weakest allies**. It is the pick on four comps in [../account/teams.md](../account/teams.md).
 
 ### Blazing Spell
 

@@ -1,14 +1,14 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 ## How to read this
 
 - **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md). A hero that cannot ascend has no tier and reads `n/a`.
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
-- **Level** is not stored per hero. **Every hero on the account sits at the Resonance Level**, which is in [progression.md](progression.md). The five Hands of Resonance are levelled separately and are listed there. **Two of the five run at 210 and three sit at the Resonance Level of 200**, so every hero off those two slots is at 200.
+- **Level** is not stored per hero. **Every hero on the account sits at the Resonance Level**, which is in [progression.md](progression.md). The five Hands of Resonance are levelled separately and are listed there. **Four of the five run at 210 and one sits at the Resonance Level of 200**, so every hero off those four slots is at 200.
 - **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 44: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
@@ -34,9 +34,9 @@
 | Valen | Warrior | Physical | Elite+ | - | [valen](../mechanics/heroes/valen.md) |
 | Cyran | Mage | Magic | Epic | - | [cyran](../mechanics/heroes/cyran.md) |
 | Mirael | Mage | Magic | Epic | - | [mirael](../mechanics/heroes/mirael.md) |
-| Temesia | Tank | Physical | Epic | - | [temesia](../mechanics/heroes/temesia.md) |
+| Temesia | Tank | Physical | Legendary | - | [temesia](../mechanics/heroes/temesia.md) |
 | Fay | Support | Magic | Elite | - | [fay](../mechanics/heroes/fay.md) |
-| Lucius | Warrior | Physical | Elite | - | [lucius](../mechanics/heroes/lucius.md) |
+| Lucius | Warrior | Physical | Elite+ | - | [lucius](../mechanics/heroes/lucius.md) |
 | Chippy | Tank | Physical | n/a | - | [chippy](../mechanics/heroes/chippy.md) |
 | Hammie | Support | Magic | n/a | - | [hammie](../mechanics/heroes/hammie.md) |
 

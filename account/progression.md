@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, artifacts owned and mode progress.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -29,7 +29,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, and three Hands sit at 200, so it moves only when all three of those move. Every level on the lowest Hand lifts all 44 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **Rolan alone sits at 200**, so every level on him raises it. That lifts all 44 heroes at once, and it is now a one-hero job rather than a three-hero one. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
@@ -40,28 +40,30 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | --- | --- | --- | --- | --- |
 | Taichi & Agumon | Dimensional | Warrior | **210** | Supreme, EX +8 |
 | Yamato & Gabumon | Dimensional | Mage | **210** | Supreme+, EX +6 |
-| Phraesto | Hypogean | Tank | 200 | Epic |
-| Elijah & Lailah | Celestial | Support | 200 | Epic |
+| Phraesto | Hypogean | Tank | **210** | Epic |
+| Elijah & Lailah | Celestial | Support | **210** | Epic |
 | Rolan | Celestial | Support | 200 | Epic |
 
 **The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. That comp is also the King Croaker comp, so the slots pay in both places at once. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**, taken when both moved into the comp the account now fields.
 
-**Two Hands sit at 210 and three sit at 200, so the Resonance Level is 200.** It reads the **lowest** Hand, and the three at 200 hold it there. Every hero off the Hand slots sits at 200 as well, all 44 of them, Daimon, Shemira, Aurora, Hugin and Bonnie included.
+**Four Hands sit at 210 and one sits at 200, so the Resonance Level is 200.** It reads the **lowest** Hand, and Rolan alone holds it there. Every hero off the Hand slots sits at 200 as well, all 44 of them, Daimon, Shemira, Aurora, Hugin and Bonnie included.
 
-**Two Hands are capped and three have the full headroom open.** A Hand may run at most 10 above the Resonance Level, so Taichi & Agumon and Yamato & Gabumon at 210 can take no further level until the Resonance Level rises, and the only way to raise it is to level the three still at 200.
+**Four Hands are capped and one has headroom.** A Hand may run at most 10 above the Resonance Level, so the four at 210 can take no further level until the Resonance Level rises, and the only way to raise it is to level Rolan.
 
-**Levelling now buys one thing, and it is the three Hands still at 200.**
+**The bottleneck is now one hero wide, and that is the cheapest it has ever been.**
 
-- **The two at 210 take nothing more.** They sit on the +10 ceiling, so a point cannot be spent there at all until the Resonance Level rises.
-- **Phraesto, Elijah & Lailah and Rolan are the only slots a point can go into**, and the Resonance Level follows only once all three have it. That costs three heroes' levels per point and pays all 44 heroes.
+- **The four at 210 take nothing more.** They sit on the +10 ceiling, so a point cannot be spent there at all until the Resonance Level rises.
+- **Rolan is the only slot a point can go into**, and **every point that lands on him raises the Resonance Level with it**, because he is the lowest Hand and there is no second hero holding the level down. That is one hero's levels paying all 44 heroes, at a one-to-one rate.
 
-**Finishing the set is the better buy, and it is the same argument as before.** Every hero off the Hands rides the Resonance Level for free, so a point that reaches the lowest Hand pays 44 heroes and a point that reaches one pays one. The bottleneck is three heroes wide now, not five.
+**So levelling Rolan is the single best purchase on the account.** One hero's levels raise all 44, and every point also reopens 10 levels of headroom on the four Hands above him, so the ceiling rises for the whole set at once.
 
-**Rolan, Phraesto and Elijah & Lailah are all Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the cheapest ascension on the account is still inside the Hand slots, and it is now the only thing a Hand slot buys that levelling does not. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**Rolan, Phraesto and Elijah & Lailah are all Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the cheapest ascension on the account is still inside the Hand slots, and it is the only thing a Hand slot buys that levelling does not. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 **Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: a hero moved into a slot takes that slot's level, not its own. So the five Hands are re-picked whenever the comp being played changes, and that is why they match the push comp. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**Lending a Hand slot pays again, and that is new.** The two slots at 210 stand 10 levels above the Resonance Level, so any hero swapped into one gains 10 levels for nothing. The three slots at 200 hand over a level the hero already has. **So borrow the two 210 slots before a tower run, a Dream Realm run or a Battle Drills round**, and give them to that comp's carry. Every comp in [teams.md](teams.md) names who takes them.
+**Lending a Hand slot pays, and there are four to lend now instead of two.** Each of the four slots at 210 stands 10 levels above the Resonance Level, so any hero swapped into one gains 10 levels for nothing. Rolan's slot at 200 hands over a level the hero already has. **So borrow the four 210 slots before an Arena run, a tower run, a Dream Realm run or a Battle Drills round**, and give them to that comp's carry and to the heroes that have to survive. Every comp in [teams.md](teams.md) names who takes them.
+
+**A borrowing comp can now cover four of its five heroes**, where it could cover two before. That is a larger change than the two extra levels suggest, because it moves a whole comp up rather than one carry.
 
 **The hero giving up a 210 slot drops back to 200.** So run the push comp before any borrowing comp when both are due the same day.
 
@@ -73,7 +75,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | --- | --- | --- | --- |
 | Starshard Spell | +10 | +4 and +8 | AFK Stages push, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
 | Confining Spell | +8 | +4 and +8 | Arena, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
-| Awakening Spell | +7 | +4 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
+| Awakening Spell | +8 | +4 and +8 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
 | Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
 | Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5 |
 | Ironwall Spell | +4 | +4 | the sixth Battle Drills team |
@@ -92,9 +94,9 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 The order rests on what the next step does and how many fielded comps it lands on. It does not rest on a tier letter, because there is no sourceable one to rest on.
 
-1. **Awakening to +8, one level.** The heal covers 4 allies instead of 3. **It is the only live effect step left on the account**, and it is one level away. It holds four comps, and one is Arcane Labyrinth, where HP carries between floors so every point healed is banked rather than wasted.
-2. **Ironwall to +8, four levels.** The blessing moves to the frontmost surviving hero when the blessed one dies, which is the right effect for the weak team it holds. Four levels away, so it waits behind the one-level step above.
-3. **Confining past +8.** Both effect steps are live, so a level buys the team ATK and HP line and nothing else. It holds five comps, three of them without a healer, so the stats still land somewhere useful.
+1. **Ironwall to +8, four levels.** The blessing moves to the frontmost surviving hero when the blessed one dies, which is the right effect for the weak team it holds. **It is the only effect step left anywhere on the account**, so every other artifact level now buys stats alone.
+2. **Confining past +8.** Both effect steps are live, so a level buys the team ATK and HP line and nothing else. It holds five comps, three of them without a healer, so the stats still land somewhere useful.
+3. **Awakening past +8.** Both effect steps are live here too, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats at max. It holds four comps.
 
 **Starshard, Blazing and Enlightening are finished.** All three sit at +10 with both effect steps live and the stat line at its ceiling. Enlightening still buffs **one hero, the rearmost ally**, chosen by the game, so it stays on Battle Drills Team 5, the only comp in [teams.md](teams.md) with a single hero in the back row.
 
