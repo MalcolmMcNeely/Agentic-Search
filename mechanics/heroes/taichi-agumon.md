@@ -1,7 +1,7 @@
 # Taichi & Agumon
 
 > **Covers:** Taichi & Agumon kit, stats and best use.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 - **Faction:** Dimensional
 - **Class:** Warrior
@@ -14,6 +14,12 @@
 Taichi stays off the field, invincible, and cheers every 3s to restore 150 Energy to Agumon, plus 250 more while Agumon has not digivolved. The first Ultimate digivolves Agumon into WarGreymon permanently: +100% HP, +50% ATK, new skills, and range drops from 7 to 1. WarGreymon's Ultimate Gaia Force hits 7 times within 3 tiles of the target for 160% + 20% each, rising to 220% + 30% at the centre, and cannot be interrupted mid-cast. At battle start WarGreymon gives himself and every ally behind him +25% of his ATK for 20s, and Gabumon receiving it gains 300 extra Energy.
 
 His named skills are Gaia Force, Brave Tornado, Recovery Shield and Dramon Killer.
+
+**Recovery Shield is the skill that decides how he is fought, and it is the shield an opponent sees.** `unverified`, one source. It unlocks at level 31 on a **14s** cooldown at global range, and gives WarGreymon a shield worth **700% + 100%** for **10s**, rising to 800% + 100% at level 91, 900% + 100% at level 151 and 1000% + 100% at level 211. When the shield expires he recovers HP worth **150% + 10% of whatever is left of it**. **The digivolve grants the shield outright**, so the transformation and the shield land in the same instant. It shields **only WarGreymon**, not the team.
+
+`unverified`: the same source says WarGreymon **"remains unaffected" while the shield holds**, and does not say what that excludes. Read as control immunity it means no stun, taunt or imprison touches him for those 10s, so **every counter that stops him has to land before the digivolve**. Settle it in game, because an Arena comp built to control him rests on this one word. See [../../account/teams.md](../../account/teams.md).
+
+**Gaia Force cannot be interrupted mid-cast either**, so control arriving during the cast buys nothing.
 
 ## Hero Focus
 
@@ -54,7 +60,7 @@ He is the carry of the Snow Stomper Dream Realm comp in [../../account/teams.md]
 ## Source
 
 - https://www.afk.global/afk-journey/characters/taichi-agumon
-- https://www.prydwen.gg/afk-journey/characters/taichi-agumon (Gaia Force percentages, skill names; 403 on direct fetch, read through search summaries) [2026]
+- https://www.prydwen.gg/afk-journey/characters/taichi-agumon (Gaia Force percentages, skill names, and the whole of Recovery Shield: level 31 unlock, 14s cooldown, 700% + 100% shield for 10s with its level steps, the HP recovery on expiry, the shield granted on digivolve, and the "remains unaffected" clause. **The only source for Recovery Shield**, which is why every figure in it is `unverified`; 403 on direct fetch, read through search summaries) [2026]
 - https://www.destructoid.com/afk-journey-ascension-guide-and-costs/ (S-Level Mythic to Mythic+ costs 2 Soul Sigils)
 - https://thenerdstash.com/afk-journey-ascension-guide-costs-and-best-heroes-to-ascend/ (S-Level Mythic to Mythic+ costs 2 Soul Sigils, 100 Acorns after the adjustment)
 - https://gamedaily.com/games/afk-journey-x-digimon-everything-you-need-to-know (event 18 August to 14 September 2026, heroes free during it, redemption code) [2026]

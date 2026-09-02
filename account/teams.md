@@ -1,7 +1,7 @@
 # Teams
 
 > **Covers:** the current team comp for each purpose, its formation, artifact and status.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-02
 
 One comp per purpose. This file holds what to field **now**, not how the advice got here.
 
@@ -107,59 +107,92 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 **Eironn is out, and the reason that used to keep him out is gone.** His battle-start pull needed Mythic+ and he is now **Supreme with the weapon at +5**, so it fires. What keeps him out now is the faction maths: he is Wilder, and dropping any of these five for him breaks the 5-count that pays the +22% and costs a Hand slot as well. Worth one run to test against the current five, not worth assuming. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 ---
 
-## PvP, Arena — Wilder nuke into a Graveborn carry — `proposed`
+## PvP, Arena — mitigation into a Graveborn carry — `proposed`
 
 **Purpose:** Arena, ranked PvP. See [../mechanics/arena.md](../mechanics/arena.md).
 
-| Row | Hero | Faction | Class | Range | Tier | Level |
+| Row | Entity | Faction | Class | Range | Tier | Level |
 | --- | --- | --- | --- | --- | --- | --- |
-| Front | Daimon | Graveborn | Tank | 3 | Mythic | 200 |
-| Front | Eironn | Wilder | Rogue | 1 | Supreme, EX +5 | 200 |
-| Middle | Shemira | Graveborn | Mage | 4 | Supreme, EX +1 | 200 |
-| Back | Bonnie | Graveborn | Marksman | 7 | Mythic | 200 |
-| Back | Rolan | Celestial | Support | 10 | Epic | 200 |
+| Front left | Phraesto, true body | Hypogean | Tank | 1 | Epic | **210** |
+| Front right | Phraesto, Illusion | Hypogean | Tank | 1 | Epic | **210** |
+| Middle right | Koko | Mauler | Support | 4 | Legendary | 200 |
+| Back right | Shemira | Graveborn | Mage | 4 | Supreme, EX +1 | **210** |
+| Back left | Bonnie | Graveborn | Marksman | 7 | Mythic | 200 |
+| Back far left | Rolan | Celestial | Support | 10 | Epic | 200 |
 
-**Entities: five heroes, five tiles.** No hero here fields a second body at deploy. Three arrive during the fight and the caster's tile decides where: Shemira's 10 ghosts, Rolan's clone on every ally Ultimate, and Daimon's guardian spirit Stitchy. Eironn is range 1, so he walks to the enemy from whatever row he starts in, and the front row puts him closest to the tile he marks. See [../mechanics/formation.md](../mechanics/formation.md).
+**Entities: five heroes, six tiles.** Phraesto deploys as two bodies, both placed in the preparation phase, and the Illusion inherits 100% of his stats. Three more arrive during the fight and the caster's tile decides where: Shemira's 10 ghosts, Rolan's clone on every ally Ultimate, and Koko's Full Energy shield-and-return, which reads the whole team. See [../mechanics/formation.md](../mechanics/formation.md).
 
-**Artifact:** Confining Spell +7. Only the +4 step is live, so the imprison lasts 2.5s on a 12s cooldown. Two enemies held out of the backline is what keeps Shemira alive against an Arena dive, and this comp has no healer. [../mechanics/artifacts.md](../mechanics/artifacts.md) names a short fight as the one place a fixed opening effect beats Starshard's scaling.
+**Artifact:** Confining Spell +8. Both steps are live, so the imprison lasts **2.5s on a 10s cooldown**, and it fires first at **3s**. It hits the **2 rearmost enemies**, and an undigivolved Agumon is a range-7 backline unit, so this artifact aims at him by default. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Faction bonus: +18%**, plus +1% for Rolan. Three Graveborn with Rolan wildcarding makes four. Eironn is a lone Wilder and does not count into it.
+**Faction bonus: +18%**, plus +2% for the two wildcards. Shemira and Bonnie are two Graveborn, and Rolan and Phraesto each count as any faction, making four. Koko is a lone Mauler and does not count into it. See [../mechanics/factions.md](../mechanics/factions.md).
 
-**Hands of Resonance: borrow the two slots at 210.** Taichi & Agumon and Yamato & Gabumon hold them, neither stands here, and a hero swapped in gains 10 levels over the Resonance Level of 200. **Lend them to Shemira and Daimon**: Shemira because she is the carry and Rolan's clone inherits 80% of her base stats, so levels on her land twice, and Daimon because he is the only body between the enemy and two Mages in a comp with no healer. Rolan already holds a slot, but his sits at 200. See [progression.md](progression.md).
+**Hands of Resonance: borrow the two slots at 210 for Shemira and Phraesto.** Taichi & Agumon and Yamato & Gabumon hold them and neither stands here. Shemira takes one because she is the carry and Rolan's clone inherits 80% of her base stats, so a level on her lands twice. Phraesto takes the other because both of his bodies scale off it and he is the only frontline in the comp. **Phraesto already holds a slot at 200, so move him up and let a Digimon pair take the 200 slot he leaves**; the Resonance Level reads the lowest slot and does not move. Rolan keeps his own slot at 200. See [progression.md](progression.md).
 
-**The pattern is nuke into control, the two patterns [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) names for PvP.** Eironn opens. Howling Hurricane at +5 fires his first Ultimate for no Energy, so Verdant Cyclone drags every enemy within 2 tiles into one pile in the opening seconds and holds them 3s, and Ice Spike cuts that pile's Magic DEF by 40%. **Every damage source in this comp is Magic**, so the cut is a team-wide amplifier rather than one hero's debuff. Shemira's ghosts, Bonnie's arrows and Rolan's clone then land on a stationary stack.
+### The fight this comp is built against
 
-Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, spreads to nearby foes, and her Ultimate stuns anything carrying it. Daimon soaks and hands shields to bonded allies. Rolan clones Shemira's ghost Ultimate outright.
+**Confirmed from the account: attacks from here lose to defence teams carrying a shield and a Taichi & Agumon.** The shield absorbs the opening, and Agumon then wipes the team. That is three separate problems, and the previous comp answered none of them.
 
-**Eironn replaces Aurora, and the trade is 4% team stats for the account's best-evidenced PvP hero.** Three current lists land within one band on him: **A+** [allclash, 2026-08-26, assumes the EX weapon], **A+** [afk.global PvP tab, 2026-08-20, investment not stated] and **A** [Pocket Tactics, 2026-08-17, investment not stated]. This account holds the weapon those letters assume. Aurora's PvP letters split four bands the other way, **A** / **B** / **C** across the same three lists, `unverified`, and her own file names PvP her weakest mode. Her summon stack needs a fight long enough to put summons on the field, and this comp fields two summon sources against the five different allies her Hero Focus counts.
+1. **A shield beats a burst comp by outlasting it.** The old comp spent everything in the opening ten seconds. A shield that survives those seconds wins the fight outright, because nothing came after them.
+2. **The digivolve is the wipe, and it shields itself.** Agumon's first Ultimate turns him into WarGreymon: +100% HP, +50% ATK, and **Recovery Shield grants a 700% + 100% shield in the same instant**, for 10s. Gaia Force then hits **7 times within 3 tiles of the target**, and cannot be interrupted mid-cast. `unverified`, one source, and the same source says WarGreymon **"remains unaffected" while that shield holds**. Read as control immunity, it means **every counter has to land before the digivolve**. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+3. **A five-hero block is one Gaia Force.** Gaia Force reads a 3-tile radius, so a comp placed in one clump loses everyone to a single cast.
 
-**The tier argument for this swap is gone, and the mode argument is what is left.** Aurora is now **Mythic+ with her own weapon at +5**, one ascension behind Eironn's Supreme rather than two, and both weapons sit at +5. So this is no longer a well-invested hero displacing a poorly invested one. It is the mode: Arena is settled in the opening seconds, Eironn's pull and 40% Magic DEF cut land in those seconds, and every one of Aurora's three multipliers pays only once summons are on the field. **Re-test her here anyway**, because the comp is `proposed` and the gap it rested on has closed. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md) and [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
+**So the comp is built on three answers, in this order.**
 
-**Re-place this comp for every opponent, because the map is theirs and not yours.** The defender saves one Arena map and every attacker fights on it, so the walls change with each challenge. **A low wall blocks walking but lets ranged units shoot over it**, and this comp puts its opener on **Eironn at range 1**. On a map with a low wall between the two lines he walks the long way round while the enemy backline fires over it the whole time, and the pull that the rest of the comp is built on lands late or not at all. Read the walls before locking the rows. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
+- **Hit Agumon before he transforms.** He is **range 7 until the digivolve**, so he stands in the enemy back row with none of the HP that makes WarGreymon a frontliner. Confining Spell fires at 3s at the 2 rearmost enemies and locks them 2.5s, and Bonnie's Aging cuts Haste and ATK and spreads it, which lengthens the ramp. Both of these stop working the moment the shield is up.
+- **Survive the cast rather than trying to stop it.** [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md) puts mitigation, not healing, against a fight where one enemy Ultimate is what kills you, because a heal arrives after the hit and a shield arrives before it. **Koko's Full Energy gives the team 45 to 55% damage reduction for 12s and then converts everything it blocked into true damage.** That is one slot buying five heroes' survival, and the same cooldown pays the damage back. **Phraesto's Foggy Whisper taunts and stuns the enemy's highest damage dealer**, which is Agumon, and pulls him onto a tank with two bodies at 30% damage reduction each.
+- **Split the formation so one cast cannot reach everyone.** See the placement below.
 
-**Confirmed from the account: an attack from this account has lost to a defence team 50,000 power weaker.** Raw power is therefore not settling these fights, which is the assumption the comp below is otherwise built on. Terrain, the faction counter and the enemy's saved map are the three things that beat a power lead, and all three are read off the challenge screen before the fight.
+### Placement
 
-**Five weak points:**
+**Two clumps at opposite ends of the board, three entities each.** One Gaia Force then reaches half the team instead of all of it.
 
-1. **The map is the enemy's choice.** See above. It is the only weak point on this list that changes between one challenge and the next.
-2. **Shemira is a scaling carry in a short fight.** The matchup table says leave one home in a damage race. Eironn's Magic DEF cut, Rolan's clone and a borrowed 210 Hand slot are what front-load her.
-3. **The stack only holds for 3s.** Eironn's Enhance Force needs **Supreme+** and he is one step short, so the deeper Magic DEF cut is off, and the EX step that doubles the immobilise to 6s is at **+10** against his current +5.
-4. **Rolan pays less here than in a Lightbearer core.** His Morale opener gives 6% per hero on Graveborn, not 10%, and Morale needs time this mode may not give. He is in for the Ultimate clone, which is not Morale-keyed.
-5. **No healer.** Shemira heals herself off her ghosts, Eironn shields himself for 280% with 50% Dodge Rate, and Daimon's shields are the rest.
+- **Both Phraesto bodies stand in the front row**, which is what grants each of them 30% damage reduction, and they stand at **opposite ends of it** so one cast cannot catch both.
+- **Which body an ally stands behind decides which buff it gets.** Allies behind the **Illusion** take less damage, so **Shemira and Koko** stand on the right. Allies behind the **true body** gain Energy Recovery Speed, so **Bonnie and Rolan** stand on the left, where the faster bar brings Rolan's clone round sooner.
+- **Placing Phraesto draws a marker on the tile the Illusion lands on.** Read it before locking the rows, because it decides which of the two columns is which. Confirmed from the account.
+- **Keep Shemira off the front.** She is range 4, so she needs to sit behind the Phraesto bodies rather than beside them, and Gaia Force reads WarGreymon's current target.
 
-**Counter swap: Rolan out, Lily May in, against an Ultimate-heavy enemy comp.** Her Ultimate is a passive that answers every non-summoned enemy Ultimate with a Quellbolt, enemy Eironn teams included. **The cost is larger than it was**, because she is a second Wilder: the bonus falls from +18% to +14%, the 3-plus-2 band. Take the trade only when the enemy leans on Ultimates. Her PvP letters split three bands, **S+** [allclash, 2026-08-26, no investment stated], **A** [afk.global PvP tab, 2026-08-20, investment not stated] and **B** [Pocket Tactics, 2026-08-17, investment not stated], all `unverified`, and she is **Epic**, so the Hero Focus Penetration those letters assume is three ascensions off. See [../mechanics/heroes/lily-may.md](../mechanics/heroes/lily-may.md).
+**This comp has no range-1 carry, so a low wall no longer decides the fight.** That was the old comp's worst weakness: Eironn at range 1 walked the long way round a low wall while the enemy backline fired over it. Phraesto is range 1 and is the only hero here who has to close, and closing is a tank's job. **Still read the walls before locking the rows**, because the defender saves the map and every attacker fights on it. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
 
-**Swap to test: Elijah & Lailah in for Rolan.** Both are Celestial, so the faction bonus does not move. Starlight Waltz gives every ally **+60 Haste for 7s**, which is a burst opener rather than a ramp, and they field **two bodies**, so the comp becomes six tiles. Their PvP letters are **S+** [allclash, 2026-08-26, no investment stated] and **A+** [afk.global PvP tab, 2026-08-20, investment not stated], `unverified`. What stops it being an obvious upgrade is the `unverified` clause in [../mechanics/formation.md](../mechanics/formation.md): the skill text says linked allies are "unaffected during the dance", and no source says whether that excludes them from the +60 Haste. Settle that in game before trading Rolan's clone for it. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+### What each hero is here to do
 
-**Twelve of the 44 heroes owned carry a PvP letter**: Aurora, Cecia, Eironn, Elijah & Lailah, Faramor, Hugin, Lily May, Phraesto, Shadewing, Silven, Viperian and Zanie. That is a quarter of the roster, so guide silence about the other thirty-two is not evidence against them, and every hero here was scored from its kit before any letter was read. **Zanie and Hugin are the two Mythics cut on their kits rather than their letters**: both ramp through a cycle Arena ends before, Zanie through three turrets and a 22s upgrade loop, Hugin through an Ultimate and a forge. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
+- **Shemira** is the carry, and she is the answer to a shield. Her Ultimate runs **10 ghosts for 10s** and Rolan clones it for 10 more, so the damage is spread across the fight rather than spent in one hit, which is what a timed shield cannot absorb. Ghastly Tribute adds **true damage worth 24% + 3% of the enemy's max HP**, which ignores defence. She heals herself off her ghosts, which is why the comp survives without a healer.
+- **Koko** is the mitigation, and she is why the wipe stops being a wipe.
+- **Phraesto** is the frontline, the taunt and a second body. He also feeds Energy to the left column.
+- **Bonnie** is the control. Aging cuts enemy Haste and ATK and spreads to nearby foes, so it slows the ramp and softens the cast; her Ultimate stuns anything carrying it.
+- **Rolan** doubles the carry. His clone casts Shemira's Ultimate outright and inherits 80% of her base stats.
 
-**The Digimon pair stay home.** Taichi & Agumon and Yamato & Gabumon are the account's two strongest heroes, but both are ramp carries whose payoff is a digivolve, and the matchup table leaves a ramp carry home in a burst race. Their slots come without them, and both now run at 210, so this comp takes the levels and leaves the heroes at home. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Confirmed from the account: an attack from this account has lost to a defence team 50,000 power weaker.** Raw power does not settle these fights. Terrain, the faction counter and the enemy's saved map are what beat a power lead, and all three are read off the challenge screen before the fight.
 
-**Shared heroes.** Daimon and Shemira also stand in the **Skyclops**, **Tower of Eternity** and **Darkswarm Invasion** comps, and Shemira is the **solo battles** pick as well. Bonnie stands in **Tower of Eternity**, **Darkswarm Invasion** and **Battle Drills**. Rolan stands in the **AFK Stages push comp**, **Snow Stomper**, **King Croaker** and **Darkswarm Invasion**. Eironn stands in **Tower of Nature** and **Battle Drills**. A correction to any of these five belongs in every comp holding them.
+### Weak points
 
-**The upgrade path is Eironn's weapon, not Arden.** Arden is the payload the guides name for this pull, and he is **Elite**, so he is a long way off. The pile does not need him, because three Magic damage dealers already stand behind it. What the pull needs is length, and that is **Eironn EX +5 to +10**, which doubles the immobilise from 3s to 6s. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
+1. **The map is the enemy's choice.** It is the only weak point that changes between one challenge and the next.
+2. **The whole plan rests on one word in one source.** If "unaffected" does not mean control immunity, then Phraesto's stun and Confining Spell still bite after the digivolve, and the comp can afford to trade a defensive slot back for damage. **Settle it in game.**
+3. **Shemira is a scaling carry in a short fight.** The matchup table says leave one home in a damage race. Rolan's clone and a borrowed 210 slot are what front-load her, and Eironn's 40% Magic DEF cut is what she has lost.
+4. **Damage is thinner than it was.** Two defensive slots replaced an engine and a second tank, so this comp wins by outlasting rather than by out-hitting. If enemy defence teams start surviving to a timeout, trade Koko back for Eironn.
+5. **Phraesto and Koko are both below their gates.** Phraesto is **Epic**, so his Hero Focus needs Legendary+ and his Exclusive Equipment needs Mythic+, and the weapon is what opens the fight with a 570% shield on both bodies. Koko is **Legendary**, one step and 8 Soul Sigils short of Legendary+. See [../mechanics/heroes/phraesto.md](../mechanics/heroes/phraesto.md) and [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+6. **Rolan pays less here than in a Lightbearer core.** His Morale opener gives 6% per hero, not 10%, and Morale needs time this mode may not give. He is in for the Ultimate clone, which is not Morale-keyed.
 
-**The account sits at Adept 3**, the second of five named tiers. See [../mechanics/arena.md](../mechanics/arena.md) for the ladder and [progression.md](progression.md) for the rank. That is low enough that raw levels still decide most fights, which is why the two borrowed 210 slots matter here and the pattern carries the rest. Reassess when enemy defence teams start surviving the opening.
+### Swaps
+
+**Koko out, Eironn in, once the comp stops dying.** Eironn is the account's best-evidenced PvP hero, **A+** [allclash, 2026-08-26, assumes the EX weapon], **A+** [afk.global PvP tab, 2026-08-20, investment not stated] and **A** [Pocket Tactics, 2026-08-17, investment not stated], and this account holds the weapon those letters assume. He is out today because his pull bunches enemies, and bunching enemies does nothing to a shield, while his range 1 hands the enemy's map a way to beat him. The faction bonus falls from +18% to +14% with him in, because he is a lone Wilder. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
+
+**Bonnie out, Lily May in, against an Ultimate-heavy enemy comp.** Her Ultimate is a passive that answers every non-summoned enemy Ultimate with a Quellbolt, and a digivolve is an Ultimate. **The cost is the faction bonus**, which falls from +18% to +10% because she leaves only Shemira as a Graveborn. Her PvP letters split three bands, **S+** [allclash, 2026-08-26, no investment stated], **A** [afk.global PvP tab, 2026-08-20, investment not stated] and **B** [Pocket Tactics, 2026-08-17, investment not stated], all `unverified`, and she is **Epic**, so the Hero Focus Penetration those letters assume is three ascensions off. See [../mechanics/heroes/lily-may.md](../mechanics/heroes/lily-may.md).
+
+**Rolan out, Elijah & Lailah in, to test.** Both are Celestial, so the faction bonus does not move. Starlight Waltz gives every ally **+60 Haste for 7s**, and they field **two bodies**, so the comp becomes seven tiles. Their PvP letters are **S+** [allclash, 2026-08-26, no investment stated] and **A+** [afk.global PvP tab, 2026-08-20, investment not stated], `unverified`. What stops it being an obvious upgrade is the `unverified` clause in [../mechanics/formation.md](../mechanics/formation.md): the skill text says linked allies are "unaffected during the dance", and no source says whether that excludes them from the +60 Haste. Settle that in game before trading Rolan's clone for it. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+
+### Notes
+
+**`?` What gives the enemy team its shield.** Recovery Shield covers WarGreymon alone, so it does not explain a shield across the enemy line. Nothing in `mechanics/` holds a hero that shields a whole team, and the account owns none. One weak source names **Merlin** for team-wide shield and block control and **Scarlita** for a shield-then-ramp PvP defence build; neither is checked and neither is owned. **Read the enemy hero list off the challenge screen and name it**, because whether the shield is one hero, one artifact or Agumon alone changes which of the swaps above is right.
+
+**Twelve of the 44 heroes owned carry a PvP letter**: Aurora, Cecia, Eironn, Elijah & Lailah, Faramor, Hugin, Lily May, Phraesto, Shadewing, Silven, Viperian and Zanie. That is a quarter of the roster, so guide silence about the other thirty-two is not evidence against them, and every hero here was scored from its kit before any letter was read. **Koko carries no PvP letter at all** and holds a slot anyway, on the kit argument in [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md): a team-wide mitigation buys five heroes' survival with one slot, and the conversion to true damage pays the damage sum on the same cooldown.
+
+**The Digimon pair stay home.** Taichi & Agumon and Yamato & Gabumon are the account's two strongest heroes, but both are ramp carries whose payoff is a digivolve, and the matchup table leaves a ramp carry home in a burst race. Their slots come without them, and both run at 210, so this comp takes the levels and leaves the heroes at home. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+
+**Shared heroes.** Shemira also stands in the **Skyclops**, **Tower of Eternity**, **Darkswarm Invasion** and **solo battles** entries. Bonnie stands in **Tower of Eternity**, **Darkswarm Invasion** and **Battle Drills**. Rolan stands in the **AFK Stages push comp**, **Snow Stomper**, **King Croaker** and **Darkswarm Invasion**. Phraesto stands in the **AFK Stages push comp**, and lending him a 210 slot here takes it off that comp, so **run the push comp first when both are due the same day**. A correction to any of these belongs in every comp holding them.
+
+**The upgrade path is Phraesto, and it is the cheapest ascension on the account.** Three Soul Sigils take him from Epic to Legendary+ and switch on a Hero Focus that raises DEF on both bodies and generates Energy whenever either takes damage. Koko's Legendary+ is the second buy, at 8 Soul Sigils from the Dream Store. See [../mechanics/guild-store.md](../mechanics/guild-store.md) and [../mechanics/dream-store.md](../mechanics/dream-store.md).
+
+**The account sits at Adept 3**, the second of five named tiers. See [../mechanics/arena.md](../mechanics/arena.md) for the ladder and [progression.md](progression.md) for the rank.
 ---
 
 ## Dream Realm, Snow Stomper — Dimensional ramp carry — `proposed`
@@ -418,7 +451,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | Back | Cecia | Marksman | 5 | Epic |
 | Back | Bonnie | Marksman | 7 | Mythic |
 
-**Artifact:** Confining Spell +7. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
+**Artifact:** Confining Spell +8, so the imprison lasts 2.5s on a 10s cooldown. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
 
 **Faction bonus: +22%.** Five Graveborn is forced by the lock.
 
@@ -449,7 +482,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | Back | Zanie | Marksman | 20 | Mythic |
 | Back | Hugin | Support | 20 | Mythic |
 
-**Artifact:** Confining Spell +7. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
+**Artifact:** Confining Spell +8, so the imprison lasts 2.5s on a 10s cooldown. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
 
 **Faction bonus: +22%.** Five Lightbearer is forced by the lock.
 
@@ -573,7 +606,7 @@ Bonnie is the control that outlasts the pull: Aging cuts enemy Haste and ATK, sp
 | --- | --- | --- | --- | --- | --- |
 | The one | Shemira | Graveborn | Mage | 4 | Supreme, EX +1 |
 
-**Artifact:** Confining Spell +7, to hold enemies off her at range 4.
+**Artifact:** Confining Spell +8, to hold enemies off her at range 4.
 
 **Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is Mythic, the joint-highest tier on the account outside the Digimon pair, and range 4 keeps her off the front.
 
@@ -627,7 +660,7 @@ Send it at the mid-boss and the final boss, not at passages.
 | Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic | 200 |
 | Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic | 200 |
 
-**Artifact:** Confining Spell +7. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
+**Artifact:** Confining Spell +8, so the imprison lasts 2.5s on a 10s cooldown. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
 
 **Faction bonus: +22%.** Five Lightbearer, the deepest faction on the account at 12.
 
