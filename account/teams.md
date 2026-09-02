@@ -215,8 +215,10 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic | **210** |
 | Middle | Pandora | Dimensional | Support | Magic | 5 | Legendary | **210** |
 | Back | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme, EX +8 | **210** |
-| Back | Yamato & Gabumon | Dimensional | Mage | Magic | back row | Supreme+, EX +6 | **210** |
+| Back | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 | **210** |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic | **210** |
+
+**Entities: five heroes, five tiles.** Cecia, Pandora and Rolan take one tile each. **Taichi & Agumon takes one**, because Agumon stands on the grid and Taichi cheers from off the field, and **Yamato & Gabumon takes one** the same way. Two more arrive mid-fight and neither is placed: **Mr. Carlyle** from Cecia's Ultimate, who inherits her stats and hits in an arc, and **Rolan's clone** on every ally Ultimate, which appears beside whichever hero cast. See [../mechanics/formation.md](../mechanics/formation.md).
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, so it ignores the boss's defence, and it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
@@ -253,7 +255,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Swap if the comp dies before the timer: Cecia out, Hewynn in.** The faction bonus does not move, because Hewynn is Wilder and Dimensional still counts 4. Rain Prayer heals every ally for up to 115% HP per second across 9s and Tranquil adds team-wide damage reduction while it runs. The cost is the defence strip, which is this comp's biggest damage multiplier, so make the trade only if heroes are actually dying.
 
-**Rolan also stands in the push comp, the King Croaker comp and the Darkswarm comp, and Cecia stands in the Skyclops comp.** A change to either hero moves those comps too.
+**Every hero here stands in at least one other comp.** Taichi & Agumon and Yamato & Gabumon stand in the push comp, the King Croaker comp and the Arena comp, and Yamato & Gabumon also holds a Battle Drills team. Rolan stands in the push comp, the King Croaker comp and the Darkswarm comp. Pandora stands in the Arena comp. Cecia stands in the Skyclops comp. A change to any of their tiers, levels or kits moves all of those comps too.
 
 ---
 
@@ -293,7 +295,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Gear costs this comp about 4 levels, and that is not enough to matter.** Its five classes average **204.8** Class Equipment against **208.8** for the Mauler guide comp, which fields two Supports at 213. The six classes sit within 11 levels of each other, so gear does not pick or drop a comp on this account. See [equipment.md](equipment.md).
 
-**Daimon and Shemira also stand in the Darkswarm and Tower of Eternity comps, Shemira stands in solo battles, and Aurora stands in the Arcane Labyrinth, Darkswarm and Battle Drills comps.** Anything that changes their tier, level or kit changes those comps. **None of the three stands in the push comp or the Arena comp.** Cecia and Valka are in no other comp.
+**Daimon and Shemira also stand in the Darkswarm and Tower of Eternity comps, Shemira stands in solo battles, and Aurora stands in the Arcane Labyrinth, Darkswarm and Battle Drills comps.** Anything that changes their tier, level or kit changes those comps. **None of the three stands in the push comp or the Arena comp.** **Cecia also stands in the Snow Stomper comp**, so a change to her moves that one as well. Valka is in no other comp.
 
 **No Phantimal applies.** The 3-core faction rule pays a Phantimal only on the seasonal track, and this account is permanent-track only. The +22% stat bonus is the whole reward here. See [progression.md](progression.md).
 
