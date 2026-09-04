@@ -1,11 +1,11 @@
 # Progression
 
-> **Covers:** progression track, Resonance Level, Hands of Resonance, artifacts owned and mode progress.
+> **Covers:** progression track, Resonance Level, Hands of Resonance, Resonance Synergy, artifacts owned and mode progress.
 > **Updated:** 2026-09-04
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
-**This account is permanent-track only**, per the user. Little story done, nothing seasonal unlocked. Build every comp off the permanent track until that changes.
+**This account is permanent-track only**, per the user. Little story done, nothing seasonal unlocked. Build every comp off the permanent track until that changes. The level half of the season gate is now paid and only the story stands in the way, so that change is close.
 
 `?` marks a value the user still has to supply.
 
@@ -15,8 +15,8 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 1292 |
-| Resonance Level | 230 |
-| Total power | `?`. Raising the Resonance Level raised it, and the new figure has not been read off the screen |
+| Resonance Level | **240**, the cap |
+| Total power | `?`. The last 10 levels raised it, and the new figure has not been read off the screen |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 **The Starter Story ladder is finished.** Its last stage is 1125, so the account has cleared all of it and is now in **Infinite Stages**, the uncapped ladder that follows. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
@@ -25,31 +25,43 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 **The ladder is moving fast, and that is the account's own evidence about the push comp.** It has climbed **150 stages** since the current five were fielded, so the comp is not stalling on the trade its own weak-point list warns about. See [teams.md](teams.md).
 
-**The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 230 is 95.8% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
+**The Resonance Level is finished and the ladder is not.** Infinite Stages keep scaling enemy stats with no ceiling to stop at, so the account still needs to get stronger. The place that strength now comes from is **Resonance Synergy**, not the Resonance Level.
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **four slots have reached the 240 cap while one sits at 230**. So the last 10 Resonance Levels are bought on that one slot alone, 10 hero-levels in all, they lift all 46 heroes at once, and they open the seasonal track. Everything else is a workaround.
+- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 46 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
-The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level.
+The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level, and that headroom is spent.
 
-**Four slots stand at 240 and one at 230.** The Resonance Level reads the **lowest** Hand, so it is **230**, and **every hero not sitting in a Hand slot fields at 230**.
+**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **every one of the 46 heroes owned fields at 240**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
 
-| Slots | Level | What they are worth |
-| --- | --- | --- |
-| 4 | **240** | +10 over the roster, and at the game's level ceiling. Frozen twice over |
-| 1 | **230** | level with the roster. This is the slot the Resonance Level reads, and the only one that can still take a level |
+**Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), and the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.**
 
-**Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), so every level the account buys lands on the comp being played, and it is the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**.
+**Holding a Hand slot is now worth nothing in a fight.** The five cannot be levelled past 240 and every other hero already matches them, so **who holds a slot is no longer a comp decision**. The swap stays free, and the only reason left to move one is a Resonance Synergy unlock condition that reads the five.
 
-**No level is stored per hero anywhere in this repo, and none should be.** Swapping a Hand is free and instant and the level travels with the slot, so a per-hero level goes stale the moment the Hall is rearranged. **Four slots at 240 against one at 230 inverts the question a comp has to answer.** A five-hero comp now lifts four heroes and leaves one behind, so **each comp names the single hero that takes the 230 slot** rather than the ones that take the 240s. See the rule at the top of [teams.md](teams.md).
+**No level is stored per hero anywhere in this repo, and none should be.** One number, the Resonance Level, covers the whole roster. See the rule at the top of [teams.md](teams.md).
 
-**The account is 10 hero-levels from finished, and every one of them lands on the same slot.** The Resonance Level reads the lowest Hand, so the four at 240 are frozen and cannot accept a level. **Only the 230 slot can still take one**, and each level it gains ticks the Resonance Level with it. When it reaches 240 the Resonance Level becomes 240, all 46 heroes move up 10 at once, and season access opens. There is no ordering choice left to make.
+### Resonance Synergy
 
-**Lending a 240 slot is free, instant and worth +10 levels.** Four heroes in any comp can have it, whether or not they normally hold a Hand.
+**This is the account's only remaining level track, and it has not been started.** It unlocked the moment the fifth Hand reached 240. What it is, what it costs and where it stops paying is in [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+
+| Field | Value |
+| --- | --- |
+| Synergy level | `?`, treated as **+0** until the user reads it off the Resonating Hall |
+| Cap | **310**. That is the base 300 plus **+5 each** for the two Supreme+ heroes, Taichi & Agumon and Yamato & Gabumon |
+| Levels that pay stats | **60**, taking the roster from 240 to 300 |
+| Cost | **Hero Essence** alone, rising with each level |
+| Hero Essence held | `?` |
+| Training Manuals held | `?` |
+
+**Every Synergy level lands on all 46 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+
+**Recycle the Training Manuals.** They bought levels up to 240 and buy nothing after it, and they convert to Hero Essence at **3000 to 1**. Read the Manual balance off the bag, because it is now an Essence balance in disguise.
+
+**Ascending a hero to Supreme+ raises the cap, and the cap is not the useful part.** Levels past 300 pay Diamonds rather than stats, so **Eironn and Shemira at Supreme are not worth a sigil for this reason alone**. Judge those two ascensions on their kits. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
 
 **Rolan and Phraesto are Epic and Elijah & Lailah are Epic+.** Each step to Legendary+ costs **1 Soul Sigil** for a Celestial or Hypogean hero, so **Rolan and Phraesto are three sigils away and Elijah & Lailah are two**. Legendary+ switches on Hero Focus. Those are the cheapest ascensions on the account and all three sit inside the Hand slots. See [../mechanics/guild-store.md](../mechanics/guild-store.md) and [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
@@ -90,11 +102,17 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 ## Seasonal track: Season 7, Crown of Ashes
 
-Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
+Not reached yet. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Season access is gated at Resonance Level 240 and the account holds 230, so it cannot be on the season ladder yet. It is 10 levels away, all of them on one Hand slot.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms stay out of reach** until those 10 levels are paid. See [../mechanics/seasons.md](../mechanics/seasons.md).
+**The season gate has two halves, and the level half is paid.** It needs Resonance Level 240, which the account now holds, **plus a main story quest**. Story sits at Merlin's Ward, so **the story is the only blocker left on the whole seasonal track**. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
-**Season 7 may or may not still be running when the gate opens, and either way nothing is lost.** No source found states its end date, and the gate is now 10 levels off rather than 20. A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
+**That makes the story the highest-value thing on the account outside Resonance Synergy.** It opens the season ladder, it opens Peaks of Time, and it is separately the last blocker on Trial of Abyss. One run of it clears three gates. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
+
+`unverified`: which quest the second half is. Two readings of the same wiki page name **Ryeham Tales** in one and **New Journey** in the other. Push the story and the game will name it.
+
+**AFK Stage 1292 is still the permanent ladder**, because no season has been entered. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms stay out of reach** until the story clears the gate and a season ladder is started from zero.
+
+**Season 7 may or may not still be running when the gate opens, and either way nothing is lost.** No source found states its end date. A finished season moves into Peaks of Time and stays there, so its story and map can be walked later.
 
 ## Mode progress
 

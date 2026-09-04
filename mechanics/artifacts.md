@@ -149,7 +149,7 @@ Swiftheal, Breakthrough, Vine Snare, Sunlance, Wing Guard, Surging, Arc Burst, V
 - **Breakthrough Spell** and **Arc Burst Spell** unlock early from Story Quests.
 - **Sunlance Spell** and **Magicsurge Spell** come from Season Milestones and are the endgame picks.
 
-Their effects are not recorded, and there is no reason to record them until the account reaches Season access at Resonance Level 240.
+Their effects are not recorded, and there is no reason to record them until the account reaches Season access. The Resonance Level 240 half of that gate is paid and the story-quest half is not. See [../account/progression.md](../account/progression.md).
 
 ## Sources
 

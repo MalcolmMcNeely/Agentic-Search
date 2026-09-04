@@ -61,7 +61,7 @@ So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mecha
 
 **Support now carries two of the five heroes in the push comp, and Tank carries one.** Elijah & Lailah and Rolan are both Support, which is the **lowest class at 224**, with **Support Ring at 195** as its weakest slot. Phraesto is the only Tank left in that comp. **Tank Gloves at 185 is still the single lowest slot on the account** and lifting it alone takes Tank from 226 to 235, so it remains the biggest one-slot jump, but it now pays one played hero rather than two. **Raise Support first, Tank Gloves second.** That does not overturn the rule above: the 6-level spread is still too small to pick or drop a comp, and this only reorders which class to raise next. See [teams.md](teams.md).
 
-**Gear runs above the Resonance Level of 230, with four slots below it.** Sixteen slots reach 240, which is **10 above**. **Tank Gloves at 185, Support Ring at 195, and Warrior Weapon and Rogue Gloves at 200** are the four below. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**Gear is the number that stops moving, and hero levels are not.** Sixteen slots sit at the 240 cap, which is level with the Resonance Level of 240, and every other slot is below it. **Resonance Synergy now takes hero levels past 240 while gear cannot follow**, so the gap between the two only widens from here and the twenty uncapped slots are the way to close it. See [progression.md](progression.md) and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 ## Exclusive Equipment
 

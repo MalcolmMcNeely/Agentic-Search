@@ -1,7 +1,7 @@
 # Progression systems
 
-> **Covers:** Resonating Hall, Resonance Level, Hands of Resonance and how to swap one, ascension tiers, and what each tier unlocks.
-> **Updated:** 2026-09-03
+> **Covers:** Resonating Hall, Resonance Level, Hands of Resonance and how to swap one, Resonance Synergy past 240, ascension tiers, and what each tier unlocks.
+> **Updated:** 2026-09-04
 
 ## Resonating Hall and Resonance Level
 
@@ -36,9 +36,30 @@ Because the level travels with the slot and the swap is free and unlimited, the 
 
 `unverified`, one source only (Fandom): heroes above level 1 outside the Hands had their levels reset when the Resonating Hall arrived, and **all levelling resources were fully returned**.
 
-**Why it matters.** The swap is free, so the five Hands should be the five heroes actually fielded, not whoever was levelled first. Only Hands get the +10. See [../account/progression.md](../account/progression.md) for who holds the slots now, and [team-building.md](team-building.md) for how the level gap feeds a comp.
+**Why it matters.** The swap is free, so the five Hands should be the five heroes actually fielded, not whoever was levelled first. Only Hands get the +10, and only while the Resonance Level is under its 240 cap. Past that cap the gap closes for good, and Resonance Synergy below takes over. See [../account/progression.md](../account/progression.md) for who holds the slots now, and [team-building.md](team-building.md) for how a comp reads a level.
 
-Past Resonance Level 240, **Resonance Synergy** unlocks and takes Hero Essence.
+## Resonance Synergy
+
+**Resonance Synergy is the progression track that replaces the Resonance Level.** It unlocks when all five Hands stand at 240, which is the Resonance Level cap. It sits in the Resonating Hall, under the Power figure at the top left.
+
+**It lifts the whole roster at once, not the five Hands.** Every Synergy level is applied to every hero owned, so the +10 Hand headroom that shaped comps below 240 stops existing. There is nothing left to lend, and no hero is left behind.
+
+**It takes Hero Essence and nothing else.** Levelling to 240 cost Gold, Training Manuals and Hero Essence together. Past 240 the Gold and the Manuals stop being asked for, and each Synergy level costs more Essence than the one before it.
+
+**Training Manuals recycle into Hero Essence at 3000 to 1.** That turns a stockpile the account can no longer spend back into the one resource that still counts. Hero Essence also drops from the Exploration Journal in non-season areas.
+
+### The cap, and where it stops paying
+
+| Figure | Value |
+| --- | --- |
+| Base cap | **300**, which is 60 Synergy levels |
+| Per Supreme+ hero owned | **+5** on that cap |
+| Levels that pay stats | the first **+60**, so up to level 300 |
+| Levels past +60 | **no combat effect.** They pay **Diamonds** instead |
+
+**The cap and the useful range are two different numbers.** The first 60 levels buy stats the way a Resonance Level did. The levels a Supreme+ hero unlocks above 300 buy Diamonds, not power. So ascending a hero to Supreme+ to raise this cap is a Diamond decision, never a combat one.
+
+`unverified`: whether the +60 stat window is fixed at 60 levels or climbs with the cap as Supreme+ heroes raise it. One source states the +60 line and no second source repeats it.
 
 ## Ascension tiers
 
@@ -80,8 +101,9 @@ Hidden until 25 heroes reach Supreme+. Then excess Soul Sigils push heroes to Pa
 ## Sources
 
 - https://afk-journey.fandom.com/wiki/Gameplay_Guide/Function/Resonance_Level
-- https://afk-journey.fandom.com/wiki/Resonating_Hall (swap free and at any time, levels swap, resources returned; page returned 402 on direct fetch, read through search summaries)
 - https://www.lootbar.com/blog/en/afk-journey-resonating-hall-guide-optimal-resonance-setup.html (swap free at any time; its claim that the incoming hero enters at the Resonance Level is contradicted by the account)
 - https://www.afk.global/afk-journey-resonating-hall (swap at any time, subject to the level requirement; same contradicted claim as lootbar)
+- https://afk-journey.fandom.com/wiki/Resonating_Hall (swap free and at any time, levels swap, resources returned. Resonance Synergy: unlocks with five Hands at 240, Hero Essence only, applied to every hero, stats until +60 then Diamonds, Training Manuals recycle 3000:1; 402 on fetch, read through search summaries) [in window]
+- https://www.gamewitted.com/afk-journey/resonance-synergy-guide-for-afk-journey (base cap 300, +5 per Supreme+ hero, cost rises each level)
 - https://levelpush.com/afk-journey/hero-ascension-tiers/
 - https://playafkjourney.com/hero-ascension/

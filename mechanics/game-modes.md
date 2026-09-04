@@ -19,7 +19,7 @@
 | Homestead, Darkswarm Invasion | not recorded | one own team per Hypofiend battle | a Homestead event, not an Everlight mode. Hypofiends loot the Homestead for 24 hours. Score is total damage dealt over the week. Written up in [darkswarm-invasion.md](darkswarm-invasion.md) |
 | Ravaged Realm | `unverified`, may need season access | four squad-locked teams | a recurring event, not a permanent mode. One boss for about two and a half weeks, ranked by district. **Only one squad's heroes may be fielded each day.** Written up in [ravaged-realm.md](ravaged-realm.md) |
 
-**Peaks of Time is not in this table because it is not a mode either.** It is the archive of finished seasons, gated behind season access at Resonance Level 240. It is written up in [peaks-of-time.md](peaks-of-time.md).
+**Peaks of Time is not in this table because it is not a mode either.** It is the archive of finished seasons, gated behind season access, which needs Resonance Level 240 plus a main story quest. It is written up in [peaks-of-time.md](peaks-of-time.md).
 
 **Starry Tales is not in this table because it is not a mode.** It is a permanent per-hero story feature with no team, no attempts and no timer. It is written up in [starry-tales.md](starry-tales.md).
 

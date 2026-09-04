@@ -29,11 +29,9 @@ This matters for upgrade planning. Raising one slot by 6 raises the class Level 
 
 Several guides state that gear cannot exceed the Resonance Level, and that Resonance Level 79 crafts level 75 gear.
 
-**The account contradicts this.** At Resonance Level 230 it holds sixteen slots at the 240 cap, which is **10 above**, spread across all six classes. See [../account/equipment.md](../account/equipment.md).
+**The account contradicts this**, across repeated readings, so it is not a one-off. Treat the guides as **wrong or outdated** and the account as the truth. The rule may apply only to crafting, with drops and rewards ignoring it.
 
-The account has held gear above its Resonance Level across repeated readings, so this is not a one-off.
-
-Treat the guides as **wrong or outdated** and the account as the truth. The rule may apply only to crafting, with drops and rewards ignoring it. Re-check on the next patch.
+**The two caps have now met, so the account can no longer show it.** Gear caps at 240 and the Resonance Level caps at 240, so no slot can sit above the level any more. Past that point **Resonance Synergy** raises hero levels while gear stops dead, so from here gear runs permanently **under** the hero level. See [progression-systems.md](progression-systems.md) and [../account/equipment.md](../account/equipment.md).
 
 ### Upgrade priority
 

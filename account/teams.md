@@ -17,11 +17,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ## No comp records a hero level
 
-**Never write a level into a comp, and never add a Level column.** Every hero fields at the **Resonance Level** in [progression.md](progression.md), which is the one place a level is recorded. A Hand of Resonance slot may stand up to 10 above it, but **swapping a Hand is free and instant and the level travels with the slot**, so a level written beside a hero is wrong the moment the user rearranges the Resonating Hall.
+**Never write a level into a comp, and never add a Level column.** Every hero fields at the **Resonance Level** in [progression.md](progression.md), which is the one place a level is recorded.
 
-**A comp names its Hand assignment only when the slots differ from each other.** When the slots are level, the comp says nothing about levels at all, because there is nothing to choose.
-
-**They differ today: four slots stand at 240 against a Resonance Level of 230.** A five-hero comp therefore lifts four heroes and leaves one behind, so every comp below carries a **Low slot** line naming **the single hero that takes the 230**. The rule for picking it is the reverse of the old one: the 230 goes to the hero whose contribution scales least with its own stats, meaning a fixed buff, a control effect or a clone that reads another hero's stats rather than its own. Lending is free and instant and works on any hero, Hand or not. When the last slot reaches 240, delete every one of those lines.
+**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 46 heroes at once. See [progression.md](progression.md).
 
 ## Status
 
@@ -68,13 +66,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Starshard Spell +10. Its wave is true damage worth **24% of each target's current HP**, and it fires every **3** ally Ultimates because +4 and +8 are both live. **Confirmed from the account: it beat Confining Spell here.**
 
-**Low slot: Rolan.** This comp holds all five Hands, so the choice is which of the five sits in the 230. Rolan's clone inherits **80% of the casting ally's base stats**, not his own, so his levels buy his single body and nothing else. Every other hero here converts levels directly: the two carries into damage, Phraesto into the front row he holds alone, Elijah & Lailah into the shared HP pool both twins die from.
-
 **Faction bonus: +22%, plus +3%.** Two Dimensional, with Phraesto, Rolan and Elijah & Lailah counting as any faction, which makes 5. Each of those three adds +1% ATK and HP on top for being Hypogean or Celestial. **This is the cap**, and the comp reaches it while fielding both top-tier heroes, which no other five on the roster manages. See [../mechanics/factions.md](../mechanics/factions.md).
 
-**These five hold all five Hands of Resonance**, so every level the account buys lands on the comp being played. It stands above the rest of the roster on tier too, because Taichi & Agumon and Yamato & Gabumon carry Supreme+ ascensions and Exclusive Equipment that nothing else here matches. **Yamato & Gabumon takes the slot Daimon held and Rolan takes the slot Shemira held**; both swaps are free. See [progression.md](progression.md).
-
-**The levelling bottleneck is one slot wide, and it is in this comp.** The Resonance Level reads the lowest Hand, so it moves only as that slot climbs, and taking it to 240 lifts all 46 heroes and opens season access. **Every level goes into that one slot and nowhere else**, because the other four already run 10 above the Resonance Level and can take no more. It stands at 230, so **10 levels are left**. It is the highest-value spend on the account and it lands on the comp being played. `?` which slot it is.
+**These five hold all five Hands of Resonance**, which no longer buys them a level over anyone else, because every hero on the account fields at 240. What still sets this comp above the roster is tier: Taichi & Agumon and Yamato & Gabumon carry Supreme+ ascensions and Exclusive Equipment that nothing else here matches. See [progression.md](progression.md).
 
 **Archetype: ramp carry, doubled.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
@@ -113,7 +107,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Daimon is the swap to make, and he answers both live weak points in one slot.** He is a **Mythic** Tank, the highest tier of any candidate here, so he puts a second body in the front row where the comp is breaking. His shields are built through drain by his **core** skills and handed to bonded allies while cutting incoming damage, so his mitigation is not waiting on an Energy bar the way an Ultimate is, which is what a 10-second wipe demands. Stitchy then deals **true damage scaled to target max HP**, which puts back one of the two defence-ignoring taps weak point 1 says the comp gave up. He is Graveborn, so the bonus falls from +22% to +18%. He held this comp until this five replaced him. **Ask before swapping**, because this comp is `running`.
 
-**What else the swap moves.** Rolan also stands in the King Croaker, Snow Stomper and Darkswarm comps, and he holds Battle Drills Team 1's 230 slot; Daimon stands in the Skyclops, Darkswarm and Tower of Eternity comps and in no Battle Drills team, so the once-a-day deploy rule is not in the way. Taking the swap makes Tank the class carrying two heroes here again and Support one, which **reverses the gear note below**: Tank Gloves at 185 goes back to being the slot to raise first. See [../mechanics/heroes/daimon.md](../mechanics/heroes/daimon.md) and [equipment.md](equipment.md).
+**What else the swap moves.** Rolan also stands in the King Croaker, Snow Stomper and Darkswarm comps and in Battle Drills Team 1; Daimon stands in the Skyclops, Darkswarm and Tower of Eternity comps and in no Battle Drills team, so the once-a-day deploy rule is not in the way. Taking the swap makes Tank the class carrying two heroes here again and Support one, which **reverses the gear note below**: Tank Gloves at 185 goes back to being the slot to raise first. See [../mechanics/heroes/daimon.md](../mechanics/heroes/daimon.md) and [equipment.md](equipment.md).
 
 **Koko is the second run, if Daimon's front row still folds.** Full Energy gives **every** ally 45 to 55% damage reduction for 12s and then deals everything it blocked back as **true damage**, which is one slot buying five heroes' survival on a cooldown that also pays into damage. Her Hero Focus is live at **+12 Haste**, so it comes round sooner. **The risk is timing, and it is the whole reason she is second**: the mitigation rides on her Ultimate, so it has to land inside the window the comp is dying in. She is Mauler, so the bonus falls to +18%. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
 
@@ -125,7 +119,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Aurora stays out, and the ascension makes the reason stronger, not weaker.** All three parts of her design read one number: allied summons belonging to **different** allies, capped at **5 stacks from 5 different allies**. Her EX weapon at +5 is a **third** multiplier on that same count, so the tier bump bought more of a thing this comp does not feed. This comp fields almost none, so she would run starved. **Put her back only in a comp built around summons.** She is Mythic+ with a weapon against three Epics here, so raw tier says the opposite louder than before; the starvation is still why tier loses. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
-**Eironn is out, and the reason that used to keep him out is gone.** His battle-start pull needed Mythic+ and he is now **Supreme with the weapon at +5**, so it fires. What keeps him out now is the faction maths: he is Wilder, and dropping any of these five for him breaks the 5-count that pays the +22% and costs a Hand slot as well. Worth one run to test against the current five, not worth assuming. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
+**Eironn is out, and the reason that used to keep him out is gone.** His battle-start pull needed Mythic+ and he is now **Supreme with the weapon at +5**, so it fires. What keeps him out now is the faction maths: he is Wilder, and dropping any of these five for him breaks the 5-count that pays the +22%. Worth one run to test against the current five, not worth assuming. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 ---
 
 ## PvP, Arena — Dimensional double digivolve — `proposed`
@@ -145,8 +139,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 **Entities: five heroes, seven tiles.** Phraesto fields two bodies and Elijah & Lailah field two twins; Taichi and Yamato each cheer from off the field and take no tile. Rolan's clone is not here, so nothing else arrives mid-fight. See [../mechanics/formation.md](../mechanics/formation.md).
 
 **Artifact:** Confining Spell +9. Both steps are live, so the imprison runs **2.5s on a 10s cooldown** and fires first at **3s**, at the **2 rearmost enemies**. An undigivolved enemy Agumon is a range-7 backline unit, so the artifact aims itself at him inside the only window he can be stopped in. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
-
-**Low slot: Elijah & Lailah.** Starlight Waltz grants a flat **+60 Haste**, the same figure at any level, so the twins are the one pair here whose headline effect does not scale with their own stats. The other four all do: Agumon is the carry, Pandora's box is what gets him to the digivolve, Phraesto is the whole frontline, and Yamato & Gabumon is the second carry. Agumon, Phraesto, Elijah & Lailah already hold a Hand, so **lend Pandora a 240 and put the twins on the 230**.
 
 **Faction bonus: +22%, plus +2%.** Three Dimensional — Taichi & Agumon, Yamato & Gabumon and Pandora — with Phraesto and Elijah & Lailah counting as any faction, which makes 5. **This is the faction cap**, and it is reached with a real 3-hero core rather than a 2-hero one, so the comp keeps its shape if a wildcard is ever swapped out. Each wildcard adds +1% on top. See [../mechanics/factions.md](../mechanics/factions.md).
 
@@ -218,8 +210,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **This comp and the AFK Stages push comp share four heroes and differ in one.** Pandora replaces Rolan. The push comp entry above already names her as "the swap when Agumon dies before he digivolves specifically", and in Arena that is not a contingency, it is the fight. A correction to Agumon, Gabumon, Phraesto or Elijah & Lailah belongs in both entries.
 
-**Because the two comps overlap, the Hand slots do not have to move at all.** Four of these five hold one already.
-
 **Agumon is at his PvP ceiling on tier, and the rest is weapon levels.** **Supreme+** is bought, so the team-buffing half of his kit and the Gabumon synergy both run, and EX levels 11 to 15 are open with **+15 called the Arena target**. He holds **+8**, so **seven weapon levels are buyable and nothing gates them but Temporal Essence**, the account's tightest currency. **That is now the highest-value Arena spend left on the account.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md) and [equipment.md](equipment.md).
 
 **Four of the five are top-tier PvP on the freshest source that passes the three-part rule, and the fifth is the account's own most-invested hero.** All letters below are [allclash, 2026-08-26, investment stated as Supreme+ for the Digimon pair], the only vetted list published inside the last three months that splits PvP out on its own. See [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md) and [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
@@ -256,8 +246,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 **Entities: five heroes, five tiles.** Cecia, Pandora and Rolan take one tile each. **Taichi & Agumon takes one**, because Agumon stands on the grid and Taichi cheers from off the field, and **Yamato & Gabumon takes one** the same way. Two more arrive mid-fight and neither is placed: **Mr. Carlyle** from Cecia's Ultimate, who inherits her stats and hits in an arc, and **Rolan's clone** on every ally Ultimate, which appears beside whichever hero cast. See [../mechanics/formation.md](../mechanics/formation.md).
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, so it ignores the boss's defence, and it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns, so the wave fires more often here than anywhere else. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
-
-**Low slot: Rolan.** His clone inherits **80% of the casting ally's base stats**, not his own, so levels on him buy his single body and never reach the clone. The other four all convert: the two carries into damage, Pandora into the digivolve window, and Cecia into a DEF steal that compounds across a 70-second fight and into Mr. Carlyle, who does inherit her stats.
 
 **Faction bonus: +18%**, plus +1% for Rolan. Three Dimensional, and Rolan wildcards in as the fourth. See [../mechanics/factions.md](../mechanics/factions.md).
 
@@ -308,8 +296,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, and true damage is the one output the Wings cannot resist. It fires every **3** ally Ultimates for **24% of each target's current HP**. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Low slot: Valka.** Her panic stacks convert to true damage read off the **target's** max HP, so that half of her kit pays the same whatever her own level is. Shemira is the true-damage carry, Aurora multiplies every summon on the field, Daimon holds the front in a comp with no healer, and Cecia's Mr. Carlyle inherits her stats, so all four take a 240. None holds a Hand, so lend all four.
-
 **Faction bonus: +22%**, plus +1% for Aurora. Four Graveborn, and Aurora wildcards in as the fifth.
 
 **Why: three heroes deal true damage scaled to enemy max HP, and the Wings carry 90% of the boss's HP.** Daimon's Stitchy, Shemira's sacrificed ghosts and Valka's Blooming Terror all scale off the target's max HP, so they hit the Wings as hard as they hit Skyclops, and none of them is touched by either resistance. Add Starshard on top and the comp has four taps that never stop paying.
@@ -320,7 +306,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **AoE clears the Wings.** Skyclops is resisted or outright immune while a Wing lives, so wave clear is a requirement, not a bonus. Shemira's ten ghosts, Cecia's arc and Aurora's bunnies cover it.
 
-**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are one Mythic and one Legendary+ where this one fields three Mythics, one of them on a Hand slot, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
+**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are one Mythic and one Legendary+ where this one fields three Mythics, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
 
 **Three weak points:**
 
@@ -355,8 +341,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic |
 
 **Artifact:** Starshard Spell +10. Its wave is true damage, and it fires every **3** ally Ultimates for 24% of the target's current HP. This comp casts Ultimates faster than anything else the account owns. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
-
-**Low slot: Rolan.** His clone inherits **80% of the casting ally's base stats**, not his own, so his levels never reach it. The double carry the comp is named for, the hero who eats the instant-kill bubble and the twins whose shared HP pool has to hold all take a 240. All five already hold a Hand, so nothing needs lending.
 
 **Faction bonus: +22%**, plus **+3%** for three wildcards. Two Dimensional, with Phraesto, Rolan and Elijah & Lailah counting as any faction, which makes 5. **A 2-core plus wildcards does stack**, confirmed from the account: the AFK Stages push comp above pays +18% off two Graveborn plus Phraesto and Elijah & Lailah wildcarding in. This is the **cap**, and it is the only comp in this file that reaches the cap while also fielding both top-tier heroes. See [../mechanics/factions.md](../mechanics/factions.md).
 
@@ -432,8 +416,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/artifacts.md](../mechanics/artifacts.md) names it for this mode, and the reason is the carryover: heal that is wasted in a normal fight is banked here.
 
-**Low slot: Solise.** Her Bulbsprites are extra bodies, and Aurora's multiplier already scales what they deal without reading Solise's own level. Faramor is the only real damage dealer, Thador holds the front, Aurora is Mythic+ with an EX weapon in the one comp built entirely of summon sources, and Velara's magic circles heal a team whose **HP carries between floors**, so her stats compound across a whole run. None holds a Hand, so lend all four.
-
 **Faction bonus: +22%.** Four Wilder plus Aurora wildcarding, plus +1% ATK and HP for the Celestial.
 
 **Why:** the mode is attrition, so the comp is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md), not nuke. Solise heals in waves and her Bulbsprites raise team damage, so the first healing slot still adds damage. Thador tanks and his Ultimate heals the team on top. Faramor is the payload: true damage, blocked enemy healing, and a 12 to 15% ATK buff on the ally beside him. Aurora raises the damage of every allied summon twice over, through Dream Veil and through her **EX weapon at +5 for a further 8%**, which pays Solise's Bulbsprites, Velara's circles and her own, and she turns nearby enemies into immobilised plushies.
@@ -470,8 +452,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and this is one.
 
-**Low slot: Solise.** Her Bulbsprites are extra bodies rather than a stat-scaled effect, and she is the only hero here that neither deals the damage nor has to survive the floor. Eironn and Faramor are the two damage slots, Thador is the only Tank and holds the front for 90 floors, and Hewynn is Epic, the weakest link, and the one that dies first on a high floor. None holds a Hand, so lend all four.
-
 **Faction bonus: +22%.** Five Wilder is forced by the lock, so the cap is free.
 
 **Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Faramor is the payload: true damage, blocked enemy healing, damage scaling off HP the enemy has already lost, and a 12 to 15% ATK buff on the ally next to him. Thador tanks and his Ultimate heals. Hewynn is the account's best healer and strips debuffs. Solise heals in waves and her Bulbsprites raise team damage, so the second heal slot still adds damage. Eironn bunches the enemy and cuts Magic DEF by 40%.
@@ -504,8 +484,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back | Bonnie | Marksman | 7 | Mythic |
 
 **Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
-
-**Low slot: Valka.** Her panic stacks convert to true damage read off the **target's** max HP, so that half of her kit pays the same whatever her level. Shemira is the scaling carry, Daimon is a Tank at Mythic holding the front beside her, Bonnie is the second damage source at Mythic, and Cecia's Mr. Carlyle inherits her stats. None holds a Hand, so lend all four.
 
 **Faction bonus: +22%.** Five Graveborn is forced by the lock.
 
@@ -548,9 +526,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp cleared the tower without a healer.
 
-`?` **whether the last floor was won on Confining or on Awakening Spell +8.** The floor-89 plan offered the artifact swap as a second lever after the fourth 240 slot, and the user has not said which one landed. It decides the artifact for Battle Drills Team 3 and the Sylvan Squad, so ask before treating either as settled. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
-
-**Low slot: Rowan.** His coins hand back a fixed Energy amount to allies within 2 tiles, and his potions only fire on an ally already **under 50% HP**, so neither half of his kit reads his own level much. The other four all convert levels into the fight: Zanie is the turret carry and her turrets inherit **140% of her max HP and 80% of her ATK** each, so her level pays four bodies; Temesia is the only Tank and holds the front alone; Hugin forges ATK and Haste onto the top damage dealer, which is Zanie; Cyran's black hole is the execute that closes out a fight the comp is winning slowly. None of the five holds a Hand, so **lend all four 240s** whenever these five are fielded.
+`?` **whether the last floor was won on Confining or on Awakening Spell +8.** The floor-89 plan offered the artifact swap as a second lever, and the user has not said which one landed. It decides the artifact for Battle Drills Team 3 and the Sylvan Squad, so ask before treating either as settled. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 **Faction bonus: +22%.** Five Lightbearer is forced by the lock.
 
@@ -582,8 +558,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back | Smokey & Meerky | Support | 8 | Mythic |
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
-
-**Low slot: Kruger.** He is single-target melee and his Hero Focus is Ranged DEF on himself alone, so levels on him pay one hero in one matchup. Galahad is the carry, the comp is built around Smokey & Meerky whose aroma scales every heal and buff coming out, Antandra is the frontline and the lowest tier here at Epic, and Kordan's Hero Focus reads his own ATK. None holds a Hand, so lend all four. **Take the Koko swap below and the 230 moves to Kordan**, whose Dominance Ring is a fixed buff on whoever stands inside it.
 
 **Faction bonus: +22%.** Five Mauler is forced by the lock.
 
@@ -629,8 +603,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Starshard Spell +10. The wave fires every **3** ally Ultimates and hits **every enemy** for 24% of its current HP as true damage. Against a swarm that is five or more true damage hits per wave, and true damage ignores whatever defence the Hypofiends carry, which no source publishes. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Low slot: Rolan.** His clone casts Shemira's Ultimate for 10 more ghosts, but it inherits **her** base stats rather than his, so levels on Rolan never reach the copy that does the work. Shemira is the carry, Aurora multiplies every ghost, Daimon holds the front, and Bonnie is the second damage source at Mythic. Rolan already holds a Hand; lend the other four a 240 and leave him on the 230.
-
 **Faction bonus: +22%**, plus +2% for two Celestials. Three Graveborn, and Aurora and Rolan wildcard in.
 
 **Archetype: scaling carry and summon stack at once.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
@@ -675,8 +647,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Artifact:** Confining Spell +9, to hold enemies off her at range 4.
 
-**High slot:** **Shemira.** One hero deploys, so she takes a 240 slot and the other two pay nothing here.
-
 **Why:** her whole kit points inward, which is the only thing that counts alone. The Ultimate summons 10 ghosts that bombard for 10s and **heal her off their own damage**, so she is her own healer. Ghosts can be spent for a shield plus true damage scaled to the enemy's max HP, so she is her own tank and answers a high-HP wall. The strike count resets on every Ultimate, so the longer the fight runs the harder she hits. She is **Supreme with her EX weapon at +1**, the highest tier on the account outside the Digimon pair, and range 4 keeps her off the front.
 
 **Runner-up: Cecia.** Range 5, and Mr. Carlyle inherits her stats, so a summoner is the one other kit that keeps most of itself alone. He can be resummoned to heal. Her Trial of Thorns steals 1.5% of both enemy DEF stats every second and keeps it, which compounds in a long duel. Her file rates her B for campaign against Shemira's S.
@@ -697,7 +667,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ### Team 1 — Boss Strongholds
 
-**Use the AFK Stages push comp above, unchanged**, with **Starshard Spell +10**. Boss Strongholds score on damage dealt, and this is the account's highest damage: Taichi & Agumon at Supreme+ with an EX weapon at +10, two Tanks holding the front for him, and true damage that ignores whatever defence the boss carries. It also holds all five Hand slots, so every level the account buys lands on it.
+**Use the AFK Stages push comp above, unchanged**, with **Starshard Spell +10**. Boss Strongholds score on damage dealt, and this is the account's highest damage: Taichi & Agumon at Supreme+ with an EX weapon at +10, two Tanks holding the front for him, and true damage that ignores whatever defence the boss carries.
 
 Send it at the mid-boss and the final boss, not at passages.
 
@@ -712,8 +682,6 @@ Send it at the mid-boss and the final boss, not at passages.
 | Back | Solise | Wilder | Support | Magic | 6 | Legendary |
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. Two Supports heal here, so the healing artifact lands on the one team built to use it.
-
-**Low slot: Solise.** The damage sits in Eironn and Faramor, Thador holds the front for them, and Velara's magic circles are the healing this team runs a whole passage chain on. Solise's Bulbsprites are extra bodies rather than a stat-scaled effect.
 
 **Faction bonus: +22%.** Five Wilder, so a Wilder camp buff pays all five.
 
@@ -733,8 +701,6 @@ Send it at the mid-boss and the final boss, not at passages.
 
 **Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
 
-**Low slot: Rowan.** His coins hand back a fixed Energy amount to allies within 2 tiles, and his potions only fire on an ally already under 50% HP, so neither reads his own level much. Zanie is the turret carry, Temesia is the only Tank holding the front for her, Hugin is Mythic and forges onto the top damage dealer, and Cyran's black hole is the execute that breaks a stalled fight.
-
 **Faction bonus: +22%.** Five Lightbearer, the deepest faction on the account at 12.
 
 **Why:** Hugin is Mythic and forges ATK and Haste onto the top damage dealer while cogshields soak, Zanie fires from range 20 and puts turrets on the field, Cyran's black hole pulls the enemy together and kills anything under 15% HP, and Rowan's coins hand back Energy. Two damage types, so a passage stacked against one defence cannot resist all of it.
@@ -752,8 +718,6 @@ Send it at the mid-boss and the final boss, not at passages.
 | Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Mythic |
 
 **Artifact:** Blazing Spell +10. It is fully upgraded and the only artifact owned that grants DEF Penetration, and three of these five are physical melee paying full price against enemy defence.
-
-**Low slot: Kruger.** He is single-target melee and his Hero Focus is Ranged DEF on himself alone. Galahad is the carry, Smokey & Meerky is the highest tier here and the engine behind the heals, Antandra holds the front, and Kordan's Hero Focus reads his own ATK.
 
 **Faction bonus: +22%.** Five Mauler.
 
@@ -773,8 +737,6 @@ Send it at the mid-boss and the final boss, not at passages.
 
 **Artifact:** Enlightening Spell +10. **This is the one comp on the account where it aims correctly.** It buffs the rearmost ally, chosen by the game, and Bonnie is the only hero in the back row here, so the fully upgraded buff lands on a Mythic Marksman instead of being split three ways. Every other comp on this account has two or three heroes in the back row, which is why the artifact sits unused everywhere else. See [progression.md](progression.md).
 
-**Low slot: Cecia.** Her DEF steal takes **1.5% of the enemy's own defence stats a second**, so it is read off the target rather than off her. Bonnie is the damage, Aurora multiplies every summon on the field, Valka shields the allies near her, and Gerda is **Elite**, the lowest tier on the account, holding a front row alone. None holds a Hand, so lend all four.
-
 **Faction bonus: +18%**, plus **+1%** for one wildcard. Three Graveborn, with Aurora counting as any faction, makes 4. Gerda is Mauler and does not wildcard. She holds this front because Phraesto now holds Team 1's.
 
 **Why:** Gerda sleeps a whole area for up to 3s and heals through it, which is control and sustain in one slot, Valka builds panic stacks into true damage off the target's max HP, Bonnie's Aging strips enemy Haste and ATK and then spreads, Cecia steals 1.5% of both enemy DEF stats a second and keeps it, and Aurora raises the damage of every allied summon by Dream Veil and by a further 8% from her EX weapon at +5, which pays Cecia's Mr. Carlyle and her own bunnies. **She is now the highest-invested hero in this team**, the only one carrying an EX weapon, so keep her alive and keep summons on the field around her.
@@ -783,11 +745,7 @@ Send it at the mid-boss and the final boss, not at passages.
 
 ### Hands of Resonance across the five
 
-**The five slots are one assignment for the whole account, so the five teams here compete for them and only one team can win.**
-
-**Team 1 holds all five, and the four 240 slots sit on Taichi & Agumon, Yamato & Gabumon, Phraesto and Elijah & Lailah inside it, leaving Rolan on the 230.** Team 1 fights the Boss Strongholds, which score on damage dealt, so that is where 10 levels are worth the most.
-
-**So read every "Low slot" line on Teams 2 to 5 as conditional.** Each one names the hero to leave on the 230 **if the run turns on that team instead** — a stronghold Team 1 cannot reach, or a day Team 1 has already deployed. Lending is free and instant, so the slots can move between rounds, but they cannot be in two teams at once. See [../mechanics/battle-drills.md](../mechanics/battle-drills.md).
+**The five teams no longer compete for the Hand slots.** Every hero on the account fields at 240, so the slots buy nothing a team can use and the five teams are separated by their heroes and their artifacts alone. Team 1 fights the Boss Strongholds because it holds the account's strongest five, not because it holds the slots. See [../mechanics/battle-drills.md](../mechanics/battle-drills.md).
 
 ### What is left over
 
@@ -828,8 +786,6 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 **Entities: five heroes, five tiles.** Three of them add bodies during the fight and none of those is placed: **Stitchy** arrives on Daimon's Ultimate, **ten ghosts** on each of Shemira's, and **Mr. Carlyle** on Cecia's, inheriting her stats.
 
-**Low slot: Cecia.** Her DEF steal takes **1.5% of the enemy's own defence stats a second**, so it reads the Golem rather than her. Shemira is the carry, Daimon and Valka hold the shield pattern up, and Bonnie is the second damage source at Mythic.
-
 **Faction bonus: +22%.** Five Graveborn, the maximum, with no wildcard needed.
 
 **Three shield sources and three kinds of defence-ignoring damage, in five heroes.** No other squad on this account stacks both.
@@ -859,8 +815,6 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 **Put Eironn on the tile 1 behind Thador.** That fixes him as the lieutenant during preparation, and the shield is 350% + 35% over 8s, which is **16s** once Energy Realm doubles it.
 
-**Low slot: Elijah & Lailah.** Starlight Waltz grants a flat **+60 Haste** whatever their level. Eironn, Thador and Faramor carry the damage and the front, and Hewynn is the healing this squad survives the Golem on.
-
 **Faction bonus: +22%**, four Wilder with Elijah & Lailah wildcarding in, plus **+1%** for the Celestial.
 
 **Why:** Eironn is Supreme with his weapon at +5, the best-invested hero this account can field in any squad other than Immortal, though **his pull is dead here**, because there is one enemy and it does not move. He is in for his stats and Howling Hurricane. Thador shields himself and the lieutenant. Faramor drops a true damage circle that also blocks healing, and buffs one adjacent ally, so stand him beside Eironn. Elijah & Lailah give every ally **+60 Haste for 7s**, shield the weakest ally and heal, which is the Ultimate dial and a shield in one slot. Hewynn is the account's best healer and adds **team-wide damage reduction** while Rain Prayer runs, which is what covers Ultra Sweep's percentage drain.
@@ -879,8 +833,6 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 | Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic |
 
 **Entities: five heroes, six tiles.** Phraesto's Illusion is summoned in the preparation phase and takes its own tile, so place it. **Both bodies go in the same row**, which is what grants each of them 30% damage reduction. Zanie then adds **two laser turrets and a gun turret** during the fight, and the two lasers link only if they start within 2 tiles of each other, so keep her tile central.
-
-**Low slot: Rowan.** His coins hand back a fixed Energy amount and his potions only fire on an ally already under 50% HP. Zanie, Hugin and Phraesto carry the squad, and Lucius is the second body on a front row that has to hold a Golem.
 
 **Faction bonus: +22%**, four Lightbearers with Phraesto wildcarding in, plus **+1%** for the Hypogean.
 
@@ -903,8 +855,6 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 **Smokey & Meerky stand in the middle row, not the back their range 8 allows.** The aroma is **2 tiles wide** around their own tile, their Hero Focus needs **3 non-summoned allies inside it**, and everything they cast is a multiple of their own ATK, so the tile that reaches the most allies is worth more than the tile that keeps them safe. Nothing on this boss punishes standing forward: every skill it has hits all five wherever they stand. **Count the allies inside the aroma before locking the formation**, and if the count is under three, pull Antandra and Kordan back a tile rather than push the pair further forward. See [../mechanics/formation.md](../mechanics/formation.md).
 
 **The Dominance Ring and the aroma pull opposite ways.** The ring lands on the Golem and the aroma is centred behind, so the two zones only partly overlap. The aroma wins, because it runs all fight and feeds the Energy that brings every Ultimate round.
-
-**Low slot: Antandra.** She shields herself and one ally, so 10 levels on her pay two heroes instead of five, and she is the only hero here whose kit stays local. Galahad is the carry, Koko is the mitigation engine, Smokey & Meerky read their healing, their 16% ATK buff and their Hero Focus all off their own ATK, and Kordan's Hero Focus reads his own ATK too. Her lower tier does not overturn this: the rule is what the levels reach, not who needs them.
 
 **Faction bonus: +22%.** Five Mauler.
 
@@ -935,7 +885,7 @@ A change to any of those heroes' tiers moves both comps.
 
 ### Before any of this is fielded
 
-`unverified`: **whether the account can enter Ravaged Realm at all.** The rewards are seasonal Essences and Crests and the last boss carried a Soul Pact clause, which points at the seasonal track, and **season access is gated at Resonance Level 240 while the account holds 230**. No source states an entry requirement either way. See [../mechanics/ravaged-realm.md](../mechanics/ravaged-realm.md) and [progression.md](progression.md).
+`unverified`: **whether the account can enter Ravaged Realm at all.** The rewards are seasonal Essences and Crests and the last boss carried a Soul Pact clause, which points at the seasonal track. **The level half of the season gate is now paid at Resonance Level 240, and the story half is not.** No source states an entry requirement for Ravaged Realm either way. See [../mechanics/ravaged-realm.md](../mechanics/ravaged-realm.md) and [progression.md](progression.md).
 
 **If it can be entered, the Valor Store is the reason to grind it.** Grimstones buy **25 Temporal Essence**, which is the account's tightest currency and cannot be bought anywhere else. Unspent Grimstones convert to Gold at 1:300, so spend every one. See [equipment.md](equipment.md).
 

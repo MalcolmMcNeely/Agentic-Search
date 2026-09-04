@@ -55,7 +55,7 @@ Difficulty clear rewards pay **Grimstones** at 10%, 30%, 50% and 70% of the boss
 
 Ranking rewards pay Twilight Essence, Branco Essence, Ultra Radiant Crests, Stellar Crystals, avatar frames and, in the top 100, cosmetics.
 
-`unverified`: **whether this account can enter at all.** The Gervan boss carried an Enemy Soul Pact clause reading enemy Phantimals and spirit marks, and the ranking rewards are Crests and seasonal Essences, which points at the seasonal track. **Season access is gated at Resonance Level 240 and the account holds 230.** No source states an entry requirement for Ravaged Realm either way. See [seasons.md](seasons.md) and [../account/progression.md](../account/progression.md).
+`unverified`: **whether this account can enter at all.** The Gervan boss carried an Enemy Soul Pact clause reading enemy Phantimals and spirit marks, and the ranking rewards are Crests and seasonal Essences, which points at the seasonal track. **The account holds Resonance Level 240, so the level half of the season gate is paid, and the story-quest half is not.** No source states an entry requirement for Ravaged Realm either way. See [seasons.md](seasons.md) and [../account/progression.md](../account/progression.md).
 
 ## The Giant Golem
 
