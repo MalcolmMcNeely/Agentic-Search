@@ -49,7 +49,9 @@ None of the three lists states an investment level, so none of them says which P
 
 ## Against this account
 
-**He holds the AFK Stages push comp**, as its second Tank and one of its five Hands of Resonance. He took the slot from Rolan on the account's report that the comp dies rather than stalls: Rolan bought damage, and damage was not what the comp was short of. Phraesto heals himself off his own Ultimate, taunts the enemy's biggest hitter away from the carry, and hands out damage reduction from two bodies at once. He pays into the survival sum four ways, which is what [../hero-scoring.md](../hero-scoring.md) asks of a defensive slot. See [../../account/teams.md](../../account/teams.md).
+**He holds the AFK Stages push comp**, as its **only** Tank and one of its five Hands of Resonance. He heals himself off his own Ultimate, taunts the enemy's biggest hitter away from the carry, and hands out damage reduction from two bodies at once, so he pays into the survival sum four ways, which is what [../hero-scoring.md](../hero-scoring.md) asks of a defensive slot. See [../../account/teams.md](../../account/teams.md).
+
+**Four ways is not enough on its own, and the account says so.** That comp is reported dead in the opening 10 seconds with only Agumon left standing, and holding an Infinite Stage front row alone on an **Epic** copy with two of his five pieces switched off is the reason. He is not the hero to drop; he is the hero to stand a second Tank beside. See [daimon.md](daimon.md) and [../../account/teams.md](../../account/teams.md).
 
 **Hypogean wildcards, so he costs no faction bonus.** He counts as any faction for the stat total and adds +1% ATK and HP just by deploying. He is the account's **first Hypogean**. See [../factions.md](../factions.md).
 
