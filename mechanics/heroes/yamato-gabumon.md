@@ -1,7 +1,7 @@
 # Yamato & Gabumon
 
 > **Covers:** Yamato & Gabumon kit, stats and best use.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-03
 
 - **Faction:** Dimensional
 - **Class:** Mage
@@ -19,7 +19,7 @@ Yamato cheers Gabumon with an ATK boost at battle start and again on every Ultim
 
 ## Exclusive Equipment: Grace Cross Freezer
 
-**Unlocked, at +6.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of **four** EX weapons the account owns. Supreme+ opens levels 11 to 15, so **he is the only one of the four that can be spent on above +10**: Taichi & Agumon and Eironn stop at +10, and Aurora is already frozen on her Mythic+ ceiling of +5. See [../../account/equipment.md](../../account/equipment.md).
+**Unlocked, at +6.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of **five** EX weapons the account owns. Supreme+ opens levels 11 to 15, and **Taichi & Agumon has now joined him past that gate**, so the two of them are the only weapons on the account that can be spent on above +10. Eironn and Shemira stop at +10, and Aurora is frozen on her Mythic+ ceiling of +5. **His 9 levels to +15 are the largest single Temporal Essence bill on the account**, at 800. See [../../account/equipment.md](../../account/equipment.md).
 
 Grace Cross Freezer is a spread missile barrage. It hits several enemies at once and does less on repeat hits against the same target, so it spreads damage rather than deleting one hero. Its upgrades add an instant freeze plus bonus damage once enough hits land.
 
@@ -35,7 +35,7 @@ Grace Cross Freezer is a spread missile barrage. It hits several enemies at once
 
 ## Copies buy nothing more
 
-He sits at the top ascension tier, so further Soul Sigils spent on him change nothing. The only sink above Supreme+ is Paragon, and that stays hidden until **25 heroes** reach Supreme+; he is the first. **Take the hero-locked Temporal Essence from any remaining event chest instead**, because it raises the EX weapon and cannot be bought anywhere. It converts to universal Temporal Essence once the hero is invested in, which he is. Taichi & Agumon still gains from a copy, and the crossover event is the only published source; it ends **14 September 2026**, `unverified` against one source that reads 15 September. See [taichi-agumon.md](taichi-agumon.md), [../progression-systems.md](../progression-systems.md) and [../dream-store.md](../dream-store.md).
+He sits at the top ascension tier, so further Soul Sigils spent on him change nothing. **The same is now true of Taichi & Agumon**, so no copy of either pair buys the account anything and the crossover deadline no longer matters to them. The only sink above Supreme+ is Paragon, and that stays hidden until **25 heroes** reach Supreme+; the pair are the first two. **Take the hero-locked Temporal Essence from any remaining event chest instead**, because it raises the EX weapon and cannot be bought anywhere. It converts to universal Temporal Essence once the hero is invested in, which he is. See [taichi-agumon.md](taichi-agumon.md), [../progression-systems.md](../progression-systems.md) and [../dream-store.md](../dream-store.md).
 
 ## Best for
 
@@ -43,7 +43,7 @@ Dream Realm and AFK Stages. Backline magic damage and the heaviest freeze on the
 
 ## Notes
 
-More fragile than Agumon, so keep him in the back row. Pairs directly with Taichi & Agumon: at battle start WarGreymon hands every ally behind him +25% of his own ATK for 20s, and Gabumon taking that buff gains 300 Energy, which shortens his own ramp. **He is Supreme+ with an EX weapon and Taichi & Agumon is Supreme with one**, so the pair is the strongest thing the account can field. Also works with Elijah & Lailah, Rowan and Hugin.
+More fragile than Agumon, so keep him in the back row. Pairs directly with Taichi & Agumon: at battle start WarGreymon hands every ally behind him +25% of his own ATK for 20s, and Gabumon taking that buff gains 300 Energy, which shortens his own ramp. **Both stand at Supreme+ with an EX weapon**, so the pair is the strongest thing the account can field, and **Taichi & Agumon now leads it on weapon level, +10 against +6**. Also works with Elijah & Lailah, Rowan and Hugin.
 
 ## Source
 

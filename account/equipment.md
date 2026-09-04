@@ -1,7 +1,7 @@
 # Equipment and charms
 
 > **Covers:** Class Equipment levels, Exclusive Equipment owned, and Magic Charm loadouts.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-04
 
 Three systems with different scopes. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
@@ -61,7 +61,7 @@ So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mecha
 
 **Support now carries two of the five heroes in the push comp, and Tank carries one.** Elijah & Lailah and Rolan are both Support, which is the **lowest class at 224**, with **Support Ring at 195** as its weakest slot. Phraesto is the only Tank left in that comp. **Tank Gloves at 185 is still the single lowest slot on the account** and lifting it alone takes Tank from 226 to 235, so it remains the biggest one-slot jump, but it now pays one played hero rather than two. **Raise Support first, Tank Gloves second.** That does not overturn the rule above: the 6-level spread is still too small to pick or drop a comp, and this only reorders which class to raise next. See [teams.md](teams.md).
 
-**Gear runs above the Resonance Level of 200, with two slots below it.** Sixteen slots reach 240, which is **40 above**. **Tank Gloves at 185 and Support Ring at 195** are the two below, and Warrior Weapon and Rogue Gloves sit level with it at 200. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**Gear runs above the Resonance Level of 230, with four slots below it.** Sixteen slots reach 240, which is **10 above**. **Tank Gloves at 185, Support Ring at 195, and Warrior Weapon and Rogue Gloves at 200** are the four below. Several guides claim gear cannot exceed the Resonance Level. This account disproves that. See the note in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 ## Exclusive Equipment
 
@@ -69,33 +69,49 @@ Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipm
 
 | Hero | EX level | Skill |
 | --- | --- | --- |
-| Taichi & Agumon | +8 | `?` |
+| Taichi & Agumon | +10 | `?` |
 | Yamato & Gabumon | +6 | Grace Cross Freezer |
 | Eironn | +5 | Howling Hurricane |
 | Aurora | +5 | `?` |
 | Shemira | +1 | Spectral Barrier |
 
-**Five Exclusive Equipments are owned.** Yamato & Gabumon is **Supreme+**, the top ascension tier and the first hero on this account to reach it. Taichi & Agumon, Eironn and **Shemira** are all **Supreme**, one step behind, and **Aurora is Mythic+**, the tier the weapon unlocks at. Each of the five carries an EX weapon on top. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out. **Eironn and Shemira are the two strongest heroes the account can field in the modes that do**, Eironn because the towers take Wilders and Shemira because she carries the Tower of Eternity, Arena, Skyclops, Darkswarm and solo comps at once. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md), [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md) and [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md).
+**Five Exclusive Equipments are owned.** **Yamato & Gabumon and Taichi & Agumon both stand at Supreme+**, the top ascension tier, and no other hero on the account is there. **Eironn and Shemira are Supreme**, one step behind, and **Aurora is Mythic+**, the tier the weapon unlocks at. Each of the five carries an EX weapon on top. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out. **Eironn and Shemira are the two strongest heroes the account can field in the modes that do**, Eironn because the towers take Wilders and Shemira because she carries the Tower of Eternity, Arena, Skyclops, Darkswarm and solo comps at once. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md), [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md) and [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md).
 
 **They also ramp each other, so the two strongest heroes on the account are the same two that pay each other back.** WarGreymon hands every ally behind him +25% of his own ATK at battle start, and Gabumon taking that buff gains 300 Energy, which shortens his own digivolve. Grace Cross Freezer fires **more missiles the closer allies stand**, so the pair wants to be built inward, not spread. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
-**Yamato & Gabumon holds Enhance Force and Taichi & Agumon does not.** It arrives with Supreme+ and strengthens one skill the hero already has. `?` which skill it lands on; read it off the hero screen. Taichi & Agumon needs Supreme+ for it, and the Digimon crossover event is the only published source of his copies. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**Both Digimon pairs hold Enhance Force.** It arrives with Supreme+ and strengthens one skill the hero already has. `?` which skill it lands on for each of them; read it off the hero screen. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**The five EX weapons sit at three ceilings, because every upgrade band needs a higher ascension tier than the last.** Levels 6 to 10 need Supreme, and 11 upwards needs Supreme+.
+**The five EX weapons sit at three ceilings, because every upgrade band needs a higher ascension tier than the last.** Levels 6 to 10 need Supreme, and 11 upwards needs Supreme+. **The Digimon pair are the only two heroes past that second gate.**
 
 | Hero | EX now | Ceiling at its tier | Levels it can still buy | Cost of the next step |
 | --- | --- | --- | --- | --- |
 | Aurora | +5 | **+5**, Mythic+ | **none** | ascend to Supreme first |
 | Shemira | +1 | +10, Supreme | **9** | 150 Tidal Essence to +2 |
 | Eironn | +5 | +10, Supreme | 5 | 75 Temporal Essence to +6 |
-| Taichi & Agumon | +8 | +10, Supreme | 2 | 75 Temporal Essence to +9 |
+| Taichi & Agumon | +10 | **+15, Supreme+** | **5** | 100 Temporal Essence to +11 |
 | Yamato & Gabumon | +6 | +15, Supreme+ | 9 | 75 Temporal Essence to +7 |
 
 **Aurora's weapon is already on her ceiling.** Not one level can be bought on it until she ascends to Supreme, so a sigil spent on her buys the next EX level as well as the tier.
 
 **Shemira has as much room as Yamato & Gabumon, nine levels, and the cheapest first four of anyone.** Levels 2 to 5 are **Tidal Essence** at 150 each, and Tidal is the one of the three currencies not rationed by a leaderboard placing. Only from +6 does she start competing for Temporal Essence.
 
-**Temporal Essence is now the account's tightest currency, and four weapons want it.** It cannot be bought, and it costs 75 per level to +10 and 100 per level above that. Eironn wants 5 levels, Yamato & Gabumon 9, Taichi & Agumon 2, and Shemira 5 once she clears +5. **Shemira's +10 is the step to save it for**, because it is the only one of them that adds damage the uncapped ladder cannot resist. See below and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**Temporal Essence is the account's tightest currency, and Agumon's ascension just tripled what he wants from it.** It cannot be bought, and it costs 75 per level to +10 and 100 per level above that.
+
+| Hero | Levels wanted | Temporal Essence for all of them |
+| --- | --- | --- |
+| **Shemira, +6 to +10** | 5 | **375**, after 600 Tidal Essence clears +2 to +5 |
+| Eironn, to +10 | 5 | 375 |
+| Taichi & Agumon, +11 to +15 | 5 | 500 |
+| Yamato & Gabumon, to +15 | 9 | 800 |
+
+**Agumon has cleared +10, so the cheap band is spent and the decision that was deferred is now live.** Every level left on him costs 100 rather than 75.
+
+**Shemira's +10 is the pick, and it wins on both halves of the trade.**
+
+- **It costs the least Temporal Essence of any target here, 375**, and Temporal is the currency the account cannot buy. Her first four levels are paid in **Tidal Essence**, which nothing else on this list competes for, so she draws on two currencies instead of one.
+- **It buys the best effect.** Every ghost hit adds true damage worth 3% of the target's max HP and cuts that max HP by the same amount. [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md) calls it the best EX level available anywhere on the account, and [progression.md](progression.md) argues defence-ignoring damage is the only kind that keeps working while Infinite Stages inflate enemy defence with no cap.
+
+**Agumon's +11 to +15 is second, and it is the PvP case.** allclash names +15 the Arena target, and he carries the Arena comp, the push comp, the Snow Stomper comp and King Croaker. It costs **500**, a third more than Shemira's, for an effect no source has published. **Take it after her**, or first if Arena rank is what the account is chasing. See below and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 ### Why Shemira's +10 outranks every other EX level on the account
 

@@ -1,7 +1,7 @@
 # Game modes
 
 > **Covers:** every mode, what unlocks it, where to find it in the game, and what its team needs.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-03
 
 | Mode | Unlocks at | Team | Notes |
 | --- | --- | --- | --- |
@@ -17,6 +17,7 @@
 | Supreme Arena | not recorded | several own teams | PvP with seasonal Phantimals, Charms and Artifacts |
 | Trial of Abyss | story clear + all 1125 AFK Stages + server 28 days old | one own team per floor | descending floor-by-floor dungeon |
 | Homestead, Darkswarm Invasion | not recorded | one own team per Hypofiend battle | a Homestead event, not an Everlight mode. Hypofiends loot the Homestead for 24 hours. Score is total damage dealt over the week. Written up in [darkswarm-invasion.md](darkswarm-invasion.md) |
+| Ravaged Realm | `unverified`, may need season access | four squad-locked teams | a recurring event, not a permanent mode. One boss for about two and a half weeks, ranked by district. **Only one squad's heroes may be fielded each day.** Written up in [ravaged-realm.md](ravaged-realm.md) |
 
 **Peaks of Time is not in this table because it is not a mode either.** It is the archive of finished seasons, gated behind season access at Resonance Level 240. It is written up in [peaks-of-time.md](peaks-of-time.md).
 
@@ -40,6 +41,7 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
 - **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
+- **Ravaged Realm** locks the roster to one squad a day, and a squad is one base faction plus the wildcards and collab heroes assigned to it. Roster depth in a single faction decides the score, and the account's best heroes are unavailable on three days out of four. See [ravaged-realm.md](ravaged-realm.md).
 - **Darkswarm Invasion** scores on total damage dealt across the week, so a battle that ends in a wipe still pays. Attempts per Hypofiend battle are limited and the enemy faction is unpublished, so build for raw output and wave clear. See [darkswarm-invasion.md](darkswarm-invasion.md).
 - **Solo battles** on the World Map and in the story deploy one hero, so the faction bonus pays nothing and ally-facing skills are wasted. See [solo-battles.md](solo-battles.md).
 
@@ -73,3 +75,4 @@ Which banner to pull on, what each currency buys, the wishlists and Stargaze Sta
 - https://afk-journey.fandom.com/wiki/AFK_Stage (1125 is the last Starter Story stage; Infinite Quest unlocks server-wide at 1125 and runs until the next season; 402 on fetch, read through search summaries) [2026]
 - https://www.gameleap.com/articles/afk-journey-how-to-unlock-trial-of-abyss (Trial of Abyss follows the AFK Stages)
 - https://afk-journey.fandom.com/wiki/Version/1.1.16 (Infinite Quest patch notes; read through a search summary)
+- https://afk-journey.fandom.com/wiki/Ravaged_Realm (Ravaged Realm is a recurring event with a daily squad lock and an Endless Mode; 402 to WebFetch, read by direct HTTP request) [current, live page]

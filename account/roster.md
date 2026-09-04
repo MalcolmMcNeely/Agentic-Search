@@ -1,15 +1,15 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-09-02
+> **Updated:** 2026-09-04
 
 ## How to read this
 
 - **Tier** is the ascension tier. Order: Elite, Elite+, Epic, Epic+, Legendary, Legendary+, Mythic, Mythic+, Supreme, Supreme+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md). A hero that cannot ascend has no tier and reads `n/a`.
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
-- **Level** is not stored per hero. **Every hero on the account sits at the Resonance Level**, which is in [progression.md](progression.md). **All five Hands of Resonance stand at 210, so the Resonance Level is 210 and all 44 heroes are at 210.** No hero on the roster is above or below another on levels, so a comp is picked on tier, kit and faction alone.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 44: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Level is not stored per hero, here or anywhere else in this repo.** Every hero sits at the **Resonance Level**, which is in [progression.md](progression.md) and is the only level recorded. A Hand of Resonance slot may run up to 10 above it, but swapping a Hand is free and the level travels with the slot, so a per-hero level would go stale the moment the Hall is rearranged. A comp names its Hand assignment only when the slots differ. So **pick a comp on tier, kit and faction**.
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 46: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
@@ -18,7 +18,7 @@
 | Lightbearer | 12 |
 | Mauler | 9 |
 | Wilder | 9 |
-| Graveborn | 7 |
+| Graveborn | 9 |
 | Dimensional | 3 |
 | Celestial | 3 |
 | Hypogean | 1 |
@@ -49,7 +49,7 @@
 | Galahad | Mage | Magic | Legendary | - | [galahad](../mechanics/heroes/galahad.md) |
 | Kordan | Warrior | Physical | Legendary+ | - | [kordan](../mechanics/heroes/kordan.md) |
 | Kruger | Warrior | Physical | Legendary+ | - | [kruger](../mechanics/heroes/kruger.md) |
-| Koko | Support | Physical | Legendary | - | [koko](../mechanics/heroes/koko.md) |
+| Koko | Support | Physical | Legendary+ | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
 | Smokey & Meerky | Support | Magic | Mythic | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
 | Odie | Marksman | Magic | Elite `?` | - | [odie](../mechanics/heroes/odie.md) |
@@ -79,14 +79,16 @@
 | Bonnie | Marksman | Magic | Mythic | - | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
 | Valka | Warrior | Physical | Legendary+ | - | [valka](../mechanics/heroes/valka.md) |
+| Thoran | Tank | Physical | Legendary | - | [thoran](../mechanics/heroes/thoran.md) |
 | Shadewing | Rogue | Magic | Elite | - | [shadewing](../mechanics/heroes/shadewing.md) |
 | Viperian | Mage | Magic | Elite | - | [viperian](../mechanics/heroes/viperian.md) |
+| Niru | Support | Magic | Elite | - | [niru](../mechanics/heroes/niru.md) |
 
 ## Dimensional
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Taichi & Agumon | Warrior | Physical | Supreme | +8 | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
+| Taichi & Agumon | Warrior | Physical | Supreme+ | +10 | [taichi-agumon](../mechanics/heroes/taichi-agumon.md) |
 | Yamato & Gabumon | Mage | Magic | Supreme+ | +6 | [yamato-gabumon](../mechanics/heroes/yamato-gabumon.md) |
 | Pandora | Support | Magic | Legendary | - | [pandora](../mechanics/heroes/pandora.md) |
 
@@ -96,7 +98,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Aurora | Mage | Magic | Mythic+ | +5 | [aurora](../mechanics/heroes/aurora.md) |
 | Rolan | Support | Magic | Epic | - | [rolan](../mechanics/heroes/rolan.md) |
-| Elijah & Lailah | Support | Magic | Epic | - | [elijah-lailah](../mechanics/heroes/elijah-lailah.md) |
+| Elijah & Lailah | Support | Magic | Epic+ | - | [elijah-lailah](../mechanics/heroes/elijah-lailah.md) |
 
 All three are Celestial, so they count as any faction for the faction bonus, and each adds +1% ATK and HP just by being deployed.
 

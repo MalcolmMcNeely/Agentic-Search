@@ -126,7 +126,7 @@ The four skills in `.claude/skills/` are the behaviour half of the pattern. Retr
 
 The rule in [CLAUDE.md](CLAUDE.md) that **the account beats the guides** is the staleness advantage made concrete.
 
-It has already fired once. Several published guides state that equipment cannot exceed a player's Resonance Level. This account runs Resonance Level 110 with level 160 gear. The observed fact won, the rule is marked `disputed` in [mechanics/equipment-and-charms.md](mechanics/equipment-and-charms.md), and the reason is written next to it.
+It has already fired once. Several published guides state that equipment cannot exceed a player's Resonance Level. This account runs Resonance Level 220 with sixteen gear slots at 240. The observed fact won, the rule is marked `disputed` in [mechanics/equipment-and-charms.md](mechanics/equipment-and-charms.md), and the reason is written next to it.
 
 A vector store would have returned the guide's claim with a high similarity score and no way to notice it was wrong.
 

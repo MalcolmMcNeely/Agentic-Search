@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, which fight each one suits, and the Season 7 set.
-> **Updated:** 2026-09-02
+> **Updated:** 2026-09-04
 
 One artifact is equipped per team, not per hero, and it pays the team twice.
 
@@ -12,7 +12,7 @@ One artifact is equipped per team, not per hero, and it pays the team twice.
 
 **The "+10 step" the guides describe is the stat line at its ceiling, not a third ability.** Every figure quoted as a +10 effect is a row in the artifact's stat table: Enlightening's +7.2 ATK SPD and +11.4% HP, Blazing's +7.8 DEF Penetration and +13.8% to both DEF stats, Ironwall's +6 Haste and +9 Vitality, Starshard's +4.8 Haste and +10.2% HP. So a level past +8 buys stats, and the real question is whether those stats beat another artifact's +4 or +8. See [../account/progression.md](../account/progression.md).
 
-`unverified`: **whether +10 buys anything over +9.** The stat tables list identical values at 9 and 10 on all six artifacts, and identical values at 4 and 5. One source, so it is a reading rather than a fact, and the upgrade screen in game settles it in one look.
+`unverified`: **whether +10 buys anything over +9.** The stat tables list identical values at 9 and 10 on all six artifacts, and identical values at 4 and 5. One source, so it is a reading rather than a fact. **Confining sits at +9, so its upgrade screen shows the +10 row and settles this in one look.**
 
 ## Permanent artifacts (Starter Story)
 
@@ -63,7 +63,7 @@ Confining stays the pick where a comp genuinely needs its backline held, such as
 
 **Nothing about it scales with the ladder.** Two enemies held for 2.5s is the same effect at stage 1292 as at stage 1, and the damage is read off your own Team ATK rather than the enemy's stats. That is the whole of the argument in the `disputed` note above, and it cuts the other way in a short fight, where a fixed opening effect is exactly what is wanted.
 
-**On this account:** Confining sits at **+8**, so both effect steps are live: the imprison lasts 2.5s and the cooldown is 10s. No effect step remains. It is the pick on five comps in [../account/teams.md](../account/teams.md).
+**On this account:** Confining sits at **+9**, so both effect steps are live: the imprison lasts 2.5s and the cooldown is 10s. No effect step remains, and the last level buys stats alone. It is the pick on five comps in [../account/teams.md](../account/teams.md).
 
 ### Starshard Spell
 

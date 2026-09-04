@@ -23,16 +23,16 @@ Drafting first is what gives the reconcile its worth. A comp built from the rost
 
    **Place every entity, not every hero.** A five-hero comp is rarely five tiles. Elijah & Lailah deploy as two bodies, Phraesto stands beside an Illusion, and Taichi & Agumon puts only Agumon on the grid. **State the count hero by hero**, because it is a property of the hero, not of the comp, and give each entity its own row. Name the summons and zones that arrive later too, wherever their position changes what they are worth. The full table is in [formation.md](../../../mechanics/formation.md).
 
-5. **Assign the Hands of Resonance.** The account owns five levelled **slots**, not five levelled heroes. `progression.md` holds the slot levels; read them there rather than from here, because they move. Swapping a hero into a slot is free, unlimited, and the level travels with the slot, so any comp can hold all five. See [progression-systems.md](../../../mechanics/progression-systems.md).
+5. **Assign the Hands of Resonance, but only if the slots differ.** The account owns five levelled **slots**, not five levelled heroes. `progression.md` holds the slot levels; read them there rather than from here, because they move. Swapping a hero into a slot is free, unlimited, and the level travels with the slot, so any comp can hold all five. See [progression-systems.md](../../../mechanics/progression-systems.md).
 
-   Two consequences, and the first is the one that goes wrong:
-
+   - **Never write a level next to a hero, and never add a Level column.** The level belongs to the slot, so a level beside a hero is stale the moment the user rearranges the Resonating Hall. `progression.md` records the Resonance Level once, and that is the only level in the repo.
+   - **Read `progression.md` first, then decide whether there is anything to say.** When every slot stands level with the Resonance Level, the comp says **nothing** about levels: there is no choice to make.
+   - **When one slot stands above the others, name the hero that should hold it.** Put it where 10 levels pay most, which is the carry first, then the hero that must survive for the pattern to work. Say it in the comp, because the swap happens before the fight.
    - **Pick the comp on its kits, then hand it the slots.** Every comp can hold all five, so the assignment follows the comp rather than choosing it.
-   - **Every comp names which heroes take the highest slots.** Put them where 10 levels pay most, which is the carry first, then the two heroes that must survive or hit hardest for the pattern to work. Say it in the comp, because the swap happens before the fight.
 
    The Resonance Level is the **lowest** slot, so it never moves when heroes change slots. It moves only when a slot's level changes.
 
-Done when five heroes are named, each confirmed in `roster.md` at the tier claimed, **every entity each hero fields counted and placed in a row**, one artifact named at an owned level, the highest Hand slots assigned, and one line saying what each hero is there to do.
+Done when five heroes are named, each confirmed in `roster.md` at the tier claimed, **every entity each hero fields counted and placed in a row**, one artifact named at an owned level, no level written beside any hero, and one line saying what each hero is there to do.
 
 ## Reconcile
 

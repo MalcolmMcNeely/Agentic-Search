@@ -1,7 +1,7 @@
 # Taichi & Agumon
 
 > **Covers:** Taichi & Agumon kit, stats and best use.
-> **Updated:** 2026-09-02
+> **Updated:** 2026-09-03
 
 - **Faction:** Dimensional
 - **Class:** Warrior
@@ -33,29 +33,27 @@ Its three levels are bought with **Tidal Essence**, not earned by ascending, so 
 
 ## Exclusive Equipment
 
-Unlocked, at **+8**. He is **Supreme**, two tiers past the Mythic+ gate, and levels 11 to 15 need Supreme+, so his ceiling is **+10**. It is one of **four** Exclusive Equipments on the account; Yamato & Gabumon holds one at +6, Eironn one at +5 and Aurora one at +5. See [../../account/equipment.md](../../account/equipment.md).
+Unlocked, at **+10**. He is **Supreme+**, the top ascension tier, so the whole 11-to-15 band is open and his ceiling is **+15**, the level allclash names the Arena target. **Five levels are buyable and no further ascension gates any of them, but each now costs 100 Temporal Essence rather than 75.** It is one of **five** Exclusive Equipments on the account; Yamato & Gabumon holds one at +6, Eironn one at +5, Aurora one at +5 and Shemira one at +1. See [../../account/equipment.md](../../account/equipment.md).
 
-**He and Yamato & Gabumon are the two strongest heroes the account owns, and which one leads is open.** Yamato & Gabumon stands one ascension tier higher at Supreme+ and holds Enhance Force; he holds two more weapon levels, +8 against +6. `?` which of those two is worth more. Standing two or three ascension tiers above every hero outside the pair, plus an EX weapon, is still a large gap, and [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
+**He and Yamato & Gabumon are the two strongest heroes the account owns, and he now leads the pair.** Both stand at **Supreme+** and both hold Enhance Force, so the tier no longer separates them, and he carries **four more weapon levels, +10 against +6**. The pair stand one ascension tier above Eironn and Shemira and two or more above every other hero owned. [../equipment-and-charms.md](../equipment-and-charms.md) says a hero with an EX weapon usually beats a hero without, even one faction slot out of place. Field him wherever Dimensional heroes are allowed.
 
 `?` What the weapon's skill does. No source publishes it. Read it off the hero screen in game.
 
-**Enhance Force needs Supreme+, one tier above him.** It strengthens a skill he already has, and Yamato & Gabumon already holds it. See [../progression-systems.md](../progression-systems.md) and [yamato-gabumon.md](yamato-gabumon.md).
+**Enhance Force is live.** It arrived with Supreme+ and strengthens a skill he already has. `?` which skill it lands on; read it off the hero screen. Yamato & Gabumon holds his too. See [../progression-systems.md](../progression-systems.md) and [yamato-gabumon.md](yamato-gabumon.md).
 
-## Copies are on a clock
+## Copies
 
-Both Digimon pairs come from the crossover event, free during it, and no other source is published. **The event ends 14 September 2026**, `unverified` against one source that reads 15 September. Copies now buy Supreme+ and Enhance Force, so take them before the event closes. **He is the only one of the pair a copy still helps**, because Yamato & Gabumon is already Supreme+. See [yamato-gabumon.md](yamato-gabumon.md).
+**Nothing left to buy.** He is **Supreme+**, the top ascension tier, so no further ascension exists and a copy buys him nothing. Both Digimon pairs are now finished on tier. Every remaining upgrade on him is an **EX weapon level**, paid in Temporal Essence, not a copy. See [../../account/equipment.md](../../account/equipment.md) and [yamato-gabumon.md](yamato-gabumon.md).
 
-The event also carries the redemption code **CourageAndFriendship** for 300 Diamonds and 20,000 Gold, expiring 14 September 2026 at 16:00 UTC.
+The crossover event runs until **14 September 2026**, `unverified` against one source that reads 15 September. It carries the redemption code **CourageAndFriendship** for 300 Diamonds and 20,000 Gold, expiring 14 September 2026 at 16:00 UTC. The code is still worth claiming; the copies are not.
 
 ## PvP
 
-**Rated S in PvP for a free-to-play account, S+ for a spender** [allclash, 2026-08-26, states the split by spend]. The account buys no copies, so **S** is its reading.
+**Rated S in PvP for a free-to-play account, S+ for a spender** [allclash, 2026-08-26, states the split by spend]. The account bought the copies, so **S+ is now its reading**: the split is about the built hero, and this account holds the build the S+ letter describes.
 
-**The PvP half of his kit sits behind Supreme+, one tier above him.** The build order is Mythic+ with EX+10 for the execute and the lost-HP damage, **then Supreme+ for the team buffing and the Gabumon synergy, and PvP is the reason given**. `unverified`, one source. He is **Supreme**, so the execute half is live and the team-buffing half is not.
+**Both halves of his kit are live.** The build order is Mythic+ with EX+10 for the execute and the lost-HP damage, **then Supreme+ for the team buffing and the Gabumon synergy, and PvP is the reason given**. `unverified`, one source. He is **Supreme+**, so the execute half and the team-buffing half both run.
 
-**His Arena ceiling is EX+15, and that needs Supreme+ too.** allclash names +15 the final goal "especially for Arena". He holds **+8**, and Supreme caps the weapon at +10, so **two weapon levels are reachable now and five more wait behind the same ascension**. See [../equipment-and-charms.md](../equipment-and-charms.md).
-
-**So one ascension opens both halves of his PvP ceiling at once**, and the only published source of copies closes with the crossover event.
+**His Arena ceiling is EX+15, and he is two thirds of the way there.** allclash names +15 the final goal "especially for Arena", and it also names **+10 a milestone in its own right**, for the execute and the lost-HP damage. He holds **+10**, so that milestone is banked and **five levels remain at 100 Temporal Essence each, 500 in all**. [../../account/equipment.md](../../account/equipment.md) ranks Shemira's +10 ahead of those five, because it costs less of the same currency and buys defence-ignoring damage. See [../equipment-and-charms.md](../equipment-and-charms.md) and [../../account/equipment.md](../../account/equipment.md).
 
 ## Best for
 

@@ -1,7 +1,7 @@
 # Progression systems
 
 > **Covers:** Resonating Hall, Resonance Level, Hands of Resonance and how to swap one, ascension tiers, and what each tier unlocks.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-09-03
 
 ## Resonating Hall and Resonance Level
 

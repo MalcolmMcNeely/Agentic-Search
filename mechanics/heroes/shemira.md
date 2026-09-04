@@ -1,7 +1,7 @@
 # Shemira
 
 > **Covers:** Shemira kit, stats and best use.
-> **Updated:** 2026-09-02
+> **Updated:** 2026-09-03
 
 - **Faction:** Graveborn
 - **Class:** Mage
@@ -56,7 +56,7 @@ Campaign and PvE. Sustained damage with built-in survivability, and the account'
 
 **She holds four comps at once**: Tower of Eternity, Skyclops, Darkswarm Invasion and solo battles. A change to her tier or kit moves all four. **She is queued as a late swap into the Arena comp**, against enemy shields only, and the cost there is the whole Dimensional faction core. See [../../account/teams.md](../../account/teams.md).
 
-**She is not a Hand of Resonance, and it costs her nothing.** All five Hands stand at 210, so the Resonance Level is 210 and she runs at 210 like every other hero on the account. Borrowing a slot for her buys nothing while that holds. See [../../account/progression.md](../../account/progression.md).
+**She is not a Hand of Resonance, so lend her one.** Two slots stand above the Resonance Level and lending is free and instant, and she is named for a high slot in every comp she carries: Tower of Eternity, Skyclops, Darkswarm and solo battles. See [../../account/progression.md](../../account/progression.md) and [../../account/teams.md](../../account/teams.md).
 
 **Rolan doubles her, so every point of investment in her is doubled too.** His clone casts her Ultimate again for 10 more ghosts. It is the largest single damage add the account owns, and it copies her Supreme tier and her EX weapon with it.
 

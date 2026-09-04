@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, artifacts owned and mode progress.
-> **Updated:** 2026-09-02
+> **Updated:** 2026-09-04
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -15,7 +15,7 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | --- | --- |
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 1292 |
-| Resonance Level | 210 |
+| Resonance Level | 230 |
 | Total power | `?`. Raising the Resonance Level raised it, and the new figure has not been read off the screen |
 | Story progress | Merlin's Ward, a few sidequests done |
 
@@ -25,43 +25,34 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 **The ladder is moving fast, and that is the account's own evidence about the push comp.** It has climbed **150 stages** since the current five were fielded, so the comp is not stalling on the trade its own weak-point list warns about. See [teams.md](teams.md).
 
-**The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 210 is 87.5% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
+**The ladder problem has inverted, and the fix has not changed.** The stage ceiling is reached and the level ceiling is not: Resonance Level 230 is 95.8% of the 240 a finished account holds. So there is no longer a stage ladder pulling ahead. There is an **uncapped** one instead, and Infinite Stages keep scaling enemy stats with no ceiling to stop at.
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **all five Hands now stand level at 210**, so the next point costs a level on every one of them. That lifts all 44 heroes at once. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **three slots have reached the 240 cap while one sits at 232 and one at 230**. So the last 10 Resonance Levels are bought on those two slots alone, 18 hero-levels in all, they lift all 46 heroes at once, and they open the seasonal track. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level.
 
-| Hero | Faction | Class | Level | Tier |
-| --- | --- | --- | --- | --- |
-| Taichi & Agumon | Dimensional | Warrior | **210** | Supreme, EX +8 |
-| Yamato & Gabumon | Dimensional | Mage | **210** | Supreme+, EX +6 |
-| Phraesto | Hypogean | Tank | **210** | Epic |
-| Elijah & Lailah | Celestial | Support | **210** | Epic |
-| Rolan | Celestial | Support | **210** | Epic |
+**Three slots stand at 240, one at 232 and one at 230.** The Resonance Level reads the **lowest** Hand, so it is **230**, and **every hero not sitting in a Hand slot fields at 230**.
 
-**The five Hands are the AFK Stages push comp** in [teams.md](teams.md), so every level the account buys lands on the comp being played. That comp is also the King Croaker comp, so the slots pay in both places at once. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**, taken when both moved into the comp the account now fields.
+| Slots | Level | What they are worth |
+| --- | --- | --- |
+| 3 | **240** | +10 over the roster, and at the game's level ceiling. Frozen twice over |
+| 1 | **232** | +2 over the roster. Too small to pick a hero for, and it can still take 8 more levels |
+| 1 | **230** | level with the roster. This is the slot the Resonance Level reads |
 
-**All five Hands stand at 210, so the Resonance Level is 210.** It reads the **lowest** Hand, and none of the five is lower than another. **Every hero on the account is now at 210**, all 44 of them, because a hero off the Hand slots sits at the Resonance Level.
+**Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), so every level the account buys lands on the comp being played, and it is the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**.
 
-**The Hands are level with the Resonance Level, not above it.** A Hand may run at most 10 above, so each of the five has **10 levels of headroom** and can climb to 220.
+**No level is stored per hero anywhere in this repo, and none should be.** Swapping a Hand is free and instant and the level travels with the slot, so a per-hero level goes stale the moment the Hall is rearranged. **The three 240 slots are the only disparity worth drafting around, and each comp names which three of its heroes should hold them.** The 232 slot is +2 and is not worth a line in a comp. See the rule at the top of [teams.md](teams.md).
 
-**The bottleneck just went from one hero wide to five.** That is the cost of having caught Rolan up, and it was still the right purchase.
+**The account is 18 hero-levels from finished, and the Resonance Level only ticks as the lowest slot climbs.** It reads the lowest Hand, so the three at 240 are frozen and cannot accept one. **The 232 and 230 slots both need to reach 240**, which is 8 levels and 10 levels. Order does not change the end state, but nothing shows on the Resonance Level until the 230 slot moves. When both reach 240 the Resonance Level becomes 240, all 46 heroes move with it at once, and season access opens.
 
-- **The Resonance Level moves only when all five Hands move.** It reads the lowest, so raising four of them to 220 leaves it at 210 and lifts nothing outside those four. The next Resonance Level point costs **five hero-levels**, where the last ten cost one each.
-- **So spread points evenly across all five.** Levelling one Hand ahead of the others buys that hero alone; levelling all five together buys all 44.
+**Lending a 240 slot is free, instant and worth +10 levels.** Three heroes in any comp can have it, whether or not they normally hold a Hand.
 
-**Lending a Hand slot now buys nothing.** No Hand stands above the Resonance Level, so a hero swapped into a slot gains the level it already has. **That rule is switched off until the Hands climb above 210 again**, and every comp in [teams.md](teams.md) that borrowed a slot no longer needs to.
-
-**The upside is that comp choice is free again.** Every hero on the roster fields at 210, so a comp is now picked entirely on kit and faction, with no level penalty for leaving the Hands at home.
-
-**Rolan, Phraesto and Elijah & Lailah are all Epic, and each is three Soul Sigils from Legendary+ and a live Hero Focus.** So the cheapest ascension on the account is still inside the Hand slots, and it is the only thing a Hand slot buys that levelling no longer does. See [../mechanics/guild-store.md](../mechanics/guild-store.md).
-
-**Swapping a Hand is free, and the level travels with the slot.** Confirmed from the account: a hero moved into a slot takes that slot's level, not its own. So the five Hands are re-picked whenever the comp being played changes, and that is why they match the push comp. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**Rolan and Phraesto are Epic and Elijah & Lailah are Epic+.** Each step to Legendary+ costs **1 Soul Sigil** for a Celestial or Hypogean hero, so **Rolan and Phraesto are three sigils away and Elijah & Lailah are two**. Legendary+ switches on Hero Focus. Those are the cheapest ascensions on the account and all three sit inside the Hand slots. See [../mechanics/guild-store.md](../mechanics/guild-store.md) and [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
 ### Artifacts owned
 
@@ -70,7 +61,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Artifact | Level | Effect steps live | The comps it holds |
 | --- | --- | --- | --- |
 | Starshard Spell | +10 | +4 and +8 | AFK Stages push, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
-| Confining Spell | +8 | +4 and +8 | Arena, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
+| Confining Spell | +9 | +4 and +8 | Arena, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
 | Awakening Spell | +8 | +4 and +8 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
 | Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
 | Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5 |
@@ -91,7 +82,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 The order rests on what the next step does and how many fielded comps it lands on. It does not rest on a tier letter, because there is no sourceable one to rest on.
 
 1. **Ironwall to +8, four levels.** The blessing moves to the frontmost surviving hero when the blessed one dies, which is the right effect for the weak team it holds. **It is the only effect step left anywhere on the account**, so every other artifact level now buys stats alone.
-2. **Confining past +8.** Both effect steps are live, so a level buys the team ATK and HP line and nothing else. It holds five comps, three of them without a healer, so the stats still land somewhere useful.
+2. **Confining to +10, one level.** Both effect steps are live, so it buys the team ATK and HP line and nothing else, but it is **one level from the ceiling** and it holds five comps, three of them without a healer. Finishing it also settles the open question below: whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and this is the artifact that will answer it.
 3. **Awakening past +8.** Both effect steps are live here too, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats at max. It holds four comps.
 
 **Starshard, Blazing and Enlightening are finished.** All three sit at +10 with both effect steps live and the stat line at its ceiling. Enlightening still buffs **one hero, the rearmost ally**, chosen by the game, so it stays on Battle Drills Team 5, the only comp in [teams.md](teams.md) with a single hero in the back row.
@@ -102,9 +93,9 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Season access is gated at Resonance Level 240 and the account holds 210, so it cannot be on the season ladder at all.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms are out of reach** until the Resonance Level reaches 240. See [../mechanics/seasons.md](../mechanics/seasons.md).
+**Season access is gated at Resonance Level 240 and the account holds 230, so it cannot be on the season ladder yet. It is 10 levels away, on two Hand slots.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms stay out of reach** until those 10 levels are paid. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
-**Season 7 will be over long before the account can enter it, and that costs nothing.** A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
+**Season 7 may or may not still be running when the gate opens, and either way nothing is lost.** No source found states its end date, and the gate is now 10 levels off rather than 20. A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
 
 ## Mode progress
 
@@ -114,7 +105,7 @@ Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
 | Infinite Stages | yes, needs 1125 | at **1292**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
-| Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on Koko copies at 1,200 each |
+| Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on the Koko copies that took her to Legendary+ at 1,200 each. Faramor is the next target. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
 | Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, of the 5 the guides claim exist. See [../mechanics/arena.md](../mechanics/arena.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
@@ -133,11 +124,42 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 
 | Field | Value |
 | --- | --- |
-| Diamonds | 17,000 |
-| Epic Invite Letters | 0 |
-| Epic Recruitment pity | `?` |
-| Epic wishlist, 5 slots | Thoran, Shemira, Eironn, Smokey & Meerky, Shakir. See [../mechanics/recruitment.md](../mechanics/recruitment.md) |
+| Diamonds | `?`. Spent down on the Agumon copies. See below |
+| Digimon crossover banner | **finished.** Both pairs are Supreme+, so no copy buys anything more |
+| Epic Invite Letters | `?`. Spent down on the Thoran pulls. Read the balance off the banner |
+| Epic Recruitment pity | `?`. The S-Level guarantee fired on Thoran, so the 30-pull counter has reset |
+| Epic wishlist, 5 slots | Thoran, Shemira, Eironn, Smokey & Meerky, Shakir, unchanged. **Thoran is now owned, so his slot buys copies rather than the unlock.** See [../mechanics/recruitment.md](../mechanics/recruitment.md) |
 | Stargaze pity | 0 |
 | Stargaze target | Elijah & Lailah |
 | Stellar Crystals | `?` |
 | Guild Medals | `?`. 30,000 spent on Elijah & Lailah. Income is about 28,000 a month, so the next sigil is roughly a month away. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
+
+### Niru is the account's ninth Graveborn, and its first cheat-death
+
+**He stands at Elite, the tier an A-Level hero unlocks at, so he is one copy and no duplicates.** Graveborn is now 9 deep and level with Wilder, second only to Lightbearer's 12. See [roster.md](roster.md) and [../mechanics/heroes/niru.md](../mechanics/heroes/niru.md).
+
+**Only three of his six skills are live.** Soul Shepherd, Soul Reaping and Spirit Devour work at Elite. Hero Focus needs **Legendary+**, Ethereal Form is an **Exclusive Equipment gated at Mythic+**, and Enhance Force needs **Supreme+**. Elite to Legendary+ is **21 Soul Sigils** from the Dream Store, which is the same price as Viperian and comes after Faramor in the queue. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
+
+**`?` where the copy came from.** He is stocked in the Dream Store and he is also on the All-Hero banner, and the two spend different currencies. Read it off the Dream Fragment balance or the banner pity counter, because a banner pull moves the counters in the table above.
+
+### Thoran is the account's second S-Level Graveborn
+
+**He came off Epic Recruitment and stands at Legendary.** Graveborn was the thinnest S-Level faction on the account, and Thoran and Shemira are the only two clean S-Level picks in it, so this fills the gap the Epic wishlist was built around. See [roster.md](roster.md) and [../mechanics/heroes/thoran.md](../mechanics/heroes/thoran.md).
+
+**Three of his five pieces are live and two are not.** Soul Retaliation, Soul Plunder and Resurrection all work at Legendary. **Hero Focus needs Legendary+, which is 2 Soul Sigils away**, and his Soul Pact is an **Exclusive Equipment gated at Mythic+**, so no comp may count on the 50% damage share yet.
+
+**Legendary+ is the cheapest ascension on the account after the three Celestial and Hypogean steps.** It costs 2 Soul Sigils, and those sigils come only from more Epic Recruitment copies, because no shop stocks him. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
+
+**`?` how many copies the pull actually gave.** An S-Level hero unlocks at Epic, and Epic to Legendary is two ascension steps, so Legendary reads as one unlock plus two duplicates. The user reports two pulls. Read the copy count off his ascension screen before planning the 2 sigils to Legendary+. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+
+### The Digimon pair are finished on tier
+
+**Taichi & Agumon is Supreme+.** Both crossover heroes now stand at the top ascension tier, so **no copy of either buys anything more** and the 14 September event deadline no longer costs the account anything. Every upgrade left on the pair is an **EX weapon level** paid in Temporal Essence. See [equipment.md](equipment.md).
+
+**The account's spending pressure moved from diamonds to Temporal Essence.** Agumon can now reach **EX +15**, the level named as the Arena target, which is 7 levels and 650 Essence. Essence cannot be bought, so it is now the tighter constraint of the two. See [equipment.md](equipment.md) for the queue and the trade against Shemira's +10.
+
+**`?` Diamonds remaining, and how many pulls the two copies took.** The bank held 23,594 before the pulls and the worst case was 19,800, so the balance is somewhere between 3,794 and 15,794. Read it off the screen.
+
+**Resume the standing spend order with whatever is left**, starting with the daily 210-diamond Invite Letter. See [../mechanics/diamonds.md](../mechanics/diamonds.md).
+
+**Claim the code `CourageAndFriendship` if it is not claimed.** It pays 300 Diamonds and 20,000 Gold and expires 14 September 2026 at 16:00 UTC.

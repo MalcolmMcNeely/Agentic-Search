@@ -1,7 +1,7 @@
 # Recruitment
 
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-04
 
 Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
@@ -40,9 +40,9 @@ The wishlist is live from the first pull and holds **5 slots**. Every S-Level th
 
 **The 5 slots take the four main factions only: Graveborn, Lightbearer, Mauler and Wilder.** Celestial and Hypogean heroes come from Stargaze Station or the Guild Store, and Dimensional heroes are not selectable either. See [guild-store.md](guild-store.md). One guide (lootbar) lists Elijah & Lailah, Phraesto and Pandora as Epic wishlist picks; all three break this rule.
 
-**A hero on the current Rate Up banner cannot be picked here.** Vala is the rate-up hero, so she is locked out of the 5 slots until that banner ends. She is then the strongest Lightbearer pick.
+**A hero on the current Rate Up banner cannot be picked here.** **Eryndor is the rate-up hero**, so he is locked out of the 5 slots until that banner ends. See the section below.
 
-**S-Level Graveborn are scarce.** Only **Thoran** and **Shemira** are S-Level Graveborn. **Viperian is A-Level**: the Dream Store stocks him and it stocks no S-Level hero, which agrees with prydwen and three other sources against the one that read him S-Level. See [dream-store.md](dream-store.md). **Cecia is `unverified`**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn. **Silvina, Niru, Salazer and Viperian are all on the Dream Store shelf**, which is a surer route than an All-Hero wishlist slot. Igor is not stocked, so he stays on the wishlist. See [dream-store.md](dream-store.md).
+**S-Level Graveborn are scarce, and the account now owns both of them.** Only **Thoran** and **Shemira** are S-Level Graveborn. **Viperian is A-Level**: the Dream Store stocks him and it stocks no S-Level hero, which agrees with prydwen and three other sources against the one that read him S-Level. See [dream-store.md](dream-store.md). **Cecia is `unverified`**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn. **Silvina, Niru, Salazer and Viperian are all on the Dream Store shelf, and Niru and Viperian are already owned at Elite**, which is a surer route than an All-Hero wishlist slot. Igor is not stocked, so he stays on the wishlist. See [dream-store.md](dream-store.md).
 
 ## All-Hero Recruitment
 
@@ -62,11 +62,11 @@ The only banner that pulls Celestial and Hypogean heroes. It is not the only way
 
 ### Target priority
 
-**One question orders this list: who the next Stellar Crystals go to.** The order is allclash's Celestial and Hypogean build priority [2026-08-01], which ranks for spending order rather than for any single mode. The letters beside each name are from allclash's mode-split tier list [2026-08-26], so every rank shows which fights its case rests on. Neither page states an investment level per hero, and the tier list rates with Mythic+, Supreme+ and EX weapon priority in view, so every letter here describes a built copy. All three owned ranks are **Epic**, with Hero Focus still locked at Legendary+. Check the tier in [../account/roster.md](../account/roster.md) before spending on a letter.
+**One question orders this list: who the next Stellar Crystals go to.** The order is allclash's Celestial and Hypogean build priority [2026-08-01], which ranks for spending order rather than for any single mode. The letters beside each name are from allclash's mode-split tier list [2026-08-26], so every rank shows which fights its case rests on. Neither page states an investment level per hero, and the tier list rates with Mythic+, Supreme+ and EX weapon priority in view, so every letter here describes a built copy. Rolan and Phraesto are **Epic** and Elijah & Lailah are **Epic+**, with Hero Focus still locked at Legendary+ on all three. Check the tier in [../account/roster.md](../account/roster.md) before spending on a letter.
 
 | Rank | Hero | Letters [2026-08-26] | The case |
 | --- | --- | --- | --- |
-| 1 | Elijah & Lailah | S+ PvE, S+ Dream Realm, S+ PvP | **owned.** Top band in all three modes at once, so no fight on the account argues against them. 14 copies for full ascension, but the early steps are 1 sigil each, so Legendary+ and its Hero Focus is three away |
+| 1 | Elijah & Lailah | S+ PvE, S+ Dream Realm, S+ PvP | **owned.** Top band in all three modes at once, so no fight on the account argues against them. **owned at Epic+.** 14 copies for full ascension, but the early steps are 1 sigil each, so Legendary+ and its Hero Focus is two away |
 | 2 | Rolan | S+ PvE, S+ Dream Realm, S PvP | **owned.** Celestial Support, Magic, range 10. Clones an ally Ultimate and drives the Morale system, and needs few copies to work. His softest letter is the PvP one, so this is a PvE and Dream Realm case |
 | 3 | Phraesto | S+ PvE, S Dream Realm, S+ PvP | **owned.** Claimed from a Glorious Hero Chest, at Epic. Hypogean Tank who deploys as two bodies. Copies now, not the unlock. His case is PvE and PvP; the Dream Realm letter is a band lower |
 | 4 | Baelran | S PvE, S+ Dream Realm, S+ PvP | the first rank here that is still a pull rather than copies. Top band in Dream Realm and PvP |
@@ -101,11 +101,11 @@ Rolan fits this roster twice over:
 
 ### The Epic wishlist, 5 slots
 
-Picked by archetype and by what the account cannot field, not by tier list. **Eironn and Lily May came off this banner**, and all 44 letters went with them.
+Picked by archetype and by what the account cannot field, not by tier list. **Eironn, Lily May and Thoran all came off this banner.**
 
 | Slot | Hero | Faction | Class | Why |
 | --- | --- | --- | --- | --- |
-| 1 | **Thoran** | Graveborn | Tank | the account's largest hole. Tower of Eternity is faction-locked and fields **no Tank**, which its own entry in [../account/teams.md](../account/teams.md) calls the comp's ceiling. He resurrects once per battle, marks the highest-HP enemy for +13% damage taken, and eats 50% of the damage aimed at the ally behind him. He is in no shop, so the wishlist is the only route |
+| 1 | **Thoran** | Graveborn | Tank | **owned, at Legendary. He came off this banner, so the slot now buys copies rather than the unlock.** He resurrects once per battle and marks the highest-HP enemy for **+13% damage taken for the whole fight**, and both are live at his tier. **Legendary+ costs 2 Soul Sigils and switches on his Hero Focus.** His Soul Pact, which absorbs 50% of the damage aimed at the ally behind him, is his **Exclusive Equipment and needs Mythic+**, so it is not live and no comp may count on it. He is in no shop, so this slot is still the only route to a copy. See [heroes/thoran.md](heroes/thoran.md) |
 | 2 | **Shemira** | Graveborn | Mage | the scaling carry in the Tower of Eternity, Arena and Darkswarm comps. **She no longer holds a Hand of Resonance and no longer stands in the push comp**, both of which went to the Digimon pair. She is **Supreme with her EX weapon at +1**, so Hero Focus and Spectral Barrier are both live and only **Enhance Force** is left, one tier up at Supreme+. **Copies now buy Supreme+ and Enhance Force**, which no source here prices for an S-Level hero: [dream-store.md](dream-store.md) puts the whole S-Level climb at 7 duplicates and 350 Faction Acorns but does not split the last two steps. `?` the Supreme to Supreme+ price; read it off her ascension screen |
 | 3 | **Eironn** | Wilder | Rogue | **Supreme with the weapon at +5**, so the battle-start pull is live and the PvP nuke comp is no longer blocked on him. Copies now buy two things instead: the weapon to **+10**, which doubles the immobilise from 3s to 6s, and **Supreme+**, which turns on Enhance Force. He is the account's third EX weapon and the only one outside the Digimon pair |
 | 4 | **Smokey & Meerky** | Mauler | Support | **Mythic**, one tier under Mythic+, so the next ascension unlocks Withering Potion, which widens the aroma and drains enemies for up to 12% of max HP a second. That turns the account's S-Level healer into a damage source, and it is a short route to a fifth EX weapon |
@@ -113,11 +113,32 @@ Picked by archetype and by what the account cannot field, not by tier list. **Ei
 
 **Slot 5 runner-up: Cecia.** Owned, Graveborn, and in the Tower of Eternity comp. She stays off until her rarity is settled, because an A-Level in a slot spends the 30-pull guarantee.
 
-**Graveborn depth does not come from this banner, and it does not need the wishlist either.** Only Thoran and Shemira are clean S-Level Graveborn picks. The rest of the faction is A-Level, and **Viperian, Silvina, Niru and Salazer are all stocked in the Dream Store**, bought outright for Dream Fragments instead of gambled on a wishlist slot. That is where Tower of Eternity depth comes from. See [dream-store.md](dream-store.md).
+**Graveborn depth beyond those two does not come from this banner, and it does not need the wishlist either.** Thoran and Shemira are the only clean S-Level Graveborn picks and both are owned. The rest of the faction is A-Level, and **Viperian, Silvina, Niru and Salazer are all stocked in the Dream Store**, bought outright for Dream Fragments instead of gambled on a wishlist slot. **Viperian and Niru are owned**, so the shelf now sells their ascensions. That is where Tower of Eternity depth comes from. See [dream-store.md](dream-store.md).
 
 The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. The Dream Store does not stock him. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
 
-The rate-up pair, **Cyran and Thador, are both already owned and both already fielded**, so this banner buys copies rather than a hero. allclash [2026-08-26, investment not stated per hero, and the list rates with Mythic+ and EX weapon priority in view] rates Cyran **A+ PvE, C Dream Realm, S+ PvP**, and Thador **A PvE, B Dream Realm, B+ PvP**. Cyran's top letter is the PvP one and he already holds the back row of the Tower of Light and Battle Drills comps at Epic; Thador tanks three comps at Legendary+. Neither ascension unlocks a comp, and the wishlist slots above each do, so the Epic wishlist outranks this banner. See [../account/teams.md](../account/teams.md).
+## The current Rate Up: Eryndor
+
+**S-Level Graveborn Mage, Magic damage, base range 8. Released 3 September 2026.** He is not owned.
+
+**His Ultimate is a dice game, and the dice are loaded by the rest of the team.** Every non-summoned enemy rolls. **Whenever a different ally lands a stat reduction on an enemy, that enemy gains a stack of Woe, up to 3, and each stack takes 1 off their roll.** An enemy rolling **3 or lower loses**: it hands Eryndor **20% + 2% of its ATK and 15% + 1.5% of its max HP**, and takes **160% damage three times**. An enemy that loses again takes extra hits at 200%, up to 3 of them.
+
+His other skill throws **9 fan blades** at non-summoned enemies, **lowest HP percentage first**, for 70% + 10% each. **Each stack of Woe raises the damage that target takes by 10% + 1%.**
+
+**So he is a payoff hero, not an engine.** Both halves of his kit read Woe, and Woe comes only from *allies* applying stat reductions. In a team that strips no stats, enemies roll clean and a good half of them simply do not lose. He is the second half of a debuff comp, and the account has to own the first half before he does anything.
+
+### The verdict: save the tickets
+
+**Four reasons, and the first is the one that decides it.**
+
+1. **He released today, so no source rates him.** Not allclash, not Pocket Tactics, not afk.global. Every rule in [tier-list-sources.md](tier-list-sources.md) says a day-one hero has no citable letter, and the **reseller inflation** trap is aimed at exactly this moment: Voracia was rated S by both resellers and B to D by every independent list. Wait for the mode-split lists to catch up.
+2. **Rate Up pity is 40 and does not carry to the next banner.** So a half-finished pull is money burned. Either commit to 40 or do not start.
+3. **The bank was just spent on Agumon**, and that purchase is done and worth keeping. See [diamonds.md](diamonds.md).
+4. **His kit needs a team this account has not built.** Pandora, Cecia and Bonnie all strip stats, but none of them stands in a Graveborn comp with him today.
+
+**He is still worth revisiting, and here is the honest case for it.** **Graveborn is the account's thinnest S-Level faction** — only Thoran and Shemira are clean S-Level picks, and both are now owned. **Tower of Eternity is Graveborn-locked, sits at 56 of 90, and the towers are the biggest untouched block of progress on the account.** An S-Level Graveborn Mage is aimed straight at that gap. See [legend-trial.md](legend-trial.md) and [../account/progression.md](../account/progression.md).
+
+**Re-read this in two to four weeks**, once allclash or Pocket Tactics publishes a PvP and PvE letter for him with a mode attached. If he lands in the top band, he goes on the Epic wishlist the moment his rate-up ends.
 
 ## Sources
 
@@ -145,3 +166,5 @@ The rate-up pair, **Cyran and Thador, are both already owned and both already fi
 - https://www.topuplive.com/news/afk-journey-rolan-guide.html
 - https://afk-journey.fandom.com/wiki/Rolan
 - https://afk-journey.fandom.com/wiki/Elijah_%26_Lailah
+- https://afk-journey.fandom.com/wiki/Eryndor [2026-09-03 release, S-Level Graveborn Mage, Magic, base range 8; 402 on direct fetch, read through search summaries]
+- https://www.prydwen.gg/afk-journey/characters/eryndor [the Woe dice Ultimate, the 9 fan blades and the stat-reduction dependency; 403 on direct fetch, read through search summaries]

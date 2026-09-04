@@ -1,7 +1,7 @@
 # Elijah & Lailah
 
 > **Covers:** Elijah & Lailah kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-03
 
 - **Faction:** Celestial
 - **Class:** Support
@@ -45,11 +45,11 @@ Named partner: Rolan. See [rolan.md](rolan.md).
 
 ## Tier gate
 
-**They are Epic, so both gated skills are off, and every letter above rates a pair with them on.** Hero Focus needs **Legendary+**, three Soul Sigils away, and it raises the Haste further. Exclusive Equipment needs **Mythic+**, seven sigils away. No current list states an investment level, so none of them says which copy it is describing. allclash's build note names them one of the few heroes worth taking to EX +15, which is a ceiling well past this account. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
+**They are Epic+, so both gated skills are still off, and every letter above rates a pair with them on.** Hero Focus needs **Legendary+**, two Soul Sigils away, and it raises the Haste further. Exclusive Equipment needs **Mythic+**, six sigils away. No current list states an investment level, so none of them says which copy it is describing. allclash's build note names them one of the few heroes worth taking to EX +15, which is a ceiling well past this account. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
 
 ## Ascension
 
-They start at **Epic**, like every S-Level hero. Celestial and Hypogean ascension is far cheaper per step than A-Level, and takes **no Faction Acorns**:
+They start at **Epic**, like every S-Level hero. **This account holds them at Epic+**, one step in. Celestial and Hypogean ascension is far cheaper per step than A-Level, and takes **no Faction Acorns**:
 
 | Step | Soul Sigils |
 | --- | --- |
@@ -61,9 +61,9 @@ They start at **Epic**, like every S-Level hero. Celestial and Hypogean ascensio
 | Mythic+ -> Supreme | 2 |
 | Supreme -> Supreme+ | 4 |
 
-**Legendary+ is three sigils away, and it is the step that matters.** allclash calls Hero Focus the single best investment on this hero.
+**Legendary+ is two sigils away, and it is the step that matters.** allclash calls Hero Focus the single best investment on this hero.
 
-**Mythic+ is seven sigils away** and brings the Exclusive Equipment.
+**Mythic+ is six sigils away** and brings the Exclusive Equipment.
 
 Copies come from Stargaze Station or the Guild Store. See [../guild-store.md](../guild-store.md).
 

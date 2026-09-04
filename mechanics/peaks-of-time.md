@@ -1,7 +1,7 @@
 # Peaks of Time
 
 > **Covers:** what Peaks of Time is, which past seasons sit in it, what it pays, the gate that locks it, and why this account cannot open it yet.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-04
 
 **Peaks of Time is the archive of finished seasons. It is not a puzzle mode and it is not a dungeon.** A season ends, its region and its exclusive modes move into Peaks of Time, and the account can walk back in and play the storyline it missed.
 
@@ -33,13 +33,13 @@ Six finished seasons: **Song of Strife, Waves of Intrigue, Chains of Eternity, E
 
 ## What this means for this account
 
-**Peaks of Time is locked, and the gate is a long way off.** The account holds Resonance Level 210 against a gate of 240, and its story sits at Merlin's Ward. See [../account/progression.md](../account/progression.md).
+**Peaks of Time is locked, and the level half of the gate is 10 levels off.** The account holds Resonance Level 230 against a gate of 240, and its story sits at Merlin's Ward. See [../account/progression.md](../account/progression.md).
 
-**So it is not worth doing, because it cannot be done.** The work that opens it is the same work already named as the account's bottleneck: levels into Rolan raise the Resonance Level, and story progress is separately the last blocker on Trial of Abyss.
+**It is close now, and worth planning for.** The work that opens it is the work already named as the account's bottleneck: 18 hero-levels into the two trailing Hand slots. Story progress is separately the last blocker on Trial of Abyss.
 
 **Nothing is expiring.** Peaks of Time is permanent and the six archived seasons do not rotate out, so nothing is being lost by reaching it late.
 
-**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. Season access needs Resonance Level 240 and the account holds 210, so the account cannot be on the season ladder at all. AFK Stage 1292 is the permanent ladder, and charms are not available.
+**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. Season access needs Resonance Level 240 and the account holds 230, so the account cannot be on the season ladder yet. AFK Stage 1292 is the permanent ladder, and charms are not available.
 
 ## Sources
 
