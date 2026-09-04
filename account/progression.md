@@ -108,16 +108,16 @@ Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts
 | Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, of the 5 the guides claim exist. See [../mechanics/arena.md](../mechanics/arena.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
-| Legend Trial | yes, needs 166 | **Tower of Light 89/90**, Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90 |
+| Legend Trial | yes, needs 166 | **Tower of Light cleared, 90/90.** Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
 | Homestead, Darkswarm Invasion | yes | Homestead level `?`, Aggression `?`, weekly contribution `?`. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md) |
 | Stargaze Station | yes, needs 400 total pulls | pity at 0. Elijah & Lailah unlocked from the Guild Store instead, so the target is now for copies, not the unlock |
 | Trial of Abyss | no | the 1125 stages are done. **Only the full story clear and a 28-day-old server are left.** Story sits at Merlin's Ward, so that is the blocker |
 
-**The Legend Trial towers are the biggest open block of progress, and Tower of Light is nearly finished.** It stands at **floor 89 of 90**, one floor from a full clear, while the other three sit near floor 55. Every AFK Stage gate is behind the account, so the towers are where the remaining permanent rewards are.
+**The Legend Trial towers are the biggest open block of progress, and one of the four is now finished.** **Tower of Light is cleared at 90/90.** The other three sit near floor 55, so **270 floors** are left across Eternity, Nature and Will. Every AFK Stage gate is behind the account, so those three towers are where the remaining permanent rewards are.
 
-**Tower of Light is also the proof the Lightbearer comp works.** It has taken 37 floors on the five in [teams.md](teams.md), which is the largest run any tower comp has posted.
+**The clear is the account's strongest evidence about tower comps.** The Lightbearer five in [teams.md](teams.md) took Tower of Light **38 floors from 52 to 90** and finished it, a run no other tower comp has come near. Each remaining tower is locked to its own faction, so the five heroes cannot be copied across, but the shape can: a ranged carry that keeps firing while the front holds, one Tank, and control aimed at the enemy backline.
 
 ## Recruitment state
 

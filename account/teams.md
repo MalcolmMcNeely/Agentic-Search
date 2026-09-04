@@ -30,6 +30,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | `running` | the user fields this in game |
 | `proposed` | recommended here, not yet confirmed in game |
 | `blocked` | a hero is missing |
+| `cleared` | the purpose is finished and there is nothing left to field it against. The comp stays only while its heroes are still fielded somewhere else |
 
 ---
 
@@ -521,9 +522,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ---
 
-## Legend Trial, Tower of Light — Lightbearer turret carry — `running`
+## Legend Trial, Tower of Light — Lightbearer turret carry — `cleared`
 
-**Purpose:** Tower of Light only. Faction-locked to Lightbearer. Open Monday, Friday, Sunday. **Floor 89 of 90, one floor from a full clear.** This five has taken the tower 37 floors, the longest run any tower comp on the account has posted, so the shape is settled and floor 89 is a margin problem rather than a comp problem. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
+**Purpose:** Tower of Light only. Faction-locked to Lightbearer. Open Monday, Friday, Sunday. **The tower is cleared, 90 of 90.** This five took it 38 floors, from 52 to the top, which no other tower comp on the account has come near.
+
+**The comp stays in this file because the five are still fielded elsewhere.** The tower has nothing left to climb, but these same five are **Battle Drills Team 3** unchanged, so a change here is a change there. **Zanie, Hugin and Rowan** also carry the **Ravaged Realm Sylvan Squad**, which swaps Temesia and Cyran for Phraesto and Lucius. It is also the account's only worked example of a comp that finished a tower. See [../mechanics/legend-trial.md](../mechanics/legend-trial.md).
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
@@ -533,27 +536,24 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back | Zanie | Marksman | 20 | Mythic |
 | Back | Hugin | Support | 20 | Mythic |
 
-**Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. It has carried 37 floors, which is the reason to leave it alone before trying anything else. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp has no healer.
+**Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp cleared the tower without a healer.
 
-**Low slot: Rowan.** His coins hand back a fixed Energy amount to allies within 2 tiles, and his potions only fire on an ally already **under 50% HP**, so neither half of his kit reads his own level much. The other four all convert levels into the fight: Zanie is the turret carry and her turrets inherit **140% of her max HP and 80% of her ATK** each, so her level pays four bodies; Temesia is the only Tank and holds the front alone; Hugin forges ATK and Haste onto the top damage dealer, which is Zanie; Cyran's black hole is the execute that finishes a floor this comp nearly wins. None of the five holds a Hand, so **lend all four 240s**.
+`?` **whether the last floor was won on Confining or on Awakening Spell +8.** The floor-89 plan offered the artifact swap as a second lever after the fourth 240 slot, and the user has not said which one landed. It decides the artifact for Battle Drills Team 3 and the Sylvan Squad, so ask before treating either as settled. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**The fourth 240 slot is new and it is the free move to make on floor 89.** Cyran previously sat at the Resonance Level; he now takes a 240 with the other three. It costs nothing, it takes no time, and it lands 10 levels on the second damage source and the execute. **Run floor 89 again on that alone before changing anything else.** See [progression.md](progression.md).
-
-**If floor 89 still holds, swap Confining Spell +9 for Awakening Spell +8 for one run.** Awakening at +8 restores the **4 weakest allies by 10% of Max HP every 10s**, and its stat line is **ATK plus both DEF stats**, the largest passive defensive line of the six, where Confining's is ATK and HP. This comp's first weak point is that it has no healer, and floor 89 is the deepest floor it has met. The case against is that Confining is the artifact that won the other 37 floors and its imprison stops burst, which a rolling heal cannot. **One run each settles it, so try the free slot first and the artifact second.** Awakening also holds Tower of Nature and Tower of Will, and **neither of those towers opens on a Monday**, so a Monday run on this tower borrows it from nothing. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
-
-**Confining is one level from +10, and that level is already second in the account's upgrade order.** It buys the team ATK and HP line and nothing else, because both effect steps are live, but it is the cheapest stat gain available to this comp. See [progression.md](progression.md).
+**Low slot: Rowan.** His coins hand back a fixed Energy amount to allies within 2 tiles, and his potions only fire on an ally already **under 50% HP**, so neither half of his kit reads his own level much. The other four all convert levels into the fight: Zanie is the turret carry and her turrets inherit **140% of her max HP and 80% of her ATK** each, so her level pays four bodies; Temesia is the only Tank and holds the front alone; Hugin forges ATK and Haste onto the top damage dealer, which is Zanie; Cyran's black hole is the execute that closes out a fight the comp is winning slowly. None of the five holds a Hand, so **lend all four 240s** whenever these five are fielded.
 
 **Faction bonus: +22%.** Five Lightbearer is forced by the lock.
 
 **Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. She is now **Mythic**, joint-highest in the Lightbearer roster with Hugin, and her Hero Focus grants **Penetration** to every attack she and her three turrets make. **Start her two laser turrets within 2 tiles of each other** so they link and focus the nearest enemy instead of firing at random. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md). Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
 
-**Three weak points:**
+**Two weak points, and the tower clear retired the third:**
 
-1. **No healer.** Lightbearer owns none. Rowan's potions only fire on an ally already under 50% HP, and Hugin gives shields, not heals. High floors will punish this.
-2. **The frontline is one hero.** Temesia is now **Legendary**, so she is no longer the weakest link she was, but she is still the only usable Lightbearer Tank; Chippy is Rare and cannot ascend. If she folds, three back-row heroes are exposed at once.
-3. **Lightbearer loses to Graveborn on the wheel**, so every Graveborn floor costs 15% damage and there is no way to dodge it. See [../mechanics/factions.md](../mechanics/factions.md).
+1. **No healer, and 90 floors say that is survivable.** Lightbearer owns none. Rowan's potions only fire on an ally already under 50% HP, and Hugin gives shields, not heals. This file used to predict that high floors would punish it; the comp cleared the tower instead. **The reason it holds is that damage never has to reach the back row**: Zanie fires from range 20, Hugin from range 20, and Confining removes the 2 enemies most likely to dive them. Keep that shape and the missing healer costs nothing. Break it and the gap is real again.
+2. **The frontline is one hero.** Temesia is **Legendary**, so she is no longer the weakest link she was, but she is still the only usable Lightbearer Tank; Chippy is Rare and cannot ascend. If she folds, three back-row heroes are exposed at once. This is the one to watch wherever these five go next, because **Battle Drills passages and the Giant Golem both hit harder than a tower floor**.
 
-**First swap to try if floors stall on damage:** Cyran out, **Silven** in. His kit turns ally buffs into Energy and permanent stats, and Hugin and Rowan both hand out buffs, so he is the one Lightbearer built to cash in what this comp already does. He is Elite+ against Cyran's Epic, one tier down, so raise him before trying it. Test it, do not assume it.
+**The Graveborn counter is spent.** Lightbearer loses 15% damage to Graveborn on the wheel, which cost this comp on the Graveborn floors of the tower. There are no more tower floors, and every mode the five now play picks its own enemies, so this is a per-fight cost rather than a standing weakness. See [../mechanics/factions.md](../mechanics/factions.md).
+
+**The Silven swap is off the table for now.** Cyran out and Silven in was the answer to a tower floor that stalled on damage, and no such floor is left. He is **Elite+** against Cyran's **Epic**, one tier down, so he does not earn the slot on tier either. Revisit it only if Battle Drills Team 3 stalls, and raise him first. See [../mechanics/heroes/silven.md](../mechanics/heroes/silven.md).
 
 **Left home on purpose:** Mirael, an Epic Mage whose burn stacking is slower than Cyran's black hole. Valen and Lucius, Warriors both at Elite+. Fay, a Support at Elite. Chippy and Hammie, Rare heroes that cannot ascend at all, so neither ever holds a tier.
 
