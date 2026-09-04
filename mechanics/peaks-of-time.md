@@ -35,7 +35,7 @@ Six finished seasons: **Song of Strife, Waves of Intrigue, Chains of Eternity, E
 
 **Peaks of Time is locked, and the level half of the gate is 10 levels off.** The account holds Resonance Level 230 against a gate of 240, and its story sits at Merlin's Ward. See [../account/progression.md](../account/progression.md).
 
-**It is close now, and worth planning for.** The work that opens it is the work already named as the account's bottleneck: 18 hero-levels into the two trailing Hand slots. Story progress is separately the last blocker on Trial of Abyss.
+**It is close now, and worth planning for.** The work that opens it is the work already named as the account's bottleneck: 10 hero-levels into the one trailing Hand slot. Story progress is separately the last blocker on Trial of Abyss.
 
 **Nothing is expiring.** Peaks of Time is permanent and the six archived seasons do not rotate out, so nothing is being lost by reaching it late.
 

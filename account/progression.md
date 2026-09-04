@@ -29,28 +29,27 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **three slots have reached the 240 cap while one sits at 232 and one at 230**. So the last 10 Resonance Levels are bought on those two slots alone, 18 hero-levels in all, they lift all 46 heroes at once, and they open the seasonal track. Everything else is a workaround.
+- **Raise the Resonance Level.** It is set by the **lowest** Hand, and **four slots have reached the 240 cap while one sits at 230**. So the last 10 Resonance Levels are bought on that one slot alone, 10 hero-levels in all, they lift all 46 heroes at once, and they open the seasonal track. Everything else is a workaround.
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level.
 
-**Three slots stand at 240, one at 232 and one at 230.** The Resonance Level reads the **lowest** Hand, so it is **230**, and **every hero not sitting in a Hand slot fields at 230**.
+**Four slots stand at 240 and one at 230.** The Resonance Level reads the **lowest** Hand, so it is **230**, and **every hero not sitting in a Hand slot fields at 230**.
 
 | Slots | Level | What they are worth |
 | --- | --- | --- |
-| 3 | **240** | +10 over the roster, and at the game's level ceiling. Frozen twice over |
-| 1 | **232** | +2 over the roster. Too small to pick a hero for, and it can still take 8 more levels |
-| 1 | **230** | level with the roster. This is the slot the Resonance Level reads |
+| 4 | **240** | +10 over the roster, and at the game's level ceiling. Frozen twice over |
+| 1 | **230** | level with the roster. This is the slot the Resonance Level reads, and the only one that can still take a level |
 
 **Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), so every level the account buys lands on the comp being played, and it is the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.** Yamato & Gabumon holds the slot Daimon had and **Rolan holds the slot Shemira had**.
 
-**No level is stored per hero anywhere in this repo, and none should be.** Swapping a Hand is free and instant and the level travels with the slot, so a per-hero level goes stale the moment the Hall is rearranged. **The three 240 slots are the only disparity worth drafting around, and each comp names which three of its heroes should hold them.** The 232 slot is +2 and is not worth a line in a comp. See the rule at the top of [teams.md](teams.md).
+**No level is stored per hero anywhere in this repo, and none should be.** Swapping a Hand is free and instant and the level travels with the slot, so a per-hero level goes stale the moment the Hall is rearranged. **Four slots at 240 against one at 230 inverts the question a comp has to answer.** A five-hero comp now lifts four heroes and leaves one behind, so **each comp names the single hero that takes the 230 slot** rather than the ones that take the 240s. See the rule at the top of [teams.md](teams.md).
 
-**The account is 18 hero-levels from finished, and the Resonance Level only ticks as the lowest slot climbs.** It reads the lowest Hand, so the three at 240 are frozen and cannot accept one. **The 232 and 230 slots both need to reach 240**, which is 8 levels and 10 levels. Order does not change the end state, but nothing shows on the Resonance Level until the 230 slot moves. When both reach 240 the Resonance Level becomes 240, all 46 heroes move with it at once, and season access opens.
+**The account is 10 hero-levels from finished, and every one of them lands on the same slot.** The Resonance Level reads the lowest Hand, so the four at 240 are frozen and cannot accept a level. **Only the 230 slot can still take one**, and each level it gains ticks the Resonance Level with it. When it reaches 240 the Resonance Level becomes 240, all 46 heroes move up 10 at once, and season access opens. There is no ordering choice left to make.
 
-**Lending a 240 slot is free, instant and worth +10 levels.** Three heroes in any comp can have it, whether or not they normally hold a Hand.
+**Lending a 240 slot is free, instant and worth +10 levels.** Four heroes in any comp can have it, whether or not they normally hold a Hand.
 
 **Rolan and Phraesto are Epic and Elijah & Lailah are Epic+.** Each step to Legendary+ costs **1 Soul Sigil** for a Celestial or Hypogean hero, so **Rolan and Phraesto are three sigils away and Elijah & Lailah are two**. Legendary+ switches on Hero Focus. Those are the cheapest ascensions on the account and all three sit inside the Hand slots. See [../mechanics/guild-store.md](../mechanics/guild-store.md) and [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
@@ -93,7 +92,7 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
 
-**Season access is gated at Resonance Level 240 and the account holds 230, so it cannot be on the season ladder yet. It is 10 levels away, on two Hand slots.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms stay out of reach** until those 10 levels are paid. See [../mechanics/seasons.md](../mechanics/seasons.md).
+**Season access is gated at Resonance Level 240 and the account holds 230, so it cannot be on the season ladder yet. It is 10 levels away, all of them on one Hand slot.** That settles what AFK Stage 1292 is: the permanent ladder. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms stay out of reach** until those 10 levels are paid. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
 **Season 7 may or may not still be running when the gate opens, and either way nothing is lost.** No source found states its end date, and the gate is now 10 levels off rather than 20. A finished season moves into Peaks of Time and stays there, so its story and map can be walked later. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
 
@@ -109,14 +108,16 @@ Not reached. No Season Resonance Level, no Season Equipment, no Season Artifacts
 | Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, of the 5 the guides claim exist. See [../mechanics/arena.md](../mechanics/arena.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
-| Legend Trial | yes, needs 166 | Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90, Tower of Light 52/90 |
+| Legend Trial | yes, needs 166 | **Tower of Light 89/90**, Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90 |
 | Supreme Arena | yes | ? |
 | Honor Duel | yes | not roster-dependent, nothing to record |
 | Homestead, Darkswarm Invasion | yes | Homestead level `?`, Aggression `?`, weekly contribution `?`. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md) |
 | Stargaze Station | yes, needs 400 total pulls | pity at 0. Elijah & Lailah unlocked from the Guild Store instead, so the target is now for copies, not the unlock |
 | Trial of Abyss | no | the 1125 stages are done. **Only the full story clear and a 28-day-old server are left.** Story sits at Merlin's Ward, so that is the blocker |
 
-**The Legend Trial towers are the biggest untouched block of progress.** All four sit near floor 55 of 90, and every AFK Stage gate is now behind the account, so the towers are where the remaining permanent rewards are.
+**The Legend Trial towers are the biggest open block of progress, and Tower of Light is nearly finished.** It stands at **floor 89 of 90**, one floor from a full clear, while the other three sit near floor 55. Every AFK Stage gate is behind the account, so the towers are where the remaining permanent rewards are.
+
+**Tower of Light is also the proof the Lightbearer comp works.** It has taken 37 floors on the five in [teams.md](teams.md), which is the largest run any tower comp has posted.
 
 ## Recruitment state
 
