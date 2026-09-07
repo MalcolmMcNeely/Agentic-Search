@@ -1,7 +1,7 @@
 # Hero scoring
 
 > **Covers:** how to rank a hero from its kit alone, with no guide, and why a guide that never names a hero proves nothing about it.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-09-07
 
 A fight is a race. Your five heroes deal damage until the enemy dies. The enemy deals damage until your five die. Whoever runs out of health first loses.
 
@@ -43,7 +43,7 @@ The mirror of guide silence, and the one that stings more. **A guide describes a
 
 Before crediting a hero with a skill, check two numbers: the tier the skill unlocks at, and the tier in [../account/roster.md](../account/roster.md).
 
-**Galahad is the worked example.** Every team guide builds her boss amplify role on **Time Recast**, which fires another hero's Ultimate again. The guides are right that she has it. It unlocks at **Mythic+**, and she is **Legendary** on this account, with Legendary+, Mythic and Mythic+ all in between. So the comps naming her as an Ultimate-duplicator describe an account three ascensions from this one.
+**Galahad is the worked example.** Every team guide builds her boss amplify role on **Time Recast**, which marks the ally behind her and spawns an untargetable shadow of them. The guides are right that she has it. It unlocks at **Mythic+**, and she is **Mythic** on this account, so one step still sits between her and the skill. The comps naming her as an Ultimate-duplicator describe an account one ascension from this one, and one ascension is still not this one. **A gap of one step reads exactly like a gap of three when the fight starts.**
 
 Guide silence undersells a hero on the roster. A tier gate oversells one. One move cures both: read the kit, then read the tier.
 

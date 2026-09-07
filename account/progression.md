@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, Resonance Synergy, artifacts owned and mode progress.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-07
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -29,14 +29,14 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 46 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 49 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level, and that headroom is spent.
 
-**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **every one of the 46 heroes owned fields at 240**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
+**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **every one of the 49 heroes owned fields at 240**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
 
 **Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), and the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.**
 
@@ -57,7 +57,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Hero Essence held | `?` |
 | Training Manuals held | `?` |
 
-**Every Synergy level lands on all 46 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+**Every Synergy level lands on all 49 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
 
 **Recycle the Training Manuals.** They bought levels up to 240 and buy nothing after it, and they convert to Hero Essence at **3000 to 1**. Read the Manual balance off the bag, because it is now an Essence balance in disguise.
 
@@ -147,7 +147,7 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Digimon crossover banner | **finished.** Both pairs are Supreme+, so no copy buys anything more |
 | Epic Invite Letters | `?`. Spent down on the Thoran pulls. Read the balance off the banner |
 | Epic Recruitment pity | `?`. The S-Level guarantee fired on Thoran, so the 30-pull counter has reset |
-| Epic wishlist, 5 slots | Thoran, Shemira, Eironn, Smokey & Meerky, Shakir, unchanged. **Thoran is now owned, so his slot buys copies rather than the unlock.** See [../mechanics/recruitment.md](../mechanics/recruitment.md) |
+| Epic wishlist, 5 slots | **Thoran, Shemira, Eironn, Galahad, Solise.** Solise took slot 5 from Shakir once he was pulled: her next 2 sigils buy an Exclusive Equipment, his next 4 buy a Hero Focus. See [../mechanics/recruitment.md](../mechanics/recruitment.md) |
 | Stargaze pity | 0 |
 | Stargaze target | Elijah & Lailah |
 | Stellar Crystals | `?` |

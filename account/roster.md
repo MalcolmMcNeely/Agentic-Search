@@ -1,7 +1,7 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-07
 
 ## How to read this
 
@@ -9,15 +9,15 @@
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
 - **Level is not stored per hero, here or anywhere else in this repo.** Every hero sits at the **Resonance Level**, which is in [progression.md](progression.md) and is the only level recorded. A Hand of Resonance slot may run up to 10 above it, but swapping a Hand is free and the level travels with the slot, so a per-hero level would go stale the moment the Hall is rearranged. A comp names its Hand assignment only when the slots differ. So **pick a comp on tier, kit and faction**.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 46: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 49: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
 | Faction | Heroes owned |
 | --- | --- |
-| Lightbearer | 12 |
-| Mauler | 9 |
-| Wilder | 9 |
+| Lightbearer | 13 |
+| Mauler | 10 |
+| Wilder | 10 |
 | Graveborn | 9 |
 | Dimensional | 3 |
 | Celestial | 3 |
@@ -37,6 +37,7 @@
 | Temesia | Tank | Physical | Legendary | - | [temesia](../mechanics/heroes/temesia.md) |
 | Fay | Support | Magic | Elite | - | [fay](../mechanics/heroes/fay.md) |
 | Lucius | Warrior | Physical | Elite+ | - | [lucius](../mechanics/heroes/lucius.md) |
+| Atalanta | Marksman | Physical | Epic | - | [atalanta](../mechanics/heroes/atalanta.md) |
 | Chippy | Tank | Physical | n/a | - | [chippy](../mechanics/heroes/chippy.md) |
 | Hammie | Support | Magic | n/a | - | [hammie](../mechanics/heroes/hammie.md) |
 
@@ -46,22 +47,23 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Galahad | Mage | Magic | Legendary | - | [galahad](../mechanics/heroes/galahad.md) |
+| Galahad | Mage | Magic | Mythic | - | [galahad](../mechanics/heroes/galahad.md) |
 | Kordan | Warrior | Physical | Legendary+ | - | [kordan](../mechanics/heroes/kordan.md) |
-| Kruger | Warrior | Physical | Legendary+ | - | [kruger](../mechanics/heroes/kruger.md) |
+| Kruger | Warrior | Physical | Mythic | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Legendary+ | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |
-| Smokey & Meerky | Support | Magic | Mythic | - | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
+| Smokey & Meerky | Support | Magic | Supreme | +4 | [smokey-meerky](../mechanics/heroes/smokey-meerky.md) |
 | Odie | Marksman | Magic | Elite `?` | - | [odie](../mechanics/heroes/odie.md) |
 | Gerda | Tank | Physical | Elite | - | [gerda](../mechanics/heroes/gerda.md) |
 | Seth | Rogue | Physical | Elite | - | [seth](../mechanics/heroes/seth.md) |
+| Shakir | Rogue | Physical | Epic | - | [shakir](../mechanics/heroes/shakir.md) |
 
 ## Wilder
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Solise | Support | Magic | Legendary | - | [solise](../mechanics/heroes/solise.md) |
-| Thador | Tank | Physical | Legendary+ | - | [thador](../mechanics/heroes/thador.md) |
+| Solise | Support | Magic | Mythic | - | [solise](../mechanics/heroes/solise.md) |
+| Thador | Tank | Physical | Mythic | - | [thador](../mechanics/heroes/thador.md) |
 | Faramor | Rogue | Physical | Mythic | - | [faramor](../mechanics/heroes/faramor.md) |
 | Lenya | Rogue | Physical | Elite+ | - | [lenya](../mechanics/heroes/lenya.md) |
 | Hewynn | Support | Magic | Epic | - | [hewynn](../mechanics/heroes/hewynn.md) |
@@ -69,6 +71,7 @@
 | Eironn | Rogue | Magic | Supreme | +5 | [eironn](../mechanics/heroes/eironn.md) |
 | Lily May | Rogue | Magic | Epic | - | [lily-may](../mechanics/heroes/lily-may.md) |
 | Arden | Mage | Magic | Elite | - | [arden](../mechanics/heroes/arden.md) |
+| Damian | Support | Magic | Elite | - | [damian](../mechanics/heroes/damian.md) |
 
 ## Graveborn
 
@@ -76,7 +79,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Daimon | Tank | Magic | Mythic | - | [daimon](../mechanics/heroes/daimon.md) |
 | Shemira | Mage | Magic | Supreme | +1 | [shemira](../mechanics/heroes/shemira.md) |
-| Bonnie | Marksman | Magic | Mythic | - | [bonnie](../mechanics/heroes/bonnie.md) |
+| Bonnie | Marksman | Magic | Supreme | +0 | [bonnie](../mechanics/heroes/bonnie.md) |
 | Cecia | Marksman | Physical | Epic | - | [cecia](../mechanics/heroes/cecia.md) |
 | Valka | Warrior | Physical | Legendary+ | - | [valka](../mechanics/heroes/valka.md) |
 | Thoran | Tank | Physical | Legendary | - | [thoran](../mechanics/heroes/thoran.md) |

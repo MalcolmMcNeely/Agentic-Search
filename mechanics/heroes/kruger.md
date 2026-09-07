@@ -1,7 +1,7 @@
 # Kruger
 
 > **Covers:** Kruger kit, stats and best use.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-09-07
 
 - **Faction:** Mauler
 - **Class:** Warrior
@@ -25,7 +25,7 @@ It is a defensive buff, so it buys time alive and no damage. See [../hero-scorin
 
 ## Exclusive Equipment
 
-Unlocks at **Mythic+**, three ascension steps above this account. See [../progression-systems.md](../progression-systems.md).
+Unlocks at **Mythic+**, **one ascension step above this account**, which now stands at Mythic. See [../progression-systems.md](../progression-systems.md).
 
 At battle start he gains a shield worth **40% of his HP for 15s, and control immunity, only while no ally stands within 1 tile**. He also gains 30 Life Drain under the same isolation condition. Upgrades raise the shield to 44% and 48%, and one removes the distance limit on Vital Strike.
 

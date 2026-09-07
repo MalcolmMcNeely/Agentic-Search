@@ -1,7 +1,7 @@
 # Diamonds
 
 > **Covers:** every diamond sink in the game, its price and cap, the spend order, and what never to buy.
-> **Updated:** 2026-09-03
+> **Updated:** 2026-09-07
 
 Diamonds are the one currency that is both scarce and spendable everywhere, so most of them get wasted. Two facts set the whole plan:
 
@@ -45,7 +45,7 @@ A month of steps 1 and 2 costs about **8,700 diamonds**. An account that cannot 
 
 **Diamonds are no longer the account's tightest currency. Temporal Essence is.** It cannot be bought with diamonds or anything else, and the pair's EX weapons now want 1,450 of it between them. No diamond sink in the table above reaches it. See [../account/equipment.md](../account/equipment.md).
 
-**Do not pull the Eryndor rate-up yet.** He released on 3 September 2026 and no source rates him. See [recruitment.md](recruitment.md).
+**Do not pull the Eryndor rate-up.** He released on 3 September 2026, no tier list carries a letter for him yet, and the one independent preview read is negative. See [recruitment.md](recruitment.md).
 
 **Stargaze is marked unlocked, the target is Elijah & Lailah and pity is 0.** Crystals do not appear in either shop until Stargazing unlocks at 400 total pulls, so the 400-diamond shelf is only real if that unlock is genuine. Check the shelf, then buy the cap. The Guild Medal shelf unlocks the same hero outright for 30,000 Guild Medals, so spend there first. See [guild-store.md](guild-store.md).
 

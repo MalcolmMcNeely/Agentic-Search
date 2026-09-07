@@ -1,7 +1,7 @@
 # Recruitment
 
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-07
 
 Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
@@ -101,17 +101,46 @@ Rolan fits this roster twice over:
 
 ### The Epic wishlist, 5 slots
 
-Picked by archetype and by what the account cannot field, not by tier list. **Eironn, Lily May and Thoran all came off this banner.**
+**Picked on what the next copy unlocks, not on a tier list.** The reassessment that produced this order is below the table. **Eironn, Lily May and Thoran all came off this banner.** `?` whether Shakir did, or came off All-Hero Recruitment; both could give him.
 
 | Slot | Hero | Faction | Class | Why |
 | --- | --- | --- | --- | --- |
 | 1 | **Thoran** | Graveborn | Tank | **owned, at Legendary. He came off this banner, so the slot now buys copies rather than the unlock.** He resurrects once per battle and marks the highest-HP enemy for **+13% damage taken for the whole fight**, and both are live at his tier. **Legendary+ costs 2 Soul Sigils and switches on his Hero Focus.** His Soul Pact, which absorbs 50% of the damage aimed at the ally behind him, is his **Exclusive Equipment and needs Mythic+**, so it is not live and no comp may count on it. He is in no shop, so this slot is still the only route to a copy. See [heroes/thoran.md](heroes/thoran.md) |
-| 2 | **Shemira** | Graveborn | Mage | the scaling carry in the Tower of Eternity, Arena and Darkswarm comps. **She no longer holds a Hand of Resonance and no longer stands in the push comp**, both of which went to the Digimon pair. She is **Supreme with her EX weapon at +1**, so Hero Focus and Spectral Barrier are both live and only **Enhance Force** is left, one tier up at Supreme+. **Copies now buy Supreme+ and Enhance Force**, which no source here prices for an S-Level hero: [dream-store.md](dream-store.md) puts the whole S-Level climb at 7 duplicates and 350 Faction Acorns but does not split the last two steps. `?` the Supreme to Supreme+ price; read it off her ascension screen |
+| 2 | **Shemira** | Graveborn | Mage | the scaling carry in the Tower of Eternity, Arena and Darkswarm comps. **She no longer holds a Hand of Resonance and no longer stands in the push comp**, both of which went to the Digimon pair. She is **Supreme with her EX weapon at +1**, so Hero Focus and Spectral Barrier are both live and only **Enhance Force** is left, one tier up at Supreme+. **Copies now buy Supreme+ and Enhance Force**, at a derived **~1 sigil**, the cheapest unlock on the account. `?` the exact price; no source splits that step, so read it off her ascension screen. See the arithmetic below the table |
 | 3 | **Eironn** | Wilder | Rogue | **Supreme with the weapon at +5**, so the battle-start pull is live and the PvP nuke comp is no longer blocked on him. Copies now buy two things instead: the weapon to **+10**, which doubles the immobilise from 3s to 6s, and **Supreme+**, which turns on Enhance Force. He is the account's third EX weapon and the only one outside the Digimon pair |
-| 4 | **Smokey & Meerky** | Mauler | Support | **Mythic**, one tier under Mythic+, so the next ascension unlocks Withering Potion, which widens the aroma and drains enemies for up to 12% of max HP a second. That turns the account's S-Level healer into a damage source, and it is a short route to a fifth EX weapon |
-| 5 | **Shakir** | Mauler | Rogue | a hero the account does not own. Lupine Aura cuts 20% damage taken and adds 10 Haste for nearby allies, which pays in every mode. Mauler is 8 deep and its Tower of Will comp is `running`, so he slots straight into a team already being played |
+| 4 | **Galahad** | Mauler | Mage | **owned, at Mythic, one step from Time Recast.** She is S-Level, so Mythic to Mythic+ costs **2 Soul Sigils**, which makes this the cheapest new skill the wishlist can buy. Time Recast marks the ally behind her and spawns an untargetable 12s shadow of them with bonus starting Energy, and it is the skill every guide builds her boss amplify role on. She is the account's strongest magic damage, carries the Tower of Will comp at 53 of 90, and paying that one step also lets the account field allclash's King Croaker meta lineup whole. No shop stocks an S-Level hero, so this banner is the only route. See [heroes/galahad.md](heroes/galahad.md) and [king-croaker.md](king-croaker.md) |
+| 5 | **Solise** | Wilder | Support | **owned, at Mythic, one step from Resonant Bloom.** She is S-Level, so Mythic to Mythic+ costs **2 Soul Sigils and 100 Faction Acorns**, tying Galahad for the cheapest Exclusive Equipment left on the account. Her Bulbsprites are a summon, a permanent ally ATK buff and a damage source at once, and Aurora's EX weapon at +5 raises all of it. She stands in **three fielded comps**: Arcane Labyrinth, Tower of Nature and Battle Drills Team 2. No shop stocks her, so this slot is the only route to a copy. See [heroes/solise.md](heroes/solise.md) |
 
-**Slot 5 runner-up: Cecia.** Owned, Graveborn, and in the Tower of Eternity comp. She stays off until her rarity is settled, because an A-Level in a slot spends the 30-pull guarantee.
+### Why these five, and not the other nine
+
+**The wishlist cannot be aimed.** An S-Level pull gives a random one of the 5, so the question is not which hero is best but which five heroes have the best *next copy*. That makes the ranking a price list, not a tier list.
+
+**Only three ascension steps switch anything on**, per [progression-systems.md](progression-systems.md): **Legendary+** gives Hero Focus, **Mythic+** gives the Exclusive Equipment and is the only tier that adds a whole new skill, **Supreme+** gives Enhance Force. Every other step buys stats.
+
+**S-Level steps are cheap and the split is only partly sourced.** [dream-store.md](dream-store.md) prices Legendary to Legendary+ at **2 sigils**, Mythic to Mythic+ at **2 sigils and 100 Acorns**, and the whole climb to Supreme+ at **7 duplicates and 350 Acorns**. That leaves 3 duplicates to cover Epic to Epic+, Epic+ to Legendary and Supreme to Supreme+, which reads as **about 1 each**. Derived, not sourced. Read the exact figures off an ascension screen before spending on the strength of them.
+
+The fourteen S-Level heroes owned in the four eligible factions, by what the next copies buy:
+
+| Sigils to the next unlock | Hero | What it turns on | In a slot |
+| --- | --- | --- | --- |
+| ~1 | Shemira, Eironn, Smokey & Meerky | Enhance Force at Supreme+ | Shemira, Eironn |
+| 2 | **Galahad**, **Solise** | the Exclusive Equipment at Mythic+, the only new skill any tier adds | both |
+| 2 | Thoran, Temesia, Velara | Hero Focus at Legendary+ | Thoran |
+| ~4 | Shakir, Atalanta, Cyran, Lily May, Hewynn, Cecia | Hero Focus at Legendary+, three steps out | none |
+
+**Slots 1 to 4 survive the reassessment unchanged.** Shemira and Eironn are the cheapest unlocks on the account and both are **Supreme with an EX weapon on**. Galahad buys the biggest prize on the table for 2 sigils and carries four comps. Thoran costs the same 2 sigils as Temesia and Velara for the same Hero Focus, and beats both on where the progress is: he is the only S-Level Graveborn Tank, **Tower of Eternity is Graveborn-locked at 56 of 90**, and he is the frontline stand-in for the scaling carry until Ulmus arrives.
+
+**Slot 5 is the one that changed hands, and Shakir lost it to Solise on price.** Shakir is **Epic**, so his first three copies buy stats and only the fourth reaches Hero Focus. Solise's next two buy an Exclusive Equipment. Two sigils for a whole new skill beats four for a stat buff, and Solise is fielded in three comps against Shakir's none.
+
+**Slot 5 runner-up: Shakir.** Newly owned at Epic, **A PvE, A+ Dream Realm, A PvP** [allclash, 2026-08-26, rates a built hero], and Lupine Aura cuts 20% damage taken and adds 10 Haste for every ally within 2 tiles. He is the first name back in when Solise reaches Mythic+, because that is the moment her slot stops buying a skill. Put him in the Tower of Will comp first, so his copies have a fight to pay into. See [heroes/shakir.md](heroes/shakir.md) and [../account/teams.md](../account/teams.md).
+
+**Smokey & Meerky stay off, at ~1 sigil, and that is the one place price does not decide.** Enhance Force is a damage rider on a skill they already cast; the Mythic+ step Galahad and Solise are buying is a skill that does not exist yet. They are also already **Supreme with the weapon at +4**, the best-invested Mauler on the account, and Mauler still holds slot 4. See [heroes/smokey-meerky.md](heroes/smokey-meerky.md).
+
+**Atalanta stays off for the same reason Shakir does.** S-Level Lightbearer Marksman at **Epic**, with Hero Focus, Sleight of Hand and Enhance Force all dark, so she is four sigils from anything switching on. **Tower of Light is cleared at 90 of 90**, so her faction has no locked mode left to grow into either. See [heroes/atalanta.md](heroes/atalanta.md) and [../account/progression.md](../account/progression.md).
+
+**Cecia stays off until her rarity is settled**, because an A-Level in a slot spends the 30-pull guarantee. She is Epic and four sigils out in any case.
+
+**The five now spread two Graveborn, two Wilder and one Mauler.**
 
 **Graveborn depth beyond those two does not come from this banner, and it does not need the wishlist either.** Thoran and Shemira are the only clean S-Level Graveborn picks and both are owned. The rest of the faction is A-Level, and **Viperian, Silvina, Niru and Salazer are all stocked in the Dream Store**, bought outright for Dream Fragments instead of gambled on a wishlist slot. **Viperian and Niru are owned**, so the shelf now sells their ascensions. That is where Tower of Eternity depth comes from. See [dream-store.md](dream-store.md).
 
@@ -127,18 +156,20 @@ His other skill throws **9 fan blades** at non-summoned enemies, **lowest HP per
 
 **So he is a payoff hero, not an engine.** Both halves of his kit read Woe, and Woe comes only from *allies* applying stat reductions. In a team that strips no stats, enemies roll clean and a good half of them simply do not lose. He is the second half of a debuff comp, and the account has to own the first half before he does anything.
 
+`unverified` which stats his Ultimate steals. prydwen's kit page gives ATK and max HP only. Search summaries of the same page and of the Fandom entry add **Physical DEF and Magic DEF** to the list. Both readings stand; neither page can be fetched directly to settle it.
+
 ### The verdict: save the tickets
 
 **Four reasons, and the first is the one that decides it.**
 
-1. **He released today, so no source rates him.** Not allclash, not Pocket Tactics, not afk.global. Every rule in [tier-list-sources.md](tier-list-sources.md) says a day-one hero has no citable letter, and the **reseller inflation** trap is aimed at exactly this moment: Voracia was rated S by both resellers and B to D by every independent list. Wait for the mode-split lists to catch up.
-2. **Rate Up pity is 40 and does not carry to the next banner.** So a half-finished pull is money burned. Either commit to 40 or do not start.
-3. **The bank was just spent on Agumon**, and that purchase is done and worth keeping. See [diamonds.md](diamonds.md).
-4. **His kit needs a team this account has not built.** Pandora, Cecia and Bonnie all strip stats, but none of them stands in a Graveborn comp with him today.
+1. **No citable tier letter for him exists.** Pocket Tactics [2026-08-17] and afk.global [September 2026] both omit him entirely. allclash [2026-08-26] names him in its upcoming-hero note but gives him no letter and no mode, so it fails the three-part rule and cannot be quoted as a placement. The **reseller inflation** trap is aimed at exactly this moment: Voracia was rated S by both resellers and B to D by every independent list, and ldplayer, ldshop and topuplive are already running Eryndor build guides. See [tier-list-sources.md](tier-list-sources.md).
+2. **The one independent read that exists is negative.** allclash: "as much as the design is great, the skill kit lacks survivability and utility to really be impactful." prydwen's hero page [2026-09-04] lists the same con, that he is squishy enough to die before the stat theft ramps. That is not a letter, so it does not go in a table, but it is evidence and it points down.
+3. **Rate Up pity is 40 and does not carry to the next banner.** So a half-finished pull is money burned. Either commit to 40 or do not start.
+4. **His kit needs a team this account has not built.** Woe comes only from *allies* stripping stats, never from his own Ultimate. Pandora, Cecia and Bonnie all strip stats, but none of them stands in a Graveborn comp with him today.
 
 **He is still worth revisiting, and here is the honest case for it.** **Graveborn is the account's thinnest S-Level faction** — only Thoran and Shemira are clean S-Level picks, and both are now owned. **Tower of Eternity is Graveborn-locked, sits at 56 of 90, and the towers are the biggest untouched block of progress on the account.** An S-Level Graveborn Mage is aimed straight at that gap. See [legend-trial.md](legend-trial.md) and [../account/progression.md](../account/progression.md).
 
-**Re-read this in two to four weeks**, once allclash or Pocket Tactics publishes a PvP and PvE letter for him with a mode attached. If he lands in the top band, he goes on the Epic wishlist the moment his rate-up ends.
+**The trigger to re-read this is a published letter, not a date.** Check allclash's and Pocket Tactics' tier lists for an Eryndor row carrying a mode. Until one appears the verdict does not move, and the current preview read makes a top-band placement less likely rather than more. If he does land in the top band, he goes on the Epic wishlist the moment his rate-up ends.
 
 ## Sources
 
@@ -151,7 +182,7 @@ His other skill throws **9 fan blades** at non-summoned enemies, **lowest HP per
 - https://playafkjourney.com/wish-list/
 - https://afk.guide/afk-journey-wishlist-guide/
 - https://playafkjourney.com/thoran/
-- https://afk.guide/shakir-journey/
+- https://afk.guide/shakir-journey/ (Shakir kit, skill unlock tiers and Lupine Aura numbers)
 - https://playafkjourney.com/faction/graveborn/
 - https://www.prydwen.gg/afk-journey/characters/viperian (Viperian read as A-Rank; prydwen returns 403 on direct fetch, read through search summaries)
 - https://afk-journey.fandom.com/wiki/Stargaze_Station
@@ -167,4 +198,4 @@ His other skill throws **9 fan blades** at non-summoned enemies, **lowest HP per
 - https://afk-journey.fandom.com/wiki/Rolan
 - https://afk-journey.fandom.com/wiki/Elijah_%26_Lailah
 - https://afk-journey.fandom.com/wiki/Eryndor [2026-09-03 release, S-Level Graveborn Mage, Magic, base range 8; 402 on direct fetch, read through search summaries]
-- https://www.prydwen.gg/afk-journey/characters/eryndor [the Woe dice Ultimate, the 9 fan blades and the stat-reduction dependency; 403 on direct fetch, read through search summaries]
+- https://www.prydwen.gg/afk-journey/characters/eryndor [2026-09-04, the Woe dice Ultimate, the 9 fan blades, the stat-reduction dependency and the squishiness con; 403 on direct fetch, read through search summaries]

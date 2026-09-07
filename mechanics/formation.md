@@ -1,7 +1,7 @@
 # Formation and range
 
 > **Covers:** where to stand heroes on the grid, how base range decides the row, the walls and hazards on the board, how many entities each hero actually puts on it, and every kit that reads a tile rather than a row.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-07
 
 Picking five heroes is half the job. Where they stand is the other half.
 
@@ -131,7 +131,7 @@ Linking allies is not free, and on this account it is a real choice rather than 
 
 `unverified`: one pre-release source says the twins gain 5% ATK standing close together and 15% DEF standing far apart. Nothing since repeats it, and no dated in-window page confirms it.
 
-**On this account the resonance cannot fire in the push comp**, which holds Graveborn, Dimensional, Hypogean and Celestial. So linking there buys the heal and the Energy only. See [../account/teams.md](../account/teams.md).
+**The resonance reads the linked allies, not the comp.** Only the heroes standing on the line are counted, so a four-faction comp still fires it whenever the line catches heroes of one faction. In the push comp the two Dimensional heroes are Agumon and Gabumon, and Gabumon has to stand behind Agumon to take the 300 Energy, so the two cannot share one horizontal line. A line holding **Gabumon alone** fires the resonance and is the practical aim; a line that also catches Phraesto or Daimon does not. Linking a single ally fires the resonance and the glows, but not the stat share, which reads the *other* linked allies and has none. See [../account/teams.md](../account/teams.md).
 
 ## When to break the default
 

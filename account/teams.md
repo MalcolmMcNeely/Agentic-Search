@@ -1,7 +1,7 @@
 # Teams
 
 > **Covers:** the current team comp for each purpose, its formation, artifact and status.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-07
 
 One comp per purpose. This file holds what to field **now**, not how the advice got here.
 
@@ -19,7 +19,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Never write a level into a comp, and never add a Level column.** Every hero fields at the **Resonance Level** in [progression.md](progression.md), which is the one place a level is recorded.
 
-**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 46 heroes at once. See [progression.md](progression.md).
+**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 49 heroes at once. See [progression.md](progression.md).
 
 ## Status
 
@@ -59,7 +59,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Hero | Bodies | Placement |
 | --- | --- | --- |
 | Phraesto | **2** | true body and Illusion, **in the same row** as each other, front |
-| Elijah & Lailah | **2** | both twins in the back row, **nothing between them** |
+| Elijah & Lailah | **2** | the two ends of a three-tile back-row line, with **Gabumon alone between them** |
 | Taichi & Agumon | 1 | Agumon only. Taichi cheers from off the field |
 | Yamato & Gabumon | 1 | Gabumon only. Yamato cheers from off the field |
 | Rolan | 1 | plus a clone every time an ally casts an Ultimate |
@@ -81,9 +81,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 5. **Phraesto is the whole frontline, and he is two of it.** His Illusion inherits **100% of his stats** and casts every skill he has, both bodies in one row give each other **30% damage reduction**, and **Foggy Whisper resummons the Illusion if it falls**. Futile Echo heals him **160% HP per enemy hit**, and Foggy Whisper taunts and stuns the enemy's highest damage dealer, which moves the one hit that kills a carry onto the hero built to eat it. See [../mechanics/heroes/phraesto.md](../mechanics/heroes/phraesto.md).
 6. **Two damage types.** Taichi & Agumon is Physical and the other four are Magic, so an enemy stacked against one defence cannot resist the whole comp.
 
-**Grid note.** **Taichi & Agumon starts in the back row** at range 7 and walks to the front himself after the digivolve. Confirmed from the account: fielded in the front row he died before transforming. **Yamato & Gabumon is more fragile than Agumon**, so he stays in the back row too. **Stand Phraesto and his Illusion in the same row**, because the 30% damage reduction holds only while they share one. **Put both Elijah & Lailah twins in the back row with nothing between them**: Stellar Bond links whichever allies stand on the straight line between them, and an empty line holds their permanent **+25% ATK** while keeping every ally certain of Starlight Waltz. **Both twins share one HP pool**, so never place either in the front row. See [../mechanics/formation.md](../mechanics/formation.md).
+**Grid note.** **Taichi & Agumon starts at the back, one tile ahead of the back line** at range 7, and walks to the front himself after the digivolve. Confirmed from the account: fielded in the front row he died before transforming. **Yamato & Gabumon is more fragile than Agumon**, so he holds the back line, directly behind him. **Stand Phraesto and his Illusion in the same row**, because the 30% damage reduction holds only while they share one. **Put the two Elijah & Lailah twins at the ends of a three-tile back-line run with Gabumon alone between them.** Stellar Bond links whichever allies stand on the straight line between the twins, and it is read during the preparation phase, so the Melee Twin walking forward afterwards does not break the link. Linking Gabumon hands him Lailah's heal, Elijah's Energy and the faction resonance below, and Energy is his whole ramp. The price is the twins' own permanent **+25% ATK**, which an empty line would hold, and the stat share, which reads the *other* linked allies and here has none. **Both twins share one HP pool**, so never place either in the front row. See [../mechanics/formation.md](../mechanics/formation.md).
 
-**Which Phraesto body an ally stands behind decides which buff it gets, and the account's own evidence aims it.** Damage reduction sits behind the Illusion, Energy Recovery Speed behind the true body. **Put both Elijah & Lailah twins behind the Illusion.** They share one HP pool and they are among the heroes deleted in the opening seconds, so the buff they need is the one that arrives before the hit. Energy is worth nothing to a hero that is already dead. **Keep Gabumon behind Agumon**, because WarGreymon's battle-start buff reaches only the allies standing behind him and Gabumon taking it gains 300 Energy. This costs nothing and one battle reads the result.
+**Which Phraesto body an ally stands behind decides which buff it gets, and the account's own evidence aims it.** Damage reduction sits behind the Illusion, Energy Recovery Speed behind the true body. **Keep Gabumon directly behind Agumon**, because WarGreymon's battle-start buff reaches only the allies standing behind him and Gabumon taking it gains 300 Energy. That pins the three-tile Stellar Bond line under Agumon's column, so **stand Agumon behind the Illusion** and the whole line inherits the damage reduction with him. The twins share one HP pool and are among the heroes deleted in the opening seconds, so mitigation is the buff they need: Energy is worth nothing to a hero that is already dead. This costs nothing and one battle reads the result.
 
 **Three weak points:**
 
@@ -95,9 +95,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Support is now the gear class to raise, and Tank is not.** Elijah & Lailah and Rolan are both **Support**, which sits at **224**, the lowest of the six classes, with **Support Ring at 195** as its weakest slot. Phraesto is the only Tank left here. **Tank Gloves at 185 is still the single lowest slot on the account** and lifting it alone takes Tank from 226 to 235, so it stays the biggest one-slot jump, but it now pays one hero in this comp rather than two. Raise Support first, Tank Gloves second. See [equipment.md](equipment.md).
 
-**Stellar Bond's faction resonance still cannot fire**, because it needs every linked ally to share one faction and this comp holds Dimensional, Hypogean and Celestial. The Haste, the heals and the shield do not depend on it. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+**Stellar Bond's faction resonance does fire here, and Gabumon is how.** It reads the linked allies, not the comp, so a four-faction team still fires it whenever the line catches heroes of one faction only. Gabumon alone on the line is one Dimensional hero, so the resonance pays him **+10 Vitality and +10% Energy gained** on top of the glows. A line that also caught Rolan or Phraesto would not fire, so keep the run three tiles wide and keep them off it. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
-**The one line worth testing is Ranged Twin, Taichi & Agumon, Melee Twin, all three in the back row.** It puts Elijah's Energy on the carry, and Energy is what shortens the digivolve. `unverified`: the skill text says linked allies are **"unaffected during the dance"**, and no source says whether that excludes them from Starlight Waltz's +60 Haste or makes them immune to control. If it is the first, that line hands the carry Energy and takes his Haste away. **Run the empty line by default and test this one for a battle.**
+**One battle decides whether the line stays.** `unverified`: the skill text says linked allies are **"unaffected during the dance"**, and no source says whether that excludes them from Starlight Waltz's +60 Haste or makes them immune to control. If it is the first, the line hands Gabumon Energy and takes his Haste away. **Field the line and watch whether Gabumon speeds up when the twins cast. If he does not, go back to an empty line and the twins' +25% ATK.** Agumon cannot take the link instead: he has to stand ahead of Gabumon for the 300 Energy, so he cannot sit on a back-line run.
 
 ### The heroes queued for a slot
 
@@ -131,10 +131,10 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front left | Phraesto, true body | Hypogean | Tank | Magic | 1 | Epic |
 | Front right | Phraesto, Illusion | Hypogean | Tank | Magic | 1 | Epic |
 | Middle right | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme+, EX +10 |
-| Back right | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 |
+| Back right end | Elijah & Lailah, Ranged Twin | Celestial | Support | Magic | 6 | Epic+ |
+| Back right, directly behind Agumon | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +6 |
+| Back centre right | Elijah & Lailah, Melee Twin | Celestial | Support | Magic | 6 | Epic+ |
 | Back left | Pandora | Dimensional | Support | Magic | 5 | Legendary |
-| Back centre left | Elijah & Lailah, Ranged Twin | Celestial | Support | Magic | 6 | Epic+ |
-| Back centre | Elijah & Lailah, Melee Twin | Celestial | Support | Magic | 6 | Epic+ |
 
 **Entities: five heroes, seven tiles.** Phraesto fields two bodies and Elijah & Lailah field two twins; Taichi and Yamato each cheer from off the field and take no tile. Rolan's clone is not here, so nothing else arrives mid-fight. See [../mechanics/formation.md](../mechanics/formation.md).
 
@@ -166,17 +166,19 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 - **Both Phraesto bodies share the front row**, which is what grants each of them 30% damage reduction, and they stand at **opposite ends of it** so one enemy Gaia Force cannot catch both.
 - **Agumon stands one row back, alone**, out of the front row and ahead of everyone else. That second half is the point: at battle start he buffs **himself and every ally behind him** with **+25% of his own ATK for 20s**, and **Gabumon taking that buff gains 300 Energy**, which starts the second digivolve early. Standing level with the others pays them nothing.
-- **Both Elijah & Lailah twins go in the back row with nothing between them.** They share one HP pool carrying +50% max HP, so neither ever goes forward, and an empty line keeps their permanent **+25% ATK** while leaving every ally certain of Starlight Waltz.
-- **Keep Gabumon and Pandora on opposite sides of the back row.** Gabumon is the most fragile hero here and Pandora is the one whose skill decides the fight, and one Gaia Force reads a 3-tile radius.
-- **Which Phraesto body an ally stands behind decides its buff.** Damage reduction sits behind the Illusion, Energy Recovery Speed behind the true body. **Put Agumon behind the Illusion** — surviving to the digivolve is his whole job — and **Gabumon and Pandora behind the true body**, where the faster bar brings the second digivolve and the box round sooner. Placing Phraesto draws a marker on the tile the Illusion lands on; read it before locking the rows.
+- **The two Elijah & Lailah twins take the ends of a three-tile back-row run, with Gabumon alone between them.** Stellar Bond links whoever stands on the straight line between the twins, and the link is read during the preparation phase, so the Melee Twin walking forward afterwards does not break it. Gabumon alone on the line is one Dimensional hero, so the resonance fires: **+10 Vitality and +10% Energy gained**, on top of Lailah's heal and Elijah's Energy. Energy is what this whole comp is buying. The price is the twins' own permanent **+25% ATK**, and the stat share, which reads the *other* linked allies and here has none. They share one HP pool carrying +50% max HP, so neither ever goes forward.
+- **Keep Pandora off the line, at the far end of the back row.** One enemy Gaia Force reads a 3-tile radius and the Stellar Bond run is already three tiles wide, so the twins and Gabumon are one cast. Pandora is the hero whose skill decides the fight, and adding her to the line would hand that cast the whole backline for a resonance it already fires. **Three tiles is the narrowest a link can be. Do not widen it to pick up a second linked ally.**
+- **Which Phraesto body an ally stands behind decides its buff.** Damage reduction sits behind the Illusion, Energy Recovery Speed behind the true body. **Put Agumon behind the Illusion** — surviving to the digivolve is his whole job — which pins Gabumon and the whole Stellar Bond run behind the Illusion with him, so the run takes the damage reduction and takes its Energy from the bond instead. **Pandora goes behind the true body**, where the faster bar brings the box round sooner. Placing Phraesto draws a marker on the tile the Illusion lands on; read it before locking the rows.
 
 **Read the walls before locking anything.** Agumon becomes range 1 after transforming, so a **low wall** is the terrain that hurts this comp: he has to walk round it while the enemy backline shoots over. He is the only hero here who has to close. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
+
+**One battle decides whether the line stays.** `unverified`: the skill text says linked allies are **"unaffected during the dance"**, and no source says whether that excludes them from Starlight Waltz's +60 Haste or makes them immune to control. If it is the first, the line hands Gabumon Energy and takes his Haste away. **Field it and watch whether Gabumon speeds up when the twins cast. If he does not, close the twins back up and take their +25% ATK.** Agumon cannot take the link in his place: he has to stand ahead of Gabumon for the 300 Energy, so he cannot sit on a back-row run. The same test settles the push comp above. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
 ### The one tension in the formation
 
 **Gabumon's EX weapon fires more missiles the closer allies stand to him, and an enemy Gaia Force punishes exactly that.** The two rules pull against each other and there is no placement that satisfies both.
 
-**Split, and give up the missiles.** The account is losing to enemy Agumon teams, so the cast that wipes a bunched comp is the confirmed threat and the extra missiles are not. Revisit it if the losses stop being wipes.
+**Split, and give up the missiles — but the Stellar Bond run spends three tiles of that split.** Linking anyone at all needs twin, ally, twin in a straight line, so the narrowest link on the board is three tiles wide, and here it sits on Gabumon. The account is losing to enemy Agumon teams, so the cast that wipes a bunched comp is the confirmed threat and the extra missiles are not: hold the run to those three tiles and keep Pandora and both Phraesto bodies out of it. Revisit it if the losses stop being wipes.
 
 ### What each hero is here to do
 
@@ -210,7 +212,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **This comp and the AFK Stages push comp share four heroes and differ in one.** Pandora replaces Rolan. The push comp entry above already names her as "the swap when Agumon dies before he digivolves specifically", and in Arena that is not a contingency, it is the fight. A correction to Agumon, Gabumon, Phraesto or Elijah & Lailah belongs in both entries.
 
-**Agumon is at his PvP ceiling on tier, and the rest is weapon levels.** **Supreme+** is bought, so the team-buffing half of his kit and the Gabumon synergy both run, and EX levels 11 to 15 are open with **+15 called the Arena target**. He holds **+8**, so **seven weapon levels are buyable and nothing gates them but Temporal Essence**, the account's tightest currency. **That is now the highest-value Arena spend left on the account.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md) and [equipment.md](equipment.md).
+**Agumon is at his PvP ceiling on tier, and the rest is weapon levels.** **Supreme+** is bought, so the team-buffing half of his kit and the Gabumon synergy both run, and EX levels 11 to 15 are open with **+15 called the Arena target**. He holds **+10**, so **five weapon levels are buyable and nothing gates them but Temporal Essence**, the account's tightest currency, at 100 per level. **That is now the highest-value Arena spend left on the account.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md) and [equipment.md](equipment.md).
 
 **Four of the five are top-tier PvP on the freshest source that passes the three-part rule, and the fifth is the account's own most-invested hero.** All letters below are [allclash, 2026-08-26, investment stated as Supreme+ for the Digimon pair], the only vetted list published inside the last three months that splits PvP out on its own. See [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md) and [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
 
@@ -306,7 +308,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **AoE clears the Wings.** Skyclops is resisted or outright immune while a Wing lives, so wave clear is a requirement, not a bonus. Shemira's ten ghosts, Cecia's arc and Aurora's bunnies cover it.
 
-**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are one Mythic and one Legendary+ where this one fields three Mythics, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
+**The guide comp is deliberately not the pick.** The guides name Kruger, Cecia, Koko and Smokey & Meerky, all of which this account owns, and four Maulers would pay +18%. That comp is worse here on two counts: its best heroes are one Supreme and one Mythic where this one fields three Mythics plus Aurora at Mythic+, and Kruger is single-target melee against a boss whose gimmick is a wave of adds. Cecia is the one guide pick that survives the comparison, and she is in.
 
 **Three weak points:**
 
@@ -356,7 +358,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **5. Energy is damage when the score is damage dealt.** Taichi pushes **150 Energy into Agumon every 3s** plus 250 more until the digivolve lands, Gabumon's Hero Focus raises the Energy he recovers from attacking and raises it again after digivolving, Rolan clones every Ultimate and Elijah & Lailah speed all five heroes at once. Casts per minute is the score, and Starshard counts casts rather than damage.
 
-**Galahad is cut on the tier gate, and she is the one guide pick dropped.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon, and the account owns all five, which no other Dream Realm guide lineup manages. **Time Recast, the skill that whole role rests on, unlocks at Mythic+ and she is Legendary**, three tiers short. Yamato & Gabumon takes the slot instead: Supreme+, with an EX weapon, and magic damage from the back row either way. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
+**Galahad is still cut on the tier gate, but the gate is now one step wide.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon, and the account owns all five, which no other Dream Realm guide lineup manages. **Time Recast, the skill that whole role rests on, unlocks at Mythic+ and she is Mythic.** She is S-Level, so that step costs **2 Soul Sigils**. Yamato & Gabumon holds the slot meanwhile: Supreme+, with an EX weapon, and magic damage from the back row either way. **Revisit this comp the moment she crosses Mythic+**, because at that point the account can field the guide lineup whole. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
 
 **Grid note: only Phraesto stands forward, and that is the point.** The bubble picks by distance, so the front tile is a slot this comp fills on purpose with the one hero that regrows a body. **Taichi & Agumon starts in the back row**, confirmed from the account: fielded in the front row he dies before the digivolve. Elijah & Lailah sit in the middle rather than the back to split the cluster, because Water Bomb aims at the area holding the most heroes. See [../mechanics/formation.md](../mechanics/formation.md).
 
@@ -398,18 +400,18 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 | Row | Hero | Faction | Class | Range | Tier |
 | --- | --- | --- | --- | --- | --- |
-| Front | Thador | Wilder | Tank | 1 | Legendary+ |
+| Front | Thador | Wilder | Tank | 1 | Mythic |
 | Middle | Faramor | Wilder | Rogue | 1 | Mythic |
 | Middle | Aurora | Celestial | Mage | 2 | Mythic+, EX +5 |
 | Back | Velara | Wilder | Support | 5 | Legendary |
-| Back | Solise | Wilder | Support | 6 | Legendary |
+| Back | Solise | Wilder | Support | 6 | Mythic |
 
 **The bench, slots 6 to 10.** This mode picks 10 heroes, not 5. Spend these on early floors and keep the five above fresh.
 
 | Hero | Faction | Class | Tier | Why |
 | --- | --- | --- | --- | --- |
 | Hewynn | Wilder | Support | Epic | the bigger burst heal, and the only debuff strip owned |
-| Smokey & Meerky | Mauler | Support | Mythic | sustained healing plus an ally ATK buff, and Hero Focus is live |
+| Smokey & Meerky | Mauler | Support | Supreme | sustained healing, an ally ATK buff and, at Supreme, an aroma that drains enemies as well |
 | Antandra | Mauler | Tank | Epic | replacement frontline: taunt, 60% damage cut, self-heal |
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
 | Hugin | Lightbearer | Support | Mythic | cogshields and an ATK buff |
@@ -444,11 +446,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
-| Front | Thador | Tank | 1 | Legendary+ |
+| Front | Thador | Tank | 1 | Mythic |
 | Middle | Faramor | Rogue | 1 | Mythic |
 | Middle | Eironn | Rogue | 1 | Supreme, EX +5 |
 | Back | Hewynn | Support | 4 | Epic |
-| Back | Solise | Support | 6 | Legendary |
+| Back | Solise | Support | 6 | Mythic |
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and this is one.
 
@@ -481,7 +483,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Daimon | Tank | 3 | Mythic |
 | Middle | Shemira | Mage | 4 | Supreme, EX +1 |
 | Back | Cecia | Marksman | 5 | Epic |
-| Back | Bonnie | Marksman | 7 | Mythic |
+| Back | Bonnie | Marksman | 7 | Supreme |
 
 **Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. This comp still has no healer, so keeping 2 enemies out of the backline beats the healing Awakening would add.
 
@@ -553,19 +555,19 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | --- | --- | --- | --- | --- |
 | Front | Antandra | Tank | 1 | Epic |
 | Middle | Kordan | Warrior | 1 | Legendary+ |
-| Middle | Kruger | Warrior | 1 | Legendary+ |
-| Back | Galahad | Mage | 10 | Legendary |
-| Back | Smokey & Meerky | Support | 8 | Mythic |
+| Middle | Kruger | Warrior | 1 | Mythic |
+| Back | Galahad | Mage | 10 | Mythic |
+| Back | Smokey & Meerky | Support | 8 | Supreme |
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
 
 **Faction bonus: +22%.** Five Mauler is forced by the lock.
 
-**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Mythic and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Legendary+, so his Hero Focus is live**, worth +12% ATK to himself at level 1. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
+**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Supreme and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. **Withering Potion is live at Supreme as well**, so the aroma drains every enemy standing in it for up to 12% of max HP a second, and the healer is now a damage source too. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Legendary+, so his Hero Focus is live**, worth +12% ATK to himself at level 1. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
 
 **Three weak points:**
 
-1. **Kruger is in for his tier, not his fit, and the tier argument has run out.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He held the slot because he is Legendary+ against an alternative several tiers down. **Koko is Legendary+ too**, so there is no stat gap left to cover the fit gap. See the swap below.
+1. **Kruger is in for his tier, not his fit, and the tier argument has just been renewed.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He now stands at **Mythic**, one step above Koko at Legendary+, so the stat gap the fit argument has to overcome is a real one again. See the swap below.
 2. **Three heroes stand at range 1, and that now costs the aroma.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. The aroma is only **2 tiles wide**, so a front that walks out of it drops the 16% ATK buff, the healing and the 3-ally clause on Hero Focus at once. Keep Galahad inside it and accept that the melee three leave. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
 3. **The bench is thin.** Nine Maulers are owned and the four cut are Koko at Legendary+, Odie at Elite, Gerda at Elite and Seth at Elite. **Odie is the one to watch.** His Dart Poison cannot be dispelled, and every normal attack on a poisoned target raises that target's tick by 25% up to 20 stacks, which is the scaling carry 90 floors of attrition reward. He is Elite, so all three of his ascension skills are off, and the first of them, Hero Focus at Legendary+, is the attack speed that feeds the stacks. A wall on this tower is answered by ascending, not by swapping. See [../mechanics/heroes/odie.md](../mechanics/heroes/odie.md).
 
@@ -576,14 +578,14 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Antandra | Tank | 1 | Epic |
 | Middle | Kordan | Warrior | 1 | Legendary+ |
 | Middle | **Koko** | Support | 4 | Legendary+ |
-| Back | Galahad | Mage | 10 | Legendary |
-| Back | Smokey & Meerky | Support | 8 | Mythic |
+| Back | Galahad | Mage | 10 | Mythic |
+| Back | Smokey & Meerky | Support | 8 | Supreme |
 
 **Same artifact, same faction bonus, same five tiles.** Awakening Spell +8, +22% Mauler, and no hero in either version fields a second entity.
 
 **It answers two of the three weak points with one slot.** Koko's Ultimate gives the whole team 45 to 55% damage reduction for 12s and then turns everything blocked into true damage, so it pays into survival and damage at once, and [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md) scores a team-wide mitigation as five heroes' worth of survival bought with one slot. Kruger is single-target melee, and his Hero Focus is Ranged DEF on himself alone. Koko also stands at **range 4** against Kruger's range 1, so she holds inside the 2-tile aroma instead of walking out of it, which keeps two allies in it rather than one.
 
-**It costs nothing on tier.** Koko and Kruger both stand at **Legendary+**, so the stat argument that held Kruger in the slot is gone and only the fit argument is left, which Koko wins. **Her Hero Focus is live as well**, +12 Haste for the whole battle, and Haste on the hero whose Ultimate is the whole point means more casts of the mitigation and more blocked damage converted to true damage. **This swap is free, and it is the recommendation.** See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+**The swap now costs one ascension tier, and that is new.** Kruger has reached **Mythic** and Koko is **Legendary+**, so the stat argument that held Kruger in the slot is back, one step wide. The fit argument is unchanged and still points the other way: he is single-target melee who walks out of the aroma, and she is a team-wide mitigation at range 4 who stays inside it. **Her Hero Focus is live too**, +12 Haste for the whole battle, and Haste on the hero whose Ultimate is the whole point means more casts and more blocked damage converted to true damage. **The swap is still the recommendation, but it is no longer free.** Try it on a floor the current five have already failed, so the tier drop is measured rather than assumed. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
 
 **The Hero Focus clause fires in neither version.** It needs 3 allies inside the aroma, and Antandra and Kordan both walk out at range 1. The swap takes the comp from one ally inside to two, and no further.
 
@@ -598,7 +600,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Daimon | Graveborn | Tank | Magic | 3 | Mythic |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
-| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic |
+| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic |
 
 **Artifact:** Starshard Spell +10. The wave fires every **3** ally Ultimates and hits **every enemy** for 24% of its current HP as true damage. Against a swarm that is five or more true damage hits per wave, and true damage ignores whatever defence the Hypofiends carry, which no source publishes. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
@@ -627,7 +629,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 2. **No healer.** Shemira heals only herself, off her own ghosts. Daimon's shields are the rest of the defence. Attempts are limited, so a wipe is a spent attempt.
 3. **Aurora advances furthest** at range 2, so she is the hero the enemy reaches. Watch her.
 
-**Swap if the damage looks resisted: Bonnie out, Cecia in.** Cecia is physical, so the comp stops being one damage type, and Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight. The faction bonus does not move, because Cecia is Graveborn. The cost is four ascension tiers, Mythic down to Epic, and Bonnie's Haste and ATK strip. See [../mechanics/heroes/cecia.md](../mechanics/heroes/cecia.md).
+**Swap if the damage looks resisted: Bonnie out, Cecia in.** Cecia is physical, so the comp stops being one damage type, and Trial of Thorns steals 1.5% of both Phys DEF and Magic DEF every second and keeps it for the whole fight. The faction bonus does not move, because Cecia is Graveborn. The cost is six ascension tiers, Supreme down to Epic, and Bonnie's Haste and ATK strip. See [../mechanics/heroes/cecia.md](../mechanics/heroes/cecia.md).
 
 **Swap if the comp wipes before the timer: Rolan out, Hewynn in.** Rain Prayer heals every ally for up to 115% HP per second across 9s, Revitalize strips debuffs, and Tranquil adds team-wide damage reduction while it runs. The cost is the Ultimate clone and the faction bonus, which drops from +22% to +18% because Hewynn is Wilder. Make the trade only if attempts are actually being lost to wipes.
 
@@ -675,17 +677,17 @@ Send it at the mid-boss and the final boss, not at passages.
 
 | Row | Hero | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
-| Front | Thador | Wilder | Tank | Physical | 1 | Legendary+ |
+| Front | Thador | Wilder | Tank | Physical | 1 | Mythic |
 | Middle | Faramor | Wilder | Rogue | Physical | 1 | Mythic |
 | Middle | Eironn | Wilder | Rogue | Magic | 1 | Supreme, EX +5 |
 | Back | Velara | Wilder | Support | Magic | 5 | Legendary |
-| Back | Solise | Wilder | Support | Magic | 6 | Legendary |
+| Back | Solise | Wilder | Support | Magic | 6 | Mythic |
 
 **Artifact:** Awakening Spell +8, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. Two Supports heal here, so the healing artifact lands on the one team built to use it.
 
 **Faction bonus: +22%.** Five Wilder, so a Wilder camp buff pays all five.
 
-**Why:** an Elite Stronghold is one strong enemy set, and a Hard passage is several fights back to back. Eironn pulls the set into one point and holds it, Faramor drops a true damage circle on the stack that blocks enemy healing, Thador holds the front and hands out Energy at battle start, and Solise and Velara heal and buff through the whole run. It is the **nuke** pattern with a sustain floor under it. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Why:** an Elite Stronghold is one strong enemy set, and a Hard passage is several fights back to back. Eironn pulls the set into one point and holds it, Faramor drops a true damage circle on the stack that blocks enemy healing, Thador holds the front and shields himself and the ally standing 1 tile behind him, and Solise and Velara heal and buff through the whole run. It is the **nuke** pattern with a sustain floor under it. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
 **This is the Tower of Nature comp with Velara for Hewynn.** The Wilder five are already worked out above, and Velara takes the slot because Hewynn is the account's best healer and is better spent elsewhere. **Weak point:** three of the five are range 1, so this team walks into the enemy, and Thador is the only Tank.
 
@@ -713,15 +715,15 @@ Send it at the mid-boss and the final boss, not at passages.
 | --- | --- | --- | --- | --- | --- | --- |
 | Front | Antandra | Mauler | Tank | Physical | 1 | Epic |
 | Middle | Kordan | Mauler | Warrior | Physical | 1 | Legendary+ |
-| Middle | Kruger | Mauler | Warrior | Physical | 1 | Legendary+ |
-| Back | Galahad | Mauler | Mage | Magic | 10 | Legendary |
-| Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Mythic |
+| Middle | Kruger | Mauler | Warrior | Physical | 1 | Mythic |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
+| Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme |
 
 **Artifact:** Blazing Spell +10. It is fully upgraded and the only artifact owned that grants DEF Penetration, and three of these five are physical melee paying full price against enemy defence.
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s and is Legendary+ with a live Hero Focus worth +12% ATK to himself, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Mythic and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Legendary. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
+**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s and is Legendary+ with a live Hero Focus worth +12% ATK to himself, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Supreme and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Mythic, one step and 2 Soul Sigils short. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
 
 **This is the Tower of Will comp, unchanged**, and it is `running` in that tower.
 
@@ -733,13 +735,13 @@ Send it at the mid-boss and the final boss, not at passages.
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ |
 | Middle | Aurora | Celestial | Mage | Magic | 2 | Mythic+, EX +5 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic |
-| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic |
+| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme |
 
-**Artifact:** Enlightening Spell +10. **This is the one comp on the account where it aims correctly.** It buffs the rearmost ally, chosen by the game, and Bonnie is the only hero in the back row here, so the fully upgraded buff lands on a Mythic Marksman instead of being split three ways. Every other comp on this account has two or three heroes in the back row, which is why the artifact sits unused everywhere else. See [progression.md](progression.md).
+**Artifact:** Enlightening Spell +10. **This is the one comp on the account where it aims correctly.** It buffs the rearmost ally, chosen by the game, and Bonnie is the only hero in the back row here, so the fully upgraded buff lands on a Supreme Marksman instead of being split three ways. Every other comp on this account has two or three heroes in the back row, which is why the artifact sits unused everywhere else. See [progression.md](progression.md).
 
 **Faction bonus: +18%**, plus **+1%** for one wildcard. Three Graveborn, with Aurora counting as any faction, makes 4. Gerda is Mauler and does not wildcard. She holds this front because Phraesto now holds Team 1's.
 
-**Why:** Gerda sleeps a whole area for up to 3s and heals through it, which is control and sustain in one slot, Valka builds panic stacks into true damage off the target's max HP, Bonnie's Aging strips enemy Haste and ATK and then spreads, Cecia steals 1.5% of both enemy DEF stats a second and keeps it, and Aurora raises the damage of every allied summon by Dream Veil and by a further 8% from her EX weapon at +5, which pays Cecia's Mr. Carlyle and her own bunnies. **She is now the highest-invested hero in this team**, the only one carrying an EX weapon, so keep her alive and keep summons on the field around her.
+**Why:** Gerda sleeps a whole area for up to 3s and heals through it, which is control and sustain in one slot, Valka builds panic stacks into true damage off the target's max HP, Bonnie's Aging strips enemy Haste and ATK and then spreads, Cecia steals 1.5% of both enemy DEF stats a second and keeps it, and Aurora raises the damage of every allied summon by Dream Veil and by a further 8% from her EX weapon at +5, which pays Cecia's Mr. Carlyle and her own bunnies. **Bonnie is now the highest tier in this team at Supreme**, one above Aurora's Mythic+, and both hold an Exclusive Equipment. **Aurora is still the one to keep alive and to keep summons around**, because Bonnie's Blight Surge sits at +0 and Aurora's weapon at +5 is the multiplier the rest of the team feeds.
 
 **Weak point:** Gerda is **Elite**, the lowest tier in any team here, and her sleep is the only sustain behind it. This is the team that wipes first on a Hard passage. Send it at Easy and Regular work.
 
@@ -782,7 +784,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 | Front | Valka | Graveborn | Warrior | Physical | 1 | Legendary+ |
 | Middle | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
 | Middle | Cecia | Graveborn | Marksman | Physical | 5 | Epic |
-| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Mythic |
+| Back | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme |
 
 **Entities: five heroes, five tiles.** Three of them add bodies during the fight and none of those is placed: **Stitchy** arrives on Daimon's Ultimate, **ten ghosts** on each of Shemira's, and **Mr. Carlyle** on Cecia's, inheriting her stats.
 
@@ -804,7 +806,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 | Row | Hero | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
-| Front | Thador | Wilder | Tank | Physical | 1 | Legendary+ |
+| Front | Thador | Wilder | Tank | Physical | 1 | Mythic |
 | Front | Faramor | Wilder | Rogue | Physical | 1 | Mythic |
 | Middle | Eironn | Wilder | Rogue | Magic | 1 | Supreme, EX +5 |
 | Middle | Elijah & Lailah, **Melee Twin** | Celestial | Support | Magic | 6 | Epic+ |
@@ -847,8 +849,8 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 | Front | Antandra | Mauler | Tank | Physical | 1 | Epic |
 | Front | Kordan | Mauler | Warrior | Physical | 1 | Legendary+ |
 | Middle | Koko | Mauler | Support | Physical | 4 | Legendary+ |
-| Middle | Smokey & Meerky | Mauler | Support | Magic | 8 | Mythic |
-| Back | Galahad | Mauler | Mage | Magic | 10 | Legendary |
+| Middle | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
 
 **Entities: five heroes, five tiles.** Nobody here fields a second body, and the only thing that arrives later is Kordan's **Dominance Ring**, which lands on the target and buffs allies standing inside it.
 
@@ -858,7 +860,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why: Koko turns the Golem's own kit into score.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage** against the enemy. Every Golem skill is a large hit on all five heroes, so this team is fed more to convert than any other comp in this file. Galahad is the strongest magic damage this squad can field and fires from range 10. Antandra shields herself and one ally, and adds more damage reduction when that ally drops below half HP; her taunt is worth nothing here, because every Golem skill hits all five anyway. Kordan's Fury Slash deals damage plus a shield, and his Hero Focus is live at Legendary+ for **+12 to 20% ATK**. Smokey & Meerky heal, buff ATK and feed **5 Energy a second per ally inside the aroma**, and their Hero Focus is live at Mythic.
+**Why: Koko turns the Golem's own kit into score.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage** against the enemy. Every Golem skill is a large hit on all five heroes, so this team is fed more to convert than any other comp in this file. Galahad is the strongest magic damage this squad can field and fires from range 10. Antandra shields herself and one ally, and adds more damage reduction when that ally drops below half HP; her taunt is worth nothing here, because every Golem skill hits all five anyway. Kordan's Fury Slash deals damage plus a shield, and his Hero Focus is live at Legendary+ for **+12 to 20% ATK**. Smokey & Meerky heal, buff ATK and feed **5 Energy a second per ally inside the aroma**, and at Supreme both their Hero Focus and **Withering Potion** are live, so the aroma now drains every enemy inside it for up to 12% of max HP a second on top of the healing.
 
 **Antandra and Kordan are the only shield sources the Mauler roster owns**, which is why an Epic hero holds a slot on a squad with four heroes above her tier. Koko's mitigation is damage reduction, not a shield, so it does **not** block Astral Strike's knockdown and Haste strip. Only those two do. See [../mechanics/ravaged-realm.md](../mechanics/ravaged-realm.md).
 
@@ -868,9 +870,9 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 **The other three Maulers are cut, each on its own kit.**
 
-- **Kruger.** His shield and his Life Drain both need **no ally within 1 tile**, and this fight wants the team bunched. Legendary+ and still the wrong hero here. See [../mechanics/heroes/kruger.md](../mechanics/heroes/kruger.md).
+- **Kruger.** His shield and his Life Drain both need **no ally within 1 tile**, and this fight wants the team bunched. Mythic and still the wrong hero here. See [../mechanics/heroes/kruger.md](../mechanics/heroes/kruger.md).
 - **Seth.** His cooldown reset and his Energy return both need a **kill**, and this fight fields one enemy that does not die. Elite. See [../mechanics/heroes/seth.md](../mechanics/heroes/seth.md).
-- **Gerda.** Her zone heals and her Ultimate sleeps enemies, which is a flat heal racing a percentage drain plus control aimed at a boss. Smokey & Meerky hold the healing slot six ascension steps above her. See [../mechanics/heroes/gerda.md](../mechanics/heroes/gerda.md).
+- **Gerda.** Her zone heals and her Ultimate sleeps enemies, which is a flat heal racing a percentage drain plus control aimed at a boss. Smokey & Meerky hold the healing slot eight ascension steps above her. See [../mechanics/heroes/gerda.md](../mechanics/heroes/gerda.md).
 
 ### What these four share with the rest of the file
 

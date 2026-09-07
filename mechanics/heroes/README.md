@@ -1,9 +1,9 @@
 # Hero files
 
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-07
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 46 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 49 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, in the same order, so grep works across the folder: **Faction, Class, Damage, Range, Rarity.**
 
@@ -41,6 +41,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Thoran | Graveborn | Tank | Physical | 1 | S | [thoran.md](thoran.md) |
 | Valka | Graveborn | Warrior | Physical | 1 | A | [valka.md](valka.md) |
 | Phraesto | Hypogean | Tank | Magic | 1 | S | [phraesto.md](phraesto.md) |
+| Atalanta | Lightbearer | Marksman | Physical | 4 | S | [atalanta.md](atalanta.md) |
 | Cyran | Lightbearer | Mage | Magic | 6 | S | [cyran.md](cyran.md) |
 | Mirael | Lightbearer | Mage | Magic | 3 | A | [mirael.md](mirael.md) |
 | Rowan | Lightbearer | Mage | Magic | 3 | A | [rowan.md](rowan.md) |
@@ -56,6 +57,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Galahad | Mauler | Mage | Magic | 10 | S | [galahad.md](galahad.md) |
 | Odie | Mauler | Marksman | Magic | 5, and 7 from level 91 | A | [odie.md](odie.md) |
 | Seth | Mauler | Rogue | Physical | 1 | A | [seth.md](seth.md) |
+| Shakir | Mauler | Rogue | Physical | 1 | S | [shakir.md](shakir.md) |
 | Koko | Mauler | Support | Physical | 4 | A | [koko.md](koko.md) |
 | Smokey & Meerky | Mauler | Support | Magic | 8 | S | [smokey-meerky.md](smokey-meerky.md) |
 | Antandra | Mauler | Tank | Physical | 1 | A | [antandra.md](antandra.md) |
@@ -67,6 +69,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Lily May | Wilder | Rogue | Magic | 3 | S | [lily-may.md](lily-may.md) |
 | Faramor | Wilder | Rogue | Physical | 1 | A | [faramor.md](faramor.md) |
 | Lenya | Wilder | Rogue | Physical | 1 | A | [lenya.md](lenya.md) |
+| Damian | Wilder | Support | Magic | 20 | A | [damian.md](damian.md) |
 | Hewynn | Wilder | Support | Magic | 4 | S | [hewynn.md](hewynn.md) |
 | Solise | Wilder | Support | Magic | 6 | S | [solise.md](solise.md) |
 | Velara | Wilder | Support | Magic | 5 | S | [velara.md](velara.md) |

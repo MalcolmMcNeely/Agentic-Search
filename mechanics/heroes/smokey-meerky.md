@@ -1,7 +1,7 @@
 # Smokey & Meerky
 
 > **Covers:** Smokey & Meerky kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-07
 
 - **Faction:** Mauler
 - **Class:** Support
@@ -21,19 +21,36 @@ Energizing Formula raises the ATK of allies **inside the aroma by 16%**, and han
 
 The buff, the heal and the Energy all require allies to stand **within 2 tiles** of the pair. Range 8 puts Smokey & Meerky in the back row, so the team has to be built inward around them rather than spread across the grid. See [../formation.md](../formation.md).
 
+**Withering Potion widens the aroma by a tile**, which loosens that constraint but does not remove it.
+
 ## Tier gates
 
-**Hero Focus is live.** They are **Mythic** in [../../account/roster.md](../../account/roster.md), past the **Legendary+** unlock. It adds **+6% ATK**, and **+9% more when 3 or more non-summoned allies stand inside the aroma**, rising to +10% and +15% as the skill levels.
+**They stand at Supreme with the weapon at +4, so five of their six pieces are live and one is not.** That is the joint-highest tier on the account outside the Digimon pair, level with Eironn and Shemira. See [../../account/roster.md](../../account/roster.md).
 
-That makes the aroma pay twice. Three allies inside it already take the 16% ATK buff and the healing; now they also feed the pair up to **15% more ATK**, which scales every heal and buff coming back out.
+| Piece | Gate | Live at Supreme |
+| --- | --- | --- |
+| Special Aroma | none | yes |
+| Energizing Formula | none | yes |
+| Quick Recovery | none | yes |
+| Hero Focus | Legendary+ | yes |
+| Withering Potion | Mythic+ | **yes** |
+| Enhance Force | Supreme+ | **no** |
 
-**The Exclusive Equipment is one tier away.** Withering Potion needs **Mythic+**. It widens the aroma by a tile and makes it drain enemies for up to **12% of max HP per second**, capped at 200% of the pair's ATK. That turns a healer into a damage source, so it is the single largest upgrade available to this hero. See [../hero-scoring.md](../hero-scoring.md).
+**Hero Focus** adds **+6% ATK**, and **+9% more when 3 or more non-summoned allies stand inside the aroma**, rising to +10% and +15% as the skill levels. That makes the aroma pay twice: three allies inside it already take the 16% ATK buff and the healing, and they also feed the pair up to 15% more ATK, which scales every heal and buff coming back out.
+
+**Withering Potion is their Exclusive Equipment and it is now unlocked.** It widens the aroma by a tile and drains enemies inside it for up to **12% of max HP per second**, capped at 200% of the pair's ATK. **That turns the healer into a damage source, so they now pay into both sums at full size.** See [../hero-scoring.md](../hero-scoring.md).
+
+**The drain is not defence-ignoring damage, and no comp may treat it as though it is. Confirmed from the account: the skill text says nothing about defence.** That matters because [../../account/progression.md](../../account/progression.md) ranks defence-ignoring damage above everything else on an uncapped ladder, and this does not qualify. It is still the largest single upgrade the pair have ever had.
+
+**The EX weapon stands at +4.** Its ceiling at Supreme is **+10**, so six levels can still be bought: **150 Tidal Essence** takes it to +5, and the five above that cost **75 Temporal Essence** each. See [../../account/equipment.md](../../account/equipment.md).
+
+**Only Enhance Force is left, one tier up at Supreme+.** No source here prices the Supreme to Supreme+ step for an S-Level hero. `?` that price; read it off the ascension screen.
 
 ## Best for
 
-General play and campaign. Sustained healing, an ally ATK buff and Energy in one slot, which is why they pay into both the survival sum and the damage sum at once.
+General play and campaign. Sustained healing, an ally ATK buff, Energy and now an area drain in one slot.
 
-**They are the highest tier in the Mauler roster**, so any Mauler comp is built around them rather than beside them. See [../team-archetypes.md](../team-archetypes.md).
+**They are the highest tier in the Mauler roster**, so any Mauler comp is built around them rather than beside them. See [../team-archetypes.md](../team-archetypes.md). They carry the Tower of Will comp, Battle Drills Team 3 and the Ravaged Realm Immortal Squad. See [../../account/teams.md](../../account/teams.md).
 
 ## Source
 

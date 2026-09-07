@@ -1,7 +1,7 @@
 # Dream Store
 
 > **Covers:** the Dream Realm shop: what currency it takes, the live shelf, the per-tier Soul Sigil costs, and who on this account to buy.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-07
 
 A shop inside the **Emporium**, paid for with **Dream Fragments**. It sells hero copies, so it is a route to ascension that does not go through a banner.
 
@@ -25,11 +25,11 @@ So the store's budget is set by Dream Realm performance. Push the boss harder an
 | Mauler | Odie, Seth, Kruger, Satrana, Antandra, Koko |
 | Graveborn | Niru, Silvina, Salazer, Viperian |
 
-**Ten are owned:** Valen, Mirael, Lucius, Fay, Arden, Seth, Kruger, Antandra, Koko, Niru. See [../account/roster.md](../account/roster.md).
+**Eleven are owned:** Valen, Mirael, Lucius, Fay, Arden, Damian, Seth, Kruger, Antandra, Koko, Niru. See [../account/roster.md](../account/roster.md).
 
 **No Celestial, Hypogean or Dimensional hero appears, and no S-Level hero does either.** Thoran, Shakir and Elijah & Lailah stay on their banners. See [recruitment.md](recruitment.md).
 
-**Open question, and one glance in game settles it.** Either the store stocks a subset of A-Level heroes, or the absent heroes above are S-Level and [heroes/README.md](heroes/README.md) has their Level wrong. Every Level in that table comes from one source, afk.global, which is already caught wrong on Daimon's class. **Check Bonnie's rarity badge in game.** A-Level plus absent proves the subset; S-Level means the Level column needs a sweep.
+**The shelf is a subset of A-Level heroes, and Bonnie settles it.** She is A-Level on afk.global, on prydwen and on allclash, three independent readings with no dissent, and she is absent from the shelf. So absence proves nothing about rarity and the Level column in [heroes/README.md](heroes/README.md) stands. **Daimon is the one Level still `unverified`**, on his own evidence rather than on the shelf. See [heroes/bonnie.md](heroes/bonnie.md) and [heroes/daimon.md](heroes/daimon.md).
 
 The store also carries **hero-locked Temporal Essence**, which converts to universal Temporal Essence once that hero is already invested in. Its stock rotates daily.
 
@@ -65,26 +65,28 @@ Only three tiers change anything, per [progression-systems.md](progression-syste
 
 **Koko is finished at Legendary+, and Faramor is the shelf's first pick.**
 
-Koko reached the target this shelf was being spent on. Her Hero Focus is live at **+12 Haste**, she matches Kruger on tier, and the Tower of Will swap in [../account/teams.md](../account/teams.md) no longer costs an ascension step. Her next unlock is **Fluffy Shield**, an Exclusive Equipment at **Mythic+**, three steps and 22 sigils away, which is the same bad value the Kruger note below describes. **Stop buying her.** See [heroes/koko.md](heroes/koko.md).
+Koko reached the target this shelf was being spent on. Her Hero Focus is live at **+12 Haste**. **Kruger has since passed her, at Mythic against her Legendary+**, so the Tower of Will swap in [../account/teams.md](../account/teams.md) costs one ascension step again. Her next unlock is **Fluffy Shield**, an Exclusive Equipment at **Mythic+**, three steps and 22 sigils away, which is the same bad value the Kruger note below describes. **Stop buying her.** See [heroes/koko.md](heroes/koko.md).
 
 ### The road from here
 
 A copy is 1,200 fragments, so a sigil count multiplies straight into a fragment bill: Faramor's 12 sigils are **14,400 fragments**.
 
-**Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and **all five EX weapons the account owns sit on heroes this shelf never stocks**: Taichi & Agumon, Yamato & Gabumon, Eironn, Aurora and Shemira are S-Level, Dimensional or Celestial. Banking is therefore worse than committing.
+**Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and **all seven EX weapons the account owns sit on heroes this shelf never stocks**: Taichi & Agumon, Yamato & Gabumon, Eironn, Aurora, Shemira and Smokey & Meerky are S-Level, Dimensional or Celestial, and Bonnie is A-Level but not on the subset. Banking is therefore worse than committing.
 
-**None of the account's five Exclusive Equipments came from this shelf, and the sixth can.** The five came from the Digimon crossover event and from banner and Guild Store copies. The shelf's stocked heroes are mostly nowhere near Mythic+, and **Faramor at Mythic is the exception**, one step away. See [heroes/faramor.md](heroes/faramor.md) and [../account/equipment.md](../account/equipment.md).
+**None of the account's seven Exclusive Equipments came from this shelf, and the eighth can.** The seven came from the Digimon crossover event and from banner and Guild Store copies. Most of the shelf's stocked heroes are nowhere near Mythic+, and **Faramor and Kruger are the two exceptions, both at Mythic**, one step away. They are A-Level, so that step is **12 Soul Sigils** each. **The two cheapest Mythic+ steps on the account are Galahad and Solise at 2 sigils, and this shelf stocks neither**, because both are S-Level. See [heroes/faramor.md](heroes/faramor.md), [heroes/kruger.md](heroes/kruger.md) and [../account/equipment.md](../account/equipment.md).
 
 **First pick: Faramor, 12 copies from Mythic to Mythic+ and his Exclusive Equipment.** He is the payload in both the Tower of Nature comp and the Arcane Labyrinth comp, and **Mythic+ is the only tier that adds a whole new skill**. Nothing else on this shelf is one step from an EX weapon.
 
 **Second pick: Antandra, 17 copies from Epic to Legendary+.** She is the tank holding the front of the same Tower of Will comp and its lowest tier. It buys survival, where Koko already buys survival and damage at once.
+
+**Damian is new to the shelf's owned list, and he is not a pick yet.** He stands at **Elite**, so Legendary+ is **21 sigils**, the same price as Viperian and Niru, and the hero the guides describe needs **Mythic+ with the weapon at +5**. He is worth queueing behind Faramor only if the push comp keeps losing its backline, because his Toy Chariot makes him unattackable and his toy plane stuns the farthest enemy. See [heroes/damian.md](heroes/damian.md).
 
 **Do not buy Kruger, even though he is the highest tier owned on the shelf.** Two of his three unlocks pay nothing here.
 
 - His Hero Focus is already unlocked and grants Ranged DEF with no damage, per [heroes/kruger.md](heroes/kruger.md).
 - His Exclusive Equipment shields him for 40% of his HP **only while no ally stands within 1 tile**. The Tower of Will comp puts Antandra, Kordan and Kruger all at range 1, so he is never isolated and the shield never fires.
 
-That makes his 22 sigils to Mythic+ the worst value on the shelf, not the best.
+He now stands at **Mythic**, so Mythic+ is only **12 sigils** away rather than 22. The price fell and the value did not, so this is still the worst buy on the shelf, not the best.
 
 **Graveborn depth is here, and it is slower than it looks.** [recruitment.md](recruitment.md) names Viperian, Silvina, Niru and Salazer as the depth Tower of Eternity needs, and all four are stocked. **Viperian and Niru are owned, both at Elite**, so their copies buy ascensions rather than an unlock. Elite to Legendary+ costs 1 + 3 + 4 + 5 + 8 = **21 sigils**, per hero, whether the hero is owned or not. Worth doing after Faramor, not before.
 

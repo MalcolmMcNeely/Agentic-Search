@@ -1,7 +1,7 @@
 # Galahad
 
 > **Covers:** Galahad kit, stats and best use.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-09-07
 
 - **Faction:** Mauler
 - **Class:** Mage
@@ -11,23 +11,31 @@
 
 ## Kit
 
-Three skills are live at Legendary, read off her profile in game: **Temporal Field**, her Ultimate, plus **Binding Loop** and **Chrono Ward**.
+Three skills are live below Mythic+, read off her profile in game: **Temporal Field**, her Ultimate, plus **Binding Loop** and **Chrono Ward**.
 
-Temporal Field damages all enemies, then draws a Magic Circle centred on her.
+Temporal Field damages all enemies, then draws a **Magic Circle** centred on her. Her tile draws that circle, so her placement decides where it lands. See [../formation.md](../formation.md).
 
 **What Binding Loop and Chrono Ward do is not recorded.** Only the names are confirmed.
 
-## Time Recast is real, and this account cannot use it
+## Time Recast is one ascension step away
 
-**Time Recast unlocks at Mythic+.** It makes another hero cast their Ultimate again, which is the skill every team guide builds her boss amplify role on.
+**Time Recast unlocks at Mythic+, and she now stands at Mythic.** It is the skill every team guide builds her boss amplify role on.
 
-**Galahad is Legendary on this account, three tiers short of it.** The order runs Legendary, Legendary+, Mythic, Mythic+. So the hero the guides describe is not the hero the account fields, and every comp that names her as an Ultimate-duplicator is describing a future account, not this one. See [../progression-systems.md](../progression-systems.md).
+**What it actually does.** She marks a nearby ally, **preferring the one standing behind her**. When her Magic Circle reaches full range, a **shadow** of that ally appears for **12s with extra Initial Energy**. The shadow is not a real body: it cannot be targeted and it cannot be damaged.
 
-Until she reaches Mythic+, [Rolan](rolan.md) holds the Ultimate-clone job. His clone works at his current tier.
+So the tile behind Galahad is a decision, the same way Thador's lieutenant tile is. See [../formation.md](../formation.md).
+
+`unverified` how the shadow relates to the ally's Ultimate. Guides describe the skill as making another hero cast their Ultimate again; prydwen describes a 12s untargetable shadow with bonus starting Energy. Both readings stand until her own weapon screen settles it.
+
+**She is S-Level, so Mythic to Mythic+ costs 2 Soul Sigils and 100 Faction Acorns**, the price the Digimon pair, Eironn, Aurora, Shemira and Smokey & Meerky all paid. **That makes her one of the two cheapest new skills left on the account**, level with Solise. See [../../account/equipment.md](../../account/equipment.md) and [solise.md](solise.md).
+
+**She holds slot 4 of the Epic wishlist, and that slot is now the whole route.** No shop stocks an S-Level hero, and Epic Recruitment guarantees an S-Level every 30 pulls from its 5 slots alone. See [../recruitment.md](../recruitment.md).
+
+Until she crosses that step, [Rolan](rolan.md) holds the Ultimate-clone job. His clone works at his current tier.
 
 ## Best for
 
-Campaign and boss. Top-tier magic damage from the back row. She is the account's strongest magic damage dealer now, and she carries the Tower of Will comp in [../../account/teams.md](../../account/teams.md). At Mythic+ she also becomes a boss amplify engine. See [../team-archetypes.md](../team-archetypes.md).
+Campaign and boss. Top-tier magic damage from the back row. She is the account's strongest magic damage dealer, and she carries the Tower of Will comp in [../../account/teams.md](../../account/teams.md). At Mythic+ she also becomes a boss amplify engine. See [../team-archetypes.md](../team-archetypes.md).
 
 ## Notes
 
@@ -36,3 +44,4 @@ Campaign and boss. Top-tier magic damage from the back row. She is the account's
 ## Source
 
 - https://www.afk.global/afk-journey/characters/galahad (kit text, `disputed` above)
+- https://www.prydwen.gg/afk-journey/characters/galahad (Time Recast as the Mythic+ skill: it marks a nearby ally, prefers the one behind her, and spawns an untargetable 12s shadow with extra Initial Energy; read through search summaries)
