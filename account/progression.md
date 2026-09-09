@@ -68,15 +68,23 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 **Rolan and Phraesto are Epic and Elijah & Lailah are Epic+.** Each step to Legendary+ costs **1 Soul Sigil** for a Celestial or Hypogean hero, so **Rolan and Phraesto are three sigils away and Elijah & Lailah are two**. Legendary+ switches on Hero Focus. Those are the cheapest ascensions on the account and all three sit inside the Hand slots. See [../mechanics/guild-store.md](../mechanics/guild-store.md) and [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
 
+### Arena spends sigils, not Essence
+
+**Arena caps every hero at a baseline of 151 plus about 10% and adjusts equipment to match, and leaves unlocked skills alone.** So the whole of the table above — Resonance Level 240, Resonance Synergy +25, 22,636,000 power, thirty-six maxed gear slots — is worth **nothing** inside the mode, and **ascension tier is worth everything**. See [../mechanics/arena.md](../mechanics/arena.md).
+
+**That inverts the spend order for Arena alone.** The three cheapest ascensions on the account are all in the Arena attack comp: **Phraesto at 3 Soul Sigils, Elijah & Lailah at 2, and Pandora one step from Legendary+.** Each switches on a Hero Focus the guide letters already assume. **Thoran is a fourth, at 2 sigils**, and he holds the Arena defence.
+
+**Resonance Synergy stays the best spend on the account overall**, because it pays in every other mode and Arena is one mode. It simply pays nothing here.
+
 ### Artifacts owned
 
 **All six permanent artifacts are owned.** What each one does and which fight it suits is in [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
 | Artifact | Level | Effect steps live | The comps it holds |
 | --- | --- | --- | --- |
-| Starshard Spell | +10 | +4 and +8 | AFK Stages push, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
-| Confining Spell | +9 | +4 and +8 | Arena, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
-| Awakening Spell | +9 | +4 and +8 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
+| Starshard Spell | +10 | +4 and +8 | AFK Stages push, **Arena attack B**, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
+| Confining Spell | +9 | +4 and +8 | **Arena attack A**, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
+| Awakening Spell | +9 | +4 and +8 | **Arena defence**, Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
 | Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
 | Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5 |
 | Ironwall Spell | +4 | +4 | the sixth Battle Drills team |
@@ -96,8 +104,8 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 The order rests on what the next step does and how many fielded comps it lands on. It does not rest on a tier letter, because there is no sourceable one to rest on.
 
 1. **Ironwall to +8, four levels.** The blessing moves to the frontmost surviving hero when the blessed one dies, which is the right effect for the weak team it holds. **It is the only effect step left anywhere on the account**, so every other artifact level now buys stats alone.
-2. **Confining to +10, one level.** Both effect steps are live, so it buys the team ATK and HP line and nothing else, but it is **one level from the ceiling** and it holds five comps, three of them without a healer. Finishing it also settles the open question below: whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and this is the artifact that will answer it.
-3. **Awakening to +10, one level.** Both effect steps are live here too, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats at max. It holds four comps. It sits level with Confining now and loses the tie on comp count alone.
+2. **Awakening to +10, one level.** Both effect steps are live, so it buys stats alone, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats at max. It holds **five comps**, and one of them is the **Arena defence**, whose only job is to survive the clock. **A percentage is the one kind of bonus Arena does not cap**, so this level is worth full price in a mode where a level of anything else is worth nothing. See [../mechanics/arena.md](../mechanics/arena.md).
+3. **Confining to +10, one level.** Both effect steps are live here too, so it also buys the team ATK and HP line and nothing else. It holds **five comps**, three of them without a healer, so the two are tied on count and Awakening wins on the Arena defence. Finishing this one still settles the open question below: whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and either artifact answers it.
 
 **Starshard, Blazing and Enlightening are finished.** All three sit at +10 with both effect steps live and the stat line at its ceiling. Enlightening still buffs **one hero, the rearmost ally**, chosen by the game, so it stays on Battle Drills Team 5, the only comp in [teams.md](teams.md) with a single hero in the back row.
 
@@ -119,18 +127,19 @@ Not reached yet. No Season Resonance Level, no Season Equipment, no Season Artif
 
 ## Mode progress
 
-**Every mode's AFK Stage requirement is met.** The highest gate in the game is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1292. Only Trial of Abyss is still locked, and its remaining conditions are not stage-based. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+**Every permanent-track AFK Stage requirement is met.** The highest gate on that track is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1292. **Two modes are still locked and neither is blocked on a permanent stage.** Trial of Abyss wants the full story clear and a 28-day-old server. **Supreme Arena wants Season AFK Stage 130**, which is a season number and reads zero here. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
 | Infinite Stages | yes, needs 1125 | at **1292**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
 | Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on the Koko copies that took her to Legendary+ at 1,200 each. **Antandra is the next target**, at 17 sigils. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
-| Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, of the 5 the guides claim exist. See [../mechanics/arena.md](../mechanics/arena.md) |
+| Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, and more unlock as the tier climbs. **Every hero fights here at a baseline of 151 plus about 10%**, so none of the power in the table above enters this mode. See [../mechanics/arena.md](../mechanics/arena.md) |
+| Savannah Cup | yes, event | **3v3 real-time PvP, running in 1.7.4 from 3 September.** Progression is equalised and unowned heroes may be deployed, so nothing on this account decides a pick. `?` the exact end date and the entry requirement. See [../mechanics/savannah-cup.md](../mechanics/savannah-cup.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 | Legend Trial | yes, needs 166 | **Tower of Light cleared, 90/90.** Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90 |
-| Supreme Arena | yes | ? |
+| Supreme Arena | **no** | It needs **Season AFK Stage 130**, and no season is started, so the season ladder is at zero. The blocker is the story quest, same as everything else seasonal. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md) |
 | Honor Duel | yes | not roster-dependent, nothing to record |
 | Homestead, Darkswarm Invasion | yes | Homestead level `?`, Aggression `?`, weekly contribution `?`. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md) |
 | Stargaze Station | yes, needs 400 total pulls | pity at 0. Elijah & Lailah unlocked from the Guild Store instead, so the target is now for copies, not the unlock |

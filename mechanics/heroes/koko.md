@@ -36,7 +36,9 @@ Campaign and PvP. Damage mitigation plus healing.
 
 **PvP, rated S** [allclash, 2026-08-26, investment not stated], confirmed on a re-read of that page. The kit argument above stands without it.
 
-She is the first swap into the Arena comp if that comp gets wiped rather than out-damaged, and she is the standing swap on the Tower of Will comp. She is Mauler, so the cost is the faction cap, not levels: every hero on the account runs at the Resonance Level. See [../../account/teams.md](../../account/teams.md).
+**She is the first swap into both Arena comps that get wiped rather than out-damaged**, the defence and attack A, and she is the standing swap on the Tower of Will comp. She is Mauler, so the cost is the faction cap and nothing else.
+
+**Arena flatters her, because it caps hero levels at 151 plus about 10% and leaves unlocked skills alone.** She is **Legendary+**, so her Hero Focus is live, which is more than three of the five heroes in attack A can say. Her mitigation is also a percentage, so the cap does not shrink it. See [../arena.md](../arena.md) and [../../account/teams.md](../../account/teams.md).
 
 ## Sources
 

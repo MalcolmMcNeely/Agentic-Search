@@ -1,7 +1,7 @@
 # Honor Duel
 
 > **Covers:** how an Honor Duel run works, the four starting combos, the two-stage deploy, the Duel Store, the mode's own hero pool and per-hero modifiers, and how to pick.
-> **Updated:** 2026-09-08
+> **Updated:** 2026-09-09
 
 Honor Duel is fair-play PvP. The account roster does not enter it. Every run hands you game-provided heroes and you build from there, so nothing in `account/` is relevant to a pick here.
 
@@ -45,21 +45,31 @@ Heroes cannot be moved after being deployed and revealed. The last two picks are
 
 Two rules make a hero's open-roster reputation the wrong instrument in here, and both belong to the mode.
 
-**The pool is limited, and it is patched.** Only **Lightbearer, Mauler, Wilder and Graveborn** heroes can be bought and built up. Celestial heroes appear as single-use trial copies, and no Hypogean or Dimensional hero is in the pool at all. Version 1.7.3 dropped Sonja, Evie, Nara and Hodgkin and added Valen, Peggy, Valka and Callan. Half of any roster ranking is therefore about heroes this mode never offers.
+**The pool is limited, and it is patched.** Only **Lightbearer, Mauler, Wilder and Graveborn** heroes can be bought and built up. Celestial heroes appear as single-use trial copies, and no Hypogean or Dimensional hero is in the pool at all. Half of any roster ranking is therefore about heroes this mode never offers.
 
-**A hero can carry a modifier that applies inside Honor Duel and nowhere else**, on damage dealt, damage taken and Haste, and each patch re-tunes them. At 1.7.3:
+**Version 1.7.4 rotates the pool again.** Lightbearer drops Lucca for Orion. Mauler drops Brutus, Satrana and Nazrik for Lumont, Voracia and Kazim. Wilder drops Pippa for Florabelle. Graveborn drops Viperian for **Cecia**. Trial Cards are added for Sylphira and Lamentis.
+
+**Two of those moves touch owned heroes**, though ownership buys nothing in here. **Cecia enters the Graveborn shelf** and **Viperian leaves it**, so Cecia is now a hero the shop can hand you and Viperian is not. See [../account/roster.md](../account/roster.md).
+
+**A hero can carry a modifier that applies inside Honor Duel and nowhere else**, on damage dealt, damage taken, Haste and max HP, and each patch re-tunes them. At 1.7.4:
 
 | Hero | Modifier, Honor Duel only |
 | --- | --- |
-| **Silvina, owned** | **+20% damage dealt, 10% less damage taken.** The largest positive modifier in the table, and she is Graveborn, one of the four factions this shop stocks. See [heroes/silvina.md](heroes/silvina.md) |
+| **Silvina, owned** | **+20% damage dealt, 10% less damage taken.** The largest damage modifier in the table, and she is Graveborn, one of the four factions this shop stocks. See [heroes/silvina.md](heroes/silvina.md) |
+| **Valka, owned** | **+15% damage dealt, 20% less damage taken.** 1.7.4 turned her from a defensive footnote into the best all-round modifier in the table: she is the only hero holding both a damage bonus and the largest damage reduction. She is Graveborn too. See [heroes/valka.md](heroes/valka.md) |
 | Valen | +15% damage dealt, and less damage taken. `unverified`: the patch note garbles the second figure |
+| Callan | 20% less damage taken |
+| Peggy | max HP reduced by 20% |
+| Orion | 15% less damage dealt, 10% more damage taken |
 | Gwyneth | 15% less damage dealt, 10% more damage taken, ATK SPD -20 |
 | Cyran | 15% less damage dealt, 10% more damage taken, Haste -20 |
-| Bonnie and Nerion | modifier removed, both now fight at their normal numbers |
+| Bonnie and Nerion | no modifier, both fight at their normal numbers |
+
+**Take Silvina or Valka whenever the shop offers either.** They are the two largest positive modifiers in the game's own tuning, they are both Graveborn so they deepen the same faction bonus together, and the badges spent on either are multiplied by a bonus no other hero in the pool has.
 
 The size of that swing is the whole point. Cyran is an **S+ PvP** hero on the open roster [allclash 2026-08-26, investment not stated per hero], and he walks into Honor Duel with his damage cut, his damage taken raised and 20 Haste gone. Read the modifier before the reputation.
 
-**No current source ranks anything for this mode.** Nothing published since **2024-04-04** ranks heroes, factions or starting combos for Honor Duel. That is past the 12-month limit, it predates the 1.7.3 re-tune aimed at this mode alone, and the gap is recorded in [tier-list-sources.md](tier-list-sources.md). There is no letter to borrow here, so rank what the run actually offers with [hero-scoring.md](hero-scoring.md), which needs no guide.
+**No current source ranks anything for this mode.** Nothing published since **2024-04-04** ranks heroes, factions or starting combos for Honor Duel. That is past the 12-month limit, it predates two rounds of re-tuning aimed at this mode alone, and the gap is recorded in [tier-list-sources.md](tier-list-sources.md). There is no letter to borrow here, so rank what the run actually offers with [hero-scoring.md](hero-scoring.md), which needs no guide.
 
 ## How to build
 
@@ -79,7 +89,8 @@ The size of that swing is the whole point. Cyran is an **S+ PvP** hero on the op
 
 ## Sources
 
-- https://www.afk.global/afk-journey/patch-notes/1-7-3 [2026-08-06, the pool rotation and the per-hero Honor Duel modifiers]
+- https://www.afk.global/afk-journey/patch-notes/1-7-4 [2026-09-02, the live pool rotation, the Trial Card additions, and the Peggy, Orion, Valka and Callan modifier changes]
+- https://www.afk.global/afk-journey/patch-notes/1-7-3 [2026-08-06, the Silvina, Valen, Gwyneth and Cyran modifiers, which 1.7.4 leaves standing]
 - https://afk-journey.fandom.com/wiki/Honor_Duel [current, the pool is the four standard factions plus single-use Celestial trials; 402 on direct fetch, read through search summaries]
 - https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/ [2026-08-26, Cyran's open-roster PvP letter; investment not stated per hero]
 

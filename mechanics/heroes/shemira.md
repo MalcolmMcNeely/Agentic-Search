@@ -54,7 +54,9 @@ Campaign and PvE. Sustained damage with built-in survivability, and the account'
 
 ## Against this account
 
-**She holds four comps at once**: Tower of Eternity, Skyclops, Darkswarm Invasion and solo battles. A change to her tier or kit moves all four. **She is queued as a late swap into the Arena comp**, against enemy shields only, and the cost there is the whole Dimensional faction core. See [../../account/teams.md](../../account/teams.md).
+**She holds six comps at once**: Tower of Eternity, Skyclops, Darkswarm Invasion, solo battles, and both Arena comps. A change to her tier or kit moves all six. See [../../account/teams.md](../../account/teams.md).
+
+**Arena is the mode she gains most from, and the reason is her ascension tier.** Arena caps hero levels at 151 plus about 10% and leaves unlocked skills alone, so the account's levels count for nothing there and its ascensions count for everything. At **Supreme** she is one of the best-ascended heroes the account can field, and she needs no healer beside her because her ghosts heal her. She anchors the **Graveborn stall defence** and **attack B**, the shape brought against a shield wall. See [../arena.md](../arena.md).
 
 **She is not a Hand of Resonance, and it no longer costs her anything.** All five Hands stand at the 240 cap and every other hero matches them, so a Hand slot buys no levels a non-Hand does not already have. Do not lend her one. See [../../account/progression.md](../../account/progression.md).
 

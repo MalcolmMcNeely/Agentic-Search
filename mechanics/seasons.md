@@ -1,7 +1,7 @@
 # Seasons
 
 > **Covers:** the two parallel progression tracks, what a season reset wipes, the Resonance Level gate on season access, and Season 7 Crown of Ashes.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-09
 
 ## Two tracks, not one
 
@@ -25,9 +25,13 @@ Season AFK Stages are a separate ladder from regular AFK Stages, so an account h
 
 ## Season 7: Crown of Ashes
 
-Started 2026-05-29.
+Runs 2026-05-29 to 2026-09-23.
 
-Three phases. Each phase raises the Season Resonance Level cap and the AFK stage challenge cap.
+Three phases. Each phase raises the Season Resonance Level cap and the AFK stage challenge cap. **Version 1.7.4 is the final phase**, running 3 to 23 September.
+
+**The season ends before this account can reach it.** Season access needs Resonance Level 240, which is paid, plus a main story quest, which is not, and clearing the story in the days left would still leave no time to climb a season ladder. **Nothing is lost by that.** A finished season moves into Peaks of Time and can be walked later, and the next season starts everyone's season ladder at zero, which is the fairest point for this account to enter one. See [peaks-of-time.md](peaks-of-time.md).
+
+`?` the name and start date of the season that follows. No source found names either.
 
 New in this season:
 

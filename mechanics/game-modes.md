@@ -1,7 +1,7 @@
 # Game modes
 
 > **Covers:** every mode, what unlocks it, where to find it in the game, and what its team needs.
-> **Updated:** 2026-09-03
+> **Updated:** 2026-09-09
 
 | Mode | Unlocks at | Team | Notes |
 | --- | --- | --- | --- |
@@ -9,12 +9,13 @@
 | AFK Stages | start | one own team | main progression ladder, **1125 stages and that is the end of it** |
 | Infinite Stages | AFK Stage 1125 | one own team | the uncapped ladder that follows. See the section below |
 | Dream Realm | AFK Stage 16 | one own team | boss rush, damage race against the server. Four bosses rotate daily, six difficulties each, and the sixth is **Endless Mode**, where the boss cannot die |
-| Arena | AFK Stage 20 | one own team | ranked PvP. Written up in [arena.md](arena.md) |
+| Arena | AFK Stage 20 | one saved defence, plus an attack per target | ranked PvP. **Hero levels are capped at a baseline of 151 plus about 10%**, so investment does not travel in. Written up in [arena.md](arena.md) |
 | Arcane Labyrinth | AFK Stage 100 | 10-hero bench, 5 fielded | roguelike dungeon. HP and Energy carry between floors. Written up in [arcane-labyrinth.md](arcane-labyrinth.md) |
 | Battle Drills | AFK Stage 121 `unverified`, the wiki says 50 | guild, several teams | guild map conquest, camp and stronghold buffs. In Endless Mode each hero deploys once a day. Written up in [battle-drills.md](battle-drills.md) |
 | Legend Trial | AFK Stage 166 | one own team, faction-locked | the old Factional Tower. Four towers, 90 floors each, on a weekday rotation. Drops Acorns, Essence and artifact ascension mats. Written up in [legend-trial.md](legend-trial.md) |
 | Honor Duel | not recorded | game-provided heroes | fair-play PvP, own roster does not matter. Written up in [honor-duel.md](honor-duel.md) |
-| Supreme Arena | not recorded | several own teams | PvP with seasonal Phantimals, Charms and Artifacts |
+| Supreme Arena | **Season** AFK Stage 130 | three own teams, no hero or artifact repeated | season PvP, best of three, with seasonal Phantimals, Charms and Artifacts. Written up in [supreme-arena.md](supreme-arena.md) |
+| Savannah Cup | event, in version 1.7.4 | 3 drafted heroes, not your own | real-time 3v3 PvP. Ban one, draft three from 20 random heroes, all set to the same progression level. Written up in [savannah-cup.md](savannah-cup.md) |
 | Trial of Abyss | story clear + all 1125 AFK Stages + server 28 days old | one own team per floor | descending floor-by-floor dungeon |
 | Homestead, Darkswarm Invasion | not recorded | one own team per Hypofiend battle | a Homestead event, not an Everlight mode. Hypofiends loot the Homestead for 24 hours. Score is total damage dealt over the week. Written up in [darkswarm-invasion.md](darkswarm-invasion.md) |
 | Ravaged Realm | `unverified`, may need season access | four squad-locked teams | a recurring event, not a permanent mode. One boss for about two and a half weeks, ranked by district. **Only one squad's heroes may be fielded each day.** Written up in [ravaged-realm.md](ravaged-realm.md) |
@@ -39,8 +40,9 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 
   `unverified`: **the numbers.** The readings are a **90-second** fight, **5 attempts a day** rising to 10 through the Mystic Collection, and brackets from Top 1-10 down to Top 75-100%. Three sources agree on 90 seconds and all three sit outside the 12-month window. No in-window source states any of it.
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
-- **Honor Duel** ignores the account roster completely. Never build a comp from ./account for it. See [honor-duel.md](honor-duel.md).
-- **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
+- **Arena, and every PvP mode, is built by a different method.** [pvp-team-building.md](pvp-team-building.md) overrules three steps of [team-building.md](team-building.md): the level cap deletes investment, the defender wins the timeout, and the enemy formation is visible before the fight so the comp is chosen per target rather than fixed.
+- **Honor Duel and Savannah Cup both ignore the account roster completely.** Never build a comp from ./account for either. Honor Duel hands out its own heroes; Savannah Cup drafts 20 random ones and equalises progression. See [honor-duel.md](honor-duel.md) and [savannah-cup.md](savannah-cup.md).
+- **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Supreme Arena bars a repeated hero **or artifact** across its three, and is locked here until a season is started. See [supreme-arena.md](supreme-arena.md). Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
 - **Ravaged Realm** locks the roster to one squad a day, and a squad is one base faction plus the wildcards and collab heroes assigned to it. Roster depth in a single faction decides the score, and the account's best heroes are unavailable on three days out of four. See [ravaged-realm.md](ravaged-realm.md).
 - **Darkswarm Invasion** scores on total damage dealt across the week, so a battle that ends in a wipe still pays. Attempts per Hypofiend battle are limited and the enemy faction is unpublished, so build for raw output and wave clear. See [darkswarm-invasion.md](darkswarm-invasion.md).
 - **Solo battles** on the World Map and in the story deploy one hero, so the faction bonus pays nothing and ally-facing skills are wasted. See [solo-battles.md](solo-battles.md).

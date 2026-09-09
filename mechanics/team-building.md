@@ -1,9 +1,11 @@
 # Team building
 
 > **Covers:** the factors that decide a good five-hero comp, and the order to apply them.
-> **Updated:** 2026-08-29
+> **Updated:** 2026-09-09
 
 A team is five heroes. Build it in this order.
+
+**This method is for fights against the game. For Arena, Supreme Arena or any other PvP mode, read [pvp-team-building.md](pvp-team-building.md) first**, which overrules three of the steps below. PvP caps hero levels, hands the defender the win on a timeout, and lets you see the enemy before you fight it, and each of those changes the answer.
 
 A comp wins by dealing enough damage before it dies. So every slot is judged on two sums: the seconds it adds to the team's life, and the damage it adds per second. [hero-scoring.md](hero-scoring.md) holds the method for reading those two sums off a hero's kit, with no guide involved. Use it at steps 2 and 4, and use it on **every** owned hero, including the ones no guide has heard of.
 

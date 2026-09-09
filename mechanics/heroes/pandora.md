@@ -27,7 +27,7 @@ Boss and PvP. Protects one key ally while debuffing the enemy.
 
 **PvP, rated S** [allclash, 2026-08-26, investment not stated] `unverified`. The same source separately says she **beats Eironn comps in PvP**, because scattering and sealing undo a pull.
 
-She is one of the three Dimensional heroes on the account, and the only one that is not a Digimon pair. She holds the third Dimensional slot in the Arena comp.
+She is one of the three Dimensional heroes on the account, and the only one that is not a Digimon pair. She holds the third Dimensional slot in **Arena attack A**, the shape brought against a defence built on one carry.
 
 ## Tier gate
 

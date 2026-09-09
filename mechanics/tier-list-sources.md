@@ -1,7 +1,7 @@
 # Tier list sources
 
 > **Covers:** which AFK Journey tier lists may be cited, which are banned, what each one ranks *for*, and the three things a tier letter must carry before it enters a file.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-09
 
 A tier list is not one thing. A list built for AFK Stages and a list built for Arena rank the same hero differently, because the fights are different: AFK Stages rewards crowd control over minutes, Arena is settled in the opening seconds. A letter copied across that boundary is not weak evidence, it is wrong evidence.
 
@@ -30,15 +30,16 @@ Fan sites stamp dead pages with today's date. Judge a list by the roster it name
 | --- | --- |
 | Names **Rolan** or **Voracia** | The list is at or after version 1.7.3, 2026-08-06. |
 | Names **Taichi & Agumon** or **Yamato & Gabumon** | The list is at or after the Digimon crossover, 2026-08-18. |
+| Names **Eryndor** or **Karma** | The list is at or after version 1.7.4, 2026-09-02. |
 | Top tier is Korin, Marilee, Kruger, Odie, Reinier, Temesia or Scarlita, and Frieren, Galahad and Rolan appear nowhere | The list is 2024 content, whatever date it displays. |
 
-Live version is **1.7.3**, released 2026-08-06. Live season is **Season 7, Crown of Ashes**, started 2026-05-29. See [seasons.md](seasons.md).
+Live version is **1.7.4**, released 2026-09-02. Live season is **Season 7, Crown of Ashes**, started 2026-05-29 and **ending 2026-09-23**. See [seasons.md](seasons.md).
 
 ## Use these
 
 | Source | Date | Ranks for | Investment assumed | Note |
 | --- | --- | --- | --- | --- |
-| [allclash](https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/) | 2026-08-26 | PvE, Dream Realm, PvP, one rating each | Yes: references Mythic+, Supreme+ and EX Weapon priority | The best single source. Names Rolan, Voracia and both Digimon pairs. |
+| [allclash](https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/) | 2026-09-08 | PvE, Dream Realm, PvP, one rating each | Yes: references Mythic+, Supreme+ and EX Weapon priority | The best single source. Names Rolan, Voracia and both Digimon pairs. **Read it hero by hero, never as tier bands.** See below. |
 | [afk.global](https://www.afk.global/afk-journey/tier-list) | August 2026 | Overall, Campaign, PvP, Dream Realm, Dream Realm Endless, on five tabs | Not stated | Use the **mode tabs only**. The Overall tab is the blended kind and fails the three-part rule. Community vote, not testing, so it tracks new heroes fast and rewards popularity. |
 | [Pocket Tactics](https://www.pockettactics.com/afk-journey/tier-list) | 2026-08-17 | Story mode, Dream Realm, PvP | **Not stated.** Its real weakness. | Independent of the cluster below, which makes it the useful second opinion against allclash. |
 | [Puzzle, Celestial and Hypogean tier list](https://youtube.com/watch?v=w_LozCMa0hI) | 2026-08-14 | Chaptered: All Modes, AFK Stages and PvP, **Dream Realm Only**, **PvP Only**, Skip These | Not stated | Covers Celestial and Hypogean only, all 23. The cleanest mode split anywhere. Part of the cluster below. |
@@ -73,6 +74,12 @@ Live version is **1.7.3**, released 2026-08-06. Live season is **Season 7, Crown
 | [GameLeap](https://www.gameleap.com/afk-journey/guides) | Coverage abandoned at patch 1.3.4, April 2025. Its old Dream Realm list did state a Mythic+ floor, which no current source copies. |
 | **Analytica**, analytica.gg | **Dead.** The domain does not resolve, its sheet returns 410, its Discord invite is gone. Anything citing Analytica is citing a corpse. |
 | The reprint cluster: claude-gaming, urgametips, driffle, mobilematters, joytify, lucidpuzzle, mobi.gg, findingdulcinea, topuplist | 2026 dates on recycled phrasing, no stated method, no original testing. Reject by default. |
+
+## Read allclash hero by hero, never as tier bands
+
+**Asking that page for a whole tier band returns a different answer from asking it for the heroes in that band, and the band reading is the wrong one.** A band read of its PvP list puts Aurora, Smokey & Meerky, Hugin and Galahad several letters above where the same page places them when each is asked for by name, and it drops Phraesto and Elijah & Lailah a band. The per-hero reading reproduces across separate fetches; the band reading does not.
+
+**So query it with a list of hero names and take one letter each.** A band pulled off it wholesale is not evidence and does not go in a file.
 
 ## Two traps that survive the date check
 
@@ -114,10 +121,11 @@ The pattern is clean. **The three modes with public leaderboards get covered. Th
 | --- | --- |
 | Campaign and AFK Stages | Good. allclash, afk.global, Pocket Tactics, GamsGo. |
 | Dream Realm, blended | Good. The same four. |
-| Arena and PvP | Good. The same four, plus Puzzle. |
+| Arena and PvP | Good on letters, blind on the rule that decides them. The same four, plus Puzzle. **No source found states the Arena level baseline of 151 in its tier list**, so every PvP letter describes a hero at an investment level Arena deletes. Check the letter against the hero's ascension tier before crediting it. See [arena.md](arena.md) and [pvp-team-building.md](pvp-team-building.md). |
 | Dream Realm Endless | Thin. Only afk.global, GamsGo and Prydwen separate it, and two of those cannot be fetched. Endless rewards HP-loss and true damage, so a blended Dream Realm letter is a real error here. See [game-modes.md](game-modes.md). |
 | Dream Realm, per boss | Weak. LootBar only, and its hero picks look stale. |
-| Supreme Arena | **None.** No dedicated ranking exists. Team comps only. |
+| Supreme Arena | **None.** No dedicated ranking exists. Team comps only, and the current ones are Season 6. See [supreme-arena.md](supreme-arena.md). |
+| Savannah Cup | **None, and none is possible.** The mode draws 20 heroes at random per match and equalises progression, so a roster ranking has nothing to rank. See [savannah-cup.md](savannah-cup.md). |
 | Honor Duel | **None since 2024-04-04.** The worst gap: version 1.7.3 rebalanced Gwyneth, Cyran, Nerion, Bonnie, Silvina and Valen *specifically for Honor Duel*, and no list reflects it. The mode also hands out its own heroes, so a roster tier list is the wrong tool. See [honor-duel.md](honor-duel.md). |
 | Legend Trial | **None since 2024-04-30.** No current source respects the faction lock. See [legend-trial.md](legend-trial.md). |
 | Arcane Labyrinth | **None.** Every search falls back to general lists. See [arcane-labyrinth.md](arcane-labyrinth.md). |
@@ -138,7 +146,9 @@ Reddit is not evidence either way. r/AFKJourney blocks crawlers, every mirror an
 
 ## Sources
 
-- https://www.afk.global/afk-journey/patch-notes/1-7-3 [2026-08-06, version and new heroes]
+- https://www.afk.global/afk-journey/patch-notes/1-7-4 [2026-09-02, live version, Eryndor and Karma]
+- https://www.afk.global/afk-journey/patch-notes/1-7-3 [2026-08-06, the version before it]
+- https://www.ldshop.gg/blog/afk-Journey/1-7-4-preview.html [2026-09, the 1.7.4 window of 3 to 23 September and the Season 7 end date. A reseller site, cited for the calendar only and for no ranking]
 - https://afk-journey.fandom.com/wiki/Crown_of_Ashes [current, Season 7 dates]
 - https://afk-journey.fandom.com/wiki/Hero/List [current, 124 heroes, the best dating check]
 - Every tier list URL above is its own source, dated in its row.

@@ -63,7 +63,9 @@ Everything except Legend Trial, which bars Dimensional heroes. Dream Realm and S
 
 ## Notes
 
-Pairs directly with Yamato & Gabumon. **He also leads the Arena comp** in [../../account/teams.md](../../account/teams.md), where Pandora's invincible box is what carries him through the pre-digivolve window.
+Pairs directly with Yamato & Gabumon. **He also leads Arena attack A** in [../../account/teams.md](../../account/teams.md), where Pandora's invincible box is what carries him through the pre-digivolve window.
+
+**He is the one hero in that comp the Arena level baseline does not weaken.** Arena caps hero levels at 151 plus about 10%, and leaves unlocked skills alone. At **Supreme+** every skill he has is live, so he arrives whole where the Epic-tier heroes beside him do not. See [../arena.md](../arena.md).
 
 He is the carry of the Snow Stomper Dream Realm comp in [../../account/teams.md](../../account/teams.md), and Dream Realm is the only source of Dream Fragments. So raising him raises the budget of the Dream Store. See [../dream-store.md](../dream-store.md).
 

@@ -21,6 +21,8 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 51 heroes at once and stands at **+25**, so the roster fields at **265**. See [progression.md](progression.md).
 
+**The three Arena comps field at about 166 instead, and that is not a choice either.** Arena caps every hero at a baseline of **151** plus about 10%, and adjusts equipment to match. Unlocked skills are untouched, so **ascension tier is the only investment that reaches the mode**. See [../mechanics/arena.md](../mechanics/arena.md).
+
 ## Status
 
 | Status | Meaning |
@@ -122,9 +124,73 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 **Eironn is out, and the reason that used to keep him out is gone.** His battle-start pull needed Mythic+ and he is now **Supreme with the weapon at +5**, so it fires. What keeps him out now is the faction maths: he is Wilder, and dropping any of these five for him breaks the 5-count that pays the +22%. Worth one run to test against the current five, not worth assuming. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 ---
 
-## PvP, Arena — Dimensional double digivolve — `proposed`
+## PvP, Arena, defence — Graveborn stall — `proposed`
 
-**Purpose:** Arena, ranked PvP. See [../mechanics/arena.md](../mechanics/arena.md).
+**Purpose:** the one saved Arena Defence Team, which every attacker fights. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
+
+| Row | Hero | Faction | Class | Damage | Range | Tier |
+| --- | --- | --- | --- | --- | --- | --- |
+| Front left | Thoran | Graveborn | Tank | Physical | 1 | Legendary |
+| Front right | Daimon | Graveborn | Tank | Magic | 3 | Mythic |
+| Back centre | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme, EX +10 |
+| Back left, inside the aroma | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme, EX +1 |
+| Back right, inside the aroma | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
+
+**Artifact:** Awakening Spell +9. Both effect steps are live, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats. **A percentage is the right kind of bonus for this mode**, because Arena caps the stats it multiplies but not the multiplier. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+
+**Faction bonus: +18%.** Four Graveborn, with Smokey & Meerky the odd one out. A fifth Graveborn would pay +22%, and no Graveborn on the roster replaces a healer for 4%.
+
+**Archetype: sustain, built to hold the clock.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+
+### This team does not have to kill anything
+
+**The defender wins the timeout.** An attacker who does not kill all five before the clock runs out loses the fight. So every slot here is scored on seconds added and nothing else, and the damage this team happens to deal is a bonus rather than the plan. See [../mechanics/arena.md](../mechanics/arena.md).
+
+**Every hero here is Mythic or better except Thoran.** That is the whole selection rule, because Arena caps hero levels at a baseline of 151 plus about 10% and leaves unlocked skills alone. Ascension is the only investment that crosses into the mode, so the five best-ascended heroes that fit the shape are the five that go in.
+
+### What each hero is here to do
+
+- **Thoran** is the clock. **Resurrection** brings him back once at 40% HP, which is a whole second frontline the attacker has to chew through twice. **Soul Plunder** steals 18% of the biggest enemy's current HP into his own max HP and leaves that enemy taking 13% more damage for the rest of the fight. **Soul Retaliation** turns the damage he absorbed while charging into damage back out, and cannot be interrupted.
+- **Daimon** is the shield engine. He drains to build shields and hands them to bonded allies while cutting incoming damage, and his Ultimate is true damage scaled to target max HP.
+- **Smokey & Meerky** are the heal. The aroma restores 21% of their ATK per second to everyone standing in it, raises those allies' ATK by 16%, and feeds the pair 5 Energy a second per ally inside. **Withering Potion** widens it a tile and drains enemies caught in it. At **Supreme with EX +10** this is the account's largest sustain block and it is finished.
+- **Bonnie** steals the attacker's clock directly. **Aging** cuts enemy **Haste and ATK** and spreads to nearby foes, and her Ultimate stuns anything carrying it. Slowing an attacker is the same as shortening the fight, which is the only thing this team is trying to do.
+- **Shemira** needs no healing. Her ghosts heal her for 50% + 5% of the damage they deal, so she holds a back slot without spending Smokey's output, and **Spectral Barrier** gives her a 250% shield that detonates on expiry.
+
+### Placement
+
+- **Thoran and Daimon take opposite ends of the front row**, so one wide Ultimate cannot catch both. Thoran is range 1 and has to be there; Daimon at range 3 could sit deeper, and does not, because two tanks in the front row is the shape the mode rewards.
+- **Smokey & Meerky sit centre-back with Bonnie and Shemira within 2 tiles**, which is the aroma. Three non-summoned allies inside it is also what switches on their Hero Focus bonus of up to +15% ATK, and their ATK is what every heal and buff is a multiple of.
+- **Pick the map with the most low walls, and put the back three behind them.** A low wall stops every hero walking through it and lets ranged units shoot over. Bonnie at 7, Smokey at 8 and Shemira at 4 all shoot over; an attacking melee carry has to walk around. **The map saved here is the map every attacker gets**, so this is the one formation decision that is never taken away. See [../mechanics/formation.md](../mechanics/formation.md).
+
+### Weak points
+
+1. **The back three are a 3-tile cluster and one wide Ultimate reaches all of them.** The aroma is what makes the team survive and it is also what bunches it. The account's confirmed losses are to teams whose Agumon casts Gaia Force, which hits 7 times within 3 tiles. **There is no placement that fixes this**, only the trade: take the heal and accept the cluster, or spread out and lose the heal. Field it and watch whether losses are wipes.
+2. **Thoran is Legendary, so two of his five pieces are dark.** Hero Focus is **2 Soul Sigils** away and Soul Pact needs Mythic+. He is in for his three base skills, all of which are live.
+3. **There is no hard control here.** Bonnie's stun needs Aging on the target first. An attacker that bursts through the front row before Aging spreads is not slowed by anything.
+4. **`unverified`: whether the Arena baseline drags artifact levels down with hero levels.** If it does, Awakening at +9 is not Awakening at +9 in this mode. See [../mechanics/arena.md](../mechanics/arena.md).
+
+### Swaps
+
+**Koko in for Smokey & Meerky, if the cluster is what loses the fights.** Full Energy gives the whole team 45 to 55% damage reduction for 12s with no positional requirement at all, then converts everything it blocked into true damage. She is **S in PvP** [allclash, 2026-09-08, references Mythic+, Supreme+ and EX priority] against Smokey's **A**, and she is Mauler too, so the faction bonus does not move. The cost is that mitigation runs on a cooldown and an aroma runs continuously. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+
+**Silvina in for Thoran, against attackers who win with one Ultimate.** Her Ultimate strips **300 Energy** and her opener stuns for 5s, and she is the fifth Graveborn, so the bonus rises to +22%. She is **Epic**, so her Mythic+ weapon is dark, and `unverified` whether her skill numbers scale off the capped Arena level rather than the roster's 265. See [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
+
+---
+
+## PvP, Arena, attack — two shapes, chosen per target — `proposed`
+
+**Purpose:** attacking other players' defence teams. See [../mechanics/arena.md](../mechanics/arena.md).
+
+**There is no single attack comp, and treating one as the answer is what has been losing.** The mode shows **3 opponents and refreshes free 5 times a day**, and every defence formation is visible before a ticket is spent. That is eighteen defences seen for five attacks. **Scout, then pick the shape.** See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md) for the full counter table.
+
+| The defence shows | Bring |
+| --- | --- |
+| A shield wall, a healer, or anything built to stall | **Attack B** |
+| One carry that wipes the team, or a thin front row | **Attack A** |
+
+**The attacker must kill all five.** Leaving one alive hands the defender the timeout.
+
+### Attack A — Dimensional double digivolve
 
 | Row | Entity | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -136,101 +202,92 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Back centre right | Elijah & Lailah, Melee Twin | Celestial | Support | Magic | 6 | Epic+ |
 | Back left | Pandora | Dimensional | Support | Magic | 5 | Legendary |
 
-**Entities: five heroes, seven tiles.** Phraesto fields two bodies and Elijah & Lailah field two twins; Taichi and Yamato each cheer from off the field and take no tile. Rolan's clone is not here, so nothing else arrives mid-fight. See [../mechanics/formation.md](../mechanics/formation.md).
+**Entities: five heroes, seven tiles.** Phraesto fields two bodies and Elijah & Lailah field two twins; Taichi and Yamato each cheer from off the field and take no tile.
 
-**Artifact:** Confining Spell +9. Both steps are live, so the imprison runs **2.5s on a 10s cooldown** and fires first at **3s**, at the **2 rearmost enemies**. An undigivolved enemy Agumon is a range-7 backline unit, so the artifact aims itself at him inside the only window he can be stopped in. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+**Artifact:** Confining Spell +9. Both steps live, so the imprison runs **2.5s on a 10s cooldown** and fires first at **3s**, at the **2 rearmost enemies**.
 
-**Faction bonus: +22%, plus +2%.** Three Dimensional — Taichi & Agumon, Yamato & Gabumon and Pandora — with Phraesto and Elijah & Lailah counting as any faction, which makes 5. **This is the faction cap**, and it is reached with a real 3-hero core rather than a 2-hero one, so the comp keeps its shape if a wildcard is ever swapped out. Each wildcard adds +1% on top. See [../mechanics/factions.md](../mechanics/factions.md).
+**Faction bonus: +22%, plus +2%.** Three Dimensional, with Phraesto and Elijah & Lailah counting as any faction. That is the cap, reached with a real 3-core.
 
-**Archetype: ramp carry, doubled, with the ramp bought outright.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Bring this against a defence built on one hero.** Four control taps land inside the opening: Confining Spell at 3s on the two rearmost enemies, Phraesto's **Foggy Whisper** taunting and stunning the enemy's highest damage dealer, Gabumon's freeze, and Pandora's **Panic Projection**, which scatters every unit for 5s and then cuts enemy ATK.
 
-### The fight this comp is built against
+**Two damage types.** Agumon is Physical and the other four are Magic, so a defence stacked against one resistance cannot answer the whole comp.
 
-**Confirmed from the account: attacks lose to defence teams carrying a shield and a Taichi & Agumon, including teams 50,000 power weaker.** The shield absorbs the opening and Agumon then wipes the team.
+**Placement, front to back: Phraesto's two bodies, then Agumon, then Gabumon, Pandora and both twins.**
 
-**The reply is to field the same engine, better funded.** This account owns the pair the losing teams are built on, at **Supreme+ with EX +10** each. Only Eironn and Shemira are within one ascension tier of them. The previous comp left them home on the archetype rule that a ramp carry loses a burst race; that rule is right in general and wrong here, because **Taichi removes the ramp**. He restores **150 Energy every 3s, plus 250 more while Agumon has not digivolved**, so the transformation is an opening move rather than a late one.
+- **Both Phraesto bodies share the front row**, which grants each 30% damage reduction, at **opposite ends** so one wide Ultimate cannot catch both.
+- **Agumon stands one row back, alone**, ahead of everyone else. At battle start he buffs himself and every ally behind him with **+25% of his own ATK for 20s**, and **Gabumon taking that buff gains 300 Energy**. He is range 7 until the digivolve and walks to the front himself afterwards. **Confirmed from the account: fielded in the front row he died before transforming.**
+- **The two Elijah & Lailah twins take the ends of a three-tile back-row run, with Gabumon alone between them.** Stellar Bond links whoever stands on the straight line between the twins, read during the preparation phase. Gabumon alone on the line fires the Dimensional resonance: **+10 Vitality and +10% Energy gained**. The price is the twins' own permanent **+25% ATK**.
+- **Keep Pandora off the line**, at the far end of the back row. **Three tiles is the narrowest a link can be. Do not widen it.**
+- **Put Agumon behind the Illusion** for the damage reduction, and **Pandora behind the true body** for the Energy Recovery Speed. Placing Phraesto draws a marker on the Illusion's tile; read it before locking.
+- **Read the walls.** Agumon is range 1 after transforming, so a **low wall** is the terrain that hurts this comp. He is the only hero here who has to close.
 
-**A ramp carry has exactly one window where it dies, and this comp buys that window three ways.**
+**Gabumon's EX weapon fires more missiles the closer allies stand, and a wide enemy Ultimate punishes exactly that.** No placement satisfies both. Hold the Stellar Bond run to its three tiles and keep Pandora and both Phraesto bodies out of it.
 
-1. **Pandora seals him.** Boxed Blessing makes an ally **invincible for 4s** and releases them with **bonus Energy and ATK**. Pointed at Agumon it covers the seconds he is weakest, then shortens the ramp it just protected and raises the Gaia Force at the end of it. She is Dimensional, so the protection costs no faction bonus. See [../mechanics/heroes/pandora.md](../mechanics/heroes/pandora.md).
-2. **Phraesto pulls the enemy off him.** Foggy Whisper **taunts and stuns the enemy's highest damage dealer**, which is the enemy carry, and it lands before their digivolve, the only window control works in. Two bodies in one row give each other **30% damage reduction**, and Foggy Whisper regrows the Illusion if it falls.
-3. **He starts in the back row.** He is range 7 until the digivolve and the +100% HP arrives with it. Confirmed from the account: fielded in the front row he died before transforming. He walks to the front himself afterwards.
+### Attack B — Graveborn true damage
 
-**After the digivolve he is the problem rather than the target.** Recovery Shield lands in the same instant as the transformation, worth **700% + 100% for 10s**, and the same source says he **"remains unaffected"** while it holds. Gaia Force then hits **7 times within 3 tiles** and **cannot be interrupted mid-cast**. Dramon Killer executes whatever the rest of the comp has already wounded.
+| Row | Hero | Faction | Class | Damage | Range | Tier |
+| --- | --- | --- | --- | --- | --- | --- |
+| Front left | Thoran | Graveborn | Tank | Physical | 1 | Legendary |
+| Front right | Daimon | Graveborn | Tank | Magic | 3 | Mythic |
+| Middle | Faramor | Wilder | Rogue | Physical | 1 | Supreme, EX +1 |
+| Back left | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
+| Back right | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme, EX +1 |
 
-**The enemy Agumon is answered in the same window, with four taps.** Confining Spell at 3s on the 2 rearmost enemies, Phraesto's taunt and stun on their top damage dealer, Gabumon's freeze, and Pandora's Panic Projection, which scatters every unit for 5s and then cuts enemy ATK. **All four expire as counters the moment their shield goes up**, so a fight that reaches their digivolve intact is a fight this comp has to out-damage rather than out-play.
+**Artifact:** Starshard Spell +10. Both effect steps live and the stat line at its ceiling, so the wave fires every 3 ally Ultimates for **24% of each target's current HP as true damage**.
 
-### Placement
+**Faction bonus: +18%.** Four Graveborn, with Faramor the odd one out.
 
-**Rows, front to back: Phraesto's two bodies, then Agumon, then Gabumon, Pandora and both twins.**
+**Bring this against a shield wall or a stall.** Everything in it ignores or outlasts a timed absorb.
 
-- **Both Phraesto bodies share the front row**, which is what grants each of them 30% damage reduction, and they stand at **opposite ends of it** so one enemy Gaia Force cannot catch both.
-- **Agumon stands one row back, alone**, out of the front row and ahead of everyone else. That second half is the point: at battle start he buffs **himself and every ally behind him** with **+25% of his own ATK for 20s**, and **Gabumon taking that buff gains 300 Energy**, which starts the second digivolve early. Standing level with the others pays them nothing.
-- **The two Elijah & Lailah twins take the ends of a three-tile back-row run, with Gabumon alone between them.** Stellar Bond links whoever stands on the straight line between the twins, and the link is read during the preparation phase, so the Melee Twin walking forward afterwards does not break it. Gabumon alone on the line is one Dimensional hero, so the resonance fires: **+10 Vitality and +10% Energy gained**, on top of Lailah's heal and Elijah's Energy. Energy is what this whole comp is buying. The price is the twins' own permanent **+25% ATK**, and the stat share, which reads the *other* linked allies and here has none. They share one HP pool carrying +50% max HP, so neither ever goes forward.
-- **Keep Pandora off the line, at the far end of the back row.** One enemy Gaia Force reads a 3-tile radius and the Stellar Bond run is already three tiles wide, so the twins and Gabumon are one cast. Pandora is the hero whose skill decides the fight, and adding her to the line would hand that cast the whole backline for a resonance it already fires. **Three tiles is the narrowest a link can be. Do not widen it to pick up a second linked ally.**
-- **Which Phraesto body an ally stands behind decides its buff.** Damage reduction sits behind the Illusion, Energy Recovery Speed behind the true body. **Put Agumon behind the Illusion** — surviving to the digivolve is his whole job — which pins Gabumon and the whole Stellar Bond run behind the Illusion with him, so the run takes the damage reduction and takes its Energy from the bond instead. **Pandora goes behind the true body**, where the faster bar brings the box round sooner. Placing Phraesto draws a marker on the tile the Illusion lands on; read it before locking the rows.
+- **Faramor's Bitter Requiem lets every ally inside his magic circle deal extra true damage worth 75% of their own ATK.** It is the only Exclusive Equipment on the account that pays the other four heroes, and it is already unlocked.
+- **Shemira's Ghastly Tribute** is true damage worth 24% + 3% of the enemy's max HP, and her Ultimate is ten ghosts over ten seconds, which is a stream rather than a burst. A timed shield absorbs a burst and expires against a stream.
+- **Thoran's Soul Plunder** leaves the biggest enemy taking **13% more damage for the rest of the fight**, which every other hero here then collects on.
+- **Daimon's Ultimate** is true damage scaled to target max HP.
+- **Bonnie's Aging** cuts the defence's ATK and Haste, so a stall team that was going to out-heal the attack heals slower.
 
-**Read the walls before locking anything.** Agumon becomes range 1 after transforming, so a **low wall** is the terrain that hurts this comp: he has to walk round it while the enemy backline shoots over. He is the only hero here who has to close. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/formation.md](../mechanics/formation.md).
+**Placement.** Thoran and Daimon hold the front at opposite ends. **Faramor stands in the middle row with the back two inside his circle**, which is the whole reason he is here. Bonnie at 7 and Shemira at 4 stay in the back row and shoot over any low wall.
 
-**One battle decides whether the line stays.** `unverified`: the skill text says linked allies are **"unaffected during the dance"**, and no source says whether that excludes them from Starlight Waltz's +60 Haste or makes them immune to control. If it is the first, the line hands Gabumon Energy and takes his Haste away. **Field it and watch whether Gabumon speeds up when the twins cast. If he does not, close the twins back up and take their +25% ATK.** Agumon cannot take the link in his place: he has to stand ahead of Gabumon for the 300 Energy, so he cannot sit on a back-row run. The same test settles the push comp above. See [../mechanics/heroes/elijah-lailah.md](../mechanics/heroes/elijah-lailah.md).
+**Every hero here is Mythic or better except Thoran**, so this is the shape that loses least to the Arena level baseline.
 
-### The one tension in the formation
+### The tier gate is the open problem on Attack A
 
-**Gabumon's EX weapon fires more missiles the closer allies stand to him, and an enemy Gaia Force punishes exactly that.** The two rules pull against each other and there is no placement that satisfies both.
+**Arena strips levels and leaves skills, so ascension tier is the only investment that crosses into the mode.** Attack A fields three heroes near the bottom of the ascension ladder, and their PvP letters are awarded to versions of them that have skills these copies do not.
 
-**Split, and give up the missiles — but the Stellar Bond run spends three tiles of that split.** Linking anyone at all needs twin, ally, twin in a straight line, so the narrowest link on the board is three tiles wide, and here it sits on Gabumon. The account is losing to enemy Agumon teams, so the cast that wipes a bunched comp is the confirmed threat and the extra missiles are not: hold the run to those three tiles and keep Pandora and both Phraesto bodies out of it. Revisit it if the losses stop being wipes.
+| Hero | Tier | PvP letter | What the letter assumes and the account does not have |
+| --- | --- | --- | --- |
+| Phraesto | **Epic** | S+ | Hero Focus, at Legendary+, **3 Soul Sigils** away. Raises DEF on both bodies and generates Energy when either is hit |
+| Elijah & Lailah | **Epic+** | S+ | Hero Focus, at Legendary+, **2 Soul Sigils** away. Raises the Haste |
+| Pandora | **Legendary** | S+ | Hero Focus, at Legendary+, one step away |
+| Taichi & Agumon | Supreme+ | S | nothing. Every skill is live |
+| Yamato & Gabumon | Supreme+ | A+ | nothing. Every skill is live |
 
-### What each hero is here to do
+All letters [allclash, 2026-09-08, references Mythic+, Supreme+ and EX Weapon priority as its investment band], read hero by hero per [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md).
 
-- **Taichi & Agumon** is the carry, the frontline after 10 seconds, and the highest-invested hero the account can put in a PvP slot.
-- **Yamato & Gabumon** is the second carry and the freeze. Cocytus Breath freezes an area and applies continuous HP loss; Garuru Tomahawk is a splash freeze missile. He is the only hard control here that does not depend on the artifact.
-- **Pandora** is the enabler. The box is why Agumon reaches the digivolve, and Panic Projection is a second scatter aimed at the enemy's opening.
-- **Phraesto** is the whole frontline, and he is two of it. He also taunts the enemy carry away from Agumon during the only seconds that works.
-- **Elijah & Lailah** are the accelerant. Starlight Waltz gives every ally **+60 Haste for 7s**, which speeds both digivolves at once, and their skills add healing, Energy Regen and a shield on the weakest ally. Two twins on one pool add another body to soak.
-
-**Two damage types.** Agumon is Physical and the other four are Magic, so an enemy stacked against one defence cannot resist the whole comp.
+**So the six Soul Sigils across Phraesto, Elijah & Lailah and Pandora are the account's highest-value Arena spend, ahead of every Essence purchase.** Levels do not enter Arena and ascensions do. That reorders the queue in [equipment.md](equipment.md), which prices five EX levels on Taichi & Agumon at **500 Temporal Essence** and calls them the Arena buy; those five levels only pay here if the baseline leaves Exclusive Equipment alone, which is `unverified`. **The sigils pay either way.**
 
 ### Weak points
 
-1. **The map changes between one challenge and the next, and a low wall is the one that bites**, because Agumon ends the fight at range 1. **`?` Whether the defender picks that map** is no longer stated anywhere: it rested on 2024 pages only and has been cut from [../mechanics/arena.md](../mechanics/arena.md). It changes nothing about the formation, which is read off the map in front of you either way.
-2. **The plan rests on one word in one source.** If WarGreymon's "unaffected" is not control immunity, then the enemy's stuns and imprisons still bite their own Agumon after his digivolve, and this comp can trade a defensive slot for damage. **Settle it in game.** It cuts both ways: it also means your Agumon can be stopped mid-shield.
-3. **Three of the five sit at Epic or Legendary.** Phraesto is **Epic**, three Soul Sigils from a live Hero Focus that raises DEF on both bodies and generates Energy whenever either takes damage. **Elijah & Lailah are Epic+, so they are two sigils away**, and theirs raises the Haste. Pandora is **Legendary**, one step short of hers. Those are the three cheapest upgrades on the account and all three are in this comp.
-4. **No dedicated healer.** The comp survives on mitigation, invincibility and Agumon's own shield recovery instead. That is the right trade against a single wiping Ultimate, but it is a trade.
-5. **Both carries are Dimensional, and Dimensional does not wildcard.** Confirmed from the account. So the 3-core is real and losing any one of the three drops the bonus, where the push comp's 2-core is propped up by wildcards.
-6. **`?` What counts as "behind him".** Agumon's opening buff reads allies behind him, and no source says whether that is his column or the whole rear. If it is the column, Gabumon has to stand directly behind Agumon and the 300 Energy is worth more than the Illusion's damage reduction. **One battle settles it: watch whether Gabumon's bar jumps at the start.**
-7. **`unverified`: whether a boxed ally can still attack.** No source says. If Boxed Blessing silences the hero it protects, boxing Agumon delays the digivolve it is meant to protect. **It probably still nets out**, because Taichi cheers from off the field regardless and the release hands back bonus Energy on top, but **watch his Energy bar through the box on the first run**. The same question is open on the Snow Stomper comp below, and one battle settles both.
+1. **The map changes between one challenge and the next**, and it is the defender's choice. A low wall is the one that bites Attack A, because Agumon ends the fight at range 1.
+2. **`unverified`: whether skill numbers scale off the capped Arena level.** Skills stay unlocked, but many skills level their percentages against the hero's level, and in Arena that level is about 166 rather than 265. If they scale, several heroes across both attack shapes are firing weaker numbers than their kit files record. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
+3. **`unverified`: whether WarGreymon's "unaffected" is control immunity.** If it is not, enemy control still bites Agumon after his digivolve, and Attack A can trade a defensive slot for damage. It cuts both ways.
+4. **Attack A has no dedicated healer**, surviving on mitigation, invincibility and Agumon's own shield recovery. Against the clock that is the right trade; against sustained damage it is not, which is the other reason to take Attack B.
+5. **Both carries in Attack A are Dimensional, and Dimensional does not wildcard. Confirmed from the account.** Losing any one of the three drops the bonus.
+6. **`?` What counts as "behind him"** for Agumon's opening buff. If it is his column, Gabumon has to stand directly behind him. **One battle settles it: watch whether Gabumon's bar jumps at the start.**
+7. **`unverified`: whether a boxed ally can still attack.** If Boxed Blessing silences Pandora's target, boxing Agumon delays the digivolve it protects. Watch his Energy bar through the box.
 
 ### Swaps
 
-**Koko in for Elijah & Lailah, if the comp still gets wiped rather than out-damaged.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into true damage, which is one slot buying five heroes' survival on a cooldown that also pays the damage back. The cost is the faction cap alone: she is Mauler, so the bonus falls from +22% to +18%. Levels do not enter into it. She is **S in PvP** [allclash, 2026-08-26, investment not stated], confirmed on a re-read of that page. The kit argument stands on its own either way. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+**Koko in for Elijah & Lailah in Attack A, if the comp gets wiped rather than out-damaged.** Full Energy gives the team **45 to 55% damage reduction for 12s** and converts everything it blocked into true damage, and she is **Legendary+**, so her Hero Focus is live where Elijah & Lailah's is not. She is **S in PvP** against their S+. The cost is the faction cap: she is Mauler, so the bonus falls from +22% to +18%.
 
-**Rolan in for Elijah & Lailah, to double the Gaia Force.** His clone casts an ally's Ultimate outright at **80% of their base stats**, so it copies Supreme tier and an EX weapon with it, and Gaia Force is the best Ultimate on the roster to copy. Both are Celestial, so the faction bonus does not move. He is out today because the clone arrives **after** the digivolve while the Haste arrives before it, and Arena is short. His PvP letter is also the weaker of the two. **Taking him here costs the push comp its lowest Hand**, so run the push comp first on any day both are due.
+**Rolan in for Elijah & Lailah in Attack A, to double the Gaia Force.** His clone casts an ally's Ultimate at **80% of their base stats**, copying Supreme tier and an EX weapon with it. Both are Celestial, so the bonus does not move. He is out today because the clone arrives **after** the digivolve while the Haste arrives before it, and he is **Epic**, two tiers below the version his S letter describes.
 
-**Shemira in for Pandora, only if enemy shields are what stop the comp rather than enemy damage.** Her ghosts run 10s and add true damage worth **24% + 3% of enemy max HP**, which is damage a timed shield cannot absorb, and she is **Supreme with EX +1**. The cost is the whole faction core: she is Graveborn, so the bonus falls from +22% to +14%, and Agumon loses the box that gets him to the digivolve. **This is the swap to reach for last.**
+**Eironn in for Pandora in Attack A, against a spread defence.** He is **Supreme with EX +5** and **A+ in PvP**, and Howling Hurricane pulls enemies together for Gaia Force to catch. The cost is the Dimensional 3-core, which falls to two and drops the bonus to +18% with the two wildcards.
 
 ### Notes
 
-**This comp and the AFK Stages push comp share four heroes and differ in one.** Pandora replaces Rolan. The push comp entry above already names her as "the swap when Agumon dies before he digivolves specifically", and in Arena that is not a contingency, it is the fight. A correction to Agumon, Gabumon, Phraesto or Elijah & Lailah belongs in both entries.
+**Attack A and the AFK Stages push comp share four heroes and differ in one.** Pandora replaces Rolan. A correction to Agumon, Gabumon, Phraesto or Elijah & Lailah belongs in both entries.
 
-**Agumon is at his PvP ceiling on tier, and the rest is weapon levels.** **Supreme+** is bought, so the team-buffing half of his kit and the Gabumon synergy both run, and EX levels 11 to 15 are open with **+15 called the Arena target**. He holds **+10**, so **five weapon levels are buyable and nothing gates them but Temporal Essence**, the account's tightest currency, at 100 per level. **That is now the highest-value Arena spend left on the account.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md) and [equipment.md](equipment.md).
-
-**Four of the five are top-tier PvP on the freshest source that passes the three-part rule, and the fifth is the account's own most-invested hero.** All letters below are [allclash, 2026-08-26, investment stated as Supreme+ for the Digimon pair], the only vetted list published inside the last three months that splits PvP out on its own. See [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md) and [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
-
-| Hero | PvP letter |
-| --- | --- |
-| Phraesto | **S+** |
-| Pandora | **S+** |
-| Elijah & Lailah | **S+** |
-| Taichi & Agumon | **S**, and S+ for an account that buys copies |
-| Yamato & Gabumon | **A+** |
-
-**Phraesto's letter is settled at S+.** Three separate reads of that page return S+ and none reproduces the B+ that a single earlier extraction showed, so B+ is dropped.
-
-**Gabumon's A+ is the lowest letter in the comp, and his kit is why he stays.** He is the only hard control here that does not come from the artifact, he is the second Dimensional body holding the 3-core, and he is **Supreme+ with EX +10**, which no letter accounts for. A guide ranks a hero at a shared baseline; this account is far past it on him.
-
-**One caution on that page.** The same fetch places Taichi & Agumon in both S and A+, and does the same to three other heroes, so its tier breakdown extracts noisily. Every letter above is taken from its per-hero reading, which is consistent, and **every hero in this comp was placed on its kit before any letter was read**.
-
-**The account sits at Adept 3**, the second of five named tiers. See [../mechanics/arena.md](../mechanics/arena.md) for the ladder and [progression.md](progression.md) for the rank.
+**The account sits at Adept 3**, the second of five named tiers, and holds **3 Arena maps**. More maps unlock as the tier climbs. See [../mechanics/arena.md](../mechanics/arena.md) and [progression.md](progression.md).
 ---
 
 ## Dream Realm, Snow Stomper — Dimensional ramp carry — `proposed`
@@ -894,11 +951,14 @@ A change to any of those heroes' tiers moves both comps.
 ---
 ## Purposes with no comp yet
 
-Supreme Arena. It needs several teams at once, so it wants roster depth rather than one stacked comp. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+**Supreme Arena, and it is locked rather than undrafted.** It needs **Season AFK Stage 130**, and the account has no season ladder, so there is nothing to field it with. It also needs three teams sharing no hero and no artifact, so it wants roster depth rather than one stacked comp. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md).
+
+**Savannah Cup needs no comp at all.** The 3v3 event equalises progression, draws its 20 heroes at random per match and lets you deploy heroes the account does not own, so nothing in this file applies to it. See [../mechanics/savannah-cup.md](../mechanics/savannah-cup.md).
 
 ## Onward
 
 - Which heroes are owned and at what tier: [roster.md](roster.md)
 - Why a comp is shaped this way: [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md)
 - The order to build a new one in: [../mechanics/team-building.md](../mechanics/team-building.md)
+- The order to build a **PvP** one in, which is different: [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md)
 - Rows and range: [../mechanics/formation.md](../mechanics/formation.md)

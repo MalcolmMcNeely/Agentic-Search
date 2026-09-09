@@ -27,7 +27,7 @@ The same holds for a hero the guides praise. Score it from its kit, because the 
 
 ## A letter with no mode is not evidence
 
-**A tier list ranks for one purpose, and the purposes disagree with each other.** AFK Stages runs for minutes and pays for crowd control. Arena is settled in the opening seconds and pays for burst. Dream Realm is one armoured boss and pays for single-target damage. Endless Mode pays for HP-loss and true damage. The same hero sits in different bands on each of those lists, and that is the lists working correctly, not a mistake.
+**A tier list ranks for one purpose, and the purposes disagree with each other.** AFK Stages runs for minutes and pays for crowd control. Dream Realm is one armoured boss and pays for single-target damage. Endless Mode pays for HP-loss and true damage. **Arena pays for burst on attack and for seconds on defence**, because the attacker has to kill all five before a timer and the defender takes the win if that timer runs out. The same hero sits in different bands on each of those lists, and that is the lists working correctly, not a mistake.
 
 So a letter is only worth quoting when the file records the mode it was given for. A bare S, or a letter labelled "overall" or "general", is an average across fights this account may never take, and it cannot be argued with because nobody can say what it measured.
 
@@ -96,7 +96,7 @@ Ask two questions.
 1. How many seconds until the kit switches on?
 2. Does this fight last that long?
 
-A long ramp costs nothing in AFK Stages, Dream Realm and Legend Trial, where fights run for minutes. It is fatal in Arena, where the fight is settled in the first ten seconds. One hero can be the best and the worst pick on the roster on this question alone.
+A long ramp costs nothing in AFK Stages, Dream Realm and Legend Trial, where fights run for minutes. **In Arena it costs the attacker and pays the defender**, and that is the same fact read from two ends: an attacker spending seconds on a wind-up has fewer of them left to kill all five, while a defender spending them is running down the clock it wins on. One hero can be the best and the worst pick on the roster on this question alone. See [pvp-team-building.md](pvp-team-building.md).
 
 Ramp is also why a feeder standing next to a ramp hero pays double. Anything that shortens the ramp multiplies the entire payoff behind it.
 
