@@ -1,7 +1,7 @@
 # Bonnie
 
 > **Covers:** Bonnie kit, stats and best use.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-09
 
 - **Faction:** Graveborn
 - **Class:** Marksman
@@ -30,7 +30,7 @@
 
 **Blight Surge is her Exclusive Equipment and it is now unlocked.** allclash names **EX +10** the point that matters for story and campaign play, and **+15** as a PvP-only extra that most accounts do not need. +15 needs Supreme+, so **+10 is her ceiling at Supreme**.
 
-**The EX weapon stands at +0, so Blight Surge is unlocked and unopened.** Ten levels can be bought before the Supreme ceiling at +10: **150 Tidal Essence** each up to +5, then **75 Temporal Essence** each. That is 750 Tidal and 375 Temporal in total, the largest EX bill on the account. See [../../account/equipment.md](../../account/equipment.md).
+**The EX weapon stands at +1, so Blight Surge is open and barely spent.** Nine levels can be bought before the Supreme ceiling at +10: **150 Tidal Essence** each up to +5, then **75 Temporal Essence** each. That is **600 Tidal and 375 Temporal**, which ties Shemira and Faramor exactly, so none of the three is the cheap one any more. See [../../account/equipment.md](../../account/equipment.md).
 
 **`?` how she got here.** She is **A-Level and the Dream Store does not stock her**, so every copy from Mythic to Supreme came off a banner. That is a large number of duplicates for a hero no shelf sells, and it bears on the open rarity question in [../dream-store.md](../dream-store.md).
 

@@ -1,7 +1,7 @@
 # Yamato & Gabumon
 
 > **Covers:** Yamato & Gabumon kit, stats and best use.
-> **Updated:** 2026-09-03
+> **Updated:** 2026-09-09
 
 - **Faction:** Dimensional
 - **Class:** Mage
@@ -19,7 +19,7 @@ Yamato cheers Gabumon with an ATK boost at battle start and again on every Ultim
 
 ## Exclusive Equipment: Grace Cross Freezer
 
-**Unlocked, at +6.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of **five** EX weapons the account owns. Supreme+ opens levels 11 to 15, and **Taichi & Agumon has now joined him past that gate**, so the two of them are the only weapons on the account that can be spent on above +10. Eironn and Shemira stop at +10, and Aurora is frozen on her Mythic+ ceiling of +5. **His 9 levels to +15 are the largest single Temporal Essence bill on the account**, at 800. See [../../account/equipment.md](../../account/equipment.md).
+**Unlocked, at +10.** He is **Supreme+**, three tiers past the Mythic+ gate, and this is one of **eight** EX weapons the account owns. Supreme+ opens levels 11 to 15, and **Taichi & Agumon stands past that gate with him**, so the two of them are the only weapons on the account that can be spent on above +10. Of the other six, **Smokey & Meerky have reached +10 and stopped**, and the remaining five all stop there too. **His 5 levels to +15 cost 500 Temporal Essence**, which ties Taichi & Agumon for the most expensive finish on the account. See [../../account/equipment.md](../../account/equipment.md).
 
 Grace Cross Freezer is a spread missile barrage. It hits several enemies at once and does less on repeat hits against the same target, so it spreads damage rather than deleting one hero. Its upgrades add an instant freeze plus bonus damage once enough hits land.
 
@@ -43,7 +43,7 @@ Dream Realm and AFK Stages. Backline magic damage and the heaviest freeze on the
 
 ## Notes
 
-More fragile than Agumon, so keep him in the back row. Pairs directly with Taichi & Agumon: at battle start WarGreymon hands every ally behind him +25% of his own ATK for 20s, and Gabumon taking that buff gains 300 Energy, which shortens his own ramp. **Both stand at Supreme+ with an EX weapon**, so the pair is the strongest thing the account can field, and **Taichi & Agumon now leads it on weapon level, +10 against +6**. Also works with Elijah & Lailah, Rowan and Hugin.
+More fragile than Agumon, so keep him in the back row. Pairs directly with Taichi & Agumon: at battle start WarGreymon hands every ally behind him +25% of his own ATK for 20s, and Gabumon taking that buff gains 300 Energy, which shortens his own ramp. **Both stand at Supreme+ with an EX weapon at +10**, so the pair is the strongest thing the account can field and neither leads the other on weapon level. Also works with Elijah & Lailah, Rowan and Hugin.
 
 ## Source
 

@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, Resonance Synergy, artifacts owned and mode progress.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-09
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -16,7 +16,8 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 1292 |
 | Resonance Level | **240**, the cap |
-| Total power | `?`. The last 10 levels raised it, and the new figure has not been read off the screen |
+| Resonance Synergy | **+25**, so every hero fields at **265** |
+| Total power | **22,636,000** |
 | Story progress | Merlin's Ward, a few sidequests done |
 
 **The Starter Story ladder is finished.** Its last stage is 1125, so the account has cleared all of it and is now in **Infinite Stages**, the uncapped ladder that follows. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
@@ -29,14 +30,14 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 49 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 51 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **25 are bought and 35 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level, and that headroom is spent.
 
-**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **every one of the 49 heroes owned fields at 240**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
+**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +25 carries every one of the 51 heroes owned to 265**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
 
 **Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), and the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.**
 
@@ -46,18 +47,20 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 ### Resonance Synergy
 
-**This is the account's only remaining level track, and it has not been started.** It unlocked the moment the fifth Hand reached 240. What it is, what it costs and where it stops paying is in [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+**This is the account's only remaining level track, and it is running.** It unlocked the moment the fifth Hand reached 240. What it is, what it costs and where it stops paying is in [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
 | Field | Value |
 | --- | --- |
-| Synergy level | `?`, treated as **+0** until the user reads it off the Resonating Hall |
+| Synergy level | **+25**, so the roster fields at **265** |
 | Cap | **310**. That is the base 300 plus **+5 each** for the two Supreme+ heroes, Taichi & Agumon and Yamato & Gabumon |
-| Levels that pay stats | **60**, taking the roster from 240 to 300 |
+| Levels that pay stats | **60**, taking the roster from 240 to 300. **35 of them are unbought** |
 | Cost | **Hero Essence** alone, rising with each level |
 | Hero Essence held | `?` |
 | Training Manuals held | `?` |
 
-**Every Synergy level lands on all 49 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+**Every Synergy level lands on all 50 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+
+**It is also the only spend left that raises raw power at all.** Class Equipment is finished at 240 on all thirty-six slots, and the Resonance Level is capped, so **the 35 stat-paying Synergy levels are the whole of the account's remaining stat growth**. See [equipment.md](equipment.md).
 
 **Recycle the Training Manuals.** They bought levels up to 240 and buy nothing after it, and they convert to Hero Essence at **3000 to 1**. Read the Manual balance off the bag, because it is now an Essence balance in disguise.
 
@@ -73,14 +76,14 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | --- | --- | --- | --- |
 | Starshard Spell | +10 | +4 and +8 | AFK Stages push, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
 | Confining Spell | +9 | +4 and +8 | Arena, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
-| Awakening Spell | +8 | +4 and +8 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
+| Awakening Spell | +9 | +4 and +8 | Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
 | Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
 | Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5 |
 | Ironwall Spell | +4 | +4 | the sixth Battle Drills team |
 
 **No tier letter appears in this table on purpose.** No current source ranks the six artifacts at all, and the one ranking inside the 12-month window is a single blended list with no mode attached to any letter, so a letter here could never be dated or traced back. The column that replaces it is the one the account can source itself: which comps the artifact actually holds. See [../mechanics/artifacts.md](../mechanics/artifacts.md) and [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md).
 
-**An artifact's effect has two upgrade steps, +4 and +8, and no third.** Every level also raises a team-wide stat line. So a level buys stats, and a level landing on +4 or +8 buys an effect as well. The "+10 step" the guides describe is that stat line at its ceiling, not an ability. Whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and the upgrade screen settles it.
+**An artifact's effect has two upgrade steps, +4 and +8, and no third.** Every level also raises a team-wide stat line. So a level buys stats, and a level landing on +4 or +8 buys an effect as well. The "+10 step" the guides describe is that stat line at its ceiling, not an ability. Whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and **two artifacts now sit at +9**, so either upgrade screen settles it.
 
 **Starshard at +10 holds the push comp, and it is the account's best artifact in practice. Confirmed from the account.** Both effect steps are live and the stat line is at its ceiling, so the wave fires every 3 ally Ultimates for 24% of each target's current HP as true damage. The user ran it against Confining Spell on the Shemira comp and reports it running well. That result, not a guide, is what ranks it here.
 
@@ -94,7 +97,7 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 1. **Ironwall to +8, four levels.** The blessing moves to the frontmost surviving hero when the blessed one dies, which is the right effect for the weak team it holds. **It is the only effect step left anywhere on the account**, so every other artifact level now buys stats alone.
 2. **Confining to +10, one level.** Both effect steps are live, so it buys the team ATK and HP line and nothing else, but it is **one level from the ceiling** and it holds five comps, three of them without a healer. Finishing it also settles the open question below: whether +10 adds anything over +9 is `unverified` in [../mechanics/artifacts.md](../mechanics/artifacts.md), and this is the artifact that will answer it.
-3. **Awakening past +8.** Both effect steps are live here too, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats at max. It holds four comps.
+3. **Awakening to +10, one level.** Both effect steps are live here too, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats at max. It holds four comps. It sits level with Confining now and loses the tie on comp count alone.
 
 **Starshard, Blazing and Enlightening are finished.** All three sit at +10 with both effect steps live and the stat line at its ceiling. Enlightening still buffs **one hero, the rearmost ally**, chosen by the game, so it stays on Battle Drills Team 5, the only comp in [teams.md](teams.md) with a single hero in the back row.
 
@@ -122,7 +125,7 @@ Not reached yet. No Season Resonance Level, no Season Equipment, no Season Artif
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
 | Infinite Stages | yes, needs 1125 | at **1292**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
-| Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on the Koko copies that took her to Legendary+ at 1,200 each. Faramor is the next target. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
+| Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on the Koko copies that took her to Legendary+ at 1,200 each. **Antandra is the next target**, at 17 sigils. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
 | Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, of the 5 the guides claim exist. See [../mechanics/arena.md](../mechanics/arena.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
@@ -153,11 +156,19 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Stellar Crystals | `?` |
 | Guild Medals | `?`. 30,000 spent on Elijah & Lailah. Income is about 28,000 a month, so the next sigil is roughly a month away. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 
-### Niru is the account's ninth Graveborn, and its first cheat-death
+### Silvina is the account's tenth Graveborn
 
-**He stands at Elite, the tier an A-Level hero unlocks at, so he is one copy and no duplicates.** Graveborn is now 9 deep and level with Wilder, second only to Lightbearer's 12. See [roster.md](roster.md) and [../mechanics/heroes/niru.md](../mechanics/heroes/niru.md).
+**She stands at Epic**, which for an A-Level hero is the unlock plus 4 Soul Sigils. **Graveborn is now 10 deep and level with Wilder and Mauler, second only to Lightbearer's 13.** The faction that was the thinnest on the account is no longer thin. See [roster.md](roster.md) and [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
 
-**Only three of his six skills are live.** Soul Shepherd, Soul Reaping and Spirit Devour work at Elite. Hero Focus needs **Legendary+**, Ethereal Form is an **Exclusive Equipment gated at Mythic+**, and Enhance Force needs **Supreme+**. Elite to Legendary+ is **21 Soul Sigils** from the Dream Store, which is the same price as Viperian and comes after Faramor in the queue. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
+**She is an opener, and every number in her kit is already upgraded.** Her level-up thresholds top out at 211 and the roster fields at 265, so her First Strike lands at 340% with a **5s stun** and her Ultimate strips **300 Energy**. Her three ascension-gated pieces are all dark, and the one that matters, the **Shield of Light** weapon at **Mythic+**, is five steps up.
+
+`?` where her copies came from. She is on the Dream Store shelf and on the All-Hero banner, and the two spend different currencies. Read it off the Dream Fragment balance or the banner pity counter.
+
+### Niru is the roster's only cheat-death
+
+**He stands at Elite, the tier an A-Level hero unlocks at, so he is one copy and no duplicates.** See [roster.md](roster.md) and [../mechanics/heroes/niru.md](../mechanics/heroes/niru.md).
+
+**Only three of his six skills are live.** Soul Shepherd, Soul Reaping and Spirit Devour work at Elite. Hero Focus needs **Legendary+**, Ethereal Form is an **Exclusive Equipment gated at Mythic+**, and Enhance Force needs **Supreme+**. Elite to Legendary+ is **21 Soul Sigils** from the Dream Store, which is the same price as Viperian and comes after Antandra in the queue. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
 
 **`?` where the copy came from.** He is stocked in the Dream Store and he is also on the All-Hero banner, and the two spend different currencies. Read it off the Dream Fragment balance or the banner pity counter, because a banner pull moves the counters in the table above.
 

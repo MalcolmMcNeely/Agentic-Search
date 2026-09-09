@@ -1,7 +1,7 @@
 # Smokey & Meerky
 
 > **Covers:** Smokey & Meerky kit, stats and best use.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-09
 
 - **Faction:** Mauler
 - **Class:** Support
@@ -25,7 +25,7 @@ The buff, the heal and the Energy all require allies to stand **within 2 tiles**
 
 ## Tier gates
 
-**They stand at Supreme with the weapon at +4, so five of their six pieces are live and one is not.** That is the joint-highest tier on the account outside the Digimon pair, level with Eironn and Shemira. See [../../account/roster.md](../../account/roster.md).
+**They stand at Supreme with the weapon at +10, so five of their six pieces are live and one is not.** That is the joint-highest tier on the account outside the Digimon pair, level with Eironn and Shemira. See [../../account/roster.md](../../account/roster.md).
 
 | Piece | Gate | Live at Supreme |
 | --- | --- | --- |
@@ -42,9 +42,9 @@ The buff, the heal and the Energy all require allies to stand **within 2 tiles**
 
 **The drain is not defence-ignoring damage, and no comp may treat it as though it is. Confirmed from the account: the skill text says nothing about defence.** That matters because [../../account/progression.md](../../account/progression.md) ranks defence-ignoring damage above everything else on an uncapped ladder, and this does not qualify. It is still the largest single upgrade the pair have ever had.
 
-**The EX weapon stands at +4.** Its ceiling at Supreme is **+10**, so six levels can still be bought: **150 Tidal Essence** takes it to +5, and the five above that cost **75 Temporal Essence** each. See [../../account/equipment.md](../../account/equipment.md).
+**The EX weapon stands at +10, which is the ceiling at Supreme, so it is the first weapon on the account to run out of levels.** No amount of Tidal or Temporal Essence buys another. The only route on is **Supreme to Supreme+**, which also switches Enhance Force on. See [../../account/equipment.md](../../account/equipment.md).
 
-**Only Enhance Force is left, one tier up at Supreme+.** No source here prices the Supreme to Supreme+ step for an S-Level hero. `?` that price; read it off the ascension screen.
+**Only Enhance Force is left, one tier up at Supreme+.** `?` the price of the Supreme to Supreme+ step for an S-Level hero. [../recruitment.md](../recruitment.md) reads it at about **1 Soul Sigil**, and no source states it directly. Read it off the ascension screen.
 
 ## Best for
 

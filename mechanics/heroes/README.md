@@ -1,9 +1,9 @@
 # Hero files
 
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-09
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 49 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 51 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, in the same order, so grep works across the folder: **Faction, Class, Damage, Range, Rarity.**
 
@@ -36,6 +36,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Bonnie | Graveborn | Marksman | Magic | 7 | A | [bonnie.md](bonnie.md) |
 | Cecia | Graveborn | Marksman | Physical | 5 | S | [cecia.md](cecia.md) |
 | Shadewing | Graveborn | Rogue | Magic | 1 | A | [shadewing.md](shadewing.md) |
+| Silvina | Graveborn | Rogue | Physical | 1 | A | [silvina.md](silvina.md) |
 | Niru | Graveborn | Support | Magic | 1 | A | [niru.md](niru.md) |
 | Daimon | Graveborn | Tank | Magic | 3 | A `unverified` | [daimon.md](daimon.md) |
 | Thoran | Graveborn | Tank | Physical | 1 | S | [thoran.md](thoran.md) |
@@ -52,6 +53,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Hugin | Lightbearer | Support | Physical | 20 | A | [hugin.md](hugin.md) |
 | Chippy | Lightbearer | Tank | Physical | 1 | Rare | [chippy.md](chippy.md) |
 | Temesia | Lightbearer | Tank | Physical | 1 | S | [temesia.md](temesia.md) |
+| Korin | Lightbearer | Warrior | Physical | 2 | A | [korin.md](korin.md) |
 | Lucius | Lightbearer | Warrior | Physical | 1 | A | [lucius.md](lucius.md) |
 | Valen | Lightbearer | Warrior | Physical | 1 | A | [valen.md](valen.md) |
 | Galahad | Mauler | Mage | Magic | 10 | S | [galahad.md](galahad.md) |

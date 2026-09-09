@@ -1,7 +1,7 @@
 # Daimon
 
 > **Covers:** Daimon kit, stats and best use.
-> **Updated:** 2026-08-30
+> **Updated:** 2026-09-08
 
 - **Faction:** Graveborn
 - **Class:** Tank
@@ -19,7 +19,7 @@ Campaign and PvP. A damage soak and shield engine, and the class label agrees: h
 
 ## Notes
 
-**`disputed`: afk.global lists Daimon as a Warrior. The game lists him as a Tank.** The account wins, per the rule in [../../CLAUDE.md](../../CLAUDE.md). This is not cosmetic. Class Equipment is shared per class, so Daimon draws on **Tank** gear, which sits at 226 on this account, not **Warrior** gear at 230. That costs him 3 levels of gear and buys the correct role and stat block. See [../../account/equipment.md](../../account/equipment.md).
+**`disputed`: afk.global lists Daimon as a Warrior. The game lists him as a Tank.** The account wins, per the rule in [../../CLAUDE.md](../../CLAUDE.md). Class Equipment is shared per class, so Daimon draws on **Tank** gear rather than **Warrior** gear. **On this account that costs him nothing**, because all six classes are capped at 240, so the correction buys the correct role and stat block at no gear price. See [../../account/equipment.md](../../account/equipment.md).
 
 **`unverified`: his Level.** Two readings that do not reconcile.
 

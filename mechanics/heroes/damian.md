@@ -1,7 +1,7 @@
 # Damian
 
 > **Covers:** Damian kit, stats and best use.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-08
 
 - **Faction:** Wilder
 - **Class:** Support
@@ -32,7 +32,7 @@
 
 **Hero Focus** adds 12 to 20% ATK. **Inventor's Will is his Exclusive Equipment** and hands allies Haste and healing, with further steps at EX +5, +10 and +15. **Enhance Force** stretches the blind to 7s while the Chariot is above half HP.
 
-**Elite to Legendary+ is 21 Soul Sigils** for an A-Level hero, the same price as Viperian and Niru. **The Dream Store stocks him**, so those copies are a Dream Fragment purchase rather than a banner pull. He queues behind Faramor. See [../dream-store.md](../dream-store.md).
+**Elite to Legendary+ is 21 Soul Sigils** for an A-Level hero, the same price as Viperian and Niru. **The Dream Store stocks him**, so those copies are a Dream Fragment purchase rather than a banner pull. He queues behind Antandra. See [../dream-store.md](../dream-store.md).
 
 ## Best for
 

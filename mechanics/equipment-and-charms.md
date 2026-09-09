@@ -1,7 +1,7 @@
 # Equipment, Exclusive Equipment and charms
 
 > **Covers:** class gear, the EX weapon, Magic Charms, and which of them are per-class, per-hero or seasonal.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-08
 
 Three separate systems, easy to confuse.
 
@@ -21,7 +21,7 @@ Upgrading costs Gold and Primal Casting Shards, from campaign, quests, or disass
 
 The single Level the game shows next to a class is the **mean of its six slot levels, rounded down**.
 
-No guide states this. It comes from the account, read off the game screen. Rogue means 206.67 and the screen reads **206**. Warrior means 205.83 and the screen reads **205**. Rounding to nearest would lift both a level, so the rule is floor. See [../account/equipment.md](../account/equipment.md).
+No guide states this. It comes from the account, read off the game screen. Rounding to nearest was ruled out on repeated readings where a class mean sat past the halfway mark and the screen still showed the lower number. See [../account/equipment.md](../account/equipment.md).
 
 This matters for upgrade planning. Raising one slot by 6 raises the class Level by 1, so spreading Forging Stones evenly moves the headline number faster than spiking a single slot.
 
@@ -46,9 +46,9 @@ Pick two or three slots per class rather than levelling all six, so Forging Ston
 
 Do the classes the main teams actually use before touching the rest.
 
-**This table is advice for manual upgrading only.** The account uses **Quick Equip**, which picks the slot itself, so most fed slots do not match this table. Do not hand this table to the user as an action while that is true. See [../account/equipment.md](../account/equipment.md).
+**This table is not an action on this account.** All thirty-six slots are at the 240 cap, so there is nothing left to prioritise. Hand it over only if the cap rises. See [../account/equipment.md](../account/equipment.md).
 
-**Quick Equip is not written up.** What it optimises, and whether it wastes Forging Stones against a hand-picked order, is unknown. Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress found no page covering the button. This is the open gap in this file.
+**Quick Equip is not written up.** What it optimises, and whether it wastes Forging Stones against a hand-picked order, is unknown. Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress found no page covering the button. This is the open gap in this file, and it stops mattering for an account whose gear is finished.
 
 ## Exclusive Equipment (permanent, per hero)
 

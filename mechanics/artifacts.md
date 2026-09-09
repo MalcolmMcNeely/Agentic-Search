@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, which fight each one suits, and the Season 7 set.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-08
 
 One artifact is equipped per team, not per hero, and it pays the team twice.
 
@@ -12,7 +12,7 @@ One artifact is equipped per team, not per hero, and it pays the team twice.
 
 **The "+10 step" the guides describe is the stat line at its ceiling, not a third ability.** Every figure quoted as a +10 effect is a row in the artifact's stat table: Enlightening's +7.2 ATK SPD and +11.4% HP, Blazing's +7.8 DEF Penetration and +13.8% to both DEF stats, Ironwall's +6 Haste and +9 Vitality, Starshard's +4.8 Haste and +10.2% HP. So a level past +8 buys stats, and the real question is whether those stats beat another artifact's +4 or +8. See [../account/progression.md](../account/progression.md).
 
-`unverified`: **whether +10 buys anything over +9.** The stat tables list identical values at 9 and 10 on all six artifacts, and identical values at 4 and 5. One source, so it is a reading rather than a fact. **Confining sits at +9, so its upgrade screen shows the +10 row and settles this in one look.**
+`unverified`: **whether +10 buys anything over +9.** The stat tables list identical values at 9 and 10 on all six artifacts, and identical values at 4 and 5. One source, so it is a reading rather than a fact. **Confining and Awakening both sit at +9, so either upgrade screen shows the +10 row and settles this in one look.**
 
 ## Permanent artifacts (Starter Story)
 
@@ -108,7 +108,7 @@ At battle start it raises the ATK SPD of **one hero, the rearmost ally in the ba
 
 **In Arcane Labyrinth the healing compounds, because HP carries between floors.** Healing a normal fight would waste is banked there instead. It is also the pick on a Legend Trial healer team. See [arcane-labyrinth.md](arcane-labyrinth.md) and [legend-trial.md](legend-trial.md).
 
-**On this account:** Awakening sits at **+8**, so both effect steps are live: **10% of Max HP, on the 4 weakest allies**. It is the pick on four comps in [../account/teams.md](../account/teams.md).
+**On this account:** Awakening sits at **+9**, so both effect steps are live: **10% of Max HP, on the 4 weakest allies**. **+9 bought stats and no effect**, because there is no third step, and it leaves the artifact **one level from its ceiling**. It is the pick on four comps in [../account/teams.md](../account/teams.md).
 
 ### Blazing Spell
 

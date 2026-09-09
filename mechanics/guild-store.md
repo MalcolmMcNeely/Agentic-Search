@@ -1,7 +1,7 @@
 # Guild Store
 
 > **Covers:** the Guild Store's Guild Medal shelf: what it stocks, the price of a hero copy, the monthly limit, and who on this account to buy.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-08
 
 A shop inside the guild, reached by tapping **Guild** at the bottom of the screen and then **Emporium**. It has two shelves in two currencies, and they answer different questions.
 
@@ -81,7 +81,7 @@ That is 13 sigils on top of the original copy, 14 in all. S-Level heroes start a
 
 **Phraesto is owned at Epic and did not cost a medal.** A Glorious Hero Chest gave him outright, so the 30,000-medal unlock on the shelf is money this account never has to spend. Sigils bought for him now ascend rather than unlock, and three of them reach **Legendary+** and his Hero Focus, which raises DEF on **both** his bodies and generates Energy whenever either is hit. **He queues directly behind Elijah & Lailah**, because he holds a slot in the AFK Stages push comp. See [../account/teams.md](../account/teams.md) and [heroes/phraesto.md](heroes/phraesto.md).
 
-**Aurora is past the step this shelf was saved for.** She is the only other hero on the list the account owns, and she is now **Mythic+ with her EX weapon at +5**, so the 2-sigil Mythic+ buy is spent. **Her next step is Supreme, at 2 more sigils by the table above, and it buys more than a tier.** EX levels 6 to 10 need Supreme, so her weapon is frozen at +5 until she gets there and then five levels open at once. She still sits **behind** Elijah & Lailah and Phraesto, because both of them stand in the comp being played and she does not. See [heroes/aurora.md](heroes/aurora.md) and [../account/equipment.md](../account/equipment.md).
+**Aurora is past every step this shelf was saved for.** She is the only other hero on the list the account owns, and she now stands at **Supreme with her EX weapon at +5**, so both the Mythic+ buy and the Supreme buy are spent and **her weapon's five remaining levels are open**. Her only step left here is **Supreme+ at 4 sigils** by the table above, which unlocks Enhance Force and raises the Resonance Synergy cap by 5, and levels past 300 pay Diamonds rather than stats. She sits **behind** Elijah & Lailah and Phraesto, because both of them stand in the comp being played and she does not, and now behind her own Temporal Essence bill as well. See [heroes/aurora.md](heroes/aurora.md) and [../account/equipment.md](../account/equipment.md).
 
 **Rolan is ranked first among Celestials by two 2026 guides and is not on the shelf list**, so copies of him are not a Guild Store option. He is owned at Epic regardless. **He now holds a Hand of Resonance and stands in the comp being played**, which puts him level with Elijah & Lailah and Phraesto in need, so **check the shelf in game**: the hero list here is `unverified` and if he is actually stocked he joins the front of the queue. See [heroes/rolan.md](heroes/rolan.md) and [../account/teams.md](../account/teams.md).
 

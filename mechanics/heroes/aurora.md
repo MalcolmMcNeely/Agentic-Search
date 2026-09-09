@@ -1,7 +1,7 @@
 # Aurora
 
 > **Covers:** Aurora kit, stats and best use.
-> **Updated:** 2026-09-01
+> **Updated:** 2026-09-08
 
 - **Faction:** Celestial
 - **Class:** Mage
@@ -15,7 +15,7 @@ Ultimate Starlit Slumber summons Sonny the unicorn, who inherits a share of her 
 
 ## Hero Focus
 
-Unlocks at **Legendary+**, and this account holds Mythic+, so it is live. See [../progression-systems.md](../progression-systems.md).
+Unlocks at **Legendary+**, and this account holds Supreme, so it is live. See [../progression-systems.md](../progression-systems.md).
 
 **Aurora gains +10% ATK during battle, and a further +1% ATK per allied summon belonging to a different ally, up to 5 stacks.** Level 2 raises that to +13% and +1.5% per summon; level 3 to +16% and +2%.
 
@@ -27,13 +27,13 @@ The cap counts summons from **different** allies, so five summons from one hero 
 
 ## Exclusive Equipment
 
-Unlocks at **Mythic+**, and this account holds her there with the weapon at **+5**. See [../equipment-and-charms.md](../equipment-and-charms.md).
+Unlocks at **Mythic+**, and this account holds her a tier past that at **Supreme**, with the weapon at **+5**. See [../equipment-and-charms.md](../equipment-and-charms.md).
 
 **The EX skill is a third summon multiplier, and it stacks on top of the two she already had.** At **+5 it raises every allied summon's damage by 8%**, at +10 by 12%, and at +15 a quarter of the damage allied summons deal to a Nightmare-marked enemy ignores both of that enemy's DEF stats.
 
 So all three of her payoffs now read the same number. Dream Veil buffs allied summons, Hero Focus converts allied summons into her own ATK, and the weapon buffs allied summons again. **The summon count is the only dial on this hero**, and every point of investment turns it further.
 
-**+5 is her ceiling until Supreme.** EX levels 6 to 10 need Supreme ascension, so the weapon cannot take another level at Mythic+. See [../../account/equipment.md](../../account/equipment.md).
+**Supreme is what opens EX levels 6 to 10, and she holds it, so all five are buyable** at 75 Temporal Essence each. **+10 raises the allied-summon buff from 8% to 12%**, a straight half again on the number every part of her kit reads. See [../../account/equipment.md](../../account/equipment.md).
 
 `?` The EX skill's name. No fetchable source names it.
 
@@ -51,9 +51,9 @@ Teams stacked with summons, because both halves of her kit read the summon count
 
 ## Tier gate
 
-**The gate allclash names is now met, and the letters above are the closest they have been to this hero.** Its rating rests on the Exclusive Equipment and its build-priority line reads "needs her EX Investment". **That weapon is on her, at +5.** The same blurb still assumes a free Supreme+ copy set handed out at a season start, which is two ascensions above this account, so its S+ still describes a stronger Aurora. afk.global and Pocket Tactics state no investment level at all.
+**The gate allclash names is now met, and the letters above are the closest they have been to this hero.** Its rating rests on the Exclusive Equipment and its build-priority line reads "needs her EX Investment". **That weapon is on her, at +5.** The same blurb still assumes a free Supreme+ copy set handed out at a season start, which is now **one** ascension above this account, so its S+ still describes a stronger Aurora, but only just. afk.global and Pocket Tactics state no investment level at all.
 
-**Every skill she has is live.** Hero Focus came at Legendary+ and the EX weapon at Mythic+, and Mythic+ is the only tier in the game that adds a skill. Only Enhance Force is left, at Supreme+, and it upgrades her range rather than her damage. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
+**Every skill she has is live.** Hero Focus came at Legendary+ and the EX weapon at Mythic+, and Mythic+ is the only tier in the game that adds a skill. Only Enhance Force is left, at Supreme+, **one step up**, and it upgrades her range rather than her damage. See [../progression-systems.md](../progression-systems.md) and [../../account/roster.md](../../account/roster.md).
 
 ## Notes
 

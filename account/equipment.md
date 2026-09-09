@@ -1,7 +1,7 @@
 # Equipment and charms
 
 > **Covers:** Class Equipment levels, Exclusive Equipment owned, and Magic Charm loadouts.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-09
 
 Three systems with different scopes. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
@@ -9,59 +9,30 @@ Three systems with different scopes. See [../mechanics/equipment-and-charms.md](
 
 Gear is per **class**, shared by every hero of that class. Six slots each, cap 240. A slot at the cap reads **Max** on screen.
 
-Slot order is as the game lists it, left to right. The slot names are **unconfirmed** against the in-game UI; the numbers and their order came from the user.
+**Class Equipment is finished. All thirty-six slots read Max, so every class sits at 240.**
 
-| Class | Level | Mean | Weapon | Gloves | Ring | Helmet | Armor | Boots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mage | 230 | 230.00 | **240** | 210 | 220 | **240** | **240** | 230 |
-| Warrior | 230 | 230.00 | 200 | 225 | 235 | **240** | **240** | **240** |
-| Rogue | 228 | 228.33 | 225 | 200 | **240** | **240** | **240** | 225 |
-| Tank | 226 | 226.67 | **240** | 185 | **240** | **240** | 215 | **240** |
-| Marksman | 225 | 225.83 | 230 | **240** | 230 | 220 | 215 | 220 |
-| Support | 224 | 224.17 | 220 | **240** | 195 | 230 | **240** | 220 |
+| Class | Level | Weapon | Gloves | Ring | Helmet | Armor | Boots |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Mage | **240** | Max | Max | Max | Max | Max | Max |
+| Warrior | **240** | Max | Max | Max | Max | Max | Max |
+| Rogue | **240** | Max | Max | Max | Max | Max | Max |
+| Tank | **240** | Max | Max | Max | Max | Max | Max |
+| Marksman | **240** | Max | Max | Max | Max | Max | Max |
+| Support | **240** | Max | Max | Max | Max | Max | Max |
 
-**Bold is a slot at the 240 cap.** Sixteen of the thirty-six slots are capped.
+Slot order is as the game lists it, left to right. The slot names are **unconfirmed** against the in-game UI; they came from the user.
 
-Every Level above is computed from the rule below. The `notes` inbox holds a much older set of class levels; they are dead text, not a second reading.
+The `notes` inbox holds a much older set of class levels. They are dead text, not a second reading.
 
-**Reading a partial update from the user.** The user states slot values in **slot order, left to right, and stops at the last slot that changed**. A slot they do not name did not change and carries over. Apply this to every gear dump.
+**There is no gear decision left on this account.** Every class is level with every other, so **gear can never pick or drop a comp, and it can never favour one hero over another**. Drop it out of any comparison between two builds. Quick Equip has nothing left to press, and the upgrade priority table in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md) is not an action here.
+
+**Gear has stopped moving and hero levels have not, so the two have come apart.** Gear caps at **240**. **Resonance Synergy takes every hero past 240 and gear cannot follow it**, so the roster is at **265** against gear frozen at 240, and that gap only widens with each Synergy level bought. Nothing on the account closes it. See [progression.md](progression.md).
 
 ### How the class Level is derived
 
-The class Level is the **mean of the six slots, rounded down**.
+The class Level is the **mean of the six slots, rounded down**. No guide states this; it is settled from the account.
 
-No guide states this. It is settled from the account, and the current six readings confirm it again. Three of them each rule out rounding to nearest:
-
-| Class | Mean | Screen | Floor gives | Nearest would give |
-| --- | --- | --- | --- | --- |
-| Rogue | 228.33 | 228 | 228 | 228 |
-| Tank | 226.67 | 226 | 226 | 227 |
-| Marksman | 225.83 | 225 | 225 | 226 |
-| Support | 224.17 | 224 | 224 | 224 |
-
-Tank and Marksman both sit past the halfway mark, so rounding to nearest would lift each one a level. The screen shows the lower number in both cases.
-
-### How this account upgrades gear
-
-**The user does not pick the slots.** They press **Quick Equip whenever the button is highlighted** and take what it gives.
-
-So the upgrade priority table in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md) is not an action for this account. Do not hand that table over unless the user says they have started upgrading by hand.
-
-**Quick Equip does eventually clear a stranded slot.** Warrior Ring and Rogue Boots were both stranded far behind their siblings, at 145 and 160. Warrior Ring now reads 235 and Rogue Boots 225, so the button reached them without being pointed at them. It does not feed the lowest slot first, but it does not abandon one either.
-
-**Gap: what Quick Equip does optimise is unknown.** Searches across prydwen, the Fandom wiki, playafkjourney, gamerant and mejoress return pages on the equipment and forging systems but nothing on the button itself. Whether Quick Equip costs this account anything against hand-picking is open. Do not guess either way.
-
-### Reading the spread
-
-**The spread is 6 levels, from Mage and Warrior at 230 down to Support at 224.** Class gear does not pick or drop a comp. Treat every class as equally geared when comparing two builds.
-
-**Tank is no longer a cost to the frontline.** It sits at 226, 4 levels under the top and 2 above Marksman. Daimon being a Tank rather than a Warrior costs 4 levels on one hero, which changes nothing.
-
-**Gloves is the weak slot, across three classes at once.** Tank Gloves at 185 is the lowest slot on the account, then Rogue Gloves at 200 and Mage Gloves at 210. Lifting Tank Gloves to 240 alone would take Tank from 226 to **235**. It is the single highest-value slot.
-
-**Support now carries two of the five heroes in the push comp, and Tank carries one.** Elijah & Lailah and Rolan are both Support, which is the **lowest class at 224**, with **Support Ring at 195** as its weakest slot. Phraesto is the only Tank left in that comp. **Tank Gloves at 185 is still the single lowest slot on the account** and lifting it alone takes Tank from 226 to 235, so it remains the biggest one-slot jump, but it now pays one played hero rather than two. **Raise Support first, Tank Gloves second.** That does not overturn the rule above: the 6-level spread is still too small to pick or drop a comp, and this only reorders which class to raise next. See [teams.md](teams.md).
-
-**Gear is the number that stops moving, and hero levels are not.** Sixteen slots sit at the 240 cap, which is level with the Resonance Level of 240, and every other slot is below it. **Resonance Synergy now takes hero levels past 240 while gear cannot follow**, so the gap between the two only widens from here and the twenty uncapped slots are the way to close it. See [progression.md](progression.md) and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+The rule is now unobservable, because six equal slots give a mean of 240 whatever the rounding. It is kept because it explains the Level column and would decide it again if the cap ever rose.
 
 ## Exclusive Equipment
 
@@ -70,66 +41,75 @@ Per hero, unlocked at Mythic+ and upgraded with Stones. See [../mechanics/equipm
 | Hero | EX level | Skill |
 | --- | --- | --- |
 | Taichi & Agumon | +10 | `?` |
-| Yamato & Gabumon | +6 | Grace Cross Freezer |
+| Yamato & Gabumon | +10 | Grace Cross Freezer |
+| Smokey & Meerky | +10 | Withering Potion |
 | Eironn | +5 | Howling Hurricane |
 | Aurora | +5 | `?` |
 | Shemira | +1 | Spectral Barrier |
-| Smokey & Meerky | +4 | Withering Potion |
-| Bonnie | +0 | Blight Surge |
+| Bonnie | +1 | Blight Surge |
+| Faramor | +1 | Bitter Requiem |
 
-**Seven Exclusive Equipments are owned.** **Yamato & Gabumon and Taichi & Agumon both stand at Supreme+**, the top ascension tier, and no other hero on the account is there. **Eironn, Shemira, Smokey & Meerky and Bonnie are Supreme**, one step behind, and **Aurora is Mythic+**, the tier the weapon unlocks at. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out. **Eironn and Shemira are the two strongest heroes the account can field in the modes that do**, Eironn because the towers take Wilders and Shemira because she carries the Tower of Eternity, Arena, Skyclops, Darkswarm and solo comps at once. **Bonnie is the only A-Level hero on the account to reach Supreme**, and every copy that took her there came off a banner, because no shop stocks her. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md), [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md), [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md), [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md) and [../mechanics/heroes/bonnie.md](../mechanics/heroes/bonnie.md).
+**Eight Exclusive Equipments are owned, and one of them has run out of levels.** **Taichi & Agumon and Yamato & Gabumon both stand at Supreme+**, the top ascension tier, and no other hero on the account is there. **Eironn, Shemira, Smokey & Meerky, Bonnie, Aurora and Faramor are all Supreme**, one step behind.
 
-**They also ramp each other, so the two strongest heroes on the account are the same two that pay each other back.** WarGreymon hands every ally behind him +25% of his own ATK at battle start, and Gabumon taking that buff gains 300 Energy, which shortens his own digivolve. Grace Cross Freezer fires **more missiles the closer allies stand**, so the pair wants to be built inward, not spread. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Smokey & Meerky are the first weapon on the account to hit a ceiling.** Withering Potion is at **+10**, which is the top of the Supreme band, so **no amount of Essence buys them another level**. The only route on is **Supreme to Supreme+**, and `?` what that step costs an S-Level hero. [../mechanics/recruitment.md](../mechanics/recruitment.md) reads it at about **1 Soul Sigil**, and no source states it directly. Every other weapon here still has levels to buy. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
+
+**Faramor's is the only one that pays the other four heroes rather than its own.** **Bitter Requiem** lets **every ally inside his magic circle deal extra true damage worth 75% of their own ATK**, rising to 85% at the weapon's top. Every other EX skill here multiplies the hero wearing it. The Digimon pair are the two first picks in any mode that does not lock Dimensional heroes out. **Eironn and Shemira are the two strongest heroes the account can field in the modes that do**, Eironn because the towers take Wilders and Shemira because she carries the Tower of Eternity, Arena, Skyclops, Darkswarm and solo comps at once. **Bonnie and Faramor are the only A-Level heroes on the account to reach Supreme.** Every copy that took Bonnie there came off a banner, because no shop stocks her; Faramor's came off the Dream Store shelf. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md), [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md), [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md), [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md), [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md), [../mechanics/heroes/bonnie.md](../mechanics/heroes/bonnie.md) and [../mechanics/heroes/faramor.md](../mechanics/heroes/faramor.md).
+
+**The two strongest heroes on the account are the same two that pay each other back, and their weapons are now level.** Both stand at **+10**. WarGreymon hands every ally behind him +25% of his own ATK at battle start, and Gabumon taking that buff gains 300 Energy, which shortens his own digivolve. Grace Cross Freezer fires **more missiles the closer allies stand**, so the pair wants to be built inward, not spread. See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
 **Both Digimon pairs hold Enhance Force.** It arrives with Supreme+ and strengthens one skill the hero already has. `?` which skill it lands on for each of them; read it off the hero screen. See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 
-**The seven EX weapons sit at three ceilings, because every upgrade band needs a higher ascension tier than the last.** Levels 6 to 10 need Supreme, and 11 upwards needs Supreme+. **The Digimon pair are the only two heroes past that second gate.**
+**The eight EX weapons sit at two ceilings, because every upgrade band needs a higher ascension tier than the last.** Levels 6 to 10 need Supreme, and 11 upwards needs Supreme+. **The Digimon pair are the only two heroes past that second gate**, and the other six all cleared the first one, so **the only weapon blocked on a tier is Smokey & Meerky's, and it is blocked because it is finished rather than because it is stuck.**
 
 | Hero | EX now | Ceiling at its tier | Levels it can still buy | Cost of the next step |
 | --- | --- | --- | --- | --- |
-| Aurora | +5 | **+5**, Mythic+ | **none** | ascend to Supreme first |
 | Shemira | +1 | +10, Supreme | **9** | 150 Tidal Essence to +2 |
+| Bonnie | +1 | +10, Supreme | **9** | 150 Tidal Essence to +2 |
+| Faramor | +1 | +10, Supreme | **9** | 150 Tidal Essence to +2 |
+| Aurora | +5 | +10, Supreme | 5 | 75 Temporal Essence to +6 |
 | Eironn | +5 | +10, Supreme | 5 | 75 Temporal Essence to +6 |
-| Taichi & Agumon | +10 | **+15, Supreme+** | **5** | 100 Temporal Essence to +11 |
-| Yamato & Gabumon | +6 | +15, Supreme+ | 9 | 75 Temporal Essence to +7 |
-| Smokey & Meerky | +4 | +10, Supreme | **6** | 150 Tidal Essence to +5 |
-| Bonnie | **+0** | +10, Supreme | **10** | 150 Tidal Essence to +1 |
+| Taichi & Agumon | +10 | **+15, Supreme+** | 5 | 100 Temporal Essence to +11 |
+| Yamato & Gabumon | +10 | **+15, Supreme+** | 5 | 100 Temporal Essence to +11 |
+| Smokey & Meerky | **+10** | **+10, Supreme** | **0** | none. Supreme+ first, at a price no source states |
 
-**Aurora's weapon is already on her ceiling.** Not one level can be bought on it until she ascends to Supreme, so a sigil spent on her buys the next EX level as well as the tier.
+**Three weapons now sit at +1 with nine levels each, and they are the whole Tidal Essence queue.** Levels up to +5 are **Tidal Essence** at 150 each, and Tidal is the one of the three currencies not rationed by a leaderboard placing. **Shemira, Bonnie and Faramor each want exactly 600 Tidal Essence** to clear that band, 1,800 between them, and nothing else on the account competes for it. Only from +6 does a weapon start asking for Temporal.
 
-**Bonnie has the most room of anyone, ten levels, and Shemira and Yamato & Gabumon have nine each.** Levels up to +5 are **Tidal Essence** at 150 each, and Tidal is the one of the three currencies not rationed by a leaderboard placing. Only from +6 does a weapon start competing for Temporal Essence. **Smokey & Meerky sit at +4, so one 150-Tidal level clears their cheap band, against Shemira's four and Bonnie's five.**
-
-**Temporal Essence is the account's tightest currency, and Agumon's ascension just tripled what he wants from it.** It cannot be bought, and it costs 75 per level to +10 and 100 per level above that.
+**Temporal Essence is the account's tightest currency, and both Digimon pairs are now past the cheap band.** It cannot be bought, and it costs 75 per level to +10 and 100 per level above that.
 
 | Hero | Levels wanted | Temporal Essence for all of them |
 | --- | --- | --- |
+| **Aurora, +6 to +10** | 5 | 375, and **no Tidal Essence at all** |
+| **Eironn, +6 to +10** | 5 | 375, and **no Tidal Essence at all** |
 | Shemira, +6 to +10 | 5 | 375, after 600 Tidal Essence clears +2 to +5 |
-| Eironn, to +10 | 5 | 375 |
-| **Bonnie, +6 to +10** | 5 | 375, after 750 Tidal Essence clears +1 to +5 |
-| Taichi & Agumon, +11 to +15 | 5 | 500 |
-| Yamato & Gabumon, to +15 | 9 | 800 |
-| Smokey & Meerky, +6 to +10 | 5 | 375, after 150 Tidal Essence clears +5 |
+| Bonnie, +6 to +10 | 5 | 375, after 600 Tidal Essence clears +2 to +5 |
+| Faramor, +6 to +10 | 5 | 375, after 600 Tidal Essence clears +2 to +5 |
+| Taichi & Agumon, +11 to +15 | 5 | **500** |
+| Yamato & Gabumon, +11 to +15 | 5 | **500** |
 
-**Agumon has cleared +10, so the cheap band is spent and the decision that was deferred is now live.** Every level left on him costs 100 rather than 75.
+**Both Digimon pairs have cleared +10, so every level left on either costs 100 rather than 75.** They are the two most expensive finishes on the list and they cost the same as each other, **1,000 Temporal Essence for the pair of them**, against 375 for any of the five below. **Finishing all eight weapons wants 2,875 Temporal Essence and 1,800 Tidal.**
+
+**Faramor's Bitter Requiem is the biggest true damage effect on the account, and it is already bought.** It is the only EX skill here that pays the other four heroes: every ally inside his circle deals extra true damage worth **75% of their own ATK**. **That does not make his weapon the next buy**, because the effect switched on at unlock and its remaining levels raise 75% to about 85% plus stats. **The unlock was the win; the levels are ordinary.** See [../mechanics/heroes/faramor.md](../mechanics/heroes/faramor.md).
 
 **Shemira's +10 is still the pick, and it wins on effect rather than on price.**
 
-- **It ties for the least Temporal Essence on the list, 375**, alongside Eironn, Smokey & Meerky and Bonnie, and Temporal is the currency the account cannot buy. Her first four levels are paid in **Tidal Essence**, which Smokey & Meerky and Bonnie now compete for, so she draws on two currencies instead of one and asks less Tidal than either.
+- **It ties for the least Temporal Essence on the list, 375**, alongside Aurora, Eironn, Bonnie and Faramor, and Temporal is the currency the account cannot buy. Her first four levels are paid in **Tidal Essence**, and Bonnie and Faramor now ask for exactly the same 600, so none of the three is cheaper than the others and effect decides between them.
 - **It buys the best effect.** Every ghost hit adds true damage worth 3% of the target's max HP and cuts that max HP by the same amount. [../mechanics/heroes/shemira.md](../mechanics/heroes/shemira.md) calls it the best EX level available anywhere on the account, and [progression.md](progression.md) argues defence-ignoring damage is the only kind that keeps working while Infinite Stages inflate enemy defence with no cap.
 
-**Agumon's +11 to +15 is third, and it is the PvP case.** allclash names +15 the Arena target, and he carries the Arena comp, the push comp, the Snow Stomper comp and King Croaker. It costs **500**, a third more than Shemira's, for an effect no source has published. **Take it after Shemira and Smokey & Meerky**, or first if Arena rank is what the account is chasing. See below and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**Aurora's +10 is second, and it is the cheapest complete finish on the account.** She sits at **+5**, so her Tidal band is already spent and every one of her five remaining levels is Temporal at 75, **375 in total and no Tidal at all**. Only Eironn matches that, and Aurora wins the tie on effect: her **+10 raises the allied-summon buff from 8% to 12%**, and all three parts of her kit read that same summon count. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
-**Smokey & Meerky at +4 is the cheapest climb, and it does not take the top spot. Confirmed from the account: Withering Potion's skill text says nothing about defence.** Their +10 wants the same **375 Temporal Essence** as Shemira and Eironn and only **150 Tidal Essence** to clear +5, against Shemira's 600, so it is the least total spend on the list. Nothing states the drain ignores enemy defence, so no comp may treat it as though it does, and the argument that ranks Shemira first is untouched. **Take it second, ahead of Agumon**, unless Arena rank is the goal. It costs **125 less Temporal Essence** than his, its effect is published where his is not, and the pair stand in three fielded comps. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
+**The two Digimon finishes are third and fourth, and they are the PvP case.** allclash names +15 the Arena target. **Taichi & Agumon goes first of the two**, because he carries the Arena comp, the push comp, the Snow Stomper comp and King Croaker. Each costs **500 Temporal Essence**, a third more than Shemira's, for an effect no source has published. **Take them after Shemira and Aurora**, or first if Arena rank is what the account is chasing. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
-**Bonnie at +0 has the most room on the account, ten levels, and the longest bill.** Reaching +10 costs **750 Tidal Essence** and then **375 Temporal**, so she wants more Tidal than any other hero here. allclash names **+10** the point that matters outside PvP, and Blight Surge is unopened, so the first level is the largest single jump available on the account. **Take her last of the four**, because the Tidal bill is the biggest and Tidal also pays Shemira's and Smokey's cheap bands. See [../mechanics/heroes/bonnie.md](../mechanics/heroes/bonnie.md).
+**Bonnie and Faramor are the two to take last, and they are now priced identically to Shemira.** Each wants **600 Tidal Essence** and then **375 Temporal**. allclash names **+10** the point that matters outside PvP for Bonnie, and Blight Surge is open at +1. Faramor's Bitter Requiem is already switched on, so his levels buy percentage points rather than a new effect. **Neither buys an effect the comps are currently missing**, which is what puts them behind Shemira and Aurora rather than the price. See [../mechanics/heroes/bonnie.md](../mechanics/heroes/bonnie.md).
+
+**Smokey & Meerky are out of the queue entirely.** Their weapon is at its ceiling, so the spend that used to be the cheapest climb on the account no longer exists. **Confirmed from the account: Withering Potion's skill text says nothing about defence**, so no comp may treat the drain as though it ignores enemy defence. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
 
 ### Why Shemira's +10 outranks every other EX level on the account
 
 At **+10** her ghosts deal extra **true damage worth 3% of the target's max HP** on every hit during her Ultimate, capped at 90%, and cut the target's max HP by that same amount.
 
-[progression.md](progression.md) argues that on Infinite Stages, where enemy defence climbs with no ceiling, damage that ignores defence is the only kind that never stops working. Her Ultimate fires **10 ghosts for 10s**, and Rolan's clone fires 10 more. So +10 turns the account's highest-volume Ultimate into a defence-ignoring one. **No other EX level owned or reachable does that.** It costs **600 Tidal Essence** to reach +5 and then **375 Temporal Essence** to reach +10.
+[progression.md](progression.md) argues that on Infinite Stages, where enemy defence climbs with no ceiling, damage that ignores defence is the only kind that never stops working. Her Ultimate fires **10 ghosts for 10s**, and Rolan's clone fires 10 more. So +10 turns the account's highest-volume Ultimate into a defence-ignoring one. **No other EX level still to buy does that.** Faramor's Bitter Requiem does the same trick for a whole comp, but it is already unlocked, so no spend is needed to get it and its levels buy percentage points rather than a new effect. It costs **600 Tidal Essence** to reach +5 and then **375 Temporal Essence** to reach +10.
 
-**The eighth EX weapon is one tier away on eight heroes, and two of them are far cheaper than the rest.** Daimon, Hugin, **Zanie**, **Faramor**, **Thador**, **Kruger**, **Solise** and **Galahad** are all **Mythic**.
+**The ninth EX weapon is one tier away on seven heroes, and two of them are far cheaper than the rest.** Daimon, Hugin, **Zanie**, **Thador**, **Kruger**, **Solise** and **Galahad** are all **Mythic**.
 
 **Solise and Galahad are the picks, and the price is why.** They are the only two **S-Level** heroes in that list, so Mythic to Mythic+ costs each of them **2 Soul Sigils and 100 Faction Acorns**, the price every EX weapon on this account has already paid. Every other name on the list is A-Level at **12 sigils**, six times as many, and Daimon's Level is `unverified`.
 
@@ -144,7 +124,7 @@ At **+10** her ghosts deal extra **true damage worth 3% of the target's max HP**
 
 **Galahad still goes first on the fights.** She carries four fielded comps against three, and crossing her to Mythic+ lets the account field allclash's King Croaker meta lineup whole for the first time. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md), [../mechanics/heroes/solise.md](../mechanics/heroes/solise.md) and [../mechanics/king-croaker.md](../mechanics/king-croaker.md).
 
-**Faramor and Kruger stay the cheapest to *reach*, not to buy**, because the Dream Store sells their copies for fragments rather than sigils. **Zanie, Thador, Solise and Galahad all need a banner.** Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/recruitment.md](../mechanics/recruitment.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**Kruger stays the cheapest to *reach*, not to buy**, because the Dream Store sells his copies for fragments rather than sigils. **Zanie, Thador, Solise and Galahad all need a banner.** Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/recruitment.md](../mechanics/recruitment.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 **Kruger's weapon is the one to skip even so.** Its shield and control immunity fire **only while no ally stands within 1 tile of him**, and the Tower of Will comp puts Antandra and Kordan at range 1 beside him, so 12 sigils would buy an effect that never triggers. See [../mechanics/heroes/kruger.md](../mechanics/heroes/kruger.md).
 

@@ -1,7 +1,7 @@
 # Recruitment
 
 > **Covers:** the four summon banners, their currencies, rates and pity counts, the two wishlists, and Stargaze Station.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-09
 
 Four banners. Each takes its own currency, so diamonds do not reach all of them directly. What diamonds buy, and in what order, is in [diamonds.md](diamonds.md).
 
@@ -42,7 +42,7 @@ The wishlist is live from the first pull and holds **5 slots**. Every S-Level th
 
 **A hero on the current Rate Up banner cannot be picked here.** **Eryndor is the rate-up hero**, so he is locked out of the 5 slots until that banner ends. See the section below.
 
-**S-Level Graveborn are scarce, and the account now owns both of them.** Only **Thoran** and **Shemira** are S-Level Graveborn. **Viperian is A-Level**: the Dream Store stocks him and it stocks no S-Level hero, which agrees with prydwen and three other sources against the one that read him S-Level. See [dream-store.md](dream-store.md). **Cecia is `unverified`**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn. **Silvina, Niru, Salazer and Viperian are all on the Dream Store shelf, and Niru and Viperian are already owned at Elite**, which is a surer route than an All-Hero wishlist slot. Igor is not stocked, so he stays on the wishlist. See [dream-store.md](dream-store.md).
+**S-Level Graveborn are scarce, and the account now owns both of them.** Only **Thoran** and **Shemira** are S-Level Graveborn. **Viperian is A-Level**: the Dream Store stocks him and it stocks no S-Level hero, which agrees with prydwen and three other sources against the one that read him S-Level. See [dream-store.md](dream-store.md). **Cecia is `unverified`**: afk.global lists her S-Level, playafkjourney lists her A-Level. Silvina, Niru, Salazer and Igor are A-Level Graveborn. **Silvina, Niru, Salazer and Viperian are all on the Dream Store shelf, and Silvina, Niru and Viperian are already owned**, Silvina at Epic and the other two at Elite, which is a surer route than an All-Hero wishlist slot. Igor is not stocked, so he stays on the wishlist. See [dream-store.md](dream-store.md).
 
 ## All-Hero Recruitment
 
@@ -134,7 +134,7 @@ The fourteen S-Level heroes owned in the four eligible factions, by what the nex
 
 **Slot 5 runner-up: Shakir.** Newly owned at Epic, **A PvE, A+ Dream Realm, A PvP** [allclash, 2026-08-26, rates a built hero], and Lupine Aura cuts 20% damage taken and adds 10 Haste for every ally within 2 tiles. He is the first name back in when Solise reaches Mythic+, because that is the moment her slot stops buying a skill. Put him in the Tower of Will comp first, so his copies have a fight to pay into. See [heroes/shakir.md](heroes/shakir.md) and [../account/teams.md](../account/teams.md).
 
-**Smokey & Meerky stay off, at ~1 sigil, and that is the one place price does not decide.** Enhance Force is a damage rider on a skill they already cast; the Mythic+ step Galahad and Solise are buying is a skill that does not exist yet. They are also already **Supreme with the weapon at +4**, the best-invested Mauler on the account, and Mauler still holds slot 4. See [heroes/smokey-meerky.md](heroes/smokey-meerky.md).
+**Smokey & Meerky stay off at ~1 sigil, and the case for them has got stronger without winning the slot.** Their weapon has reached **+10**, the Supreme ceiling, so it is the first on the account that no Essence can raise. Supreme+ would therefore buy two things rather than one: Enhance Force, and the +11 to +15 band on a maxed weapon. It still loses to Galahad and Solise, because the **Mythic+** step those two are buying is a skill that does not exist yet, while Enhance Force is a rider on a skill the pair already cast and the weapon band is stats. They remain the best-invested Mauler on the account, and Mauler still holds slot 4. See [heroes/smokey-meerky.md](heroes/smokey-meerky.md) and [../account/equipment.md](../account/equipment.md).
 
 **Atalanta stays off for the same reason Shakir does.** S-Level Lightbearer Marksman at **Epic**, with Hero Focus, Sleight of Hand and Enhance Force all dark, so she is four sigils from anything switching on. **Tower of Light is cleared at 90 of 90**, so her faction has no locked mode left to grow into either. See [heroes/atalanta.md](heroes/atalanta.md) and [../account/progression.md](../account/progression.md).
 
@@ -142,7 +142,7 @@ The fourteen S-Level heroes owned in the four eligible factions, by what the nex
 
 **The five now spread two Graveborn, two Wilder and one Mauler.**
 
-**Graveborn depth beyond those two does not come from this banner, and it does not need the wishlist either.** Thoran and Shemira are the only clean S-Level Graveborn picks and both are owned. The rest of the faction is A-Level, and **Viperian, Silvina, Niru and Salazer are all stocked in the Dream Store**, bought outright for Dream Fragments instead of gambled on a wishlist slot. **Viperian and Niru are owned**, so the shelf now sells their ascensions. That is where Tower of Eternity depth comes from. See [dream-store.md](dream-store.md).
+**Graveborn depth beyond those two does not come from this banner, and it does not need the wishlist either.** Thoran and Shemira are the only clean S-Level Graveborn picks and both are owned. The rest of the faction is A-Level, and **Viperian, Silvina, Niru and Salazer are all stocked in the Dream Store**, bought outright for Dream Fragments instead of gambled on a wishlist slot. **Viperian, Niru and Silvina are owned**, so the shelf now sells their ascensions. That is where Tower of Eternity depth comes from. See [dream-store.md](dream-store.md).
 
 The scaling-carry build also needs **Ulmus**, who is A-Level and belongs on the All-Hero wishlist, never on an Epic letter. The Dream Store does not stock him. See [team-archetypes.md](team-archetypes.md) and [dream-store.md](dream-store.md).
 

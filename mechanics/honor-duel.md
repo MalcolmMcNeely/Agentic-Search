@@ -1,7 +1,7 @@
 # Honor Duel
 
 > **Covers:** how an Honor Duel run works, the four starting combos, the two-stage deploy, the Duel Store, the mode's own hero pool and per-hero modifiers, and how to pick.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-08
 
 Honor Duel is fair-play PvP. The account roster does not enter it. Every run hands you game-provided heroes and you build from there, so nothing in `account/` is relevant to a pick here.
 
@@ -51,7 +51,7 @@ Two rules make a hero's open-roster reputation the wrong instrument in here, and
 
 | Hero | Modifier, Honor Duel only |
 | --- | --- |
-| Silvina | +20% damage dealt, 10% less damage taken |
+| **Silvina, owned** | **+20% damage dealt, 10% less damage taken.** The largest positive modifier in the table, and she is Graveborn, one of the four factions this shop stocks. See [heroes/silvina.md](heroes/silvina.md) |
 | Valen | +15% damage dealt, and less damage taken. `unverified`: the patch note garbles the second figure |
 | Gwyneth | 15% less damage dealt, 10% more damage taken, ATK SPD -20 |
 | Cyran | 15% less damage dealt, 10% more damage taken, Haste -20 |
