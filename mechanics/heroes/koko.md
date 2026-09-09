@@ -1,7 +1,7 @@
 # Koko
 
 > **Covers:** Koko kit, stats and best use.
-> **Updated:** 2026-09-04
+> **Updated:** 2026-09-09
 
 - **Faction:** Mauler
 - **Class:** Support
@@ -36,7 +36,9 @@ Campaign and PvP. Damage mitigation plus healing.
 
 **PvP, rated S** [allclash, 2026-08-26, investment not stated], confirmed on a re-read of that page. The kit argument above stands without it.
 
-**She is the first swap into both Arena comps that get wiped rather than out-damaged**, the defence and attack A, and she is the standing swap on the Tower of Will comp. She is Mauler, so the cost is the faction cap and nothing else.
+**She holds the sustain slot in the Arena defence and in Arena attack B**, and she is the first swap into attack A if that comp gets wiped rather than out-damaged. She is also the standing swap on the Tower of Will comp. She is Mauler, so the cost is the faction cap and nothing else.
+
+**A wide enemy Ultimate is what puts her ahead of a bigger healer.** Full Energy reads no tile, so the team can spread as far as the rows allow, where an aroma or a circle pays only to allies bunched around one tile. Against Gaia Force, which hits 7 times within 3 tiles, that spacing is the whole fight. See [taichi-agumon.md](taichi-agumon.md) and [../../account/teams.md](../../account/teams.md).
 
 **Arena flatters her, because it caps hero levels at 151 plus about 10% and leaves unlocked skills alone.** She is **Legendary+**, so her Hero Focus is live, which is more than three of the five heroes in attack A can say. Her mitigation is also a percentage, so the cap does not shrink it. See [../arena.md](../arena.md) and [../../account/teams.md](../../account/teams.md).
 

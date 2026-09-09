@@ -124,7 +124,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 **Eironn is out, and the reason that used to keep him out is gone.** His battle-start pull needed Mythic+ and he is now **Supreme with the weapon at +5**, so it fires. What keeps him out now is the faction maths: he is Wilder, and dropping any of these five for him breaks the 5-count that pays the +22%. Worth one run to test against the current five, not worth assuming. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 ---
 
-## PvP, Arena, defence — Graveborn stall — `proposed`
+## PvP, Arena, defence — Graveborn stall against a wide Ultimate — `proposed`
 
 **Purpose:** the one saved Arena Defence Team, which every attacker fights. See [../mechanics/arena.md](../mechanics/arena.md) and [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
 
@@ -132,48 +132,56 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | --- | --- | --- | --- | --- | --- | --- |
 | Front left | Thoran | Graveborn | Tank | Physical | 1 | Legendary |
 | Front right | Daimon | Graveborn | Tank | Magic | 3 | Mythic |
-| Back centre | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme, EX +10 |
-| Back left, inside the aroma | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme, EX +1 |
-| Back right, inside the aroma | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
+| Back left end | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme, EX +1 |
+| Back centre | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
+| Back right end | Koko | Mauler | Support | Physical | 4 | Legendary+ |
 
 **Artifact:** Awakening Spell +9. Both effect steps are live, and its stat line is the largest passive defensive one of the six, reaching +4.2% ATK and +26.4% to both DEF stats. **A percentage is the right kind of bonus for this mode**, because Arena caps the stats it multiplies but not the multiplier. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-**Faction bonus: +18%.** Four Graveborn, with Smokey & Meerky the odd one out. A fifth Graveborn would pay +22%, and no Graveborn on the roster replaces a healer for 4%.
+**Faction bonus: +18%.** Four Graveborn, with Koko the odd one out.
 
-**Archetype: sustain, built to hold the clock.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Archetype: mitigation, built to hold the clock.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+
+### The attacking meta this team is shaped against
+
+**The mode is decided by one wide Ultimate.** Attackers arrive on **Taichi & Agumon**, whose Gaia Force hits **7 times within 3 tiles** of its target and **cannot be interrupted mid-cast**, and whose Recovery Shield keeps WarGreymon alive through the answer. Confirmed from the account. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+
+**So the sustain slot is scored on whether it survives that cast, not on how much it heals.** A heal centred on a tile makes the team stand inside a 3-tile circle, which is the exact shape Gaia Force is priced for. **Koko holds the slot because her mitigation reads no tile at all.** Full Energy gives every ally **45 to 55% damage reduction for 12s** wherever they stand, cannot be dispelled, and **converts everything it blocks into true damage**, so the wide Ultimate pays for its own answer. She is **S in PvP** [allclash, 2026-09-08, references Mythic+, Supreme+ and EX priority] and **Legendary+**, so her Hero Focus and its +12 Haste are live, which is what brings the cooldown back. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+
+**Smokey & Meerky are the account's largest sustain block and they are out for this reason alone.** The aroma is 2 tiles wide around their own tile and wants three allies inside it, so fielding them is choosing the cluster. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
 
 ### This team does not have to kill anything
 
 **The defender wins the timeout.** An attacker who does not kill all five before the clock runs out loses the fight. So every slot here is scored on seconds added and nothing else, and the damage this team happens to deal is a bonus rather than the plan. See [../mechanics/arena.md](../mechanics/arena.md).
 
-**Every hero here is Mythic or better except Thoran.** That is the whole selection rule, because Arena caps hero levels at a baseline of 151 plus about 10% and leaves unlocked skills alone. Ascension is the only investment that crosses into the mode, so the five best-ascended heroes that fit the shape are the five that go in.
+**Every hero here is Legendary+ or better.** That is the selection rule, because Arena caps hero levels at a baseline of 151 plus about 10% and leaves unlocked skills alone. Ascension is the only investment that crosses into the mode, so the best-ascended heroes that fit the shape are the ones that go in.
 
 ### What each hero is here to do
 
-- **Thoran** is the clock. **Resurrection** brings him back once at 40% HP, which is a whole second frontline the attacker has to chew through twice. **Soul Plunder** steals 18% of the biggest enemy's current HP into his own max HP and leaves that enemy taking 13% more damage for the rest of the fight. **Soul Retaliation** turns the damage he absorbed while charging into damage back out, and cannot be interrupted.
-- **Daimon** is the shield engine. He drains to build shields and hands them to bonded allies while cutting incoming damage, and his Ultimate is true damage scaled to target max HP.
-- **Smokey & Meerky** are the heal. The aroma restores 21% of their ATK per second to everyone standing in it, raises those allies' ATK by 16%, and feeds the pair 5 Energy a second per ally inside. **Withering Potion** widens it a tile and drains enemies caught in it. At **Supreme with EX +10** this is the account's largest sustain block and it is finished.
-- **Bonnie** steals the attacker's clock directly. **Aging** cuts enemy **Haste and ATK** and spreads to nearby foes, and her Ultimate stuns anything carrying it. Slowing an attacker is the same as shortening the fight, which is the only thing this team is trying to do.
-- **Shemira** needs no healing. Her ghosts heal her for 50% + 5% of the damage they deal, so she holds a back slot without spending Smokey's output, and **Spectral Barrier** gives her a 250% shield that detonates on expiry.
+- **Thoran** is the clock. **Resurrection** brings him back once at 40% HP, which is a whole second frontline the attacker has to chew through twice. **Soul Plunder** picks the enemy with the **highest HP**, which after a digivolve is WarGreymon, drains 18% of its current HP into his own max HP and leaves it taking 13% more damage for the rest of the fight. **Soul Retaliation** turns the damage he absorbed while charging into damage back out, and cannot be interrupted.
+- **Daimon** is the shield engine. He drains to build shields and hands them to bonded allies while cutting incoming damage, and his Ultimate is true damage scaled to target max HP, which rises as the attacker's carry doubles its own HP.
+- **Koko** is the answer to the wide Ultimate. Team-wide damage reduction with no positional requirement, converted afterwards into true damage.
+- **Bonnie** steals the attacker's clock directly. **Aging** cuts enemy **Haste and ATK** and spreads to nearby foes, and her Ultimate stuns anything carrying it. A Haste cut delays every enemy Ultimate, and an ATK cut shrinks the one that lands.
+- **Shemira** needs no healing. Her ghosts heal her for 50% + 5% of the damage they deal, so she holds a back slot without spending anyone's output, and **Spectral Barrier** gives her a 250% shield that detonates on expiry.
 
 ### Placement
 
 - **Thoran and Daimon take opposite ends of the front row**, so one wide Ultimate cannot catch both. Thoran is range 1 and has to be there; Daimon at range 3 could sit deeper, and does not, because two tanks in the front row is the shape the mode rewards.
-- **Smokey & Meerky sit centre-back with Bonnie and Shemira within 2 tiles**, which is the aroma. Three non-summoned allies inside it is also what switches on their Hero Focus bonus of up to +15% ATK, and their ATK is what every heal and buff is a multiple of.
-- **Pick the map with the most low walls, and put the back three behind them.** A low wall stops every hero walking through it and lets ranged units shoot over. Bonnie at 7, Smokey at 8 and Shemira at 4 all shoot over; an attacking melee carry has to walk around. **The map saved here is the map every attacker gets**, so this is the one formation decision that is never taken away. See [../mechanics/formation.md](../mechanics/formation.md).
+- **Spread the back three to the widest spacing the row allows.** Nothing in this team reads a neighbouring tile, so the spacing is free. Gaia Force is priced at 3 tiles, so the aim is that no single cast catches all three.
+- **Pick the map with the most low walls, and put the back three behind them.** A low wall stops every hero walking through it and lets ranged units shoot over. Bonnie at 7, Shemira at 4 and Koko at 4 all shoot over; an attacking WarGreymon is range 1 after the digivolve and has to walk around. **The map saved here is the map every attacker gets**, so this is the one formation decision that is never taken away. See [../mechanics/formation.md](../mechanics/formation.md).
 
 ### Weak points
 
-1. **The back three are a 3-tile cluster and one wide Ultimate reaches all of them.** The aroma is what makes the team survive and it is also what bunches it. The account's confirmed losses are to teams whose Agumon casts Gaia Force, which hits 7 times within 3 tiles. **There is no placement that fixes this**, only the trade: take the heal and accept the cluster, or spread out and lose the heal. Field it and watch whether losses are wipes.
+1. **The mitigation runs on a cooldown where an aroma runs continuously.** Between casts of Full Energy this team has no sustain beyond Shemira healing herself and Daimon's shields. A grinding attack that never bursts is the fight this shape is worst at, and it is not the fight the current meta brings.
 2. **Thoran is Legendary, so two of his five pieces are dark.** Hero Focus is **2 Soul Sigils** away and Soul Pact needs Mythic+. He is in for his three base skills, all of which are live.
 3. **There is no hard control here.** Bonnie's stun needs Aging on the target first. An attacker that bursts through the front row before Aging spreads is not slowed by anything.
 4. **`unverified`: whether the Arena baseline drags artifact levels down with hero levels.** If it does, Awakening at +9 is not Awakening at +9 in this mode. See [../mechanics/arena.md](../mechanics/arena.md).
 
 ### Swaps
 
-**Koko in for Smokey & Meerky, if the cluster is what loses the fights.** Full Energy gives the whole team 45 to 55% damage reduction for 12s with no positional requirement at all, then converts everything it blocked into true damage. She is **S in PvP** [allclash, 2026-09-08, references Mythic+, Supreme+ and EX priority] against Smokey's **A**, and she is Mauler too, so the faction bonus does not move. The cost is that mitigation runs on a cooldown and an aroma runs continuously. See [../mechanics/heroes/koko.md](../mechanics/heroes/koko.md).
+**Silvina in for Thoran, to stop the digivolve rather than survive it.** Her First Strike teleports to the closest enemy in a symmetrical position at battle start for 340% and a **5s stun**, and Shadow Slayer strips **300 Energy**, which is the only tool on the roster that reaches an enemy Agumon before its first Ultimate. She is the fifth Graveborn, so the bonus rises to **+22%**. The cost is that she is **Epic**, so her Mythic+ Shield of Light is dark and she is left alone in the enemy formation without it, and `unverified` whether her skill numbers scale off the capped Arena level rather than the roster's 265. See [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
 
-**Silvina in for Thoran, against attackers who win with one Ultimate.** Her Ultimate strips **300 Energy** and her opener stuns for 5s, and she is the fifth Graveborn, so the bonus rises to +22%. She is **Epic**, so her Mythic+ weapon is dark, and `unverified` whether her skill numbers scale off the capped Arena level rather than the roster's 265. See [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
+**Smokey & Meerky back in for Koko, if losses stop being wipes.** They are **Supreme with EX +10** and the largest sustain block the account owns. Bring them back the moment the defeat log shows the team ground down rather than deleted, because the cluster is a liability only while a wide Ultimate is the thing arriving.
 
 ---
 
@@ -185,10 +193,43 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 | The defence shows | Bring |
 | --- | --- |
-| A shield wall, a healer, or anything built to stall | **Attack B** |
-| One carry that wipes the team, or a thin front row | **Attack A** |
+| A shield wall, a healer, an Agumon, or anything built to stall | **Attack B**, the default |
+| One carry that wipes the team, or a thin front row, and no wide Ultimate | **Attack A** |
 
 **The attacker must kill all five.** Leaving one alive hands the defender the timeout.
+
+**Attack B is the default while the meta is Agumon.** A defence built on **Recovery Shield** absorbs a burst and then recovers HP off whatever is left of the shield, and a defence built on **Gaia Force** deletes any comp standing inside 3 tiles. Attack B answers both: nothing in it bursts, five of its damage taps ignore defence, and no hero in it reads a neighbouring tile. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+
+### Attack B — Graveborn true damage
+
+| Row | Hero | Faction | Class | Damage | Range | Tier |
+| --- | --- | --- | --- | --- | --- | --- |
+| Front left | Thoran | Graveborn | Tank | Physical | 1 | Legendary |
+| Front right | Daimon | Graveborn | Tank | Magic | 3 | Mythic |
+| Back left end | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme, EX +1 |
+| Back centre | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
+| Back right end | Koko | Mauler | Support | Physical | 4 | Legendary+ |
+
+**Entities: five heroes, five tiles.** No hero here fields a second body.
+
+**Artifact:** Starshard Spell +10. Both effect steps live and the stat line at its ceiling, so the wave fires every 3 ally Ultimates for **24% of each target's current HP as true damage**.
+
+**Faction bonus: +18%.** Four Graveborn, with Koko the odd one out.
+
+**Bring this against a shield wall, a stall or an Agumon.** Everything in it ignores or outlasts a timed absorb.
+
+- **Shemira's Ultimate is ten ghosts over ten seconds, which is a stream rather than a burst.** Recovery Shield lasts 10s on a 14s cooldown, so a stream is still firing when it lapses where a burst would have been eaten whole. Her **Ghastly Tribute** is true damage worth 24% + 3% of the enemy's **max HP**, and a digivolve doubles that max HP, so the tap grows when the target does.
+- **Daimon's Ultimate** is true damage scaled to target max HP, and it grows the same way.
+- **Thoran's Soul Plunder** picks the enemy with the highest HP, which after a digivolve is WarGreymon, and leaves it taking **13% more damage for the rest of the fight**, which every other hero here then collects on.
+- **Koko's Full Energy** blocks 45 to 55% of the wide Ultimate for 12s and deals the blocked total back as **true damage**, so the enemy's own burst becomes a damage source. It reads no tile, so it costs the comp no spacing.
+- **Bonnie's Aging** cuts the defence's ATK and Haste, so a stall team heals slower and a burst team casts later and smaller.
+- **Starshard Spell** adds a fifth defence-ignoring tap, at 24% of current HP, every 3 ally Ultimates.
+
+**Placement.** Thoran and Daimon hold the front at opposite ends. **The back three spread to the widest spacing the row allows**, because no hero here reads a neighbouring tile and a wide enemy Ultimate is the thing being played around. Bonnie at 7, Shemira at 4 and Koko at 4 all shoot over a low wall.
+
+**Faramor is out of this shape, and only for the spacing.** Bitter Requiem pays **every ally standing in his circle** 75% of their own ATK as extra true damage, and Sanctified Circle stops enemies healing, which is a direct answer to Recovery Shield's recovery clause. Both prizes are collected by standing the comp inside one circle, which is the cluster Gaia Force is priced for. **Bring him back over Koko against a stall with no wide Ultimate**, where the circle costs nothing. See [../mechanics/heroes/faramor.md](../mechanics/heroes/faramor.md).
+
+**Every hero here is Legendary+ or better**, so this is the shape that loses least to the Arena level baseline.
 
 ### Attack A — Dimensional double digivolve
 
@@ -208,7 +249,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Faction bonus: +22%, plus +2%.** Three Dimensional, with Phraesto and Elijah & Lailah counting as any faction. That is the cap, reached with a real 3-core.
 
-**Bring this against a defence built on one hero.** Four control taps land inside the opening: Confining Spell at 3s on the two rearmost enemies, Phraesto's **Foggy Whisper** taunting and stunning the enemy's highest damage dealer, Gabumon's freeze, and Pandora's **Panic Projection**, which scatters every unit for 5s and then cuts enemy ATK.
+**Bring this against a defence built on one hero, and only when that hero is not casting a wide Ultimate.** Four control taps land inside the opening: Confining Spell at 3s on the two rearmost enemies, Phraesto's **Foggy Whisper** taunting and stunning the enemy's highest damage dealer, Gabumon's freeze, and Pandora's **Panic Projection**, which scatters every unit for 5s and then cuts enemy ATK.
+
+**This shape pays for its own bunching, which is why it is the second pick against the current meta.** Gabumon's EX weapon fires more missiles the closer allies stand, and Stellar Bond needs a three-tile run, so the back four sit inside the radius Gaia Force is priced for. **No placement satisfies both.** Hold the Stellar Bond run to its three tiles and keep Pandora and both Phraesto bodies out of it.
 
 **Two damage types.** Agumon is Physical and the other four are Magic, so a defence stacked against one resistance cannot answer the whole comp.
 
@@ -220,34 +263,6 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 - **Keep Pandora off the line**, at the far end of the back row. **Three tiles is the narrowest a link can be. Do not widen it.**
 - **Put Agumon behind the Illusion** for the damage reduction, and **Pandora behind the true body** for the Energy Recovery Speed. Placing Phraesto draws a marker on the Illusion's tile; read it before locking.
 - **Read the walls.** Agumon is range 1 after transforming, so a **low wall** is the terrain that hurts this comp. He is the only hero here who has to close.
-
-**Gabumon's EX weapon fires more missiles the closer allies stand, and a wide enemy Ultimate punishes exactly that.** No placement satisfies both. Hold the Stellar Bond run to its three tiles and keep Pandora and both Phraesto bodies out of it.
-
-### Attack B — Graveborn true damage
-
-| Row | Hero | Faction | Class | Damage | Range | Tier |
-| --- | --- | --- | --- | --- | --- | --- |
-| Front left | Thoran | Graveborn | Tank | Physical | 1 | Legendary |
-| Front right | Daimon | Graveborn | Tank | Magic | 3 | Mythic |
-| Middle | Faramor | Wilder | Rogue | Physical | 1 | Supreme, EX +1 |
-| Back left | Shemira | Graveborn | Mage | Magic | 4 | Supreme, EX +1 |
-| Back right | Bonnie | Graveborn | Marksman | Magic | 7 | Supreme, EX +1 |
-
-**Artifact:** Starshard Spell +10. Both effect steps live and the stat line at its ceiling, so the wave fires every 3 ally Ultimates for **24% of each target's current HP as true damage**.
-
-**Faction bonus: +18%.** Four Graveborn, with Faramor the odd one out.
-
-**Bring this against a shield wall or a stall.** Everything in it ignores or outlasts a timed absorb.
-
-- **Faramor's Bitter Requiem lets every ally inside his magic circle deal extra true damage worth 75% of their own ATK.** It is the only Exclusive Equipment on the account that pays the other four heroes, and it is already unlocked.
-- **Shemira's Ghastly Tribute** is true damage worth 24% + 3% of the enemy's max HP, and her Ultimate is ten ghosts over ten seconds, which is a stream rather than a burst. A timed shield absorbs a burst and expires against a stream.
-- **Thoran's Soul Plunder** leaves the biggest enemy taking **13% more damage for the rest of the fight**, which every other hero here then collects on.
-- **Daimon's Ultimate** is true damage scaled to target max HP.
-- **Bonnie's Aging** cuts the defence's ATK and Haste, so a stall team that was going to out-heal the attack heals slower.
-
-**Placement.** Thoran and Daimon hold the front at opposite ends. **Faramor stands in the middle row with the back two inside his circle**, which is the whole reason he is here. Bonnie at 7 and Shemira at 4 stay in the back row and shoot over any low wall.
-
-**Every hero here is Mythic or better except Thoran**, so this is the shape that loses least to the Arena level baseline.
 
 ### The tier gate is the open problem on Attack A
 
@@ -268,8 +283,8 @@ All letters [allclash, 2026-09-08, references Mythic+, Supreme+ and EX Weapon pr
 ### Weak points
 
 1. **The map changes between one challenge and the next**, and it is the defender's choice. A low wall is the one that bites Attack A, because Agumon ends the fight at range 1.
-2. **`unverified`: whether skill numbers scale off the capped Arena level.** Skills stay unlocked, but many skills level their percentages against the hero's level, and in Arena that level is about 166 rather than 265. If they scale, several heroes across both attack shapes are firing weaker numbers than their kit files record. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
-3. **`unverified`: whether WarGreymon's "unaffected" is control immunity.** If it is not, enemy control still bites Agumon after his digivolve, and Attack A can trade a defensive slot for damage. It cuts both ways.
+2. **`unverified`: whether WarGreymon's "unaffected" is control immunity.** It decides whether an enemy Agumon can be stunned after its digivolve, and therefore whether every counter has to land in the first seconds. **Read it off one fight, because both attack shapes and the defence rest on it.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+3. **`unverified`: whether skill numbers scale off the capped Arena level.** Skills stay unlocked, but many skills level their percentages against the hero's level, and in Arena that level is about 166 rather than 265. If they scale, several heroes across both attack shapes are firing weaker numbers than their kit files record. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
 4. **Attack A has no dedicated healer**, surviving on mitigation, invincibility and Agumon's own shield recovery. Against the clock that is the right trade; against sustained damage it is not, which is the other reason to take Attack B.
 5. **Both carries in Attack A are Dimensional, and Dimensional does not wildcard. Confirmed from the account.** Losing any one of the three drops the bonus.
 6. **`?` What counts as "behind him"** for Agumon's opening buff. If it is his column, Gabumon has to stand directly behind him. **One battle settles it: watch whether Gabumon's bar jumps at the start.**
@@ -277,13 +292,17 @@ All letters [allclash, 2026-09-08, references Mythic+, Supreme+ and EX Weapon pr
 
 ### Swaps
 
-**Koko in for Elijah & Lailah in Attack A, if the comp gets wiped rather than out-damaged.** Full Energy gives the team **45 to 55% damage reduction for 12s** and converts everything it blocked into true damage, and she is **Legendary+**, so her Hero Focus is live where Elijah & Lailah's is not. She is **S in PvP** against their S+. The cost is the faction cap: she is Mauler, so the bonus falls from +22% to +18%.
+**Silvina in for Thoran in Attack B, against a defence whose Agumon has not digivolved yet.** Her opener teleports to the closest enemy in a symmetrical position for a **5s stun**, and Shadow Slayer strips **300 Energy**, which is the roster's only reach into the pre-digivolve window. She is the fifth Graveborn, so the bonus rises to **+22%**. She is **Epic**, so her Mythic+ shield is dark and she trades herself for the stun. See [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
 
-**Rolan in for Elijah & Lailah in Attack A, to double the Gaia Force.** His clone casts an ally's Ultimate at **80% of their base stats**, copying Supreme tier and an EX weapon with it. Both are Celestial, so the bonus does not move. He is out today because the clone arrives **after** the digivolve while the Haste arrives before it, and he is **Epic**, two tiers below the version his S letter describes.
+**Faramor in for Koko in Attack B, against a stall with no wide Ultimate.** Bitter Requiem pays every ally in his circle 75% of their own ATK as extra true damage and his circle blocks enemy healing, which is the strongest anti-stall tool the account owns. The cost is that the comp has to stand inside one circle.
 
-**Eironn in for Pandora in Attack A, against a spread defence.** He is **Supreme with EX +5** and **A+ in PvP**, and Howling Hurricane pulls enemies together for Gaia Force to catch. The cost is the Dimensional 3-core, which falls to two and drops the bonus to +18% with the two wildcards.
+**Koko in for Elijah & Lailah in Attack A, if that comp gets wiped rather than out-damaged.** She is **Legendary+**, so her Hero Focus is live where Elijah & Lailah's is not, and she is **S in PvP** against their S+. The cost is the faction cap: she is Mauler, so the bonus falls from +22% to +18%. She cannot hold Attack B and Attack A on the same ticket, but the two shapes are never fielded together.
+
+**Eironn in for Pandora in Attack A, against a spread defence.** He is **Supreme with EX +5** and **A+ in PvP**, and Howling Hurricane pulls enemies together. The cost is the Dimensional 3-core, which falls to two and drops the bonus to +18% with the two wildcards.
 
 ### Notes
+
+**The Arena defence and Attack B are the same five heroes, and they differ in artifact and in job.** The defence carries Awakening Spell +9 and is scored on seconds survived; Attack B carries Starshard Spell +10 and is scored on killing all five. A correction to Thoran, Daimon, Bonnie, Shemira or Koko belongs in both entries. Arena allows a hero in both, unlike Supreme Arena. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md).
 
 **Attack A and the AFK Stages push comp share four heroes and differ in one.** Pandora replaces Rolan. A correction to Agumon, Gabumon, Phraesto or Elijah & Lailah belongs in both entries.
 

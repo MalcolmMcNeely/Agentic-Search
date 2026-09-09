@@ -1,6 +1,6 @@
 # PvP team building
 
-> **Covers:** why the general team-building method gives wrong answers in PvP, the four rules that replace it, and how to build an Arena defence and an Arena attack separately.
+> **Covers:** why the general team-building method gives wrong answers in PvP, the four rules that replace it, the Agumon meta the account is playing into, and how to build an Arena defence and an Arena attack separately.
 > **Updated:** 2026-09-09
 
 [team-building.md](team-building.md) builds a team to beat the game. PvP is a different problem, and three of that method's steps mislead here. This file replaces them. Everything it does not overrule still applies.
@@ -32,6 +32,17 @@ The general method ends with one comp per purpose. Arena is a **counter-picking 
 ### 4. A comp that loses to one enemy hero is answered by a counter, not by a bigger version of itself
 
 When the account loses to a defence built on a hero, the reply is the hero that shuts that hero down. Fielding the same engine with more money spent on it cannot work in a mode where the money is capped away.
+
+## The meta this account is playing into
+
+**Arena is decided by Taichi & Agumon, from both sides of the fight. Confirmed from the account.** Two halves, and each one overrides a default above.
+
+- **Recovery Shield keeps WarGreymon alive through the answer.** It is worth 700% to 1000% for **10s on a 14s cooldown**, and on expiry it returns HP worth 150% + 10% of whatever is left of it. **So an opening burst is the wrong attack**: it is absorbed whole and then partly refunded. Bring a stream and true damage, and bring a heal block if the comp can afford one.
+- **Gaia Force hits 7 times within 3 tiles and cannot be interrupted mid-cast.** So **spacing beats sustain**. Any hero whose value is collected by standing allies around one tile — an aroma, a magic circle, a link, a buff that reads adjacency — is choosing the radius the enemy Ultimate is priced for. **Prefer mitigation that reads no tile**, and place the back row as wide as it goes.
+
+**Both halves point at the same slot.** The sustain hero is the one the meta chooses, not the carry.
+
+`unverified`: whether WarGreymon is control-immune for the 10s the shield holds. If it is, **every counter aimed at him has to land before his first Ultimate**, which leaves an opening stun and an Energy strip as the only tools that reach. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md).
 
 ## Building the defence
 
