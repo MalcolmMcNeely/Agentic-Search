@@ -37,6 +37,10 @@ Until she crosses that step, [Rolan](rolan.md) holds the Ultimate-clone job. His
 
 Campaign and boss. Top-tier magic damage from the back row. She is the account's strongest magic damage dealer, and she carries the Tower of Will comp in [../../account/teams.md](../../account/teams.md). At Mythic+ she also becomes a boss amplify engine. See [../team-archetypes.md](../team-archetypes.md).
 
+**She also holds a back slot in the running Arena attack comp**, where Temporal Field is the third area Ultimate landing on the stack Eironn gathers. At range 10 she never has to move, which is what lets an off-faction hero hold a slot in a Dimensional comp. See [../../account/teams.md](../../account/teams.md).
+
+**Two Arena cautions ride on that slot.** She is one of the **2 rearmost** heroes an enemy Confining Spell imprisons from the 3s mark, so she and Gabumon should not both stand in the deepest row. And an opposing Galahad at **Mythic+** holds Time Recast where this copy does not, which is a live matchup on the ladder rather than a hypothetical. See [../artifacts.md](../artifacts.md).
+
 ## Notes
 
 **`disputed`: afk.global describes her Ultimate as buffing "Magister Merlin's skills" by 20% strength and 100% duration, with an Ex-rarity shadow that repeats each Merlin cast.** No skill of that name is on her profile. The Ex-rarity clause dates the text to a hero at full Exclusive Equipment, which needs Mythic+, so this may be another gated effect rather than an error. Treat the Merlin text as unusable for team building either way.

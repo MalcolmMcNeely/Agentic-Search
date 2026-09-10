@@ -37,6 +37,8 @@ allclash reads him as an early-game engine rather than a lasting meta pick: stro
 
 **The step worth saving for is +10, which doubles the immobilise from 3s to 6s.** That is the whole point of him, because the pull exists to hold a stack still while an AoE ally deletes it. +15 lifts the free cast to 80% damage, which is the smaller prize.
 
+**He is the engine of the running Arena attack comp, and that makes +10 an Arena buy as well as a campaign one.** Arena caps hero levels and leaves skills alone, so the pull is one of the few things this account owns that arrives at full strength there. **The free cast is what makes him Arena-proof twice over**: it needs no Energy, so it fires through an opening the enemy has spent on control, and he stands in the middle row, so an enemy Confining Spell aimed at the **2 rearmost** heroes never reaches him. See [../../account/teams.md](../../account/teams.md) and [../arena.md](../arena.md).
+
 ## Notes
 
 `disputed` on class. afk.global lists him as **Ranger**, a class that does not exist in the six-class list in [../equipment-and-charms.md](../equipment-and-charms.md). The Fandom wiki lists him as **Rogue**. Written as Rogue.

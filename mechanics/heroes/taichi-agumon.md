@@ -63,7 +63,9 @@ Everything except Legend Trial, which bars Dimensional heroes. Dream Realm and S
 
 ## Notes
 
-Pairs directly with Yamato & Gabumon. **He also leads Arena attack A** in [../../account/teams.md](../../account/teams.md), where Pandora's invincible box is what carries him through the pre-digivolve window.
+Pairs directly with Yamato & Gabumon. **He also carries the running Arena attack comp** in [../../account/teams.md](../../account/teams.md), where Eironn's free opening pull gathers the enemy into the radius Gaia Force is priced for.
+
+**The pre-digivolve window is still where that comp loses, and the account's damage review is the evidence.** In the recorded loss **Gabumon led the damage at 1,531,000 and he did not**, though both pairs stand at Supreme+ with EX +10 and Gaia Force is the larger Ultimate. When the smaller of two equally invested heroes leads, the larger one did not reach its window. **Pandora's invincible box is the swap that covers it.** See [pandora.md](pandora.md).
 
 **He is the one hero in that comp the Arena level baseline does not weaken.** Arena caps hero levels at 151 plus about 10%, and leaves unlocked skills alone. At **Supreme+** every skill he has is live, so he arrives whole where the Epic-tier heroes beside him do not. See [../arena.md](../arena.md).
 

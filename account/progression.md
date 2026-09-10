@@ -72,7 +72,12 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 **Arena caps every hero at a baseline of 151 plus about 10% and adjusts equipment to match, and leaves unlocked skills alone.** So the whole of the table above — Resonance Level 240, Resonance Synergy +25, 22,636,000 power, thirty-six maxed gear slots — is worth **nothing** inside the mode, and **ascension tier is worth everything**. See [../mechanics/arena.md](../mechanics/arena.md).
 
-**That inverts the spend order for Arena alone.** The three cheapest ascensions on the account are all in the Arena attack comp: **Phraesto at 3 Soul Sigils, Elijah & Lailah at 2, and Pandora one step from Legendary+.** Each switches on a Hero Focus the guide letters already assume. **Thoran is a fourth, at 2 sigils**, and he holds the Arena defence.
+**That inverts the spend order for Arena alone.** Two of the account's cheapest ascensions sit in the running Arena attack comp, and they buy different things.
+
+- **Galahad, Mythic to Mythic+, 2 Soul Sigils and 100 Faction Acorns.** It unlocks **Time Recast**, which spawns an untargetable 12s shadow of the ally behind her **with extra Initial Energy**. Arena is a race to cast the first area Ultimate, so a skill that hands the carry Energy before the fight starts is the one purchase that acts on the sum the mode is actually scored by. The defence that beat this account fields a Galahad that already has it. See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
+- **Phraesto, Epic to Legendary+, 3 Soul Sigils.** It switches on the Hero Focus his S+ letter assumes: DEF on both bodies, and Energy whenever either is hit.
+
+**Thoran is a third, at 2 sigils**, and he holds the Arena defence and the second attack shape. **Elijah & Lailah at 2 sigils and Pandora at one step no longer sit in a running Arena comp**, so their sigils are bought for other modes, or to make Pandora ready for the swap that covers Agumon's pre-digivolve window. See [teams.md](teams.md).
 
 **Resonance Synergy stays the best spend on the account overall**, because it pays in every other mode and Arena is one mode. It simply pays nothing here.
 
@@ -82,11 +87,11 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 | Artifact | Level | Effect steps live | The comps it holds |
 | --- | --- | --- | --- |
-| Starshard Spell | +10 | +4 and +8 | AFK Stages push, **Arena attack B**, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
-| Confining Spell | +9 | +4 and +8 | **Arena attack A**, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
+| Starshard Spell | +10 | +4 and +8 | AFK Stages push, the **second Arena attack shape**, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
+| Confining Spell | +9 | +4 and +8 | the **running Arena attack comp** `?`, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
 | Awakening Spell | +9 | +4 and +8 | **Arena defence**, Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
 | Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
-| Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5 |
+| Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5, and the **Arena attack matchup against an enemy Confining Spell** |
 | Ironwall Spell | +4 | +4 | the sixth Battle Drills team |
 
 **No tier letter appears in this table on purpose.** No current source ranks the six artifacts at all, and the one ranking inside the 12-month window is a single blended list with no mode attached to any letter, so a letter here could never be dated or traced back. The column that replaces it is the one the account can source itself: which comps the artifact actually holds. See [../mechanics/artifacts.md](../mechanics/artifacts.md) and [../mechanics/tier-list-sources.md](../mechanics/tier-list-sources.md).

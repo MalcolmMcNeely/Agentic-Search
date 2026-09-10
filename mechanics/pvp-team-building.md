@@ -1,6 +1,6 @@
 # PvP team building
 
-> **Covers:** why the general team-building method gives wrong answers in PvP, the four rules that replace it, the Agumon meta the account is playing into, and how to build an Arena defence and an Arena attack separately.
+> **Covers:** why the general team-building method gives wrong answers in PvP, the five rules that replace it, the Agumon meta the account is playing into and the opening-seconds race that decides it, and how to build an Arena defence and an Arena attack separately.
 > **Updated:** 2026-09-09
 
 [team-building.md](team-building.md) builds a team to beat the game. PvP is a different problem, and three of that method's steps mislead here. This file replaces them. Everything it does not overrule still applies.
@@ -33,14 +33,22 @@ The general method ends with one comp per purpose. Arena is a **counter-picking 
 
 When the account loses to a defence built on a hero, the reply is the hero that shuts that hero down. Fielding the same engine with more money spent on it cannot work in a mode where the money is capped away.
 
-## The meta this account is playing into
+## The meta this account is playing into, and the fifth thing the general method gets wrong
 
-**Arena is decided by Taichi & Agumon, from both sides of the fight. Confirmed from the account.** Two halves, and each one overrides a default above.
+**Arena is decided in the opening seconds, by whoever casts their area Ultimate first. Confirmed from the account.** Both sides of the ladder field **Taichi & Agumon**, whose Gaia Force hits **7 times within 3 tiles** and cannot be interrupted mid-cast. Two comps that both delete a stack meet, and the one that casts second is already dead.
 
-- **Recovery Shield keeps WarGreymon alive through the answer.** It is worth 700% to 1000% for **10s on a 14s cooldown**, and on expiry it returns HP worth 150% + 10% of whatever is left of it. **So an opening burst is the wrong attack**: it is absorbed whole and then partly refunded. Bring a stream and true damage, and bring a heal block if the comp can afford one.
-- **Gaia Force hits 7 times within 3 tiles and cannot be interrupted mid-cast.** So **spacing beats sustain**. Any hero whose value is collected by standing allies around one tile — an aroma, a magic circle, a link, a buff that reads adjacency — is choosing the radius the enemy Ultimate is priced for. **Prefer mitigation that reads no tile**, and place the back row as wide as it goes.
+**So the sum to score in Arena is seconds-to-first-cast, not damage and not survival.** That is the reading the general method has no room for, and it overturns two rules a careful drafter would otherwise apply.
 
-**Both halves point at the same slot.** The sustain hero is the one the meta chooses, not the carry.
+- **Spreading out to dodge the wide Ultimate loses.** It is the obvious answer and it is the wrong one, because a spread comp casts a smaller Ultimate and still loses the race. **The account's own attack comp bunches on purpose** and wins by nuking first. See [../account/teams.md](../account/teams.md).
+- **The faction bonus is not worth a slot here.** The account's running attack comp pays **12 points of faction bonus**, taking +10% where +22% was available, to hold the heroes that win the opening. It beats the comp that took the bonus.
+
+**What actually decides the race, in order.**
+
+1. **Energy into the carry before the fight starts.** A free Ultimate, a battle-start Energy grant or an Initial Energy buff is worth more than any stat. Eironn's Howling Hurricane, Agumon's 300 Energy to Gabumon and Galahad's Time Recast all buy the same thing.
+2. **Control landing on the enemy's opening**, and surviving theirs. **An enemy Confining Spell imprisons your 2 rearmost heroes from the 3s mark**, so a back row holding both of your area casters hands the enemy the fight. **Enlightening Spell answers it**, by granting control immunity to the rearmost ally. See [artifacts.md](artifacts.md).
+3. **Only then, the size of the cast.**
+
+**Recovery Shield is the second half of the meta, and it decides the fights the race does not.** It is worth 700% to 1000% for **10s on a 14s cooldown**, and on expiry it returns HP worth 150% + 10% of whatever is left of it. **So an opening burst against a surviving WarGreymon is the wrong attack**: it is absorbed whole and then partly refunded. Where the opening did not settle the fight, bring a stream, true damage and a heal block instead.
 
 `unverified`: whether WarGreymon is control-immune for the 10s the shield holds. If it is, **every counter aimed at him has to land before his first Ultimate**, which leaves an opening stun and an Energy strip as the only tools that reach. See [heroes/taichi-agumon.md](heroes/taichi-agumon.md).
 

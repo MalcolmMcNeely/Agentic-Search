@@ -27,7 +27,7 @@ Boss and PvP. Protects one key ally while debuffing the enemy.
 
 **PvP, rated S** [allclash, 2026-08-26, investment not stated] `unverified`. The same source separately says she **beats Eironn comps in PvP**, because scattering and sealing undo a pull.
 
-She is one of the three Dimensional heroes on the account, and the only one that is not a Digimon pair. She holds the third Dimensional slot in **Arena attack A**, the shape brought against a defence built on one carry.
+She is one of the three Dimensional heroes on the account, and the only one that is not a Digimon pair. **She is the first swap into the running Arena attack comp**, taking Galahad's slot whenever Agumon is not reaching the digivolve. Boxing him covers that window and the release shortens it, and she restores the Dimensional 3-core, lifting the faction bonus from +10% to +18%. See [../../account/teams.md](../../account/teams.md) and [taichi-agumon.md](taichi-agumon.md).
 
 ## Tier gate
 
