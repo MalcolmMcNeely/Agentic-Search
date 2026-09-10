@@ -113,7 +113,7 @@ At **+10** her ghosts deal extra **true damage worth 3% of the target's max HP**
 
 [progression.md](progression.md) argues that on Infinite Stages, where enemy defence climbs with no ceiling, damage that ignores defence is the only kind that never stops working. Her Ultimate fires **10 ghosts for 10s**, and Rolan's clone fires 10 more. So +10 turns the account's highest-volume Ultimate into a defence-ignoring one. **No other EX level still to buy does that.** Faramor's Bitter Requiem does the same trick for a whole comp, but it is already unlocked, so no spend is needed to get it and its levels buy percentage points rather than a new effect. It costs **600 Tidal Essence** to reach +5 and then **375 Temporal Essence** to reach +10.
 
-**The ninth EX weapon is one tier away on seven heroes, and two of them are far cheaper than the rest.** Daimon, Hugin, **Zanie**, **Thador**, **Kruger**, **Solise** and **Galahad** are all **Mythic**.
+**The ninth EX weapon is one tier away on eight heroes, and two of them are far cheaper than the rest.** Daimon, Hugin, **Zanie**, **Thador**, **Kruger**, **Kordan**, **Solise** and **Galahad** are all **Mythic**.
 
 **Solise and Galahad are the picks, and the price is why.** They are the only two **S-Level** heroes in that list, so Mythic to Mythic+ costs each of them **2 Soul Sigils and 100 Faction Acorns**, the price every EX weapon on this account has already paid. Every other name on the list is A-Level at **12 sigils**, six times as many, and Daimon's Level is `unverified`.
 
@@ -128,7 +128,7 @@ At **+10** her ghosts deal extra **true damage worth 3% of the target's max HP**
 
 **Galahad still goes first on the fights.** She carries four fielded comps against three, and crossing her to Mythic+ lets the account field allclash's King Croaker meta lineup whole for the first time. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md), [../mechanics/heroes/solise.md](../mechanics/heroes/solise.md) and [../mechanics/king-croaker.md](../mechanics/king-croaker.md).
 
-**Kruger stays the cheapest to *reach*, not to buy**, because the Dream Store sells his copies for fragments rather than sigils. **Zanie, Thador, Solise and Galahad all need a banner.** Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/recruitment.md](../mechanics/recruitment.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
+**Kruger stays the cheapest to *reach*, not to buy**, because the Dream Store sells his copies for fragments rather than sigils. **Zanie, Thador, Kordan, Solise and Galahad all need a banner.** Kordan is the newest name here and the worst-supplied: he is A-Level at **12 sigils** and the Dream Store does not stock him, so his copies have no fragment route at all. Sigil supply is the constraint, not the tier. See [roster.md](roster.md), [../mechanics/recruitment.md](../mechanics/recruitment.md), [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md).
 
 **Kruger's weapon is the one to skip even so.** Its shield and control immunity fire **only while no ally stands within 1 tile of him**, and the Tower of Will comp puts Antandra and Kordan at range 1 beside him, so 12 sigils would buy an effect that never triggers. See [../mechanics/heroes/kruger.md](../mechanics/heroes/kruger.md).
 
@@ -136,7 +136,7 @@ At **+10** her ghosts deal extra **true damage worth 3% of the target's max HP**
 
 Per hero, 3 slots, seasonal. Dura's Trials opens on the 9th day after a season starts on the server, so charms are gated on the calendar rather than on effort. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
-The account has not reached the seasonal track yet, so no charms exist. See [progression.md](progression.md).
+The account entered Season 7 on 2026-09-10, after that 9th day had long passed, so **no charms exist and none can be earned this season**. The first chance is around 2026-10-02, on day 9 of Veil of Memories. See [progression.md](progression.md).
 
 | Hero | Slot 1 | Slot 2 | Slot 3 | Set bonus active | Tuned for |
 | --- | --- | --- | --- | --- | --- |

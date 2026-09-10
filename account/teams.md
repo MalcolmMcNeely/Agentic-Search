@@ -638,7 +638,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
 | Front | Antandra | Tank | 1 | Epic |
-| Middle | Kordan | Warrior | 1 | Legendary+ |
+| Middle | Kordan | Warrior | 1 | Mythic |
 | Middle | Kruger | Warrior | 1 | Mythic |
 | Back | Galahad | Mage | 10 | Mythic |
 | Back | Smokey & Meerky | Support | 8 | Supreme |
@@ -647,20 +647,24 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Faction bonus: +22%.** Five Mauler is forced by the lock.
 
-**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Supreme and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. **Withering Potion is live at Supreme as well**, so the aroma drains every enemy standing in it for up to 12% of max HP a second, and the healer is now a damage source too. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Legendary+, so his Hero Focus is live**, worth +12% ATK to himself at level 1. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
+**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Supreme and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. **Withering Potion is live at Supreme as well**, so the aroma drains every enemy standing in it for up to 12% of max HP a second, and the healer is now a damage source too. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Mythic, so his Hero Focus is live**, worth +12% ATK to himself at level 1, and his Exclusive Equipment is now **one step away at Mythic+**. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
 
-**Three weak points:**
+**Four weak points:**
 
 1. **Kruger is in for his tier, not his fit, and the tier argument has just been renewed.** His own file rates him **weak in campaign** because he is single-target only, and a tower floor is a squad fight. He now stands at **Mythic**, one step above Koko at Legendary+, so the stat gap the fit argument has to overcome is a real one again. See the swap below.
 2. **Three heroes stand at range 1, and that now costs the aroma.** Antandra, Kordan and Kruger all walk into the enemy, so the front moves up and leaves Galahad and Smokey & Meerky behind it. The aroma is only **2 tiles wide**, so a front that walks out of it drops the 16% ATK buff, the healing and the 3-ally clause on Hero Focus at once. Keep Galahad inside it and accept that the melee three leave. See [../mechanics/heroes/smokey-meerky.md](../mechanics/heroes/smokey-meerky.md).
-3. **The bench is thin.** Nine Maulers are owned and the four cut are Koko at Legendary+, Odie at Elite, Gerda at Elite and Seth at Elite. **Odie is the one to watch.** His Dart Poison cannot be dispelled, and every normal attack on a poisoned target raises that target's tick by 25% up to 20 stacks, which is the scaling carry 90 floors of attrition reward. He is Elite, so all three of his ascension skills are off, and the first of them, Hero Focus at Legendary+, is the attack speed that feeds the stacks. A wall on this tower is answered by ascending, not by swapping. See [../mechanics/heroes/odie.md](../mechanics/heroes/odie.md).
+3. **Kordan's own circle may be shielding the enemy from Galahad, and that would invert his slot.** Dominance Ring makes **every unit inside it take 60% less damage and 60% less healing from outside it**. Galahad is the carry at **range 10** and Smokey & Meerky heal from **range 8**, so both stand outside a circle that lands on the enemy Kordan walks into. If the clause reads the source's position, the carry fires at 40% and the healer heals the melee three at 40%, and Kordan is costing this comp more than his ring pays it.
+
+   `unverified`, and it decides his slot in all three comps he holds. **The test is one floor:** field the five, cast Dominance Ring, and watch whether Galahad's numbers drop while the circle is up. If they do, either pull Galahad forward into the circle or cut Kordan. If they do not, the clause reads the target's position and nothing changes. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md).
+
+4. **The bench is thin.** Nine Maulers are owned and the four cut are Koko at Legendary+, Odie at Elite, Gerda at Elite and Seth at Elite. **Odie is the one to watch.** His Dart Poison cannot be dispelled, and every normal attack on a poisoned target raises that target's tick by 25% up to 20 stacks, which is the scaling carry 90 floors of attrition reward. He is Elite, so all three of his ascension skills are off, and the first of them, Hero Focus at Legendary+, is the attack speed that feeds the stacks. A wall on this tower is answered by ascending, not by swapping. See [../mechanics/heroes/odie.md](../mechanics/heroes/odie.md).
 
 **The swap on the table: Kruger out, Koko in.** A fresh draft off the nine Maulers lands here rather than on the running five. The comp above is what the user fields in game, so this is their call, not a replacement.
 
 | Row | Hero | Class | Range | Tier |
 | --- | --- | --- | --- | --- |
 | Front | Antandra | Tank | 1 | Epic |
-| Middle | Kordan | Warrior | 1 | Legendary+ |
+| Middle | Kordan | Warrior | 1 | Mythic |
 | Middle | **Koko** | Support | 4 | Legendary+ |
 | Back | Galahad | Mage | 10 | Mythic |
 | Back | Smokey & Meerky | Support | 8 | Supreme |
@@ -798,7 +802,7 @@ Send it at the mid-boss and the final boss, not at passages.
 | Row | Hero | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
 | Front | Antandra | Mauler | Tank | Physical | 1 | Epic |
-| Middle | Kordan | Mauler | Warrior | Physical | 1 | Legendary+ |
+| Middle | Kordan | Mauler | Warrior | Physical | 1 | Mythic |
 | Middle | Kruger | Mauler | Warrior | Physical | 1 | Mythic |
 | Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
 | Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme |
@@ -807,7 +811,7 @@ Send it at the mid-boss and the final boss, not at passages.
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s and is Legendary+ with a live Hero Focus worth +12% ATK to himself, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Supreme and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Mythic, one step and 2 Soul Sigils short. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
+**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s and is **Mythic** with a live Hero Focus worth +12% ATK to himself, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Supreme and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Mythic, one step and 2 Soul Sigils short. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
 
 **This is the Tower of Will comp, unchanged**, and it is `running` in that tower.
 
@@ -931,7 +935,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 | Row | Hero | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
 | Front | Antandra | Mauler | Tank | Physical | 1 | Epic |
-| Front | Kordan | Mauler | Warrior | Physical | 1 | Legendary+ |
+| Front | Kordan | Mauler | Warrior | Physical | 1 | Mythic |
 | Middle | Koko | Mauler | Support | Physical | 4 | Legendary+ |
 | Middle | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme |
 | Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
@@ -944,7 +948,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why: Koko turns the Golem's own kit into score.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage** against the enemy. Every Golem skill is a large hit on all five heroes, so this team is fed more to convert than any other comp in this file. Galahad is the strongest magic damage this squad can field and fires from range 10. Antandra shields herself and one ally, and adds more damage reduction when that ally drops below half HP; her taunt is worth nothing here, because every Golem skill hits all five anyway. Kordan's Fury Slash deals damage plus a shield, and his Hero Focus is live at Legendary+ for **+12 to 20% ATK**. Smokey & Meerky heal, buff ATK and feed **5 Energy a second per ally inside the aroma**, and at Supreme both their Hero Focus and **Withering Potion** are live, so the aroma now drains every enemy inside it for up to 12% of max HP a second on top of the healing.
+**Why: Koko turns the Golem's own kit into score.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage** against the enemy. Every Golem skill is a large hit on all five heroes, so this team is fed more to convert than any other comp in this file. Galahad is the strongest magic damage this squad can field and fires from range 10. Antandra shields herself and one ally, and adds more damage reduction when that ally drops below half HP; her taunt is worth nothing here, because every Golem skill hits all five anyway. Kordan's Fury Slash deals damage plus a shield, and he is **Mythic** with a live Hero Focus worth **+12 to 20% ATK**. Smokey & Meerky heal, buff ATK and feed **5 Energy a second per ally inside the aroma**, and at Supreme both their Hero Focus and **Withering Potion** are live, so the aroma now drains every enemy inside it for up to 12% of max HP a second on top of the healing.
 
 **Antandra and Kordan are the only shield sources the Mauler roster owns**, which is why an Epic hero holds a slot on a squad with four heroes above her tier. Koko's mitigation is damage reduction, not a shield, so it does **not** block Astral Strike's knockdown and Haste strip. Only those two do. See [../mechanics/ravaged-realm.md](../mechanics/ravaged-realm.md).
 

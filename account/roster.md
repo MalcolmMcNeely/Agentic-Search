@@ -49,7 +49,7 @@
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
 | Galahad | Mage | Magic | Mythic | - | [galahad](../mechanics/heroes/galahad.md) |
-| Kordan | Warrior | Physical | Legendary+ | - | [kordan](../mechanics/heroes/kordan.md) |
+| Kordan | Warrior | Physical | Mythic | - | [kordan](../mechanics/heroes/kordan.md) |
 | Kruger | Warrior | Physical | Mythic | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Legendary+ | - | [koko](../mechanics/heroes/koko.md) |
 | Antandra | Tank | Physical | Epic | - | [antandra](../mechanics/heroes/antandra.md) |

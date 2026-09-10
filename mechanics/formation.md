@@ -1,7 +1,7 @@
 # Formation and range
 
 > **Covers:** where to stand heroes on the grid, how base range decides the row, the walls and hazards on the board, how many entities each hero actually puts on it, and every kit that reads a tile rather than a row.
-> **Updated:** 2026-09-08
+> **Updated:** 2026-09-10
 
 Picking five heroes is half the job. Where they stand is the other half.
 
@@ -94,7 +94,7 @@ Not placed, but position still decides what they are worth, so a comp says where
 | Temesia | her **mount** | it leaps forward and knocks down |
 | Velara | 4 **magic circles** | they heal allies, so they want the team inside them |
 | Solise | **Bulbsprites** grown from bulbs handed to allies | the bulbs land on allies, so the sprites appear where the team stands |
-| Kordan | the **Dominance Ring** | it buffs allies standing inside, so it is a zone to stand in |
+| Kordan | the **Dominance Ring** | it buffs allies standing inside, so it is a zone to stand in. **Every unit inside also takes 60% less damage and healing from outside it** `unverified`, so a carry or healer left outside may be paying 60% for the privilege |
 | Faramor | a **magic circle** of true damage, **widening by 2 tiles once per battle** after he kills | a zone to put enemies in **and allies in**: with Bitter Requiem every ally inside deals extra true damage |
 | Galahad | a **Magic Circle centred on her** | so her tile draws it |
 
@@ -115,7 +115,7 @@ Every owned hero whose kit reads position:
 | Yamato & Gabumon | Grace Cross Freezer **fires more missiles the closer allies stand** | bunch the team, do not spread it |
 | Smokey & Meerky | the aroma is **2 tiles wide** around their own tile, and 3 allies inside it turn on the Hero Focus clause | build the comp inward around their tile |
 | Faramor | Sacred Pledge buffs him and **one adjacent ally**, and Bitter Requiem pays **every ally inside his circle** | put the biggest ATK bar on a neighbouring tile, and build the comp inward around his circle |
-| Kordan | the Dominance Ring buffs allies **standing inside it** | it lands on the target, so it pulls allies forward |
+| Kordan | the Dominance Ring buffs allies **standing inside it**, and cuts damage and healing crossing its edge by **60%** `unverified` | it lands on the target, so it pulls allies forward, and a ranged carry that stays back may lose more than the ring gives |
 | Rowan | his Ultimate grants Energy to allies **within 2 tiles**, after he moves up to one tile | keep him inside 2 tiles of the heroes whose Ultimates matter |
 | Hugin | he **anchors himself to the anvil tile** and buffs and shields nearby allies | his tile is fixed once cast, so pick it for the allies, not for him |
 

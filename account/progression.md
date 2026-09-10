@@ -204,6 +204,18 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Stellar Crystals | `?` |
 | Guild Medals | `?`. 30,000 spent on Elijah & Lailah. Income is about 28,000 a month, so the next sigil is roughly a month away. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 
+### Kordan is Mythic, and one step from the ninth EX weapon
+
+**Legendary+ to Mythic costs an A-Level hero 10 Soul Sigils, and Mythic buys no skill.** Only three tiers switch anything on: Legendary+ gives Hero Focus, Mythic+ gives the Exclusive Equipment, Supreme+ gives Enhance Force. So this step bought stats, and **his Hero Focus was already live before it**. See [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md).
+
+**What it bought is position, not power.** Mythic to Mythic+ is **12 Soul Sigils**, one step, and it opens his Exclusive Equipment. He joins Daimon, Hugin, Zanie, Thador, Kruger, Solise and Galahad on the one-step list. See [equipment.md](equipment.md).
+
+**He is the worst-supplied name on that list.** The Dream Store shelf does not stock him, so there is **no Dream Fragment route to his copies at all** — they come off the All-Hero banner or nowhere. Zanie, Thador, Solise and Galahad also need a banner, but Solise and Galahad are S-Level at 2 sigils rather than 12.
+
+**`?` where the 10 sigils came from.** All-Hero Recruitment is the only route the repo can name. Read it off the banner pity counter, because a banner pull moves the counters in the table above. Faramor's Supreme carries the same open question. See [../mechanics/recruitment.md](../mechanics/recruitment.md).
+
+**He stands in three fielded comps:** Tower of Will, Battle Drills Team 3 and the Ravaged Realm Mauler squad. All three read his tier, so all three are now a line stronger. See [teams.md](teams.md).
+
 ### Satrana is the account's eleventh Mauler
 
 **She stands at Epic**, which for an A-Level hero is the unlock plus **4 Soul Sigils**, so five copies in total. **Mauler is now the second-deepest faction on the account at 11**, behind Lightbearer's 14. See [roster.md](roster.md) and [../mechanics/heroes/satrana.md](../mechanics/heroes/satrana.md).
