@@ -40,7 +40,7 @@ Take it when enemies spread out, and in PvP. It is a burst pattern: it wins in t
 
 **The payload does not have to be Arden, and on this account it is not.** Arden is the partner the guides name, and he is Elite. What the pull actually hands the team is a stationary pile with **40% less Magic DEF**, so any Magic damage already in the comp cashes it in. **Faramor's circle is the payload the account actually fields**, in Tower of Nature, Arcane Labyrinth and Battle Drills Team 2, because his pull and Faramor's circle both want enemies on one point. See [../account/teams.md](../account/teams.md).
 
-**In Arena this pattern is the account's running attack comp.** Eironn gathers the enemy and Agumon, Gabumon and Galahad drop three area Ultimates on the stack. It costs the Dimensional 3-core, taking the faction bonus to +10%, and wins anyway. **Pandora is the swap back**, taking Galahad's slot when Agumon is not reaching the digivolve. See [arena.md](arena.md), [pvp-team-building.md](pvp-team-building.md) and [../account/teams.md](../account/teams.md).
+**In Arena this pattern is the swap rather than the comp.** Eironn and Phraesto come in together against a **spread** defence, where the pull gathers the enemy into the radius the area Ultimates want. The cost is Rolan's clone and his 8s Morale opener, and the faction bonus falls from +18% to +10%. **The running attack comp instead wins by casting first**: Rolan doubles Gaia Force and Agumon, Gabumon and Galahad each drop an area Ultimate. See [arena.md](arena.md), [pvp-team-building.md](pvp-team-building.md) and [../account/teams.md](../account/teams.md).
 
 ### Scaling carry
 

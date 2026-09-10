@@ -40,9 +40,9 @@ Campaign and PvP. Damage mitigation plus healing.
 
 **A wide enemy Ultimate is what puts her ahead of a bigger healer on defence.** Full Energy reads no tile, so the team can spread as far as the rows allow, where an aroma or a circle pays only to allies bunched around one tile. Against Gaia Force, which hits 7 times within 3 tiles, that spacing buys the defence seconds, and seconds are the whole of a defence's job.
 
-**That argument does not carry into an attack, and the account's record says so.** An attacker has to kill all five inside the clock, so it wins the opening rather than survives it, and the running attack comp bunches on purpose to cast one larger area Ultimate first. Mitigation does not speed that up. See [../pvp-team-building.md](../pvp-team-building.md) and [../../account/teams.md](../../account/teams.md).
+**That argument does not carry into an attack, and the account's record says so.** An attacker has to kill all five inside the clock, so it wins the opening rather than survives it. The running attack comp keeps its casters together and spends its fifth slot on **casting sooner and casting twice**, not on mitigation. Mitigation does not speed that up. See [../pvp-team-building.md](../pvp-team-building.md) and [../../account/teams.md](../../account/teams.md).
 
-**Arena flatters her, because it caps hero levels at 151 plus about 10% and leaves unlocked skills alone.** She is **Legendary+**, so her Hero Focus is live, which is more than three of the five heroes in attack A can say. Her mitigation is also a percentage, so the cap does not shrink it. See [../arena.md](../arena.md) and [../../account/teams.md](../../account/teams.md).
+**Arena flatters her, because it caps hero levels at 151 plus about 10% and leaves unlocked skills alone.** She is **Legendary+**, so her Hero Focus is live, which is more than the Epic and Mythic heroes in the running attack comp can say. Her mitigation is also a percentage, so the cap does not shrink it. See [../arena.md](../arena.md) and [../../account/teams.md](../../account/teams.md).
 
 ## Sources
 

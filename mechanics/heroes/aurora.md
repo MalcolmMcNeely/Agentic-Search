@@ -59,6 +59,8 @@ Teams stacked with summons, because both halves of her kit read the summon count
 
 Celestial, so she counts as any faction for the faction bonus.
 
+**She holds a slot in the running Arena attack comp**, and not for the summon stack. That comp fields Sonny and her bunnies plus Rolan's clones, so her Hero Focus has almost nothing to count. **She is in for Dream Veil, which protects melee allies and therefore WarGreymon after the digivolve, for the plushie immobilise, and for her own invincibility while asleep.** `?` whether a Rolan clone counts as an allied summon for her Hero Focus. See [../../account/teams.md](../../account/teams.md).
+
 **Sonny is a liability as well as a payload.** Aurora is Invincible while she sleeps, but if Sonny dies she is jolted awake, loses that invincibility, and can cast nothing but her Ultimate. Protecting Sonny is protecting Aurora.
 
 ## Sources

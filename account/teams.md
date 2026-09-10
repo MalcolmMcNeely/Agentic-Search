@@ -185,121 +185,99 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ---
 
-## PvP, Arena, attack — Dimensional stack and nuke — `running`
+## PvP, Arena, attack — Dimensional nuke behind a Morale opener — `running`
 
 **Purpose:** attacking other players' defence teams. See [../mechanics/arena.md](../mechanics/arena.md).
 
 | Row | Entity | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
-| Front left | Phraesto, true body | Hypogean | Tank | Magic | 1 | Epic |
-| Front right | Phraesto, Illusion | Hypogean | Tank | Magic | 1 | Epic |
+| Middle, ahead of the back row and the most forward body | Aurora | Celestial | Mage | Magic | 2 | Supreme, EX +5 |
 | Middle, alone and ahead of the back row | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme+, EX +10 |
-| Middle | Eironn | Wilder | Rogue | Magic | 1 | Supreme, EX +5 |
 | Back, directly behind Agumon | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +10 |
-| Back, beside Gabumon | Galahad | Mauler | Mage | Magic | 10 | Mythic |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
+| Back | Rolan | Celestial | Support | Magic | 10 | Epic |
 
-**Entities: five heroes, six tiles.** Phraesto fields two bodies; Taichi and Yamato each cheer from off the field and take no tile. See [../mechanics/formation.md](../mechanics/formation.md).
+**Entities: five heroes, five tiles at deploy.** Sonny and Aurora's bunnies, and Rolan's clone on every ally Ultimate, all arrive during the fight. See [../mechanics/formation.md](../mechanics/formation.md).
 
-**Faction bonus: +10%, plus +1% ATK and HP.** Two Dimensional plus Phraesto, who wildcards into the 3-core. Eironn and Galahad are off-faction and neither is replaceable, so this comp pays 12 points of faction bonus for its shape and still wins. **That trade is the account's own evidence, and it outranks the faction-bonus rule in [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).**
+**Artifact: Confining Spell +9. Confirmed from the account.** Both effect steps are live, so the imprison runs **2.5s on a 10s cooldown** and fires first at **3s**, at the **2 rearmost enemies**.
 
-**Archetype: summon stack into nuke.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
+**Faction bonus: +18%, plus +2% ATK and HP.** Two Dimensional plus Rolan and Aurora, who wildcard into the core. Galahad is the only off-faction hero.
 
-`?` **The artifact.** Confining Spell +9 suits the shape, because both steps are live and it imprisons the **2 rearmost enemies** for 2.5s from the 3s mark, which holds the back of the enemy line still while the pull lands. Read what is actually equipped off the Arena formation screen.
+**Archetype: Ultimate engine into nuke.** See [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md).
 
-`?` **The exact tiles.** The rows above are what the kits ask for, not a reading of the saved formation. The three placement rules that matter are named below; check each against what is fielded.
+**This is the defence that beat this account, fielded back. Confirmed from the account.** It replaces a Phraesto and Eironn comp that won on gathering the enemy into a stack; this one wins on casting first and casting twice. Both are recorded because the swap between them is a live choice, and the Phraesto version is kept in the swaps below.
 
-### Why this beats the Agumon meta
+### Why it beats the comp it replaced
 
-**The attacker must kill all five, so one Ultimate that catches all five is the win condition.** Every other shape in this file kills the enemy team hero by hero and runs out of clock. This one gathers the enemy into a pile and drops three area Ultimates on the pile.
+**The account lost to this five, and the post-battle review named the reason: Gabumon led the damage at 1,531,000 and Agumon did not digivolve. Confirmed from the account.** Agumon is the carry and both pairs stand at **Supreme+ with EX +10**, so nothing but the pre-digivolve window explains the smaller hero leading. That window is where every Agumon comp on this account has lost.
 
-1. **Eironn opens.** Verdant Cyclone marks a tile, drags every enemy within 2 tiles to the centre and **immobilises them for 3s**. **Howling Hurricane at EX +5 fires that Ultimate once per battle for no Energy at 70% damage**, so the pull lands in the opening seconds instead of waiting on a bar. He is the engine, not the carry.
-2. **Gaia Force lands on the pile.** It hits **7 times within 3 tiles** for 160% + 20% each, rising to 220% + 30% at the centre, and **cannot be interrupted mid-cast**. Against a stack that is the whole enemy team taking seven hits.
-3. **Gabumon adds a second area cast onto the same pile.** Cocytus Breath freezes the surrounding area and applies continuous HP loss, and Grace Cross Freezer is a spread barrage that hits several enemies at once.
-4. **Galahad adds a third, from range 10.** Temporal Field damages all enemies and draws a Magic Circle centred on her tile. She is the account's strongest magic damage dealer and she never has to move.
-5. **Phraesto holds the door.** Two bodies in the front row grant each other 30% damage reduction, and **Foggy Whisper taunts and stuns the enemy's highest damage dealer**, which in this meta is their Agumon. That is the one hero that has to be pulled off the carry before it digivolves.
+**Rolan's Morale opener is what covers it, and it covers the whole team rather than one hero.** At battle start the team gains Morale per hero of the most-deployed faction, and **Rolan and those heroes also gain 20 Penetration and take 50% less damage for 8s**. Eight seconds of halved damage is the length of the window Agumon has to survive. See [../mechanics/heroes/rolan.md](../mechanics/heroes/rolan.md).
 
-**So the answer to a wide enemy Ultimate is a wider one of your own, arriving first.** Surviving Gaia Force is not the job; casting yours before theirs is. The enemy's shield never matters if the enemy is dead inside the opening.
+**`unverified`, and it is the single most important open question on this comp: whether Agumon is one of the heroes that 8s covers.** The clause reads *the most-deployed faction*. Two Dimensional and two Celestial are deployed, and Celestial wildcards for the **faction bonus**, but no source says whether it wildcards for this clause.
 
-**Gabumon's EX weapon agrees with the shape.** Grace Cross Freezer fires more missiles the closer allies stand, so the back pair standing together is a gain here rather than a liability. See [../mechanics/heroes/yamato-gabumon.md](../mechanics/heroes/yamato-gabumon.md).
+- **If Celestial counts into Dimensional**, the most-deployed faction is Dimensional at four, and **Agumon and Gabumon both take the 50% damage reduction**. The comp works for the reason above.
+- **If it does not**, Dimensional and Celestial tie at two each, and the clause may land on Rolan and Aurora alone, leaving Agumon uncovered.
 
-### The defence that beats this comp, and the artifact that answers it
+**Read it off one fight: watch whether Agumon's health bar drops at half rate for the first 8 seconds.** It decides whether this comp fixes the digivolve window or merely happens to win.
 
-**A defence of Agumon, Gabumon, Rolan, Galahad and Aurora behind Confining Spell wins in the opening seconds. Confirmed from the account.** `?` whether that fight was an attack or a defence; it is recorded here because the comp above is what met it.
+**Rolan's clone is the second half.** When an ally casts an Ultimate a radiant clone appears, inherits **80% of that ally's base stats**, and casts the same Ultimate again. **So Gaia Force lands twice**, at Supreme+ with an EX weapon at +10 copied into the clone. That is the largest single damage add the account owns.
 
-**Nothing in this loss is about hero quality. It is an Energy race, and that defence is built to win the first 3 seconds.** Four of its parts stack into one opening.
+**Three area Ultimates plus a clone.** Gaia Force hits 7 times within 3 tiles, Cocytus Breath freezes an area and applies continuous HP loss, and Temporal Field damages all enemies. Against a defence that has not spread, one round of casting reaches all five.
 
-1. **Their Confining Spell imprisons your 2 rearmost heroes**, for 2.5s from the 3s mark on a 10s cooldown. Your rearmost two are **Gabumon and Galahad**, which is both of your area casters. Their opening deletes your opening. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
-2. **Rolan's Morale opener gives their Celestial heroes 20 Penetration and 50% less damage taken for 8s.** Rolan and Aurora are both Celestial, so the clause fires at its higher 10%-per-hero rate. Whatever you land in those 8 seconds is halved.
-3. **Rolan's clone casts an ally's Ultimate a second time at 80% of their base stats.** So their Gaia Force lands twice.
-4. **Galahad's Time Recast hands the ally behind her extra Initial Energy**, which pulls their digivolve forward. She is Mythic+ on that account and Mythic on this one, so they hold the skill and this roster does not.
+### What this comp gives up
 
-**So the fight is decided by who casts first, not by who survives more.** Both comps are stacked and both delete a stack. The one that is imprisoned at 3s is the one that dies.
+**It fields no Tank and no pull, and both were doing a job.**
 
-**The post-battle review names Gabumon the top damage dealer at 1,531,000. Confirmed from the account.** That is the most useful number in the loss, because of who it is not.
+- **No frontline.** Aurora at range 2 is the most forward body and she is a Mage. Phraesto's two bodies used to hold the door and taunt the enemy's biggest hitter off the carry. **Nothing here taunts**, so the enemy picks its own target.
+- **No gather.** Eironn's free opening pull dragged the enemy into the radius Gaia Force is priced for. Without it, **a defence placed wide takes three area Ultimates that each catch fewer heroes**. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
 
-**Agumon is the carry and he did not lead.** Both Digimon pairs stand at **Supreme+ with EX +10**, so neither is behind the other on investment, and Gaia Force is the larger Ultimate. When the smaller of two equal heroes leads the damage, the larger one did not get its window. **Agumon's window is the stretch before the digivolve**, where he is a range-7 attacker with none of the +100% HP that arrives with the transformation, and the account has already lost him in that window once. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+**So this comp is strongest against a bunched defence and weakest against a spread one**, which is the opposite of what it looks like. Scout for that before spending a ticket.
 
-**`?` Did Agumon digivolve in that fight?** That single fact splits the fix in two, and the battle review answers it.
+### The upgrade this comp is missing
 
-- **If he did not**, the problem is the pre-digivolve window and the answer is **Pandora**, below.
-- **If he did**, the problem is the imprison and the answer is **Enlightening Spell**, below.
+**Galahad stands at Mythic and the version that beat this account stands at Mythic+.** That one step unlocks **Time Recast**, which marks a nearby ally, **preferring the one standing behind her**, and spawns an untargetable **12s shadow of them with extra Initial Energy**.
 
-**Three changes answer it, and the first is the whole fix.**
+**Arena is a race to cast the first area Ultimate, so Initial Energy is the stat the mode is actually scored by.** This comp holds every other part of the five that beat it and not this one.
 
-- **Take Enlightening Spell +10 into this matchup.** It grants **control immunity to the rearmost ally**, which blanks half of an enemy Confining Spell for the first 15 to 20 seconds. In Arena, where the fight is settled early, 20s covers most of the battle. It is at **+10** with both effect steps live, and it is already the account's answer to this artifact, recorded in [../mechanics/artifacts.md](../mechanics/artifacts.md). The game picks which hero it lands on, so it cannot be aimed.
-- **Do not stand both area casters in the deepest row.** Confining reads the **2 rearmost** enemies, so a back row holding Gabumon and Galahad together hands it both targets. Move one forward a row and the artifact takes a hero the comp can spare for 2.5s.
-- **Eironn still fires.** He is middle row, so he is not one of the two rearmost, and **Howling Hurricane costs no Energy**, so his pull lands through the imprison. Aim it at Rolan and Galahad, and **kill Sonny**: Aurora is Invincible while she sleeps, and losing Sonny wakes her, strips that invincibility and leaves her able to cast nothing but her Ultimate. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
+**It costs 2 Soul Sigils and 100 Faction Acorns**, which makes it the cheapest new skill on the account, level with Solise. **It is now the account's highest-value Arena purchase**, ahead of Phraesto's three sigils. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md) and [progression.md](progression.md).
 
-**That defence fields no Tank at all.** Aurora at range 2 is the closest thing to a front body, so the frontline is Sonny and nothing else. It rushes because it cannot survive being reached.
+`?` **Who Time Recast would land on here.** It prefers the ally behind Galahad, and **Agumon has to stand ahead of the back row**, so he cannot be behind her. Gabumon or Rolan would take it instead unless the "nearby ally" clause reaches forward. **Settle it in game the moment the step is paid**, because pointing the shadow at Agumon is the whole prize.
 
-### The three placement rules this comp turns on
+### Placement
 
-- **Agumon stands one row back, alone, ahead of the back row.** He is range 7 until the digivolve and range 1 after it, and the +100% HP arrives with the transformation. **Confirmed from the account: fielded in the front row he died before transforming.** At battle start WarGreymon buffs himself and **every ally behind him** with +25% of his own ATK for 20s, and **Gabumon taking that buff gains 300 Energy**.
-- **Gabumon stands directly behind Agumon**, for that 300 Energy. `?` whether "behind him" means his column or the whole rear. **One battle settles it: watch whether Gabumon's Energy bar jumps at the start.**
-- **Phraesto's two bodies share the front row at opposite ends.** The shared row is what grants each 30% damage reduction, and the opposite ends stop one wide Ultimate catching both. Allies behind the **Illusion** take less damage; allies behind the **true body** gain Energy Recovery Speed, so put Agumon behind the Illusion and Galahad behind the true body. Placing Phraesto draws a marker on the Illusion's tile; read it before locking.
+- **Agumon stands one row back, alone, ahead of the back row.** He is range 7 until the digivolve and range 1 after it, and the +100% HP arrives with the transformation. **Confirmed from the account: fielded in the front row he died before transforming.** At battle start WarGreymon buffs himself and **every ally behind him** with +25% of his own ATK for 20s.
+- **Gabumon stands directly behind Agumon**, because taking that buff grants him **300 Energy**. `?` whether "behind him" means his column or the whole rear. **Watch whether Gabumon's Energy bar jumps at the start.**
+- **Do not stand Gabumon, Galahad and Rolan all in the deepest row.** An enemy Confining Spell imprisons the **2 rearmost** heroes from the 3s mark, and this comp puts three casters in reach of it. That is exactly how this account lost to this five. See [../mechanics/artifacts.md](../mechanics/artifacts.md).
+- **Aurora goes forward of the back row.** She is range 2, and Dream Veil protects melee allies, which after the digivolve is WarGreymon.
+- **Protect Sonny.** Aurora is Invincible while she sleeps, and if Sonny dies she is jolted awake, loses that invincibility and can cast nothing but her Ultimate. See [../mechanics/heroes/aurora.md](../mechanics/heroes/aurora.md).
 
-### The cheapest upgrades to this comp
-
-**Arena strips levels and leaves skills, so ascension tier is the only investment that crosses into the mode.** Two heroes here are below the version their PvP letters describe.
-
-| Hero | Tier | Next step | What it switches on |
-| --- | --- | --- | --- |
-| **Phraesto** | Epic | Legendary+, **3 Soul Sigils** | Hero Focus: DEF on both bodies, and Energy whenever either is hit |
-| **Galahad** | Mythic | Mythic+, **2 Soul Sigils and 100 Faction Acorns** | **Time Recast**, which marks a nearby ally, **preferring the one behind her**, and spawns an untargetable 12s shadow of them with extra Initial Energy |
-| Taichi & Agumon | Supreme+ | none | every skill is live. Only EX levels remain, at 100 Temporal Essence each to a ceiling of +15 |
-| Yamato & Gabumon | Supreme+ | none | every skill is live |
-| Eironn | Supreme | Supreme+, 20 sigils | Enhance Force, a deeper Magic DEF cut. **Do not chase it.** The EX step to **+10 doubles his immobilise from 3s to 6s**, and that is the upgrade this comp wants |
-
-**Eironn's EX +10 is the upgrade with this comp's name on it.** The pull exists to hold a stack still while three area Ultimates land, and 6s of hold instead of 3s is more of exactly that. See [../mechanics/heroes/eironn.md](../mechanics/heroes/eironn.md).
-
-**Galahad's Mythic+ is the cheapest new skill on the account, level with Solise.** Standing Agumon behind her would put the shadow on the account's biggest hitter, which is worth testing the moment the step is paid. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
+`?` **The exact tiles.** The rows above are what the kits ask for, not a reading of the saved formation.
 
 ### Weak points
 
-1. **The free pull fires once per battle.** After Howling Hurricane the second Verdant Cyclone waits on Energy, so a defence that survives the opening stack is fought without the engine.
-2. **A low wall bites twice here.** Agumon is range 1 after the digivolve and Eironn is range 1 always, so both have to close, and the defender picks the map. See [../mechanics/formation.md](../mechanics/formation.md).
-3. **`unverified`: whether WarGreymon's "unaffected" is control immunity.** If it is, Phraesto's taunt and stun only reach their Agumon **before** its first Ultimate. **Read it off one fight, because both attack shapes and the defence rest on it.** See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
-4. **`unverified`: whether skill numbers scale off the capped Arena level.** Skills stay unlocked, but many skills level their percentages against the hero's level, and in Arena that level is about 166 rather than 265. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
-5. **No dedicated healer.** The comp survives on Phraesto's mitigation, Eironn's Tempest Guard and Agumon's own Recovery Shield. Against a defence that grinds rather than bursts, that is the wrong trade, which is what Attack B is for.
-6. **A spread defence has nothing to pull.** Verdant Cyclone reaches 2 tiles around the marked tile, so a defence placed wide gives the stack less to gather.
+1. **No taunt and no Tank.** The enemy chooses whom to hit, and the answer to a dive is the swap below.
+2. **A spread defence blunts all three area Ultimates**, and nothing here gathers it.
+3. **Aurora's summon-count dial is nearly flat here.** Her Hero Focus counts allied summons from **different** allies up to 5 stacks, and this comp fields Sonny and the bunnies from her plus Rolan's clones. `?` whether a Rolan clone counts as a summon for that clause. She is in for Dream Veil, the plushie immobilise and her own invincibility rather than for the stack.
+4. **Rolan is Epic, three Soul Sigils from Legendary+.** His Morale opener and his clone are both live at Epic; the ascension buys the rest of his kit.
+5. **`unverified`: whether WarGreymon's "unaffected" is control immunity.** It decides whether an enemy Agumon can be stunned after its digivolve. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
+6. **`unverified`: whether skill numbers scale off the capped Arena level.** In Arena that level is about 166 rather than 265. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
 
 ### Swaps
 
-**Pandora in for Galahad, if Agumon is not reaching the digivolve.** Boxed Blessing seals him invincible for **4s** and releases him with bonus Energy and ATK, so the seconds he is weakest in are seconds he cannot be killed in, and the release pulls the transformation forward. She is **Dimensional**, so the faction bonus rises from +10% to **+18%**. The cost is Galahad's area Ultimate, so take this only when the loss is Agumon rather than the clock. **The damage review is what decides it: while Gabumon leads and Agumon does not, this swap is the one to test first.** See [../mechanics/heroes/pandora.md](../mechanics/heroes/pandora.md).
+**Enlightening Spell +10 for Confining Spell +9, against a defence carrying Confining Spell.** It grants **control immunity to the rearmost ally**, which blanks half of an enemy Confining for the first 15 to 20 seconds, and in Arena 20s covers most of the battle. The game picks which hero it lands on, so it cannot be aimed. **This is a per-matchup artifact change, not a permanent one.** See [../mechanics/artifacts.md](../mechanics/artifacts.md).
 
-`unverified`: **whether a boxed ally can still attack.** If Boxed Blessing silences its target, boxing Agumon delays the digivolve it is protecting. **Watch his Energy bar through the box.**
+**Phraesto in for Aurora, and Eironn in for Rolan, against a spread defence or a dive.** That is the comp this one replaced. **Eironn's Howling Hurricane fires his pull for no Energy in the opening seconds**, gathering the enemy into the radius the area Ultimates want, and **Phraesto fields two bodies that taunt and stun the enemy's highest damage dealer**. The cost is Rolan's clone and the 8s Morale opener, and the faction bonus falls from +18% to +10%. **Take both together or neither**, because the comp is either built to gather or built to cast first.
 
-**Attack B, the whole comp, against a defence that grinds.** See below.
-
+**Pandora in for Galahad, if Agumon still is not digivolving.** Boxed Blessing seals him invincible for **4s** and releases him with bonus Energy and ATK. It is a narrower fix than Rolan's 8s, so it is only worth taking if the Morale clause turns out not to cover him. `unverified`: whether a boxed ally can still attack, because a silence would delay the digivolve it protects. See [../mechanics/heroes/pandora.md](../mechanics/heroes/pandora.md).
 ---
 
 ## PvP, Arena, attack, second shape — Graveborn true damage — `proposed`
 
-**Purpose:** the defences the stack-and-nuke comp above is wrong for. **Scout first.** The mode shows **3 opponents and refreshes free 5 times a day**, so that is eighteen defences seen for five attacks. See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
+**Purpose:** the defences the running attack comp above is wrong for. **Scout first.** The mode shows **3 opponents and refreshes free 5 times a day**, so that is eighteen defences seen for five attacks. See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
 
 | The defence shows | Bring |
 | --- | --- |
-| Anything the opening stack can gather and delete | the **stack and nuke** comp above, the default |
+| A bunched defence that three area Ultimates can reach at once | the **running attack comp** above, the default |
 | A spread formation with nothing to pull, or a stall that survives the opening and then grinds | **this comp** |
 
 | Row | Hero | Faction | Class | Damage | Range | Tier |
@@ -332,9 +310,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ### Notes
 
-**The stack-and-nuke comp and the AFK Stages push comp share three heroes.** Agumon, Gabumon and Phraesto stand in both. A correction to any of the three belongs in both entries.
+**The running Arena attack comp and the AFK Stages push comp share three heroes.** Agumon, Gabumon and Rolan stand in both. A correction to any of the three belongs in both entries.
 
-**The Arena defence and Attack B share four heroes.** Thoran, Daimon, Shemira and Bonnie stand in both, and the fifth slot differs: Koko holds it on the defence and Faramor on the attack. Arena allows a hero in both a defence and an attack, unlike Supreme Arena. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md).
+**The Arena defence and this second shape share four heroes.** Thoran, Daimon, Shemira and Bonnie stand in both, and the fifth slot differs: Koko holds it on the defence and Faramor on the attack. Arena allows a hero in both a defence and an attack, unlike Supreme Arena. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md).
 
 **The account sits at Adept 3**, the second of five named tiers, and holds **3 Arena maps**. More maps unlock as the tier climbs. See [../mechanics/arena.md](../mechanics/arena.md) and [progression.md](progression.md).
 ---

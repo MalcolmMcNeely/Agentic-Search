@@ -27,7 +27,9 @@ Boss and PvP. Protects one key ally while debuffing the enemy.
 
 **PvP, rated S** [allclash, 2026-08-26, investment not stated] `unverified`. The same source separately says she **beats Eironn comps in PvP**, because scattering and sealing undo a pull.
 
-She is one of the three Dimensional heroes on the account, and the only one that is not a Digimon pair. **She is the first swap into the running Arena attack comp**, taking Galahad's slot whenever Agumon is not reaching the digivolve. Boxing him covers that window and the release shortens it, and she restores the Dimensional 3-core, lifting the faction bonus from +10% to +18%. See [../../account/teams.md](../../account/teams.md) and [taichi-agumon.md](taichi-agumon.md).
+She is one of the three Dimensional heroes on the account, and the only one that is not a Digimon pair. **She is the fallback swap into the running Arena attack comp**, taking Galahad's slot if Agumon still is not reaching the digivolve.
+
+**Rolan is tried before her, and the reason is width.** His Morale opener covers every hero of the most-deployed faction for **8s** where Boxed Blessing covers one hero for **4s**, and he doubles an Ultimate on top. She comes in only if that clause turns out not to reach Agumon. See [rolan.md](rolan.md), [taichi-agumon.md](taichi-agumon.md) and [../../account/teams.md](../../account/teams.md).
 
 ## Tier gate
 

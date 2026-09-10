@@ -63,9 +63,11 @@ Everything except Legend Trial, which bars Dimensional heroes. Dream Realm and S
 
 ## Notes
 
-Pairs directly with Yamato & Gabumon. **He also carries the running Arena attack comp** in [../../account/teams.md](../../account/teams.md), where Eironn's free opening pull gathers the enemy into the radius Gaia Force is priced for.
+Pairs directly with Yamato & Gabumon. **He also carries the running Arena attack comp** in [../../account/teams.md](../../account/teams.md), where **Rolan's clone casts Gaia Force a second time** at 80% of his base stats, copying Supreme+ and the EX weapon with it.
 
-**The pre-digivolve window is still where that comp loses, and the account's damage review is the evidence.** In the recorded loss **Gabumon led the damage at 1,531,000 and he did not**, though both pairs stand at Supreme+ with EX +10 and Gaia Force is the larger Ultimate. When the smaller of two equally invested heroes leads, the larger one did not reach its window. **Pandora's invincible box is the swap that covers it.** See [pandora.md](pandora.md).
+**The pre-digivolve window is where every Arena comp on this account has lost him, and it is now measured.** In the recorded loss **Gabumon led the damage at 1,531,000 and Agumon never digivolved. Confirmed from the account.** Both pairs stand at Supreme+ with EX +10, so nothing but that window explains the smaller hero leading.
+
+**Rolan's Morale opener is the answer being tested.** It gives Rolan and every hero of the most-deployed faction **20 Penetration and 50% less damage taken for 8s**, which is the length of the window. **`unverified` whether Celestial wildcards into that clause and therefore whether the 8s reaches him.** Pandora's 4s invincible box is the narrower fallback. See [rolan.md](rolan.md) and [pandora.md](pandora.md).
 
 **He is the one hero in that comp the Arena level baseline does not weaken.** Arena caps hero levels at 151 plus about 10%, and leaves unlocked skills alone. At **Supreme+** every skill he has is live, so he arrives whole where the Epic-tier heroes beside him do not. See [../arena.md](../arena.md).
 

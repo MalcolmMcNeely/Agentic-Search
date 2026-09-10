@@ -75,9 +75,11 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 **That inverts the spend order for Arena alone.** Two of the account's cheapest ascensions sit in the running Arena attack comp, and they buy different things.
 
 - **Galahad, Mythic to Mythic+, 2 Soul Sigils and 100 Faction Acorns.** It unlocks **Time Recast**, which spawns an untargetable 12s shadow of the ally behind her **with extra Initial Energy**. Arena is a race to cast the first area Ultimate, so a skill that hands the carry Energy before the fight starts is the one purchase that acts on the sum the mode is actually scored by. The defence that beat this account fields a Galahad that already has it. See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
-- **Phraesto, Epic to Legendary+, 3 Soul Sigils.** It switches on the Hero Focus his S+ letter assumes: DEF on both bodies, and Energy whenever either is hit.
+- **Phraesto, Epic to Legendary+, 3 Soul Sigils.** It switches on the Hero Focus his S+ letter assumes: DEF on both bodies, and Energy whenever either is hit. He is now a **swap** rather than a starter, so this ranks behind Galahad.
 
-**Thoran is a third, at 2 sigils**, and he holds the Arena defence and the second attack shape. **Elijah & Lailah at 2 sigils and Pandora at one step no longer sit in a running Arena comp**, so their sigils are bought for other modes, or to make Pandora ready for the swap that covers Agumon's pre-digivolve window. See [teams.md](teams.md).
+- **Rolan, Epic to Legendary+, 3 Soul Sigils.** He holds the running attack comp and both of the parts it is fielded for, the Morale opener and the Ultimate clone, are already live at Epic. The sigils buy the rest of his kit rather than the reason he is in, so this ranks behind Galahad too.
+
+**Thoran is a fourth, at 2 sigils**, and he holds the Arena defence and the second attack shape. **Elijah & Lailah at 2 sigils and Pandora at one step no longer sit in a running Arena comp**, so their sigils are bought for other modes, or to make Pandora ready for the fallback swap on Agumon's pre-digivolve window. See [teams.md](teams.md).
 
 **Resonance Synergy stays the best spend on the account overall**, because it pays in every other mode and Arena is one mode. It simply pays nothing here.
 
@@ -88,7 +90,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Artifact | Level | Effect steps live | The comps it holds |
 | --- | --- | --- | --- |
 | Starshard Spell | +10 | +4 and +8 | AFK Stages push, the **second Arena attack shape**, King Croaker, Skyclops, Snow Stomper, Darkswarm Invasion, Battle Drills Team 1 |
-| Confining Spell | +9 | +4 and +8 | the **running Arena attack comp** `?`, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
+| Confining Spell | +9 | +4 and +8 | the **running Arena attack comp**, Tower of Eternity, Tower of Light, solo battles, Battle Drills Team 3 |
 | Awakening Spell | +9 | +4 and +8 | **Arena defence**, Arcane Labyrinth, Tower of Nature, Tower of Will, Battle Drills Team 2 |
 | Blazing Spell | +10 | +4 and +8 | Battle Drills Team 4 |
 | Enlightening Spell | +10 | +4 and +8 | Battle Drills Team 5, and the **Arena attack matchup against an enemy Confining Spell** |

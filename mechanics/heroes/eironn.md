@@ -37,7 +37,9 @@ allclash reads him as an early-game engine rather than a lasting meta pick: stro
 
 **The step worth saving for is +10, which doubles the immobilise from 3s to 6s.** That is the whole point of him, because the pull exists to hold a stack still while an AoE ally deletes it. +15 lifts the free cast to 80% damage, which is the smaller prize.
 
-**He is the engine of the running Arena attack comp, and that makes +10 an Arena buy as well as a campaign one.** Arena caps hero levels and leaves skills alone, so the pull is one of the few things this account owns that arrives at full strength there. **The free cast is what makes him Arena-proof twice over**: it needs no Energy, so it fires through an opening the enemy has spent on control, and he stands in the middle row, so an enemy Confining Spell aimed at the **2 rearmost** heroes never reaches him. See [../../account/teams.md](../../account/teams.md) and [../arena.md](../arena.md).
+**He is the standing Arena swap against a spread defence, and that makes +10 an Arena buy as well as a campaign one.** Arena caps hero levels and leaves skills alone, so the pull is one of the few things this account owns that arrives at full strength there. **The free cast is what makes him Arena-proof twice over**: it needs no Energy, so it fires through an opening the enemy has spent on control, and he stands in the middle row, so an enemy Confining Spell aimed at the **2 rearmost** heroes never reaches him.
+
+**He comes in with Phraesto or not at all.** The running attack comp is built to cast first; the Eironn version is built to gather the enemy into the radius the area Ultimates want. Swapping one hero leaves a comp that does neither. See [../../account/teams.md](../../account/teams.md) and [../arena.md](../arena.md).
 
 ## Notes
 

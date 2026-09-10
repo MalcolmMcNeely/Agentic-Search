@@ -37,9 +37,13 @@ Until she crosses that step, [Rolan](rolan.md) holds the Ultimate-clone job. His
 
 Campaign and boss. Top-tier magic damage from the back row. She is the account's strongest magic damage dealer, and she carries the Tower of Will comp in [../../account/teams.md](../../account/teams.md). At Mythic+ she also becomes a boss amplify engine. See [../team-archetypes.md](../team-archetypes.md).
 
-**She also holds a back slot in the running Arena attack comp**, where Temporal Field is the third area Ultimate landing on the stack Eironn gathers. At range 10 she never has to move, which is what lets an off-faction hero hold a slot in a Dimensional comp. See [../../account/teams.md](../../account/teams.md).
+**She also holds a back slot in the running Arena attack comp**, where Temporal Field is the third area Ultimate. At range 10 she never has to move, which is what lets an off-faction hero hold a slot in a Dimensional comp. See [../../account/teams.md](../../account/teams.md).
 
-**Two Arena cautions ride on that slot.** She is one of the **2 rearmost** heroes an enemy Confining Spell imprisons from the 3s mark, so she and Gabumon should not both stand in the deepest row. And an opposing Galahad at **Mythic+** holds Time Recast where this copy does not, which is a live matchup on the ladder rather than a hypothetical. See [../artifacts.md](../artifacts.md).
+**Her Mythic+ step is now the account's highest-value Arena purchase, ahead of Phraesto's three sigils.** Arena is a race to cast the first area Ultimate, and **Time Recast is the one skill on the account that hands an ally Initial Energy**. The five that beat this account fielded a Galahad that already holds it; this comp is that five, missing only this step. **2 Soul Sigils and 100 Faction Acorns.** See [../pvp-team-building.md](../pvp-team-building.md) and [../../account/progression.md](../../account/progression.md).
+
+`?` **Who Time Recast would mark here.** It prefers the ally standing **behind** her, and Agumon has to stand **ahead** of the back row, so he cannot be behind her. Gabumon or Rolan would take it unless the "nearby ally" clause reaches forward. **Pointing the shadow at Agumon is the whole prize, so settle it the moment the step is paid.**
+
+**One Arena caution rides on her placement.** She is one of the **2 rearmost** heroes an enemy Confining Spell imprisons from the 3s mark, so she, Gabumon and Rolan must not all stand in the deepest row. That is how this account lost to this five. See [../artifacts.md](../artifacts.md).
 
 ## Notes
 
