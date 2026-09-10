@@ -1,7 +1,7 @@
 # Arena
 
 > **Covers:** the Arena level baseline that deletes most of this account's investment, the defence team and its saved map, the battle timer and who wins it, the rank ladder, the daily limits, and what all that asks of a comp.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 Ranked PvP against other players' defence teams. Unlocks at **AFK Stage 20**. See [game-modes.md](game-modes.md).
 
@@ -21,7 +21,7 @@ That single rule reorders the whole account.
 
 | What the account has | What it is worth in Arena |
 | --- | --- |
-| Resonance Level 240 plus Resonance Synergy +25, so 265 | **Nothing.** Cut to about 166, the same as every opponent past 151 |
+| Resonance Level 240 plus Resonance Synergy +30, so 270 | **Nothing.** Cut to about 166, the same as every opponent past 151 |
 | Class Equipment at 240 on all thirty-six slots | **Nothing.** Adjusted down with the hero |
 | Total power 22,636,000 | **Nothing.** It is a readout of the two rows above |
 | **Ascension tier** | **Everything.** Skills are untouched, so a Supreme hero keeps skills an Epic hero does not have |

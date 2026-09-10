@@ -1,7 +1,7 @@
 # Korin
 
 > **Covers:** Korin kit, stats and best use.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 - **Faction:** Lightbearer
 - **Class:** Warrior
@@ -20,7 +20,7 @@
 | Vine Arms, Exclusive Equipment | **Mythic+** | after **3 Ultimate casts by Korin and nearby allies**, his spear adds **true damage worth a percentage of the target's max HP for 8s** |
 | Enhance Force | **Supreme+** | **25% less damage** taken from distant enemies |
 
-**Both untiered skills level with the hero, and this account is past every step.** The roster fields at **265**, so Demonseal Spear immobilises for **4s** and hits for **85%**, and Defiance Charge shields for **320%** and dashes for **220%**. See [../../account/progression.md](../../account/progression.md).
+**Both untiered skills level with the hero, and this account is past every step.** The roster fields at **270**, so Demonseal Spear immobilises for **4s** and hits for **85%**, and Defiance Charge shields for **320%** and dashes for **220%**. See [../../account/progression.md](../../account/progression.md).
 
 `unverified`: **the shield skill's name.** afk.global calls it **Defiance Charge**; prydwen calls it **All-round Tactic**. Both describe the same effect with the same numbers, so only the label is in doubt.
 

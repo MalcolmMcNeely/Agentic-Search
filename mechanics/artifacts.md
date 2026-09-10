@@ -1,7 +1,7 @@
 # Artifacts
 
 > **Covers:** what an artifact is, what each permanent artifact does, which fight each one suits, and the Season 7 set.
-> **Updated:** 2026-09-08
+> **Updated:** 2026-09-10
 
 One artifact is equipped per team, not per hero, and it pays the team twice.
 
@@ -142,7 +142,9 @@ Blesses the **frontmost allied hero** at battle start: **+15% Phys DEF and Magic
 
 ## Season 7 artifacts
 
-12 Legendary artifacts exclusive to Crown of Ashes, enhanceable to +30. They reset at season end, and the account is permanent-track only, so none is reachable. See [seasons.md](seasons.md) and [../account/progression.md](../account/progression.md).
+12 Legendary artifacts exclusive to Crown of Ashes, enhanceable to +30. `unverified`: other sources give 8 and 10, and one gives a +25 cap.
+
+**They reset on 2026-09-23 with the season.** The account entered Crown of Ashes on 2026-09-10, so these are reachable for thirteen days and then gone. Breakthrough and Arc Burst are worth taking because Story Quests hand them over early; **Sunlance and Magicsurge are not, because Season Milestones cannot be climbed that far from a standing start.** See [seasons.md](seasons.md) and [../account/progression.md](../account/progression.md).
 
 Swiftheal, Breakthrough, Vine Snare, Sunlance, Wing Guard, Surging, Arc Burst, Vanguard, Windcall, Frontline, Magicsurge and Valorshield Spell.
 

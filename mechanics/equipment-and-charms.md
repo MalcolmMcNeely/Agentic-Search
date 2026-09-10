@@ -1,7 +1,7 @@
 # Equipment, Exclusive Equipment and charms
 
 > **Covers:** class gear, the EX weapon, Magic Charms, and which of them are per-class, per-hero or seasonal.
-> **Updated:** 2026-09-08
+> **Updated:** 2026-09-10
 
 Three separate systems, easy to confuse.
 
@@ -75,7 +75,7 @@ Hero-specific. A charm for one hero fits no other hero.
 - Rarities: Rare, Elite, Epic, Legendary, Mythic.
 - Types include Sorcery, Gale, Mystic, Blast, Arcane. 30 Mythic charms across nine groupings.
 - **Set bonus:** three charms of the same rarity give a hero-specific Season Set Bonus. Three Mythic charms of the same *type* give a further set bonus.
-- Source: Treasure Challenges in Dura's Trials, unlocked at Season AFK Stage 305. Higher floors drop higher rarities. Each challenge boosts drops for one class.
+- Source: Treasure Challenges in Dura's Trials, unlocked on the **9th day after the season starts on the server** and recommended at Season Resonance 190+. Higher floors drop higher rarities. Each challenge boosts drops for one class. See [season-progression.md](season-progression.md).
 
 **The right charm set changes by mode.** A Dream Realm loadout and an Arena loadout on the same hero are different. Never copy the in-game recommended loadout for those two modes.
 

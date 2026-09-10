@@ -1,7 +1,7 @@
 # Equipment and charms
 
 > **Covers:** Class Equipment levels, Exclusive Equipment owned, and Magic Charm loadouts.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 Three systems with different scopes. See [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
@@ -26,7 +26,7 @@ The `notes` inbox holds a much older set of class levels. They are dead text, no
 
 **There is no gear decision left on this account.** Every class is level with every other, so **gear can never pick or drop a comp, and it can never favour one hero over another**. Drop it out of any comparison between two builds. Quick Equip has nothing left to press, and the upgrade priority table in [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md) is not an action here.
 
-**Gear has stopped moving and hero levels have not, so the two have come apart.** Gear caps at **240**. **Resonance Synergy takes every hero past 240 and gear cannot follow it**, so the roster is at **265** against gear frozen at 240, and that gap only widens with each Synergy level bought. Nothing on the account closes it. See [progression.md](progression.md).
+**Gear has stopped moving and hero levels have not, so the two have come apart.** Gear caps at **240**. **Resonance Synergy takes every hero past 240 and gear cannot follow it**, so the roster is at **270** against gear frozen at 240, and that gap only widens with each Synergy level bought. Nothing on the account closes it. See [progression.md](progression.md).
 
 ### How the class Level is derived
 
@@ -134,7 +134,7 @@ At **+10** her ghosts deal extra **true damage worth 3% of the target's max HP**
 
 ## Magic Charms
 
-Per hero, 3 slots, seasonal. Needs Season AFK Stage 305 for Dura's Trials.
+Per hero, 3 slots, seasonal. Dura's Trials opens on the 9th day after a season starts on the server, so charms are gated on the calendar rather than on effort. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
 The account has not reached the seasonal track yet, so no charms exist. See [progression.md](progression.md).
 

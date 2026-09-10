@@ -1,15 +1,15 @@
 # Supreme Arena
 
-> **Covers:** the season PvP ladder, the no-repeats rule that makes it a roster-depth mode, the rising baseline, the weekly map and off-season days, and why this account cannot enter it yet.
-> **Updated:** 2026-09-09
+> **Covers:** the season PvP ladder, the no-repeats rule that makes it a roster-depth mode, the rising baseline, the weekly map and off-season days, and the Season AFK Stage 130 climb that now stands between this account and entry.
+> **Updated:** 2026-09-10
 
 The season counterpart to [arena.md](arena.md). Same idea, three times over.
 
-## This account cannot enter it
+## The account is now inside the gate's own season
 
-**Supreme Arena unlocks at Season AFK Stage 130.** That is a **season** stage, and this account is permanent-track with no season started, so its season ladder stands at zero. The blocker is the same one blocking everything else seasonal: the main story quest at Merlin's Ward. See [../account/progression.md](../account/progression.md) and [seasons.md](seasons.md).
+**Supreme Arena unlocks at Season AFK Stage 130.** That is a **season** stage, on the ladder that resets each season. The account entered Season 7 on 2026-09-10 with its season ladder at zero, so **130 stages of Season AFK is the whole distance left**, and the late-entry catch-up buff is at its largest. See [season-progression.md](season-progression.md).
 
-**Nothing here is actionable until the story clears the season gate.** It is written down so that the first season week does not start from a blank page.
+**Crown of Ashes ends 2026-09-23, and the season ladder resets with it.** So a Season 7 entry buys at most 13 days of Supreme Arena, and the same 130 stages have to be climbed again from zero in Veil of Memories. Judge the push on whether 13 days of a PvP ladder is worth the time, not on whether the mode is good.
 
 ## The format
 
@@ -30,7 +30,7 @@ The season counterpart to [arena.md](arena.md). Same idea, three times over.
 The rules in [pvp-team-building.md](pvp-team-building.md) apply, with two additions the no-repeats rule forces.
 
 - **Spread the good heroes across three teams rather than stacking one.** Losing two rounds loses the match, so a stacked first team and two throwaways loses to any opponent whose three teams are level.
-- **Three artifacts are needed, all different.** The account owns six permanent artifacts; whether season artifacts are separate from those is a season-track question and is not settled here. See [artifacts.md](artifacts.md).
+- **Three artifacts are needed, all different.** The account owns six permanent artifacts, and **Season Artifacts are a separate seasonal set on top of those**, so the pool here is wider than six. See [artifacts.md](artifacts.md) and [seasons.md](seasons.md).
 - **In-game Magic Charm recommendations are tuned for PvE and are wrong for every PvP mode.** Do not take the suggested loadout here.
 
 ## What no source covers

@@ -1,7 +1,7 @@
 # Peaks of Time
 
-> **Covers:** what Peaks of Time is, which past seasons sit in it, what it pays, the gate that locks it, and why this account cannot open it yet.
-> **Updated:** 2026-09-04
+> **Covers:** what Peaks of Time is, which past seasons sit in it, what it pays, the gate that locks it, and why it is open but not urgent on this account.
+> **Updated:** 2026-09-10
 
 **Peaks of Time is the archive of finished seasons. It is not a puzzle mode and it is not a dungeon.** A season ends, its region and its exclusive modes move into Peaks of Time, and the account can walk back in and play the storyline it missed.
 
@@ -11,7 +11,7 @@
 
 Six finished seasons: **Song of Strife, Waves of Intrigue, Chains of Eternity, Echoes of Dissent, Thorns of Devotion, Tower of Memory.** Those are Seasons 1 to 6.
 
-**Season 7, Crown of Ashes, is live and therefore not in here yet.** It started 2026-05-29 and joins Peaks of Time when it ends. See [seasons.md](seasons.md).
+**Season 7, Crown of Ashes, is live and therefore not in here yet.** It started 2026-05-29 and joins Peaks of Time when it ends on 2026-09-23. See [seasons.md](seasons.md).
 
 ## What it pays
 
@@ -25,27 +25,23 @@ Six finished seasons: **Song of Strife, Waves of Intrigue, Chains of Eternity, E
 
 ## The gate
 
-**Peaks of Time sits behind season access, and season access needs Resonance Level 240.** A quest then appears in Holistone pointing at the season region.
-
-`unverified`, two readings of the same wiki page name different story quests as the second half of that gate: **Ryeham Tales** in one, **New Journey** in the other. Both agree on Resonance Level 240.
+**Peaks of Time sits behind season access, and season access is Resonance Level 240 plus the story quest `Ryeham Tales: New Journey`.** A quest then appears in Holistone pointing at the season region. See [seasons.md](seasons.md).
 
 `unverified`, and standing on a source dated 2024-09-17, outside the 12-month window, with nothing newer confirming it: reaching a *missed* season inside Peaks of Time additionally needs the quest **The Last Leg**.
 
 ## What this means for this account
 
-**Peaks of Time is locked on one half of the gate only.** The account holds Resonance Level **240**, so the level half is paid. Its story sits at Merlin's Ward, so **the story quest is the only thing still shutting it**. See [../account/progression.md](../account/progression.md).
+**The gate is paid and Peaks of Time is open.** The account holds Resonance Level 240 and entered Season 7 on 2026-09-10. See [../account/progression.md](../account/progression.md).
 
-**Pushing the story is the whole job now.** The same story clear opens Peaks of Time, opens the season ladder, and is separately the last blocker on Trial of Abyss.
+**Nothing is expiring, so this is not urgent.** Peaks of Time is permanent and the archived seasons do not rotate out. Seasons 1 to 6 will sit there just as readably after Veil of Memories as they do today, and the live season is the thing on a clock.
 
-**Nothing is expiring.** Peaks of Time is permanent and the six archived seasons do not rotate out, so nothing is being lost by reaching it late.
-
-**This settles the open Magic Charm question.** Dura's Trials, the source of all Magic Charms, needs **Season** AFK Stage 305. No season has been entered, so AFK Stage 1292 is the permanent ladder and charms are not available. They stay out of reach until the story clears the season gate and a season ladder is started from zero.
+**Crown of Ashes joins the archive on 2026-09-23.** So the account can walk the Season 7 story and map at leisure after the reset, whatever it fails to finish in the 13 days it has inside the live season.
 
 ## Sources
 
 - https://www.lootbar.com/blog/en/afk-journey-tower-of-memory-season-guide.html (missed seasonal modes are replayed via Peaks of Time) [2026-01-23]
 - https://www.lootbar.com/blog/en/afk-journey-season-7-crown-of-ashes.html (Crown of Ashes launches 2026-05-29) [2026-05-22, updated 2026-06-22]
-- https://afk-journey.fandom.com/wiki/Season (season gate is Resonance Level 240 plus a story quest; past seasons reachable through Peaks of Time; progress carries over; 402 on fetch, read through search summaries) [in window: names Crown of Ashes]
+- https://afk-journey.fandom.com/wiki/Season (past seasons reachable through Peaks of Time; progress carries over; 402 on fetch, read through search summaries) [in window: names Crown of Ashes]
 - https://afk-journey.fandom.com/wiki/Archives/Peaks_of_Time (the six archived seasons; 402 on fetch, read through a search summary) [in window: names Tower of Memory]
 - https://afk-journey.fandom.com/wiki/Crown_of_Ashes (Crown of Ashes content becomes resumable in Peaks of Time after the season ends; 402 on fetch, read through a search summary) [in window: Season 7]
 - https://blog.prydwen.gg/2024/09/17/afk-journey-patch-notes-1-2-1/ (Peaks of Time added 2024-10-01, reached after The Last Leg; **out of the 12-month window**, cited only under the narrow exception because no newer source states the unlock) [2024-09-17]

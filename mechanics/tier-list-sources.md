@@ -1,7 +1,7 @@
 # Tier list sources
 
 > **Covers:** which AFK Journey tier lists may be cited, which are banned, what each one ranks *for*, and the three things a tier letter must carry before it enters a file.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 A tier list is not one thing. A list built for AFK Stages and a list built for Arena rank the same hero differently, because the fights are different: AFK Stages rewards crowd control over minutes, Arena is settled in the opening seconds. A letter copied across that boundary is not weak evidence, it is wrong evidence.
 
@@ -31,9 +31,12 @@ Fan sites stamp dead pages with today's date. Judge a list by the roster it name
 | Names **Rolan** or **Voracia** | The list is at or after version 1.7.3, 2026-08-06. |
 | Names **Taichi & Agumon** or **Yamato & Gabumon** | The list is at or after the Digimon crossover, 2026-08-18. |
 | Names **Eryndor** or **Karma** | The list is at or after version 1.7.4, 2026-09-02. |
+| Names **Estrilda**, **Thane**, **Senea** or **Aster** | The list is at or after version 1.8.1 and Season 8, 2026-09-23. |
 | Top tier is Korin, Marilee, Kruger, Odie, Reinier, Temesia or Scarlita, and Frieren, Galahad and Rolan appear nowhere | The list is 2024 content, whatever date it displays. |
 
-Live version is **1.7.4**, released 2026-09-02. Live season is **Season 7, Crown of Ashes**, started 2026-05-29 and **ending 2026-09-23**. See [seasons.md](seasons.md).
+Live version is **1.7.4**, released 2026-09-02. Live season is **Season 7, Crown of Ashes**, started 2026-05-29 and **ending 2026-09-23**, when **version 1.8.1 and Season 8, Veil of Memories**, replace it. See [seasons.md](seasons.md).
+
+**GameLeap is on the ban list, and a claim traced only to it comes out of the repo.** It was the sole source for "Dura's Trials unlocks at Season AFK Stage 305", a figure that appears nowhere on the wiki and is wrong: the mode opens on the 9th day after a season starts on the server. See [season-progression.md](season-progression.md).
 
 ## Use these
 

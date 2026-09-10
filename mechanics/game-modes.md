@@ -1,7 +1,7 @@
 # Game modes
 
 > **Covers:** every mode, what unlocks it, where to find it in the game, and what its team needs.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 | Mode | Unlocks at | Team | Notes |
 | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 - **Arcane Labyrinth** is one continuous run, not one fight. HP and Energy are not restored between floors, so healing beats burst and you pick 10 heroes, not 5. See [arcane-labyrinth.md](arcane-labyrinth.md).
 - **Arena, and every PvP mode, is built by a different method.** [pvp-team-building.md](pvp-team-building.md) overrules three steps of [team-building.md](team-building.md): the level cap deletes investment, the defender wins the timeout, and the enemy formation is visible before the fight so the comp is chosen per target rather than fixed.
 - **Honor Duel and Savannah Cup both ignore the account roster completely.** Never build a comp from ./account for either. Honor Duel hands out its own heroes; Savannah Cup drafts 20 random ones and equalises progression. See [honor-duel.md](honor-duel.md) and [savannah-cup.md](savannah-cup.md).
-- **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Supreme Arena bars a repeated hero **or artifact** across its three, and is locked here until a season is started. See [supreme-arena.md](supreme-arena.md). Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
+- **Supreme Arena** and **Battle Drills** need several teams at once, so roster depth beats one stacked team. Supreme Arena bars a repeated hero **or artifact** across its three, and is locked here until the season ladder reaches Season AFK Stage 130. See [supreme-arena.md](supreme-arena.md). Battle Drills goes further: in Endless Mode a hero deploys once a day, so teams that share heroes cannot both run. See [battle-drills.md](battle-drills.md).
 - **Ravaged Realm** locks the roster to one squad a day, and a squad is one base faction plus the wildcards and collab heroes assigned to it. Roster depth in a single faction decides the score, and the account's best heroes are unavailable on three days out of four. See [ravaged-realm.md](ravaged-realm.md).
 - **Darkswarm Invasion** scores on total damage dealt across the week, so a battle that ends in a wipe still pays. Attempts per Hypofiend battle are limited and the enemy faction is unpublished, so build for raw output and wave clear. See [darkswarm-invasion.md](darkswarm-invasion.md).
 - **Solo battles** on the World Map and in the story deploy one hero, so the faction bonus pays nothing and ally-facing skills are wasted. See [solo-battles.md](solo-battles.md).
@@ -53,7 +53,9 @@ Open the main menu with the icon in the **top-left corner of the screen** while 
 
 - Reaching AFK Stage 1125 makes **Infinite Quest** available to **every player on that server**, not only the one who got there.
 - Players then clear **Infinite Stages** for **clearance rewards** and **ranking rewards**. Ranking means the mode is scored against other players on the server, not only against the content.
-- **It runs until the next season begins**, so it is a window rather than a permanent ladder.
+- **It runs until the next season begins**, so it is a window rather than a permanent ladder. The next season, **Veil of Memories, starts 2026-09-23**, so the window on this account's 1292 closes then. See [seasons.md](seasons.md).
+
+`unverified`: what "runs until the next season" does to the ladder in practice. One reading is that the mode closes and its ranking rewards pay out; another is that it resets and reopens. No source states which. **The safe play is to treat 2026-09-23 as a ranking deadline** and bank the climb before it.
 
 `unverified`, one search summary only: Infinite Quest is available only on servers launched after the version that introduced it. If that holds, an older server may never see the mode. It does not apply to this account, which is already in it. See [../account/progression.md](../account/progression.md).
 

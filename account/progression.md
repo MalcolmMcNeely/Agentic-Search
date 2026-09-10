@@ -1,11 +1,13 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, Resonance Synergy, artifacts owned and mode progress.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
-**This account is permanent-track only**, per the user. Little story done, nothing seasonal unlocked. Build every comp off the permanent track until that changes. The level half of the season gate is now paid and only the story stands in the way, so that change is close.
+**This account now runs both tracks.** It entered **Season 7, Crown of Ashes** on 2026-09-10, per the user. The permanent track is mature and the seasonal one stands at zero.
+
+**The season it just entered ends on 2026-09-23, thirteen days later, and Season 8 Veil of Memories starts the same day.** So the seasonal half of this file describes a ladder that is about to reset. Read it as a dry run for Veil of Memories rather than as a campaign. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
 `?` marks a value the user still has to supply.
 
@@ -16,9 +18,9 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 | Account started | about 2026-08-22 `?` |
 | AFK Stage | 1292 |
 | Resonance Level | **240**, the cap |
-| Resonance Synergy | **+25**, so every hero fields at **265** |
-| Total power | **22,636,000** |
-| Story progress | Merlin's Ward, a few sidequests done |
+| Resonance Synergy | **+30**, so every hero fields at **270** |
+| Total power | **22,636,000** `?`, last read at Synergy +25 |
+| Story progress | the season gate quest `Ryeham Tales: New Journey` is cleared. Exact chapter `?` |
 
 **The Starter Story ladder is finished.** Its last stage is 1125, so the account has cleared all of it and is now in **Infinite Stages**, the uncapped ladder that follows. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
@@ -30,14 +32,16 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 51 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **25 are bought and 35 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 51 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **30 are bought and 30 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level, and that headroom is spent.
 
-**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +25 carries every one of the 51 heroes owned to 265**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
+**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +30 carries every one of the 51 heroes owned to 270**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
+
+**The season has a second, parallel Resonating Hall, and none of the above enters it.** Season Resonance Level runs on Season Essence and Season Manuals that drop only from Season AFK Stages, and it starts at zero. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
 **Which five heroes hold the slots** — Taichi & Agumon, Yamato & Gabumon, Phraesto, Elijah & Lailah and Rolan. That is the AFK Stages push comp in [teams.md](teams.md), and the King Croaker comp too. **Neither Daimon nor Shemira is a Hand.**
 
@@ -51,16 +55,18 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 | Field | Value |
 | --- | --- |
-| Synergy level | **+25**, so the roster fields at **265** |
+| Synergy level | **+30**, so the roster fields at **270** |
 | Cap | **310**. That is the base 300 plus **+5 each** for the two Supreme+ heroes, Taichi & Agumon and Yamato & Gabumon |
-| Levels that pay stats | **60**, taking the roster from 240 to 300. **35 of them are unbought** |
+| Levels that pay stats | **60**, taking the roster from 240 to 300. **30 of them are unbought** |
 | Cost | **Hero Essence** alone, rising with each level |
 | Hero Essence held | `?` |
 | Training Manuals held | `?` |
 
-**Every Synergy level lands on all 50 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+**Every Synergy level lands on all 51 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
 
-**It is also the only spend left that raises raw power at all.** Class Equipment is finished at 240 on all thirty-six slots, and the Resonance Level is capped, so **the 35 stat-paying Synergy levels are the whole of the account's remaining stat growth**. See [equipment.md](equipment.md).
+**It is also the only permanent spend left that raises raw power at all.** Class Equipment is finished at 240 on all thirty-six slots, and the Resonance Level is capped, so **the 30 stat-paying Synergy levels are the whole of the account's remaining permanent stat growth**. See [equipment.md](equipment.md).
+
+**A season reset cannot touch it.** Resonance Synergy is permanent-track, so it is the one power spend that is worth the same on 2026-09-24 as it is today. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
 **Recycle the Training Manuals.** They bought levels up to 240 and buy nothing after it, and they convert to Hero Essence at **3000 to 1**. Read the Manual balance off the bag, because it is now an Essence balance in disguise.
 
@@ -70,7 +76,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 ### Arena spends sigils, not Essence
 
-**Arena caps every hero at a baseline of 151 plus about 10% and adjusts equipment to match, and leaves unlocked skills alone.** So the whole of the table above — Resonance Level 240, Resonance Synergy +25, 22,636,000 power, thirty-six maxed gear slots — is worth **nothing** inside the mode, and **ascension tier is worth everything**. See [../mechanics/arena.md](../mechanics/arena.md).
+**Arena caps every hero at a baseline of 151 plus about 10% and adjusts equipment to match, and leaves unlocked skills alone.** So the whole of the table above — Resonance Level 240, Resonance Synergy +30, 22,636,000 power, thirty-six maxed gear slots — is worth **nothing** inside the mode, and **ascension tier is worth everything**. See [../mechanics/arena.md](../mechanics/arena.md).
 
 **That inverts the spend order for Arena alone.** Two of the account's cheapest ascensions sit in the running Arena attack comp, and they buy different things.
 
@@ -118,39 +124,65 @@ The order rests on what the next step does and how many fielded comps it lands o
 
 **Ironwall at +4 changes what Battle Drills can field rather than what any comp does.** The blessing on the frontmost ally is worth **20% Phys DEF and Magic DEF** at +4 instead of 15%, plus **+20 Energy on Hit** and a shield of 20% max HP every 12s. It displaces nothing, because every comp in [teams.md](teams.md) already holds an artifact that suits it better. What it buys is a **sixth artifact**, and Battle Drills fields several teams at once, so a sixth team is now possible. See [../mechanics/battle-drills.md](../mechanics/battle-drills.md).
 
-## Seasonal track: Season 7, Crown of Ashes
+## Seasonal track: entered Season 7 with 13 days left
 
-Not reached yet. No Season Resonance Level, no Season Equipment, no Season Artifacts, no Magic Charms, no Soul Pact or Phantimals.
+**The gate is paid and the account is in.** Resonance Level 240 plus the quest `Ryeham Tales: New Journey`. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
-**The season gate has two halves, and the level half is paid.** It needs Resonance Level 240, which the account now holds, **plus a main story quest**. Story sits at Merlin's Ward, so **the story is the only blocker left on the whole seasonal track**. See [../mechanics/seasons.md](../mechanics/seasons.md).
+| Field | Value |
+| --- | --- |
+| Season entered | **Season 7, Crown of Ashes**, on 2026-09-10 |
+| Season ends | **2026-09-23**. Season 8, **Veil of Memories**, starts the same day |
+| Season Resonance Level | **0**. It runs on Season Essence and Season Manuals from Season AFK Stages, and the permanent 240 buys no head start |
+| Season AFK Stage | **0** |
+| Season Equipment, Season Artifacts, Magic Charms, Soul Pact | none |
+| Season Tokens | `?`. Read the balance, because these are the one season currency that survives |
 
-**That makes the story the highest-value thing on the account outside Resonance Synergy.** It opens the season ladder, it opens Peaks of Time, and it is separately the last blocker on Trial of Abyss. One run of it clears three gates. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
+**Everything in that table is wiped on 2026-09-23, and none of it converts.** So the thirteen days are not a campaign. What they are worth is set by three things that do outlive the reset.
 
-`unverified`: which quest the second half is. Two readings of the same wiki page name **Ryeham Tales** in one and **New Journey** in the other. Push the story and the game will name it.
+1. **The settlement.** It is mailed at the Veil of Memories start and scales on Season Resonance Level, Season Equipment, Season Artifacts and Season Magic Charms. Thirteen days from zero will not score highly, but it scores more than nothing. Its table is unpublished; read the in-game **Season Handbook**.
+2. **Season Tokens**, which buy Soul Sigils, Dream Fragments, Arena Coins and EX Equipment Resets in the [Season Store](../mechanics/season-store.md). Sigils are the account's tightest constraint, so this is the strongest permanent return the season offers.
+3. **The rehearsal.** Veil of Memories is the season this account can actually run end to end, and thirteen days inside a live one teaches the interface for free.
 
-**AFK Stage 1292 is still the permanent ladder**, because no season has been entered. Dura's Trials needs **Season** AFK Stage 305, so **Magic Charms stay out of reach** until the story clears the gate and a season ladder is started from zero.
+**The late-entry catch-up buff is at its maximum.** It scales on days the season has already run on the server, and Crown of Ashes has run about 104 of them, so the Season AFK Stage ladder climbs faster per fight now than it did for anyone who started on day one. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
-**Season 7 may or may not still be running when the gate opens, and either way nothing is lost.** No source found states its end date. A finished season moves into Peaks of Time and stays there, so its story and map can be walked later.
+**Magic Charms are out of reach in Season 7 and that is a calendar fact, not an effort one.** Dura's Trials opens on the **9th day after the season starts on the server**, a date that passed in June. Charms come back in range in Veil of Memories, on its 9th day, around **2026-10-02**.
+
+**Do not spend permanent currency on the seasonal track.** The two never touch: Season Essence and Season Manuals come only from Season AFK Stages, and Hero Essence and Diamonds buy nothing seasonal. There is no trade to weigh here.
+
+## The changeover on 2026-09-23
+
+Three things end that day, and one of them is not seasonal at all.
+
+- **Infinite Stages.** The mode runs until the next season begins, and the account is at 1292 with ranking rewards live. `unverified` whether it closes or resets, so treat the date as a ranking deadline. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+- **Unused Season Milestone points and unopened Milestone chests are cleared.** Open every chest before the reset.
+- **Crown of Ashes moves into Peaks of Time**, so its story and map stay walkable afterwards. Nothing is lost by leaving them. See [../mechanics/peaks-of-time.md](../mechanics/peaks-of-time.md).
+
+**No banner, pity counter or shop resets at a season turn.** Epic Recruitment and Stargaze pity carry over, and the Guild, Dream, Arena and Season stores all reset on the calendar month or week instead. So there is no reason to dump or hoard pulls around the date.
+
+**A season start hands out no free hero copies.** The free Supreme+ Aurora set was a one-off at Season 6, and the Season 7 start mail carried essences and EX resets only.
+
+**Live now: the Season 8 Preview Event, 2026-09-09 to 2026-09-13.** It pays 2 Invite Letters, 2 Rate Up Invite Letters, 2 Epic Invite Letters and 6 Origami Hamsters across three tiers, one claimable only after the season begins. **Karma's Rate Up runs 2026-09-17 to 2026-10-07**, across the turn.
 
 ## Mode progress
 
-**Every permanent-track AFK Stage requirement is met.** The highest gate on that track is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1292. **Two modes are still locked and neither is blocked on a permanent stage.** Trial of Abyss wants the full story clear and a 28-day-old server. **Supreme Arena wants Season AFK Stage 130**, which is a season number and reads zero here. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
+**Every permanent-track AFK Stage requirement is met.** The highest gate on that track is 400 total pulls for Stargaze Station and 166 stages for Legend Trial, and the account is at 1292. **Three modes are still locked and none is blocked on a permanent stage.** Trial of Abyss wants the full story clear and a 28-day-old server. **Supreme Arena wants Season AFK Stage 130**, a season number that reads zero. **Dura's Trials wants the 9th day of a season.** See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
 | Mode | Unlocked | Progress |
 | --- | --- | --- |
 | AFK Stages, Starter Story | yes | **cleared, all 1125** |
-| Infinite Stages | yes, needs 1125 | at **1292**. Runs until the next season starts. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
+| Infinite Stages | yes, needs 1125 | at **1292**. Runs until the next season starts, so **2026-09-23 is the deadline**. See [../mechanics/game-modes.md](../mechanics/game-modes.md) |
 | Dream Realm | yes, needs 16 | **King Croaker: Endless Mode**, best score **30 million** damage. Snow Stomper: Epic difficulty. The live Dream Store shelf is recorded in [../mechanics/dream-store.md](../mechanics/dream-store.md). Dream Fragments `?`, spent down on the Koko copies that took her to Legendary+ at 1,200 each. **Antandra is the next target**, at 17 sigils. See [../mechanics/dream-store.md](../mechanics/dream-store.md) |
 | Arena | yes, needs 20 | **Adept 3**. **3 Arena maps held**, and more unlock as the tier climbs. **Every hero fights here at a baseline of 151 plus about 10%**, so none of the power in the table above enters this mode. See [../mechanics/arena.md](../mechanics/arena.md) |
 | Savannah Cup | yes, event | **3v3 real-time PvP, running in 1.7.4 from 3 September.** Progression is equalised and unowned heroes may be deployed, so nothing on this account decides a pick. `?` the exact end date and the entry requirement. See [../mechanics/savannah-cup.md](../mechanics/savannah-cup.md) |
 | Arcane Labyrinth | yes, needs 100 | Difficulty 2 cleared, Deep Labyrinth entered |
 | Battle Drills / guild | yes, needs 121 | 30,000 Guild Medals spent on the Elijah & Lailah Soul Sigil. Remaining balance, guild level and Battle Drills mode reached `?`. Five teams that share no heroes are drafted in [teams.md](teams.md). See [../mechanics/battle-drills.md](../mechanics/battle-drills.md) and [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 | Legend Trial | yes, needs 166 | **Tower of Light cleared, 90/90.** Tower of Eternity 56/90, Tower of Nature 55/90, Tower of Will 53/90 |
-| Supreme Arena | **no** | It needs **Season AFK Stage 130**, and no season is started, so the season ladder is at zero. The blocker is the story quest, same as everything else seasonal. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md) |
+| Supreme Arena | **not yet** | It needs **Season AFK Stage 130**. The season is entered and that ladder reads **0**, so 130 stages is the whole distance. The catch-up buff is at its largest. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md) |
+| Dura's Trials / Magic Charms | **no** | Opens on the **9th day after a season starts on the server**, which passed in June. Back in range around **2026-10-02**, on day 9 of Veil of Memories. See [../mechanics/season-progression.md](../mechanics/season-progression.md) |
 | Honor Duel | yes | not roster-dependent, nothing to record |
 | Homestead, Darkswarm Invasion | yes | Homestead level `?`, Aggression `?`, weekly contribution `?`. See [../mechanics/darkswarm-invasion.md](../mechanics/darkswarm-invasion.md) |
 | Stargaze Station | yes, needs 400 total pulls | pity at 0. Elijah & Lailah unlocked from the Guild Store instead, so the target is now for copies, not the unlock |
-| Trial of Abyss | no | the 1125 stages are done. **Only the full story clear and a 28-day-old server are left.** Story sits at Merlin's Ward, so that is the blocker |
+| Trial of Abyss | no | the 1125 stages are done. **Only the full story clear and a 28-day-old server are left.** The season gate quest is cleared, but that is an early quest and not the full story, so the story is still the blocker. Exact chapter `?` |
 
 **The Legend Trial towers are the biggest open block of progress, and one of the four is now finished.** **Tower of Light is cleared at 90/90.** The other three sit near floor 55, so **270 floors** are left across Eternity, Nature and Will. Every AFK Stage gate is behind the account, so those three towers are where the remaining permanent rewards are.
 
@@ -176,7 +208,7 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 
 **She stands at Epic**, which for an A-Level hero is the unlock plus 4 Soul Sigils. **Graveborn is now 10 deep and level with Wilder and Mauler, second only to Lightbearer's 13.** The faction that was the thinnest on the account is no longer thin. See [roster.md](roster.md) and [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
 
-**She is an opener, and every number in her kit is already upgraded.** Her level-up thresholds top out at 211 and the roster fields at 265, so her First Strike lands at 340% with a **5s stun** and her Ultimate strips **300 Energy**. Her three ascension-gated pieces are all dark, and the one that matters, the **Shield of Light** weapon at **Mythic+**, is five steps up.
+**She is an opener, and every number in her kit is already upgraded.** Her level-up thresholds top out at 211 and the roster fields at 270, so her First Strike lands at 340% with a **5s stun** and her Ultimate strips **300 Energy**. Her three ascension-gated pieces are all dark, and the one that matters, the **Shield of Light** weapon at **Mythic+**, is five steps up.
 
 `?` where her copies came from. She is on the Dream Store shelf and on the All-Hero banner, and the two spend different currencies. Read it off the Dream Fragment balance or the banner pity counter.
 

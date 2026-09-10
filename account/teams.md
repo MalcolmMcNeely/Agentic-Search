@@ -1,7 +1,7 @@
 # Teams
 
 > **Covers:** the current team comp for each purpose, its formation, artifact and status.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 One comp per purpose. This file holds what to field **now**, not how the advice got here.
 
@@ -19,7 +19,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Never write a level into a comp, and never add a Level column.** Every hero fields at the **Resonance Level** in [progression.md](progression.md), which is the one place a level is recorded.
 
-**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 51 heroes at once and stands at **+25**, so the roster fields at **265**. See [progression.md](progression.md).
+**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 51 heroes at once and stands at **+25**, so the roster fields at **270**. See [progression.md](progression.md).
 
 **The three Arena comps field at about 166 instead, and that is not a choice either.** Arena caps every hero at a baseline of **151** plus about 10%, and adjusts equipment to match. Unlocked skills are untouched, so **ascension tier is the only investment that reaches the mode**. See [../mechanics/arena.md](../mechanics/arena.md).
 
@@ -38,7 +38,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Purpose:** the AFK ladder, the story campaign and the World Map. The Starter Story stages are cleared, so this comp is climbing **Infinite Stages**, which have no cap. See [../mechanics/game-modes.md](../mechanics/game-modes.md).
 
-**One comp covers all three.** The ladder is by far the hardest of them: the account sits at AFK Stage 1292 while the story sits at Merlin's Ward. A comp that holds Infinite Stages overkills every story and sidequest fight, so a second, weaker team on the easier content buys nothing. **Solo story and World Map encounters are the exception**, because they deploy one hero and have their own entry below. See [../mechanics/solo-battles.md](../mechanics/solo-battles.md).
+**One comp covers all three.** The ladder is by far the hardest of them: the account sits at AFK Stage 1292 while the story is barely started. A comp that holds Infinite Stages overkills every story and sidequest fight, so a second, weaker team on the easier content buys nothing. **Solo story and World Map encounters are the exception**, because they deploy one hero and have their own entry below. See [../mechanics/solo-battles.md](../mechanics/solo-battles.md).
 
 **This is the same five as the King Croaker comp below.** Confirmed from the account: it worked on King Croaker in Endless Mode and then took the ladder too. The two entries hold the same heroes and differ only in formation and in which levers matter, so **a change to one is a change to both**.
 
@@ -179,7 +179,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 ### Swaps
 
-**Silvina in for Thoran, to stop the digivolve rather than survive it.** Her First Strike teleports to the closest enemy in a symmetrical position at battle start for 340% and a **5s stun**, and Shadow Slayer strips **300 Energy**, which is the only tool on the roster that reaches an enemy Agumon before its first Ultimate. She is the fifth Graveborn, so the bonus rises to **+22%**. The cost is that she is **Epic**, so her Mythic+ Shield of Light is dark and she is left alone in the enemy formation without it, and `unverified` whether her skill numbers scale off the capped Arena level rather than the roster's 265. See [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
+**Silvina in for Thoran, to stop the digivolve rather than survive it.** Her First Strike teleports to the closest enemy in a symmetrical position at battle start for 340% and a **5s stun**, and Shadow Slayer strips **300 Energy**, which is the only tool on the roster that reaches an enemy Agumon before its first Ultimate. She is the fifth Graveborn, so the bonus rises to **+22%**. The cost is that she is **Epic**, so her Mythic+ Shield of Light is dark and she is left alone in the enemy formation without it, and `unverified` whether her skill numbers scale off the capped Arena level rather than the roster's 270. See [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
 
 **Smokey & Meerky back in for Koko, if losses stop being wipes.** They are **Supreme with EX +10** and the largest sustain block the account owns. Bring them back the moment the defeat log shows the team ground down rather than deleted, because the cluster is a liability only while a wide Ultimate is the thing arriving.
 
@@ -260,7 +260,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 3. **Aurora's summon-count dial is nearly flat here.** Her Hero Focus counts allied summons from **different** allies up to 5 stacks, and this comp fields Sonny and the bunnies from her plus Rolan's clones. `?` whether a Rolan clone counts as a summon for that clause. She is in for Dream Veil, the plushie immobilise and her own invincibility rather than for the stack.
 4. **Rolan is Epic, three Soul Sigils from Legendary+.** His Morale opener and his clone are both live at Epic; the ascension buys the rest of his kit.
 5. **`unverified`: whether WarGreymon's "unaffected" is control immunity.** It decides whether an enemy Agumon can be stunned after its digivolve. See [../mechanics/heroes/taichi-agumon.md](../mechanics/heroes/taichi-agumon.md).
-6. **`unverified`: whether skill numbers scale off the capped Arena level.** In Arena that level is about 166 rather than 265. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
+6. **`unverified`: whether skill numbers scale off the capped Arena level.** In Arena that level is about 166 rather than 270. **Read one skill tooltip on the Arena formation screen and it is settled for the whole repo.**
 
 ### Swaps
 
@@ -404,7 +404,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Daimon and Shemira also stand in the Darkswarm and Tower of Eternity comps, Shemira stands in solo battles, and Aurora stands in the Arcane Labyrinth, Darkswarm and Battle Drills comps.** Anything that changes their tier, level or kit changes those comps. **None of the three stands in the push comp or the Arena comp.** **Cecia also stands in the Snow Stomper comp**, so a change to her moves that one as well. Valka is in no other comp.
 
-**No Phantimal applies.** The 3-core faction rule pays a Phantimal only on the seasonal track, and this account is permanent-track only. The +22% stat bonus is the whole reward here. See [progression.md](progression.md).
+**No Phantimal applies.** The 3-core faction rule pays a Phantimal only inside seasonal battles, and this comp fights on the permanent ladder. The +22% stat bonus is the whole reward here. See [progression.md](progression.md) and [../mechanics/seasons.md](../mechanics/seasons.md).
 
 **Swap if the front row collapses: Cecia out, Zanie in.** Zanie is **Mythic** against Cecia's Epic, fires physical from range 20, and her turrets are summons that Aurora buffs. **Her Hero Focus is live and grants Penetration**, so she partly replaces the defence strip she costs. The faction bonus still drops from +22% to +18%, because she is Lightbearer, and Cecia's Trial of Thorns strips **both** DEF stats and keeps them, which Penetration does not match. Take the trade for survivability. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md).
 
@@ -978,7 +978,7 @@ A change to any of those heroes' tiers moves both comps.
 ---
 ## Purposes with no comp yet
 
-**Supreme Arena, and it is locked rather than undrafted.** It needs **Season AFK Stage 130**, and the account has no season ladder, so there is nothing to field it with. It also needs three teams sharing no hero and no artifact, so it wants roster depth rather than one stacked comp. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md).
+**Supreme Arena, and it is locked rather than undrafted.** It needs **Season AFK Stage 130**, and the season ladder entered on 2026-09-10 reads zero, so there is nothing to field it with yet. It also needs three teams sharing no hero and no artifact, so it wants roster depth rather than one stacked comp. **Draft it against Veil of Memories rather than Crown of Ashes**, which resets on 2026-09-23. See [../mechanics/supreme-arena.md](../mechanics/supreme-arena.md).
 
 **Savannah Cup needs no comp at all.** The 3v3 event equalises progression, draws its 20 heroes at random per match and lets you deploy heroes the account does not own, so nothing in this file applies to it. See [../mechanics/savannah-cup.md](../mechanics/savannah-cup.md).
 

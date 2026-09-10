@@ -1,7 +1,7 @@
 # King Croaker
 
 > **Covers:** the King Croaker Dream Realm boss, its instant-kill bubble, its energy barrier, and the team shape that beats it.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-10
 
 One of the Dream Realm bosses, and one of the eight in the Season 7 rotation. A giant frog. Dream Realm is a damage race against a timer, so the score is damage dealt, not a kill. See [game-modes.md](game-modes.md). The other bosses written up are [snow-stomper.md](snow-stomper.md) and [skyclops.md](skyclops.md).
 
@@ -60,7 +60,7 @@ It still is not copied straight across. **Galahad is Mythic here and her Time Re
 
 The older guides name Thoran, Smokey & Meerky, Kruger, Reinier, Marilee, Odie, Cecia, Hewynn and Rowan. Of those the account owns **Smokey & Meerky, Kruger, Cecia, Hewynn and Rowan**.
 
-**allclash builds its teams on Magic Charms and Season artifacts, and this account has neither.** It is permanent-track only, and Magic Charms sit behind Season AFK Stage 305. So its artifact picks, Sorcery and Swift Heal, are unreachable. See [../account/progression.md](../account/progression.md) and [seasons.md](seasons.md).
+**allclash builds its teams on Magic Charms and Season artifacts, and this account holds neither yet.** It entered Season 7 on 2026-09-10 with 13 days left, and Dura's Trials, the only source of Magic Charms, opens on the 9th day after a season starts on the server. So its artifact picks, Sorcery and Swift Heal, stay unreachable until the account has run a season past its first week. See [season-progression.md](season-progression.md), [seasons.md](seasons.md) and [../account/progression.md](../account/progression.md).
 
 The comp built from this file is in [../account/teams.md](../account/teams.md).
 
