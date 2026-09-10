@@ -32,14 +32,14 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 51 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **30 are bought and 30 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 52 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **30 are bought and 30 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level, and that headroom is spent.
 
-**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +30 carries every one of the 51 heroes owned to 270**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
+**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +30 carries every one of the 52 heroes owned to 270**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
 
 **The season has a second, parallel Resonating Hall, and none of the above enters it.** Season Resonance Level runs on Season Essence and Season Manuals that drop only from Season AFK Stages, and it starts at zero. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
@@ -62,7 +62,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Hero Essence held | `?` |
 | Training Manuals held | `?` |
 
-**Every Synergy level lands on all 51 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+**Every Synergy level lands on all 52 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
 
 **It is also the only permanent spend left that raises raw power at all.** Class Equipment is finished at 240 on all thirty-six slots, and the Resonance Level is capped, so **the 30 stat-paying Synergy levels are the whole of the account's remaining permanent stat growth**. See [equipment.md](equipment.md).
 
@@ -204,9 +204,17 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Stellar Crystals | `?` |
 | Guild Medals | `?`. 30,000 spent on Elijah & Lailah. Income is about 28,000 a month, so the next sigil is roughly a month away. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 
+### Satrana is the account's eleventh Mauler
+
+**She stands at Epic**, which for an A-Level hero is the unlock plus **4 Soul Sigils**, so five copies in total. **Mauler is now the second-deepest faction on the account at 11**, behind Lightbearer's 14. See [roster.md](roster.md) and [../mechanics/heroes/satrana.md](../mechanics/heroes/satrana.md).
+
+**`?` where the five copies came from.** She is on the Dream Store shelf at **1,200 Dream Fragments a copy**, which would make Epic a 6,000-Fragment purchase, and she is also on the All-Hero banner. The two spend different currencies, so read it off the Dream Fragment balance or the banner pity counter. See [../mechanics/dream-store.md](../mechanics/dream-store.md).
+
+**Three of her six skills are live and the three that are dark are all defensive.** Fiery Dance, Vixen Rush and Ignite Passions work at Epic. Hero Focus needs **Legendary+**, Radiant Vigor is an **Exclusive Equipment gated at Mythic+**, and Enhance Force needs **Supreme+**. She is **range 1**, so she stands in the front row despite the Mage label, and at Epic she stands there with no damage reduction at all. Epic to Legendary+ is **17 Soul Sigils** from the Dream Store, the same price as Korin and Viperian.
+
 ### Silvina is the account's tenth Graveborn
 
-**She stands at Epic**, which for an A-Level hero is the unlock plus 4 Soul Sigils. **Graveborn is now 10 deep and level with Wilder and Mauler, second only to Lightbearer's 13.** The faction that was the thinnest on the account is no longer thin. See [roster.md](roster.md) and [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
+**She stands at Epic**, which for an A-Level hero is the unlock plus 4 Soul Sigils. **Graveborn is 10 deep, level with Wilder and behind Mauler's 11 and Lightbearer's 14.** The faction that was the thinnest on the account is no longer thin. See [roster.md](roster.md) and [../mechanics/heroes/silvina.md](../mechanics/heroes/silvina.md).
 
 **She is an opener, and every number in her kit is already upgraded.** Her level-up thresholds top out at 211 and the roster fields at 270, so her First Strike lands at 340% with a **5s stun** and her Ultimate strips **300 Energy**. Her three ascension-gated pieces are all dark, and the one that matters, the **Shield of Light** weapon at **Mythic+**, is five steps up.
 

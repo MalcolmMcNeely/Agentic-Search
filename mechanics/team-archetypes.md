@@ -1,7 +1,7 @@
 # Team archetypes
 
 > **Covers:** the comp patterns a team can be built on, the engine that drives each one, when to pick it, and which owned heroes fill it.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 A tier list ranks a hero alone. A hero is never alone. This file holds the second half: what each hero's **job** is, and which fights that job wins.
 
@@ -96,6 +96,8 @@ This is a **Dream Realm** pattern, not a campaign one. One target, one long heal
 **Faramor is an amplifier that changes the damage type rather than the amount, and it is live now.** **Bitter Requiem** makes every ally standing in his circle deal extra true damage worth **75% of their own ATK**. Rolan and Galahad give one hero a second cast; Faramor gives four heroes a damage type the boss cannot defend against. He is **Supreme**, so nothing about him is waiting on a tier. **On a boss that outlasts a burst, he beats both**, because true damage keeps its value while a boss's defence climbs. See [heroes/faramor.md](heroes/faramor.md).
 
 **Thoran is an amplifier wearing a Tank label.** **Soul Plunder** marks the highest-HP enemy, which on a boss is the boss, and makes it take **13% more damage for the rest of the battle**. That is a permanent team-wide multiplier from the front row, and it costs no slot that the comp was not already spending on a frontline. See [heroes/thoran.md](heroes/thoran.md).
+
+**Satrana amplifies by turning the team's hit count into defence-ignoring burn.** **Ignite Passions** Sparks every ally within **2 tiles** at battle start, and once Satrana or any Sparked ally has hit a target **3 times** it ignites for **0.8% of its max HP per second**. A percentage of max HP ignores defence, and a boss is the enemy with the most max HP to take a percentage of, so this is the same trade Faramor makes with a different currency. **Her output is decided by the formation rather than by her own tier**, because a spread comp never lands the three hits and never ignites. She is **Epic**, so **Hero Focus, Radiant Vigor and Enhance Force are all dark**, and all three are the pieces that would keep a **range-1** hero alive in the front row she is forced into. Field her for the burn, not for the body. See [heroes/satrana.md](heroes/satrana.md) and [formation.md](formation.md).
 
 Single-target hitters that suit the payload slot: **Kruger** stacks Shatter Armor to strip boss defence and knocks down for 450%, **Valka** builds panic stacks into true damage scaled to the boss's **max** HP, which is the stat a boss has most of, and her Hero Focus is now live at Legendary+ for **18 ATK SPD**, which is what fills those stacks. **Lenya** locks the enemy top damage dealer into a 12s duel.
 
@@ -219,7 +221,7 @@ Read with [../account/roster.md](../account/roster.md).
 
 **Four of five owned for the scaling carry, and the missing slot now has a stand-in.** Eironn, Bonnie, Daimon and Shemira are in hand. **Ulmus** holds the front in the named build and is still missing; he is A-Level, so he goes on the All-Hero wishlist, never on an Epic letter. **Thoran fills that frontline job in the meantime**, at S-Level and Legendary, and he is Graveborn, so he also fits the faction-locked version of the build. See [recruitment.md](recruitment.md) and [heroes/thoran.md](heroes/thoran.md).
 
-**Wilder, Mauler and Graveborn are all 10 deep.** Only Lightbearer is deeper, at 14. Wilder counters Graveborn, and Legend Trial's Tower of Nature is faction-locked to Wilder. See [legend-trial.md](legend-trial.md) and [factions.md](factions.md).
+**Mauler is 11 deep, Wilder and Graveborn are 10 each.** Only Lightbearer is deeper, at 14. Wilder counters Graveborn, and Legend Trial's Tower of Nature is faction-locked to Wilder. See [legend-trial.md](legend-trial.md) and [factions.md](factions.md).
 
 **Dimensional is locked out of Legend Trial only.** That is four towers. Everywhere else the three of them are eligible. See [legend-trial.md](legend-trial.md).
 

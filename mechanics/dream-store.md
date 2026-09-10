@@ -1,7 +1,7 @@
 # Dream Store
 
 > **Covers:** the Dream Realm shop: what currency it takes, the live shelf, the per-tier Soul Sigil costs, and who on this account to buy.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 A shop inside the **Emporium**, paid for with **Dream Fragments**. It sells hero copies, so it is a route to ascension that does not go through a banner.
 
@@ -25,7 +25,7 @@ So the store's budget is set by Dream Realm performance. Push the boss harder an
 | Mauler | Odie, Seth, Kruger, Satrana, Antandra, Koko |
 | Graveborn | Niru, Silvina, Salazer, Viperian |
 
-**Thirteen are owned:** Valen, Mirael, Korin, Lucius, Fay, Arden, Damian, Seth, Kruger, Antandra, Koko, Niru, Silvina. See [../account/roster.md](../account/roster.md).
+**Fourteen are owned:** Valen, Mirael, Korin, Lucius, Fay, Arden, Damian, Seth, Kruger, Satrana, Antandra, Koko, Niru, Silvina. See [../account/roster.md](../account/roster.md).
 
 **No Celestial, Hypogean or Dimensional hero appears, and no S-Level hero does either.** Thoran, Shakir and Elijah & Lailah stay on their banners. See [recruitment.md](recruitment.md).
 

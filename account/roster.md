@@ -1,7 +1,7 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-09-09
+> **Updated:** 2026-09-10
 
 ## How to read this
 
@@ -9,14 +9,14 @@
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
 - **Level is not stored per hero, here or anywhere else in this repo.** Every hero sits at the **Resonance Level**, which is in [progression.md](progression.md) and is the only level recorded. A Hand of Resonance slot may run up to 10 above it, but swapping a Hand is free and the level travels with the slot, so a per-hero level would go stale the moment the Hall is rearranged. A comp names its Hand assignment only when the slots differ. So **pick a comp on tier, kit and faction**.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 51: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 52: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
 | Faction | Heroes owned |
 | --- | --- |
 | Lightbearer | 14 |
-| Mauler | 10 |
+| Mauler | 11 |
 | Wilder | 10 |
 | Graveborn | 10 |
 | Dimensional | 3 |
@@ -58,6 +58,7 @@
 | Gerda | Tank | Physical | Elite | - | [gerda](../mechanics/heroes/gerda.md) |
 | Seth | Rogue | Physical | Elite | - | [seth](../mechanics/heroes/seth.md) |
 | Shakir | Rogue | Physical | Epic | - | [shakir](../mechanics/heroes/shakir.md) |
+| Satrana | Mage | Magic | Epic | - | [satrana](../mechanics/heroes/satrana.md) |
 
 ## Wilder
 

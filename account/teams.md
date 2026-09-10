@@ -19,7 +19,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Never write a level into a comp, and never add a Level column.** Every hero fields at the **Resonance Level** in [progression.md](progression.md), which is the one place a level is recorded.
 
-**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 51 heroes at once and stands at **+25**, so the roster fields at **270**. See [progression.md](progression.md).
+**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 52 heroes at once and stands at **+30**, so the roster fields at **270**. See [progression.md](progression.md).
 
 **The three Arena comps field at about 166 instead, and that is not a choice either.** Arena caps every hero at a baseline of **151** plus about 10%, and adjusts equipment to match. Unlocked skills are untouched, so **ascension tier is the only investment that reaches the mode**. See [../mechanics/arena.md](../mechanics/arena.md).
 
