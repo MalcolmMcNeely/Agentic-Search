@@ -1,7 +1,7 @@
 # Solise
 
 > **Covers:** Solise kit, stats and best use.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-11
 
 - **Faction:** Wilder
 - **Class:** Support
@@ -34,7 +34,7 @@
 
 **Hero Focus** adds **+10% ATK for the battle, and +5% more while an allied Bulbsprite is on the field**, rising to +14% and +11% at full skill level. Every heal and every Bulbsprite buff is a multiple of her ATK, so it compounds.
 
-**Resonant Bloom is her Exclusive Equipment and it is one ascension step away.** She is **S-Level**, so Mythic to Mythic+ costs **2 Soul Sigils and 100 Faction Acorns**, the price the Digimon pair, Eironn, Aurora and Shemira all paid. **That is the cheapest Exclusive Equipment left on the account.** See [../../account/equipment.md](../../account/equipment.md).
+**Resonant Bloom is her Exclusive Equipment and it is one ascension step away.** She is **S-Level**, so Mythic to Mythic+ costs **2 Soul Sigils and 100 Faction Acorns**, the price the Digimon pair, Eironn, Aurora, Shemira and Galahad all paid. **That is the cheapest Exclusive Equipment left on the account.** See [../../account/equipment.md](../../account/equipment.md).
 
 **Enhance Force needs Supreme+.** While Life's Embrace is casting, Bulbsprite damage adds extra damage worth 2% of the excess healing that Bulbsprite has stored.
 

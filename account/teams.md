@@ -1,7 +1,7 @@
 # Teams
 
 > **Covers:** the current team comp for each purpose, its formation, artifact and status.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
 One comp per purpose. This file holds what to field **now**, not how the advice got here.
 
@@ -19,7 +19,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Never write a level into a comp, and never add a Level column.** Every hero fields at the **Resonance Level** in [progression.md](progression.md), which is the one place a level is recorded.
 
-**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 52 heroes at once and stands at **+30**, so the roster fields at **270**. See [progression.md](progression.md).
+**The five slots are level, so no comp says anything about levels at all.** All five Hands stand at 240 and every other hero matches them, so a comp has nothing to choose and no slot to lend. Past 240 the account levels through **Resonance Synergy**, which applies to all 53 heroes at once and stands at **+30**, so the roster fields at **270**. See [progression.md](progression.md).
 
 **The three Arena comps field at about 166 instead, and that is not a choice either.** Arena caps every hero at a baseline of **151** plus about 10%, and adjusts equipment to match. Unlocked skills are untouched, so **ascension tier is the only investment that reaches the mode**. See [../mechanics/arena.md](../mechanics/arena.md).
 
@@ -194,7 +194,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Middle, ahead of the back row and the most forward body | Aurora | Celestial | Mage | Magic | 2 | Supreme, EX +5 |
 | Middle, alone and ahead of the back row | Taichi & Agumon | Dimensional | Warrior | Physical | 7, then 1 | Supreme+, EX +10 |
 | Back, directly behind Agumon | Yamato & Gabumon | Dimensional | Mage | Magic | not published | Supreme+, EX +10 |
-| Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Supreme, EX `?` |
 | Back | Rolan | Celestial | Support | Magic | 10 | Epic |
 
 **Entities: five heroes, five tiles at deploy.** Sonny and Aurora's bunnies, and Rolan's clone on every ally Ultimate, all arrive during the fight. See [../mechanics/formation.md](../mechanics/formation.md).
@@ -233,15 +233,15 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **So this comp is strongest against a bunched defence and weakest against a spread one**, which is the opposite of what it looks like. Scout for that before spending a ticket.
 
-### The upgrade this comp is missing
+### The upgrade this comp was missing is bought
 
-**Galahad stands at Mythic and the version that beat this account stands at Mythic+.** That one step unlocks **Time Recast**, which marks a nearby ally, **preferring the one standing behind her**, and spawns an untargetable **12s shadow of them with extra Initial Energy**.
+**Galahad is Supreme, so Time Recast is live and this comp now holds every part of the five that beat it.** It marks a nearby ally, **preferring the one standing behind her**, and spawns an untargetable **12s shadow of them with extra Initial Energy**.
 
-**Arena is a race to cast the first area Ultimate, so Initial Energy is the stat the mode is actually scored by.** This comp holds every other part of the five that beat it and not this one.
+**Arena is a race to cast the first area Ultimate, so Initial Energy is the stat the mode is actually scored by.** See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md) and [progression.md](progression.md).
 
-**It costs 2 Soul Sigils and 100 Faction Acorns**, which makes it the cheapest new skill on the account, level with Solise. **It is now the account's highest-value Arena purchase**, ahead of Phraesto's three sigils. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md) and [progression.md](progression.md).
+`?` **Who Time Recast lands on here, and it is now the first thing to read off a battle.** It prefers the ally behind Galahad, and **Agumon has to stand ahead of the back row**, so he cannot be behind her. Gabumon or Rolan takes it instead unless the "nearby ally" clause reaches forward. **Pointing the shadow at Agumon is the whole prize**, because his pre-digivolve window is where every Agumon comp on this account has lost, and Initial Energy shortens it.
 
-`?` **Who Time Recast would land on here.** It prefers the ally behind Galahad, and **Agumon has to stand ahead of the back row**, so he cannot be behind her. Gabumon or Rolan would take it instead unless the "nearby ally" clause reaches forward. **Settle it in game the moment the step is paid**, because pointing the shadow at Agumon is the whole prize.
+**Her tile is now doing two jobs that pull against each other.** Time Recast reads the ally **behind** her, and the Confining Spell caution below says she must not sit in the deepest row with Gabumon and Rolan. Place her so exactly one of those two stands behind her, and so no more than two casters share the rear row.
 
 ### Placement
 
@@ -406,7 +406,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **No Phantimal applies.** The 3-core faction rule pays a Phantimal only inside seasonal battles, and this comp fights on the permanent ladder. The +22% stat bonus is the whole reward here. See [progression.md](progression.md) and [../mechanics/seasons.md](../mechanics/seasons.md).
 
-**Swap if the front row collapses: Cecia out, Zanie in.** Zanie is **Mythic** against Cecia's Epic, fires physical from range 20, and her turrets are summons that Aurora buffs. **Her Hero Focus is live and grants Penetration**, so she partly replaces the defence strip she costs. The faction bonus still drops from +22% to +18%, because she is Lightbearer, and Cecia's Trial of Thorns strips **both** DEF stats and keeps them, which Penetration does not match. Take the trade for survivability. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md).
+**Swap if the front row collapses: Cecia out, Zanie in.** Zanie is **Supreme** against Cecia's Epic, fires physical from range 20, and her turrets are summons that Aurora buffs. **Her Hero Focus is live and grants Penetration**, so she partly replaces the defence strip she costs. **Precision Overload is live too**, so every 22s one turret gains 40% max HP and ATK and a tile of range. The faction bonus still drops from +22% to +18%, because she is Lightbearer, and Cecia's Trial of Thorns strips **both** DEF stats and keeps them, which Penetration does not match. Take the trade for survivability. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md).
 
 ---
 
@@ -416,7 +416,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Surviving to the timer is half the score.** A team that dies at the midpoint scores about half of one that lasts, whatever its damage per second. That is why this comp fields a bubble-eater and a healer rather than a fifth damage slot. See [progression.md](progression.md).
 
-**This is also the account's Temporal Essence supply, and the queue for it has changed shape.** The Endless leaderboard pays it and no shop sells it. **Seven EX weapons now wait on it.** Taichi & Agumon and Yamato & Gabumon each want **500** for +11 to +15, and Aurora, Eironn, Shemira, Bonnie and Faramor each want **375** for +6 to +10. **Smokey & Meerky have left the queue**, because their weapon sits at the Supreme ceiling of +10 and no Essence buys another level. **Shemira's +10 is still the one to fund first**, because it is the only one of them that turns an Ultimate into defence-ignoring damage. See [equipment.md](equipment.md) and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
+**This is also the account's Temporal Essence supply, and the queue for it has changed shape.** The Endless leaderboard pays it and no shop sells it. **Ten EX weapons now wait on it.** Taichi & Agumon and Yamato & Gabumon each want **500** for +11 to +15, and Aurora, Eironn, Shemira, Bonnie and Faramor each want **375** for +6 to +10. **Galahad, Zanie and Hugin joined the queue at Supreme and their weapon levels are `?`**, so their share of it cannot be priced yet. **Smokey & Meerky have left the queue**, because their weapon sits at the Supreme ceiling of +10 and no Essence buys another level. **Shemira's +10 is still the one to fund first**, because it is the only one of them that turns an Ultimate into defence-ignoring damage. See [equipment.md](equipment.md) and [../mechanics/equipment-and-charms.md](../mechanics/equipment-and-charms.md).
 
 | Row | Hero | Faction | Class | Damage | Range | Tier |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -442,7 +442,9 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **5. Energy is damage when the score is damage dealt.** Taichi pushes **150 Energy into Agumon every 3s** plus 250 more until the digivolve lands, Gabumon's Hero Focus raises the Energy he recovers from attacking and raises it again after digivolving, Rolan clones every Ultimate and Elijah & Lailah speed all five heroes at once. Casts per minute is the score, and Starshard counts casts rather than damage.
 
-**Galahad is still cut on the tier gate, but the gate is now one step wide.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon, and the account owns all five, which no other Dream Realm guide lineup manages. **Time Recast, the skill that whole role rests on, unlocks at Mythic+ and she is Mythic.** She is S-Level, so that step costs **2 Soul Sigils**. Yamato & Gabumon holds the slot meanwhile: Supreme+, with an EX weapon, and magic damage from the back row either way. **Revisit this comp the moment she crosses Mythic+**, because at that point the account can field the guide lineup whole. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
+**The tier gate that cut Galahad is gone, and this comp is now one swap from the guide lineup.** allclash's August 2026 meta team is Phraesto, Rolan, Elijah & Lailah, **Galahad** and Agumon, and the account owns all five. **Time Recast, the skill that whole role rests on, is live at her Supreme.** This is the only Dream Realm guide lineup on the repo the account can now copy across whole.
+
+**The swap is Yamato & Gabumon out, Galahad in, and it is the user's call because this comp is `running`.** The case for it is that Galahad becomes a **boss amplify engine**: Time Recast puts a 12s shadow of the ally behind her on the field with bonus starting Energy, which is a second body casting into one health bar, and Endless scores damage dealt. The case against it is that Gabumon is **Supreme+ with EX +10**, two ascension tiers higher, and this is **the only comp that fields both Digimon pairs together** and the only one that reaches the +22% faction cap with both. **Trying it costs one of the five daily attempts and the score settles it.** See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md) and [../mechanics/king-croaker.md](../mechanics/king-croaker.md).
 
 **Grid note: only Phraesto stands forward, and that is the point.** The bubble picks by distance, so the front tile is a slot this comp fills on purpose with the one hero that regrows a body. **Taichi & Agumon starts in the back row**, confirmed from the account: fielded in the front row he dies before the digivolve. Elijah & Lailah sit in the middle rather than the back to split the cluster, because Water Bomb aims at the area holding the most heroes. See [../mechanics/formation.md](../mechanics/formation.md).
 
@@ -498,7 +500,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Smokey & Meerky | Mauler | Support | Supreme | sustained healing, an ally ATK buff and, at Supreme, an aroma that drains enemies as well |
 | Antandra | Mauler | Tank | Epic | replacement frontline: taunt, 60% damage cut, self-heal |
 | Lily May | Wilder | Rogue | Epic | replacement damage, keeps the Wilder core |
-| Hugin | Lightbearer | Support | Mythic | cogshields and an ATK buff |
+| Hugin | Lightbearer | Support | Supreme | cogshields on the 2 weakest allies and an ATK buff |
 
 **Artifact:** Awakening Spell +9, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/artifacts.md](../mechanics/artifacts.md) names it for this mode, and the reason is the carryover: heal that is wasted in a normal fight is banked here.
 
@@ -607,8 +609,8 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Temesia | Tank | 1 | Legendary |
 | Middle | Rowan | Mage | 3 | Legendary |
 | Back | Cyran | Mage | 6 | Epic |
-| Back | Zanie | Marksman | 20 | Mythic |
-| Back | Hugin | Support | 20 | Mythic |
+| Back | Zanie | Marksman | 20 | Supreme, EX `?` |
+| Back | Hugin | Support | 20 | Supreme, EX `?` |
 
 **Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. Three of the five stand in the back row and only Temesia holds the front, so keeping 2 enemies out of the backline is the largest single effect available. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names Awakening Spell for this mode, but that call is for a healer team, and this comp cleared the tower without a healer.
 
@@ -616,11 +618,11 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 
 **Faction bonus: +22%.** Five Lightbearer is forced by the lock.
 
-**Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. She is now **Mythic**, joint-highest in the Lightbearer roster with Hugin, and her Hero Focus grants **Penetration** to every attack she and her three turrets make. **Start her two laser turrets within 2 tiles of each other** so they link and focus the nearest enemy instead of firing at random. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md). Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
+**Why:** these are the five highest-tier Lightbearers owned, and the roles still fill. Zanie is the carry: her turrets fire on their own and she repairs them, so her damage keeps running while she stands at range 20 untouched. She is now **Supreme**, joint-highest in the Lightbearer roster with Hugin, and her Hero Focus grants **Penetration** to every attack she and her three turrets make. **Precision Overload is live at Supreme**, so every 22s one turret gains 40% max HP and ATK and a tile of range. **Start her two laser turrets within 2 tiles of each other** so they link and focus the nearest enemy instead of firing at random. See [../mechanics/heroes/zanie.md](../mechanics/heroes/zanie.md). Hugin forges gear onto the **top damage dealer**, which is Zanie, and hands out cogshields and damage reduction. **He is Supreme too, so Steelbound Kinship is live** and his Ultimate now shields the **2** weakest allies for 800% damage rather than one. Cyran is the AoE and the control: his black hole pulls every enemy to one point and instantly kills anything under 15% HP, which is how a stalled floor breaks. Rowan is the Energy battery and the closest thing to a healer here, dropping potions that heal allies under 50% HP and buff their defence. Temesia charges the farthest enemy, knocks foes down and returns Energy on impact.
 
 **Two weak points, and the tower clear retired the third:**
 
-1. **No healer, and 90 floors say that is survivable.** Lightbearer owns none. Rowan's potions only fire on an ally already under 50% HP, and Hugin gives shields, not heals. This file used to predict that high floors would punish it; the comp cleared the tower instead. **The reason it holds is that damage never has to reach the back row**: Zanie fires from range 20, Hugin from range 20, and Confining removes the 2 enemies most likely to dive them. Keep that shape and the missing healer costs nothing. Break it and the gap is real again.
+1. **No healer, and 90 floors say that is survivable.** Lightbearer owns none. Rowan's potions only fire on an ally already under 50% HP, and Hugin gives shields, not heals, though at Supreme he now gives them to **2** allies at a time instead of one. This file used to predict that high floors would punish it; the comp cleared the tower instead. **The reason it holds is that damage never has to reach the back row**: Zanie fires from range 20, Hugin from range 20, and Confining removes the 2 enemies most likely to dive them. Keep that shape and the missing healer costs nothing. Break it and the gap is real again.
 2. **The frontline is one hero.** Temesia is **Legendary**, so she is no longer the weakest link she was, but she is still the only usable Lightbearer Tank; Chippy is Rare and cannot ascend. If she folds, three back-row heroes are exposed at once. This is the one to watch wherever these five go next, because **Battle Drills passages and the Giant Golem both hit harder than a tower floor**.
 
 **The Graveborn counter is spent.** Lightbearer loses 15% damage to Graveborn on the wheel, which cost this comp on the Graveborn floors of the tower. There are no more tower floors, and every mode the five now play picks its own enemies, so this is a per-fight cost rather than a standing weakness. See [../mechanics/factions.md](../mechanics/factions.md).
@@ -640,14 +642,14 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Antandra | Tank | 1 | Epic |
 | Middle | Kordan | Warrior | 1 | Mythic |
 | Middle | Kruger | Warrior | 1 | Mythic |
-| Back | Galahad | Mage | 10 | Mythic |
+| Back | Galahad | Mage | 10 | Supreme, EX `?` |
 | Back | Smokey & Meerky | Support | 8 | Supreme |
 
 **Artifact:** Awakening Spell +9, so the heal covers the 4 weakest allies for 10% of Max HP every 10s. [../mechanics/legend-trial.md](../mechanics/legend-trial.md) names it for this mode on a healer team, and Smokey & Meerky makes this one.
 
 **Faction bonus: +22%.** Five Mauler is forced by the lock.
 
-**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **Smokey & Meerky is now Supreme and the highest tier in this comp**, so it is built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. **Withering Potion is live at Supreme as well**, so the aroma drains every enemy standing in it for up to 12% of max HP a second, and the healer is now a damage source too. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Mythic, so his Hero Focus is live**, worth +12% ATK to himself at level 1, and his Exclusive Equipment is now **one step away at Mythic+**. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
+**Why:** 90 floors of rising enemy stats is attrition, so this is **sustain with offence** from [../mechanics/team-archetypes.md](../mechanics/team-archetypes.md). Galahad is the carry and the account's best magic damage. **She is now Supreme, so Time Recast is live**, and a 12s shadow of the ally behind her joins the fight with bonus starting Energy. **Point it at Smokey & Meerky by standing the pair one tile deeper than Galahad**, because the other three walk into the enemy and the shadow should copy the hero that stays. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md). **Smokey & Meerky are Supreme too**, so the comp is still built around them: their aroma heals, raises ally ATK by 16% and feeds them Energy, and their Hero Focus adds up to 15% of their own ATK back when 3 allies stand inside it, which scales every heal and buff coming out. **Withering Potion is live at Supreme as well**, so the aroma drains every enemy standing in it for up to 12% of max HP a second, and the healer is now a damage source too. Antandra is the frontline: her Ultimate taunts, cuts damage taken by 60%, stuns adjacent foes and heals her, and she shields a guarded ally on top. Kordan opens the fight, immobilises a target for 5s and buffs every ally standing in his ring, and his bonuses grow as the enemy loses HP. **He is Mythic, so his Hero Focus is live**, worth +12% ATK to himself at level 1, and his Exclusive Equipment is now **one step away at Mythic+**. See [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md). Kruger strips enemy defence with Shatter Armor and heals himself off weakened targets.
 
 **Four weak points:**
 
@@ -666,7 +668,7 @@ Git holds the history. A comp that is replaced is **deleted** from this file, an
 | Front | Antandra | Tank | 1 | Epic |
 | Middle | Kordan | Warrior | 1 | Mythic |
 | Middle | **Koko** | Support | 4 | Legendary+ |
-| Back | Galahad | Mage | 10 | Mythic |
+| Back | Galahad | Mage | 10 | Supreme, EX `?` |
 | Back | Smokey & Meerky | Support | 8 | Supreme |
 
 **Same artifact, same faction bonus, same five tiles.** Awakening Spell +9, +22% Mauler, and no hero in either version fields a second entity.
@@ -786,14 +788,14 @@ Send it at the mid-boss and the final boss, not at passages.
 | Front | Temesia | Lightbearer | Tank | Physical | 1 | Legendary |
 | Middle | Rowan | Lightbearer | Mage | Magic | 3 | Legendary |
 | Back | Cyran | Lightbearer | Mage | Magic | 6 | Epic |
-| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic |
-| Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic |
+| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Supreme, EX `?` |
+| Back | Hugin | Lightbearer | Support | Physical | 20 | Supreme, EX `?` |
 
 **Artifact:** Confining Spell +9, so the imprison lasts 2.5s on a 10s cooldown. Three heroes stand in the back row behind one Tank, so holding two enemies out of the backline is what keeps this team standing.
 
 **Faction bonus: +22%.** Five Lightbearer, the deepest faction on the account at 12.
 
-**Why:** Hugin is Mythic and forges ATK and Haste onto the top damage dealer while cogshields soak, Zanie fires from range 20 and puts turrets on the field, Cyran's black hole pulls the enemy together and kills anything under 15% HP, and Rowan's coins hand back Energy. Two damage types, so a passage stacked against one defence cannot resist all of it.
+**Why:** Hugin is Supreme and forges ATK and Haste onto the top damage dealer while cogshields soak the **2** weakest allies, Zanie is Supreme too and fires from range 20 while three turrets upgrade themselves every 22s, Cyran's black hole pulls the enemy together and kills anything under 15% HP, and Rowan's coins hand back Energy. Two damage types, so a passage stacked against one defence cannot resist all of it.
 
 **This is the Tower of Light comp, unchanged.** It is already `running` in that tower, so it is the most tested team here after Team 1. **Weak point:** Temesia is alone on the front, though she is now **Legendary** rather than Epic, so this team has moved down the reinforce order.
 
@@ -804,14 +806,14 @@ Send it at the mid-boss and the final boss, not at passages.
 | Front | Antandra | Mauler | Tank | Physical | 1 | Epic |
 | Middle | Kordan | Mauler | Warrior | Physical | 1 | Mythic |
 | Middle | Kruger | Mauler | Warrior | Physical | 1 | Mythic |
-| Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Supreme, EX `?` |
 | Back | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme |
 
 **Artifact:** Blazing Spell +10. It is fully upgraded and the only artifact owned that grants DEF Penetration, and three of these five are physical melee paying full price against enemy defence.
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s and is **Mythic** with a live Hero Focus worth +12% ATK to himself, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Supreme and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad plays as the payload here, not as an engine**: her Time Recast needs Mythic+ and she is Mythic, one step and 2 Soul Sigils short. See [../mechanics/hero-scoring.md](../mechanics/hero-scoring.md).
+**Why:** Kruger stacks Shatter Armor to strip defence and knocks down for 450%, Kordan immobilises for 5s and is **Mythic** with a live Hero Focus worth +12% ATK to himself, Antandra taunts and cuts her own damage taken by 60%, **Smokey & Meerky are Supreme and the highest tier here**, healing from range 8 and buffing ally ATK by 16% inside a 2-tile aroma, and Galahad is the best magic damage on the roster at range 10. Keep Galahad inside the aroma: three allies in it turns on the Hero Focus clause worth up to 15% of the pair's ATK. **Galahad is Supreme, so she plays as engine and payload at once**: Time Recast marks a nearby ally, preferring the one **behind** her, and puts a 12s shadow of them on the field with bonus starting Energy. **Smokey & Meerky are the ally to point it at**, so pull the pair one tile deeper than Galahad rather than level with her, and the shadow copies the comp's healer instead of a range-1 body that has walked away. See [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
 
 **This is the Tower of Will comp, unchanged**, and it is `running` in that tower.
 
@@ -919,14 +921,14 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 | Front | Phraesto, **Illusion** | Hypogean | Tank | Magic | 1 | Epic |
 | Front | Lucius | Lightbearer | Warrior | Physical | 1 | Elite+ |
 | Middle | Rowan | Lightbearer | Mage | Magic | 3 | Legendary |
-| Back | Hugin | Lightbearer | Support | Physical | 20 | Mythic |
-| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Mythic |
+| Back | Hugin | Lightbearer | Support | Physical | 20 | Supreme, EX `?` |
+| Back | Zanie | Lightbearer | Marksman | Physical | 20 | Supreme, EX `?` |
 
 **Entities: five heroes, six tiles.** Phraesto's Illusion is summoned in the preparation phase and takes its own tile, so place it. **Both bodies go in the same row**, which is what grants each of them 30% damage reduction. Zanie then adds **two laser turrets and a gun turret** during the fight, and the two lasers link only if they start within 2 tiles of each other, so keep her tile central.
 
 **Faction bonus: +22%**, four Lightbearers with Phraesto wildcarding in, plus **+1%** for the Hypogean.
 
-**Why: Lucius is here for one skill.** His Ultimate shields a tile and its neighbours against 520% damage for 10s, which Energy Realm turns into **20s**, and that is the largest group shield the account can put down. He is only Elite+, and this fight makes the slot worth taking anyway. Hugin puts cogshields on allies, adds damage reduction, and forges ATK and Haste onto whichever hero is already the top damage dealer. Zanie is the damage: three turrets that keep firing while their owner is knocked down. Phraesto brings the second body. Rowan throws coins that restore Energy to allies **within 2 tiles**, which is why he sits in the middle rather than the back.
+**Why: Lucius is here for one skill.** His Ultimate shields a tile and its neighbours against 520% damage for 10s, which Energy Realm turns into **20s**, and that is the largest group shield the account can put down. He is only Elite+, and this fight makes the slot worth taking anyway. Hugin puts cogshields on allies, adds damage reduction, and forges ATK and Haste onto whichever hero is already the top damage dealer. **He is Supreme, so Steelbound Kinship shields the 2 weakest allies for 800% damage each time his Ultimate lands**, which doubles the group cover this comp is built on. Zanie is the damage: three turrets that keep firing while their owner is knocked down, and at Supreme **Precision Overload upgrades one of them every 22s**. Phraesto brings the second body. Rowan throws coins that restore Energy to allies **within 2 tiles**, which is why he sits in the middle rather than the back.
 
 **Temesia is the swap if the front collapses.** She is Legendary against Lucius at Elite+, and the trade is a tier for the 20-second group shield.
 
@@ -938,7 +940,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 | Front | Kordan | Mauler | Warrior | Physical | 1 | Mythic |
 | Middle | Koko | Mauler | Support | Physical | 4 | Legendary+ |
 | Middle | Smokey & Meerky | Mauler | Support | Magic | 8 | Supreme |
-| Back | Galahad | Mauler | Mage | Magic | 10 | Mythic |
+| Back | Galahad | Mauler | Mage | Magic | 10 | Supreme, EX `?` |
 
 **Entities: five heroes, five tiles.** Nobody here fields a second body, and the only thing that arrives later is Kordan's **Dominance Ring**, which lands on the target and buffs allies standing inside it.
 
@@ -948,7 +950,7 @@ The strongest bench left is **Yamato & Gabumon, Pandora, Rolan, Hewynn and Koko*
 
 **Faction bonus: +22%.** Five Mauler.
 
-**Why: Koko turns the Golem's own kit into score.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage** against the enemy. Every Golem skill is a large hit on all five heroes, so this team is fed more to convert than any other comp in this file. Galahad is the strongest magic damage this squad can field and fires from range 10. Antandra shields herself and one ally, and adds more damage reduction when that ally drops below half HP; her taunt is worth nothing here, because every Golem skill hits all five anyway. Kordan's Fury Slash deals damage plus a shield, and he is **Mythic** with a live Hero Focus worth **+12 to 20% ATK**. Smokey & Meerky heal, buff ATK and feed **5 Energy a second per ally inside the aroma**, and at Supreme both their Hero Focus and **Withering Potion** are live, so the aroma now drains every enemy inside it for up to 12% of max HP a second on top of the healing.
+**Why: Koko turns the Golem's own kit into score.** Full Energy gives the team **45 to 55% damage reduction for 12s** and then converts everything it blocked into **true damage** against the enemy. Every Golem skill is a large hit on all five heroes, so this team is fed more to convert than any other comp in this file. Galahad is the strongest magic damage this squad can field and fires from range 10, and **at Supreme her Time Recast is live**, so a 12s shadow of the ally behind her joins the fight with bonus starting Energy. Antandra shields herself and one ally, and adds more damage reduction when that ally drops below half HP; her taunt is worth nothing here, because every Golem skill hits all five anyway. Kordan's Fury Slash deals damage plus a shield, and he is **Mythic** with a live Hero Focus worth **+12 to 20% ATK**. Smokey & Meerky heal, buff ATK and feed **5 Energy a second per ally inside the aroma**, and at Supreme both their Hero Focus and **Withering Potion** are live, so the aroma now drains every enemy inside it for up to 12% of max HP a second on top of the healing.
 
 **Antandra and Kordan are the only shield sources the Mauler roster owns**, which is why an Epic hero holds a slot on a squad with four heroes above her tier. Koko's mitigation is damage reduction, not a shield, so it does **not** block Astral Strike's knockdown and Haste strip. Only those two do. See [../mechanics/ravaged-realm.md](../mechanics/ravaged-realm.md).
 

@@ -48,7 +48,7 @@
 
 **Range 1 is what places her, and it fights her class label.** She is a Mage, so the default row is the back, but a base range of 1 overrides the label and puts her in the front. Fiery Dance also wants enemies within 2 tiles of her, and Ignite Passions wants allies within 2 tiles, so she has to stand in the middle of both. See [../formation.md](../formation.md).
 
-**She is fielded in no comp.** Every comp in [../../account/teams.md](../../account/teams.md) already holds a higher-tier hero in her lane, and the Mauler slots in particular are held by Galahad at Mythic and Smokey & Meerky at Supreme.
+**She is fielded in no comp.** Every comp in [../../account/teams.md](../../account/teams.md) already holds a higher-tier hero in her lane, and the Mauler slots in particular are held by Galahad and Smokey & Meerky, both at Supreme.
 
 ## Sources
 

@@ -1,9 +1,9 @@
 # Hero files
 
 > **Covers:** one line per hero owned, pointing at that hero's full kit file.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
-The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 52 hero files. Read the row, then open only the files the comp actually needs.
+The second hop of the index. [../../INDEX.md](../../INDEX.md) points here; this file points at one of 53 hero files. Read the row, then open only the files the comp actually needs.
 
 Every hero file carries the same five fields, in the same order, so grep works across the folder: **Faction, Class, Damage, Range, Rarity.**
 
@@ -68,6 +68,7 @@ grep -l "Rarity:\*\* S" mechanics/heroes/*.md
 | Kordan | Mauler | Warrior | Physical | 1 | A | [kordan.md](kordan.md) |
 | Kruger | Mauler | Warrior | Physical | 1 | A | [kruger.md](kruger.md) |
 | Arden | Wilder | Mage | Magic | 5 | A | [arden.md](arden.md) |
+| Parisa | Wilder | Mage | Magic | 5 | A | [parisa.md](parisa.md) |
 | Eironn | Wilder | Rogue | Magic | 1 | S | [eironn.md](eironn.md) |
 | Lily May | Wilder | Rogue | Magic | 3 | S | [lily-may.md](lily-may.md) |
 | Faramor | Wilder | Rogue | Physical | 1 | A | [faramor.md](faramor.md) |

@@ -1,7 +1,7 @@
 # Hero scoring
 
 > **Covers:** how to rank a hero from its kit alone, with no guide, and why a guide that never names a hero proves nothing about it.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-11
 
 A fight is a race. Your five heroes deal damage until the enemy dies. The enemy deals damage until your five die. Whoever runs out of health first loses.
 
@@ -43,7 +43,9 @@ The mirror of guide silence, and the one that stings more. **A guide describes a
 
 Before crediting a hero with a skill, check two numbers: the tier the skill unlocks at, and the tier in [../account/roster.md](../account/roster.md).
 
-**Galahad is the worked example.** Every team guide builds her boss amplify role on **Time Recast**, which marks the ally behind her and spawns an untargetable shadow of them. The guides are right that she has it. It unlocks at **Mythic+**, and she is **Mythic** on this account, so one step still sits between her and the skill. The comps naming her as an Ultimate-duplicator describe an account one ascension from this one, and one ascension is still not this one. **A gap of one step reads exactly like a gap of three when the fight starts.**
+**Thador is the worked example.** Every team guide credits him with granting the team Energy at battle start. That effect is the **+10** step of Markmoon Pact, which is his Exclusive Equipment, so it sits **two gates** above the **Mythic** he stands at: the weapon does not exist yet, let alone at +10. A comp built on his opener is built on nothing. **A gap of one step reads exactly like a gap of three when the fight starts.** See [heroes/thador.md](heroes/thador.md).
+
+**The check runs in both directions.** A gate is shut until the hero ascends through it, and then the guide that was overselling the hero is simply describing it. **Galahad is the case in point:** she is **Supreme**, so **Time Recast** is live and every guide that builds her boss amplify role on it is now right. **Re-read a hero's file whenever its tier moves**, because a skill that pays nothing today is part of the kit tomorrow. See [heroes/galahad.md](heroes/galahad.md).
 
 Guide silence undersells a hero on the roster. A tier gate oversells one. One move cures both: read the kit, then read the tier.
 

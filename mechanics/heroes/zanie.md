@@ -1,7 +1,7 @@
 # Zanie
 
 > **Covers:** Zanie kit, stats and best use.
-> **Updated:** 2026-08-31
+> **Updated:** 2026-09-11
 
 - **Faction:** Lightbearer
 - **Class:** Marksman
@@ -11,11 +11,9 @@
 
 ## Kit
 
-Deploys **2 laser turrets** at battle start, each inheriting **140% of her max HP and 80% of her ATK**. Iron Defense builds a **gun turret** in front of her inheriting **70% of both**, which charges and then unloads a barrage. Field Repairs restores damaged turrets with shields.
+**Vein Pulse**, her Ultimate, deploys **2 laser turrets** at battle start, each inheriting **140% of her max HP and 80% of her ATK**, and its active half adds 15 ATK SPD plus extra damage scaled to the target's current HP. **Iron Defense** builds a **gun turret** in front of her inheriting **85% of both** at this account's level, which charges and then unloads 6 rounds that stun and knock back. **Field Repairs** restores a damaged turret with a shield, and revives a destroyed one once per battle.
 
 **The turrets are the hero.** They fire on their own while she stands at range 20, so her damage keeps running whether or not anything reaches her.
-
-**Every 22s she upgrades one turret**, raising its max HP and ATK by **40%** and its range by 1 tile. She takes the frontmost laser turret first, and each turret upgrades only once per battle.
 
 ## The two laser turrets link, and that is a formation rule
 
@@ -25,13 +23,25 @@ Her own tile therefore decides both the firing arc and whether the link fires at
 
 ## Hero Focus
 
-**Live.** It unlocks at **Legendary+** and she is **Mythic** in [../../account/roster.md](../../account/roster.md), two tiers past the gate.
+**Live.** It unlocks at **Legendary+** and she is **Supreme**, four tiers past the gate.
 
 **It grants Penetration during battle: 12 at level 1, 16 at level 2, 20 at level 3.** `unverified`: the three figures come from wiki pages with no findable date. allclash independently confirms the effect is Penetration and calls level 3 the investment worth making, but publishes no numbers.
 
 `?` which of the three levels this account holds. Hero Focus levels are bought with **Tidal Essence**, not earned by ascending, so the tier alone does not settle it.
 
 **Penetration is the stat this account's ladder argument asks for.** [../../account/progression.md](../../account/progression.md) says defence-ignoring damage is the only kind that keeps working while Infinite Stages raise enemy defence with no ceiling. Penetration discounts every attack she and her three turrets make, so it does not decay the way raw ATK does.
+
+## Tier gate
+
+**She is Supreme, so her Exclusive Equipment is on and only Enhance Force is dark.**
+
+**Precision Overload is the Exclusive Equipment skill, and it is now live.** Every **22s** it upgrades one turret, raising its max HP and ATK by **40%** and its range by 1 tile. She takes the frontmost laser turret first, and each turret upgrades only once per battle. Weapon levels raise that 40% to 50% and then 60%.
+
+**Enhance Force needs Supreme+**, one tier up. Turret hits would then burn the enemy for turret ATK per second and cut enemy ATK by **20%**, and a **linked** pair would strip **30% Physical DEF** on top.
+
+`?` **Her Exclusive Equipment level.** At Supreme the weapon's ceiling is **+10**. See [../../account/equipment.md](../../account/equipment.md).
+
+**No current tier list states whether its letters assume that weapon**, and every letter below was published while she stood without it.
 
 ## Best for
 
@@ -47,20 +57,18 @@ Sustained turret damage from range 20. She carries the **Tower of Light** comp a
 
 allclash reads her overall as a niche hybrid with no clear role, and rates her a low build priority.
 
-## Tier gate
-
-**Mythic+ is one tier away and it unlocks her Exclusive Equipment.** She is **A-Level**, so the step costs **12 Soul Sigils**, and the **Dream Store does not stock her**, confirmed from the account. Her copies have to come off a banner or a wishlist instead, which makes her a slower EX project than any S-Level hero sitting at the same tier. No current list states whether its letters assume that weapon. See [../dream-store.md](../dream-store.md) and [../../account/equipment.md](../../account/equipment.md).
-
 ## Notes
 
 Her turrets are summons, so she feeds **Aurora**, whose Hero Focus counts summons belonging to different allies. See [aurora.md](aurora.md).
 
+**afk.global tags her skill gates wrongly.** It labels Hero Focus a Mythic+ skill and her Ultimate the Exclusive Equipment skill. Every hero holds three base skills, and hers are Vein Pulse, Iron Defense and Field Repairs, so Precision Overload is the one the weapon adds. Take the gates from [../progression-systems.md](../progression-systems.md).
+
 ## Sources
 
-- https://www.afk.global/afk-journey/characters/zanie [current, kit and stats]
+- https://www.afk.global/afk-journey/characters/zanie [current, kit and stats. Its unlock tiers are unusable, see above]
 - https://www.allclash.com/best-heroes-tier-list-in-afk-2-journey/ [2026-08-26, PvE, Dream Realm and PvP letters, and the niche-hybrid read]
 - https://www.afk.global/afk-journey/tier-list [2026-08-20, Campaign, PvP, Dream Realm and Dream Realm Endless tabs. Its Overall tab is blended and is not cited]
 - https://www.pockettactics.com/afk-journey/tier-list [2026-08-17, story mode, Dream Realm and PvP]
 - https://www.allclash.com/best-build-for-zanie-in-afk-journey-magic-charms-ex-weapon-priority/ [2025-09-01, outside the 6-month preference. Hero Focus level 3 is the goal and the effect is Penetration; EX +5 then +10 as the milestones; turrets are the core of the kit; no Hero Focus numbers published. It splits no modes, so no letter is taken from it]
-- https://www.prydwen.gg/afk-journey/characters/zanie [turret inherit percentages, the 2-tile link and its 55% per 0.5s, the 22s upgrade cycle, Hero Focus Penetration 12/16/20; 403 on direct fetch, read through search summaries. No findable date, so the numbers are carried as `unverified`]
+- https://www.prydwen.gg/afk-journey/characters/zanie [turret inherit percentages, the 2-tile link and its 55% per 0.5s, Precision Overload as the Mythic+ skill, Hero Focus Penetration 12/16/20; 403 on direct fetch, read through search summaries. No findable date, so the numbers are carried as `unverified`]
 - https://afk-journey.fandom.com/wiki/Zanie [same turret and Hero Focus readings; 402 on direct fetch, read through search summaries. No findable date]

@@ -1,7 +1,7 @@
 # Galahad
 
 > **Covers:** Galahad kit, stats and best use.
-> **Updated:** 2026-09-07
+> **Updated:** 2026-09-11
 
 - **Faction:** Mauler
 - **Class:** Mage
@@ -11,43 +11,43 @@
 
 ## Kit
 
-Three skills are live below Mythic+, read off her profile in game: **Temporal Field**, her Ultimate, plus **Binding Loop** and **Chrono Ward**.
+Four skills are live, read off her profile in game: **Temporal Field**, her Ultimate, plus **Binding Loop**, **Chrono Ward** and **Time Recast**.
 
 Temporal Field damages all enemies, then draws a **Magic Circle** centred on her. Her tile draws that circle, so her placement decides where it lands. See [../formation.md](../formation.md).
 
 **What Binding Loop and Chrono Ward do is not recorded.** Only the names are confirmed.
 
-## Time Recast is one ascension step away
+## Time Recast is live
 
-**Time Recast unlocks at Mythic+, and she now stands at Mythic.** It is the skill every team guide builds her boss amplify role on.
+**She is Supreme, two tiers past the Mythic+ that unlocks Time Recast.** It is the skill every team guide builds her boss amplify role on, and the account now fields the hero those guides describe.
 
-**What it actually does.** She marks a nearby ally, **preferring the one standing behind her**. When her Magic Circle reaches full range, a **shadow** of that ally appears for **12s with extra Initial Energy**. The shadow is not a real body: it cannot be targeted and it cannot be damaged.
+**What it does.** She marks a nearby ally, **preferring the one standing behind her**. When her Magic Circle reaches full range, a **shadow** of that ally appears for **12s with extra Initial Energy**. The shadow is not a real body: it cannot be targeted and it cannot be damaged.
 
 So the tile behind Galahad is a decision, the same way Thador's lieutenant tile is. See [../formation.md](../formation.md).
 
 `unverified` how the shadow relates to the ally's Ultimate. Guides describe the skill as making another hero cast their Ultimate again; prydwen describes a 12s untargetable shadow with bonus starting Energy. Both readings stand until her own weapon screen settles it.
 
-**She is S-Level, so Mythic to Mythic+ costs 2 Soul Sigils and 100 Faction Acorns**, the price the Digimon pair, Eironn, Aurora, Shemira and Smokey & Meerky all paid. **That makes her one of the two cheapest new skills left on the account**, level with Solise. See [../../account/equipment.md](../../account/equipment.md) and [solise.md](solise.md).
+`?` **Who Time Recast marks in the Arena attack comp.** It prefers the ally standing **behind** her, and Agumon has to stand **ahead** of the back row, so he cannot be behind her. Gabumon or Rolan takes it unless the "nearby ally" clause reaches forward. **Pointing the shadow at Agumon is the whole prize, so read it off one battle.** See [../../account/teams.md](../../account/teams.md).
 
-**She holds slot 4 of the Epic wishlist, and that slot is now the whole route.** No shop stocks an S-Level hero, and Epic Recruitment guarantees an S-Level every 30 pulls from its 5 slots alone. See [../recruitment.md](../recruitment.md).
+## Tier gate
 
-Until she crosses that step, [Rolan](rolan.md) holds the Ultimate-clone job. His clone works at his current tier.
+**Every gate but the last is open.** Hero Focus arrived at Legendary+, Time Recast and her Exclusive Equipment at Mythic+. **Enhance Force needs Supreme+**, one tier up, and it strengthens a skill she already casts rather than adding one.
+
+`?` **Her Exclusive Equipment level.** At Supreme the weapon's ceiling is **+10**, and levels to +5 cost Tidal Essence at 150 each while +6 to +10 cost Temporal Essence at 75. Read the level off her weapon screen. See [../../account/equipment.md](../../account/equipment.md).
 
 ## Best for
 
-Campaign and boss. Top-tier magic damage from the back row. She is the account's strongest magic damage dealer, and she carries the Tower of Will comp in [../../account/teams.md](../../account/teams.md). At Mythic+ she also becomes a boss amplify engine. See [../team-archetypes.md](../team-archetypes.md).
+Campaign, boss and Arena. Top-tier magic damage from the back row. She is the account's strongest magic damage dealer, she carries the Tower of Will comp, and she is now a **boss amplify engine** as well as a payload. See [../team-archetypes.md](../team-archetypes.md) and [../../account/teams.md](../../account/teams.md).
 
-**She also holds a back slot in the running Arena attack comp**, where Temporal Field is the third area Ultimate. At range 10 she never has to move, which is what lets an off-faction hero hold a slot in a Dimensional comp. See [../../account/teams.md](../../account/teams.md).
+**She holds a back slot in the running Arena attack comp**, where Temporal Field is the third area Ultimate. At range 10 she never has to move, which is what lets an off-faction hero hold a slot in a Dimensional comp.
 
-**Her Mythic+ step is now the account's highest-value Arena purchase, ahead of Phraesto's three sigils.** Arena is a race to cast the first area Ultimate, and **Time Recast is the one skill on the account that hands an ally Initial Energy**. The five that beat this account fielded a Galahad that already holds it; this comp is that five, missing only this step. **2 Soul Sigils and 100 Faction Acorns.** See [../pvp-team-building.md](../pvp-team-building.md) and [../../account/progression.md](../../account/progression.md).
-
-`?` **Who Time Recast would mark here.** It prefers the ally standing **behind** her, and Agumon has to stand **ahead** of the back row, so he cannot be behind her. Gabumon or Rolan would take it unless the "nearby ally" clause reaches forward. **Pointing the shadow at Agumon is the whole prize, so settle it the moment the step is paid.**
+**Time Recast is the one skill on the account that hands an ally Initial Energy**, and Arena is a race to cast the first area Ultimate. The five that beat this account fielded a Galahad with it; this comp now fields one too. See [../pvp-team-building.md](../pvp-team-building.md).
 
 **One Arena caution rides on her placement.** She is one of the **2 rearmost** heroes an enemy Confining Spell imprisons from the 3s mark, so she, Gabumon and Rolan must not all stand in the deepest row. That is how this account lost to this five. See [../artifacts.md](../artifacts.md).
 
 ## Notes
 
-**`disputed`: afk.global describes her Ultimate as buffing "Magister Merlin's skills" by 20% strength and 100% duration, with an Ex-rarity shadow that repeats each Merlin cast.** No skill of that name is on her profile. The Ex-rarity clause dates the text to a hero at full Exclusive Equipment, which needs Mythic+, so this may be another gated effect rather than an error. Treat the Merlin text as unusable for team building either way.
+**`disputed`: afk.global describes her Ultimate as buffing "Magister Merlin's skills" by 20% strength and 100% duration, with an Ex-rarity shadow that repeats each Merlin cast.** No skill of that name is on her profile. Treat the Merlin text as unusable for team building.
 
 ## Source
 

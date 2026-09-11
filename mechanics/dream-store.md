@@ -1,7 +1,7 @@
 # Dream Store
 
 > **Covers:** the Dream Realm shop: what currency it takes, the live shelf, the per-tier Soul Sigil costs, and who on this account to buy.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
 A shop inside the **Emporium**, paid for with **Dream Fragments**. It sells hero copies, so it is a route to ascension that does not go through a banner.
 
@@ -25,7 +25,7 @@ So the store's budget is set by Dream Realm performance. Push the boss harder an
 | Mauler | Odie, Seth, Kruger, Satrana, Antandra, Koko |
 | Graveborn | Niru, Silvina, Salazer, Viperian |
 
-**Fourteen are owned:** Valen, Mirael, Korin, Lucius, Fay, Arden, Damian, Seth, Kruger, Satrana, Antandra, Koko, Niru, Silvina. See [../account/roster.md](../account/roster.md).
+**Fifteen are owned:** Valen, Mirael, Korin, Lucius, Fay, Arden, Damian, Parisa, Seth, Kruger, Satrana, Antandra, Koko, Niru, Silvina. See [../account/roster.md](../account/roster.md).
 
 **No Celestial, Hypogean or Dimensional hero appears, and no S-Level hero does either.** Thoran, Shakir and Elijah & Lailah stay on their banners. See [recruitment.md](recruitment.md).
 
@@ -73,7 +73,7 @@ A copy is 1,200 fragments, so a sigil count multiplies straight into a fragment 
 
 **Spend every fragment on one hero.** Copies spread across several heroes complete no step and unlock nothing. Copies already bought are permanent, so a shelf that rotates cannot strand them. Fragments buy nothing else worth having here, because the only other shelf is hero-locked Temporal Essence and **all eight EX weapons the account owns sit on heroes this shelf never stocks**: Taichi & Agumon, Yamato & Gabumon, Eironn, Aurora, Shemira and Smokey & Meerky are S-Level, Dimensional or Celestial, and Bonnie and Faramor are A-Level but not on the subset.
 
-**No Exclusive Equipment is reachable from this shelf at any price worth paying.** **Kruger is the only stocked hero at Mythic**, one step from the weapon at **12 Soul Sigils**, and the note below is why not to take it. Every other stocked hero the account owns is four or more steps away. **The two cheapest Mythic+ steps on the account are Galahad and Solise at 2 sigils each, and this shelf stocks neither**, because both are S-Level. See [heroes/kruger.md](heroes/kruger.md) and [../account/equipment.md](../account/equipment.md).
+**No Exclusive Equipment is reachable from this shelf at any price worth paying.** **Kruger is the only stocked hero at Mythic**, one step from the weapon at **12 Soul Sigils**, and the note below is why not to take it. Every other stocked hero the account owns is four or more steps away. **The cheapest Mythic+ step on the account is Solise at 2 sigils, and this shelf does not stock her**, because she is S-Level. See [heroes/kruger.md](heroes/kruger.md) and [../account/equipment.md](../account/equipment.md).
 
 **So the shelf now buys Hero Focus, not Exclusive Equipment.** That is a smaller prize than the one it was being saved for, and it changes what winning here looks like: a permanent stat buff on a hero already fielded, rather than a new skill.
 

@@ -1,7 +1,7 @@
 # Formation and range
 
 > **Covers:** where to stand heroes on the grid, how base range decides the row, the walls and hazards on the board, how many entities each hero actually puts on it, and every kit that reads a tile rather than a row.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
 Picking five heroes is half the job. Where they stand is the other half.
 
@@ -117,7 +117,9 @@ Every owned hero whose kit reads position:
 | Faramor | Sacred Pledge buffs him and **one adjacent ally**, and Bitter Requiem pays **every ally inside his circle** | put the biggest ATK bar on a neighbouring tile, and build the comp inward around his circle |
 | Kordan | the Dominance Ring buffs allies **standing inside it**, and cuts damage and healing crossing its edge by **60%** `unverified` | it lands on the target, so it pulls allies forward, and a ranged carry that stays back may lose more than the ring gives |
 | Rowan | his Ultimate grants Energy to allies **within 2 tiles**, after he moves up to one tile | keep him inside 2 tiles of the heroes whose Ultimates matter |
-| Hugin | he **anchors himself to the anvil tile** and buffs and shields nearby allies | his tile is fixed once cast, so pick it for the allies, not for him |
+| Hugin | he **anchors himself to the anvil tile** and buffs and shields nearby allies. At Supreme his Ultimate cogshields the **2 weakest** allies, not one | his tile is fixed once cast, so pick it for the allies, not for him |
+| Galahad | **Time Recast marks a nearby ally, preferring the one standing behind her**, then spawns an untargetable 12s shadow of them with bonus starting Energy | put the hero whose Ultimate matters most on the tile behind her. See [heroes/galahad.md](heroes/galahad.md) |
+| Parisa | **Floral Inspiration buffs her and the 1 nearest ally** with +22 ATK SPD and +22% normal attack damage | stand the auto-attacking carry next to her, because the second-nearest ally gets nothing. See [heroes/parisa.md](heroes/parisa.md) |
 
 ### The Elijah & Lailah trade
 

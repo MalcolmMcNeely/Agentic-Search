@@ -1,7 +1,7 @@
 # Progression
 
 > **Covers:** progression track, Resonance Level, Hands of Resonance, Resonance Synergy, artifacts owned and mode progress.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
 The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanics/seasons.md).
 
@@ -32,14 +32,14 @@ The game runs two tracks side by side. See [../mechanics/seasons.md](../mechanic
 
 That makes the damage-type argument stronger, not weaker.
 
-- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 52 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **30 are bought and 30 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
+- **Buy Synergy levels.** They take **Hero Essence** alone, they apply to all 53 heroes at once, and the first 60 of them pay stats the way a Resonance Level did. **30 are bought and 30 still pay stats.** See [../mechanics/progression-systems.md](../mechanics/progression-systems.md).
 - **Stop paying the enemy's defence.** **True damage** and **percentage-of-current-HP** damage ignore defence entirely. On a capped ladder that was worth a fixed amount. On an uncapped one it is the only kind of damage that never stops working, because the enemy's defence keeps climbing and the roster's ATK does not. This is why Starshard Spell holds the push comp.
 
 ### Hands of Resonance
 
 The five levelled heroes. A Hand may run at most 10 levels above the Resonance Level, and that headroom is spent.
 
-**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +30 carries every one of the 52 heroes owned to 270**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
+**All five Hands stand at 240, which is the cap.** The Resonance Level reads the **lowest** Hand, so it is **240**, and **Resonance Synergy at +30 carries every one of the 53 heroes owned to 270**. No slot is higher than any other, so the Hall no longer sorts the roster into a top five and everyone else.
 
 **The season has a second, parallel Resonating Hall, and none of the above enters it.** Season Resonance Level runs on Season Essence and Season Manuals that drop only from Season AFK Stages, and it starts at zero. See [../mechanics/season-progression.md](../mechanics/season-progression.md).
 
@@ -62,7 +62,7 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 | Hero Essence held | `?` |
 | Training Manuals held | `?` |
 
-**Every Synergy level lands on all 52 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
+**Every Synergy level lands on all 53 heroes, so this is the highest-value spend on the account.** No comp has to be chosen first, and no slot has to be lent. There is no ordering choice left to make.
 
 **It is also the only permanent spend left that raises raw power at all.** Class Equipment is finished at 240 on all thirty-six slots, and the Resonance Level is capped, so **the 30 stat-paying Synergy levels are the whole of the account's remaining permanent stat growth**. See [equipment.md](equipment.md).
 
@@ -80,10 +80,10 @@ The five levelled heroes. A Hand may run at most 10 levels above the Resonance L
 
 **That inverts the spend order for Arena alone.** Two of the account's cheapest ascensions sit in the running Arena attack comp, and they buy different things.
 
-- **Galahad, Mythic to Mythic+, 2 Soul Sigils and 100 Faction Acorns.** It unlocks **Time Recast**, which spawns an untargetable 12s shadow of the ally behind her **with extra Initial Energy**. Arena is a race to cast the first area Ultimate, so a skill that hands the carry Energy before the fight starts is the one purchase that acts on the sum the mode is actually scored by. The defence that beat this account fields a Galahad that already has it. See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md).
-- **Phraesto, Epic to Legendary+, 3 Soul Sigils.** It switches on the Hero Focus his S+ letter assumes: DEF on both bodies, and Energy whenever either is hit. He is now a **swap** rather than a starter, so this ranks behind Galahad.
+**The purchase that used to head this list is bought.** Galahad is **Supreme**, so **Time Recast** is live and the attack comp now opens with the same Initial Energy grant the defence that beat it opens with. See [../mechanics/pvp-team-building.md](../mechanics/pvp-team-building.md) and [../mechanics/heroes/galahad.md](../mechanics/heroes/galahad.md).
 
-- **Rolan, Epic to Legendary+, 3 Soul Sigils.** He holds the running attack comp and both of the parts it is fielded for, the Morale opener and the Ultimate clone, are already live at Epic. The sigils buy the rest of his kit rather than the reason he is in, so this ranks behind Galahad too.
+- **Phraesto, Epic to Legendary+, 3 Soul Sigils.** It switches on the Hero Focus his S+ letter assumes: DEF on both bodies, and Energy whenever either is hit. He is now a **swap** rather than a starter, which is the only thing holding him back.
+- **Rolan, Epic to Legendary+, 3 Soul Sigils.** He holds the running attack comp and both of the parts it is fielded for, the Morale opener and the Ultimate clone, are already live at Epic. The sigils buy the rest of his kit rather than the reason he is in, so this ranks behind Phraesto.
 
 **Thoran is a fourth, at 2 sigils**, and he holds the Arena defence and the second attack shape. **Elijah & Lailah at 2 sigils and Pandora at one step no longer sit in a running Arena comp**, so their sigils are bought for other modes, or to make Pandora ready for the fallback swap on Agumon's pre-digivolve window. See [teams.md](teams.md).
 
@@ -204,13 +204,13 @@ See [../mechanics/recruitment.md](../mechanics/recruitment.md) for how the banne
 | Stellar Crystals | `?` |
 | Guild Medals | `?`. 30,000 spent on Elijah & Lailah. Income is about 28,000 a month, so the next sigil is roughly a month away. See [../mechanics/guild-store.md](../mechanics/guild-store.md) |
 
-### Kordan is Mythic, and one step from the ninth EX weapon
+### Kordan is Mythic, and one step from the twelfth EX weapon
 
 **Legendary+ to Mythic costs an A-Level hero 10 Soul Sigils, and Mythic buys no skill.** Only three tiers switch anything on: Legendary+ gives Hero Focus, Mythic+ gives the Exclusive Equipment, Supreme+ gives Enhance Force. So this step bought stats, and **his Hero Focus was already live before it**. See [../mechanics/dream-store.md](../mechanics/dream-store.md) and [../mechanics/heroes/kordan.md](../mechanics/heroes/kordan.md).
 
-**What it bought is position, not power.** Mythic to Mythic+ is **12 Soul Sigils**, one step, and it opens his Exclusive Equipment. He joins Daimon, Hugin, Zanie, Thador, Kruger, Solise and Galahad on the one-step list. See [equipment.md](equipment.md).
+**What it bought is position, not power.** Mythic to Mythic+ is **12 Soul Sigils**, one step, and it opens his Exclusive Equipment. He joins Daimon, Thador, Kruger and Solise on the one-step list. See [equipment.md](equipment.md).
 
-**He is the worst-supplied name on that list.** The Dream Store shelf does not stock him, so there is **no Dream Fragment route to his copies at all** — they come off the All-Hero banner or nowhere. Zanie, Thador, Solise and Galahad also need a banner, but Solise and Galahad are S-Level at 2 sigils rather than 12.
+**He is the worst-supplied name on that list.** The Dream Store shelf does not stock him, so there is **no Dream Fragment route to his copies at all** — they come off the All-Hero banner or nowhere. Thador and Solise also need a banner, but Solise is S-Level at 2 sigils rather than 12.
 
 **`?` where the 10 sigils came from.** All-Hero Recruitment is the only route the repo can name. Read it off the banner pity counter, because a banner pull moves the counters in the table above. Faramor's Supreme carries the same open question. See [../mechanics/recruitment.md](../mechanics/recruitment.md).
 

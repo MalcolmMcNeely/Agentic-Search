@@ -1,7 +1,7 @@
 # Roster
 
 > **Covers:** every hero owned, grouped by faction, with class, damage type, ascension tier and Exclusive Equipment level.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
 ## How to read this
 
@@ -9,7 +9,7 @@
 - **Rarity is not in this table.** S-Level, A-Level and Rare are what a hero is pulled as, not how far it has been ascended. Every hero file carries its own rarity, and they are indexed together in [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 - **EX** is the Exclusive Equipment level, `-` when locked. It unlocks at Mythic+.
 - **Level is not stored per hero, here or anywhere else in this repo.** Every hero sits at the **Resonance Level**, which is in [progression.md](progression.md) and is the only level recorded. A Hand of Resonance slot may run up to 10 above it, but swapping a Hand is free and the level travels with the slot, so a per-hero level would go stale the moment the Hall is rearranged. A comp names its Hand assignment only when the slots differ. So **pick a comp on tier, kit and faction**.
-- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 52: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
+- **Kit** links to the hero's full file. Range, skills and best use live there, not here. Index of all 53: [../mechanics/heroes/README.md](../mechanics/heroes/README.md).
 
 ## Faction depth
 
@@ -17,7 +17,7 @@
 | --- | --- |
 | Lightbearer | 14 |
 | Mauler | 11 |
-| Wilder | 10 |
+| Wilder | 11 |
 | Graveborn | 10 |
 | Dimensional | 3 |
 | Celestial | 3 |
@@ -27,9 +27,9 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Hugin | Support | Physical | Mythic | - | [hugin](../mechanics/heroes/hugin.md) |
+| Hugin | Support | Physical | Supreme | `?` | [hugin](../mechanics/heroes/hugin.md) |
 | Rowan | Mage | Magic | Legendary | - | [rowan](../mechanics/heroes/rowan.md) |
-| Zanie | Marksman | Physical | Mythic | - | [zanie](../mechanics/heroes/zanie.md) |
+| Zanie | Marksman | Physical | Supreme | `?` | [zanie](../mechanics/heroes/zanie.md) |
 | Silven | Marksman | Physical | Elite+ | - | [silven](../mechanics/heroes/silven.md) |
 | Valen | Warrior | Physical | Elite+ | - | [valen](../mechanics/heroes/valen.md) |
 | Cyran | Mage | Magic | Epic | - | [cyran](../mechanics/heroes/cyran.md) |
@@ -48,7 +48,7 @@
 
 | Hero | Class | Damage | Tier | EX | Kit |
 | --- | --- | --- | --- | --- | --- |
-| Galahad | Mage | Magic | Mythic | - | [galahad](../mechanics/heroes/galahad.md) |
+| Galahad | Mage | Magic | Supreme | `?` | [galahad](../mechanics/heroes/galahad.md) |
 | Kordan | Warrior | Physical | Mythic | - | [kordan](../mechanics/heroes/kordan.md) |
 | Kruger | Warrior | Physical | Mythic | - | [kruger](../mechanics/heroes/kruger.md) |
 | Koko | Support | Physical | Legendary+ | - | [koko](../mechanics/heroes/koko.md) |
@@ -74,6 +74,7 @@
 | Lily May | Rogue | Magic | Epic | - | [lily-may](../mechanics/heroes/lily-may.md) |
 | Arden | Mage | Magic | Elite | - | [arden](../mechanics/heroes/arden.md) |
 | Damian | Support | Magic | Elite | - | [damian](../mechanics/heroes/damian.md) |
+| Parisa | Mage | Magic | Epic | - | [parisa](../mechanics/heroes/parisa.md) |
 
 ## Graveborn
 

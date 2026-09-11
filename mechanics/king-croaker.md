@@ -1,7 +1,7 @@
 # King Croaker
 
 > **Covers:** the King Croaker Dream Realm boss, its instant-kill bubble, its energy barrier, and the team shape that beats it.
-> **Updated:** 2026-09-10
+> **Updated:** 2026-09-11
 
 One of the Dream Realm bosses, and one of the eight in the Season 7 rotation. A giant frog. Dream Realm is a damage race against a timer, so the score is damage dealt, not a kill. See [game-modes.md](game-modes.md). The other bosses written up are [snow-stomper.md](snow-stomper.md) and [skyclops.md](skyclops.md).
 
@@ -56,7 +56,7 @@ A **Mage of the "Other" faction at base range 20**, so it reaches any tile on th
 
 **The one in-window source is allclash, dated 25 August 2026**, and its meta team is **Phraesto, Rolan, Elijah & Lailah, Galahad and Agumon**. This account owns all five. That is the only Dream Realm guide lineup on this repo the account can field whole.
 
-It still is not copied straight across. **Galahad is Mythic here and her Time Recast needs Mythic+**, so the hero that guide describes is still not the hero this account fields. She is S-Level, so the step costs **2 Soul Sigils**, and paying it makes this the first guide lineup the account can field whole. See [heroes/galahad.md](heroes/galahad.md) and the tier-gate rule in [hero-scoring.md](hero-scoring.md).
+**The tier gate on it is gone.** Galahad is **Supreme**, so **Time Recast** is live and the hero that guide describes is the hero this account fields. This is the first guide lineup the account can copy across whole. See [heroes/galahad.md](heroes/galahad.md) and the tier-gate rule in [hero-scoring.md](hero-scoring.md).
 
 The older guides name Thoran, Smokey & Meerky, Kruger, Reinier, Marilee, Odie, Cecia, Hewynn and Rowan. Of those the account owns **Smokey & Meerky, Kruger, Cecia, Hewynn and Rowan**.
 
